@@ -1,0 +1,230 @@
+--- 
+title: "Data Analytics with R: A Recipe Book"
+author: "Ryan Garnett"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: ryangarnett/r-recipe-book
+url: 'https://github.com/ryangarnett/r-recipe-book'
+description: "A collection of recipes to assist with learning the concepts and syntax needed to perform R data analytics"
+---
+
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("/home/ryangarnett/Github/recipe_book/data/source_recipes.csv")
+```
+
+# Intro
+In 2018 I made my first New Year's resolution in over 30 years, to use R exclusively at work; the challenge with this resolution was that I did not know how to write code, alone write code in R. At that time I was leading an geospatial analytics team at the City of Toronto and I decided to undertake all my analysis work, both geospatial and non-geospatial, as a code first approach using R. My venture and journey was a challenge, to say the least. Undertaking a code first analysis approach in R was a very difficult journey for me, one that had many ups and downs. Along the way I was helped and encourage by many people, starting with my best friend [Dr. Matt Adams](https://twitter.com/MDAEnv) where we spent a long Friday night going page-by-page through the [R for Data Science](https://r4ds.had.co.nz/) book by Hadley Wickham & Garrett Grolemund at Matt's dinning room table, to [Sharla Gelfand](https://twitter.com/sharlagelfand) and [Geoffrey Hunter](https://www.linkedin.com/in/geoffrey-hunter-29325a7a/) who provided tremendous encouragement, and of course the amazing R community. With all the positive experiences I also encountered countless stumbling blocks; from learning material designed for people who have an existing literacy level on the subject, a feeling that many authors forget what it was like to be at the start of the learning journey, lengthy and difficult material to consume, to formal learning that is structured as a linear path, while as an adult learner in a working environment my journey was non-linear and based on the challenge of the day. The combination of my stumbling blocks and my lack of formal education in a field of quantitative analysis or formal computer programming training developed into a serious inferiority complex. However one evening during the midst of COVID-19 lockdown while watching a YouTube video by Johnny Harris titled ["The Fastest Way to Learn a New Language: The Video Game Map Theory"](https://www.youtube.com/watch?v=3i1lNJPY-4Q) I was inspired to turn the experiences, successes and challenges, gained over my four year R journey into a book designed to help those who are on their own R data analytics journey.
+
+<br>
+
+Just what the world needs another data analytics book focusing on R. That is where this book, I am hoping, is a little different. The structure and design of this book is based on iterative learning, starting with the most basic and build by adding one new element concept. Throughout my life I had a challenge learning highly technical subjects, however I have been able to over come the challenge by trying to make a 1-to-1 comparison based on a four part idea:
+
+1. concept (what)
+2. purpose (why)
+3. structure (how)
+4. example (how)
+
+<br>
+
+Building on a central theme presented in the video by Johnny Harris *linear learning styles with the sole aim of becoming fluent in a language may result in the inability to perform basic and tangible actions desired by those wanting to communicate within that language*, and thinking of adult learners and individuals learning on the job who are looking for help on a specific challenge, the book has been structured to be small easily consumable chunks similar to that of a recipe card. The concept for a recipe card is that they are self contained, providing all the ingredients, preparation, and instructions required to create a meal. While a cookbook may consist of many recipes, there is no expectation to read, understand, and master all the recipes in order to prepare a meal. Following this as the central theme the book, it has been designed as a number of data analytics recipes focusing on the R language.
+
+</br>
+</br>
+
+## How to Use the Book
+The book has a natural progression built around a five course meal starting at the very beginning for individuals with no prior experience coding R, but looking to join the R data analytics community. In order to take advantage of the book you should have access R and RStudio (either locally installed or available via a cloud provider) and have some  comfortable within the RStudio software environment. To follow along with the recipes I would recommend working in either a R Notebook or a R Markdown document; both can be created within RStudio by clicking *File - New File* and selecting either the R Notebook or R Markdown... option.
+
+In R there are many ways to undertake and tackle a problem, each with their own pros and cons. The examples, or recipes, in this book are by no means the only, best, or most efficient means of performing a certain data analytics task. The approach taken is to build a base that can be easily built on using a similar style, throught, and coding syntax.
+
+The sections are independent of each other, allowing a learner to begin according to their individual R data analytics journey. The book is broken into five sections:
+
+1. Appetizers
+2. Breakfast
+3. Lunch
+4. Supper
+5. Dessert
+
+An example design of a R data analytics recipe card.
+
+<h3> Select data by multiple column names </h3>
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(34)
+ingredients_table(34)
+```
+
+</br>
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+countries <- readr::read_csv("C:/data/countries.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package:function(dataframe, column_name1, column_name2, column_name2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(countries, continent, capital, population)
+```
+
+</br>
+</br>
+
+### Spicyness
+I love spicy food; tacos, burritos, chili, curry, hot sauce, almost anything, and I add hot sauce to almost everything. When beginning to eat spicy food you generally do not start with a Carolina Reaper, ghost pepper, or a habanero; most people may start with adding Frank's Hot Sauce, a little chili powder, or even some fresh jalapenos to a meal. Similar to the progression of spicy food a spicy index was used to help communicate the relative difficulty of the analytical concept or technical coding difficulty. 
+
+
+<div class = "recipe-desc">
+  <div class = "spicy">
+  `r pepper_off` `r pepper_off` `r pepper_off`
+  </div>
+<b>Not spicy</b>: Not technically difficult subject matter
+</div>
+
+<div class = "recipe-desc">
+  <div class = "spicy">
+  `r pepper_on` `r pepper_off` `r pepper_off`
+  </div>
+<b>Mild spicy</b>: Minimal technically difficult subject matter
+</div>
+
+<div class = "recipe-desc">
+  <div class = "spicy">
+  `r pepper_on` `r pepper_on` `r pepper_off`
+  </div>
+<b>Moderate spicy</b>: Moderate technically difficult subject matter
+</div>
+
+<div class = "recipe-desc">
+  <div class = "spicy">
+  `r pepper_on` `r pepper_on` `r pepper_on`
+  </div>
+<b>Very spicy</b>: Technically difficult subject matter
+</div> 
+
+</br>
+</br>
+
+## Data Used within the Book
+TBD
+
+</br>
+</br>
+
+## Inspiration
+Like with most, and as stated earlier, I was inspired by many different sources during the ideation, design, and creation of this book. The following are a selected resources that provided the inspiration to help create this book.
+
+[RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+[stackoverflow](https://stackoverflow.com/)
+
+
+[R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham & Garrett Grolemund <br>
+[Text Mining with R](https://www.tidytextmining.com/) by Julia Silge & David Robinson <br>
+[Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad & Jannes Muenchow <br>
+[Cookshelf Chinese](https://www.amazon.com/Cookshelf-Chinese-Jenny-Stacey/dp/075254392X) by Jenny Stacey <br>
+[The Fastest Way to Learn a New Language: The Video Game Map Theory](https://www.youtube.com/watch?v=3i1lNJPY-4Q) by Johnny Harris
+
+</br>
+</br>
+
+## R Journey Recommendations
+Everyone tackles problems and learns differently. Reflecting on my R journey I would recommend the following to anyone beginning their journey:
+
+- start small
+- choose a real world problem that you are interested in (i.e. school, work, or personally interesting)
+- break the problem into chunks that allow you to see progress
+- in the beginning prioritize *making it work* over *highly optimized and efficient code*
+- build off the knowledge you develop
+- don't be afraid of making mistakes
+- ask for help
+- celebrate your successes, regardless of how small they may seem
+- most of all, HAVE FUN!!!
+
+<br>
+
+<center>
+![Small steps vs. large steps](~/Github/recipe_book/images/small_steps.png)
+
+[Available here](https://m.facebook.com/111950100703954/photos/a.113382257227405/198657015366595/?type=3)
+
+</center>

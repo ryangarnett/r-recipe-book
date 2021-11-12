@@ -1,0 +1,66 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(dplyr)
+library(readr)
+```
+
+```{r}
+a <-readr::read_csv("~/Github/recipe_book/data/Parcel_Sales_History.csv")
+b <-readr::read_csv("~/Github/recipe_book/data/Commercial_Building_Characteristics.csv")
+c <-readr::read_csv("~/Github/recipe_book/data/Parcel_Land_Sizes.csv")
+d <-readr::read_csv("~/Github/recipe_book/data/Residential_Dwelling_Characteristics.csv")
+e <-readr::read_csv("~/Github/recipe_book/data/Assessed_Value_and_Taxable_Assessed_Value_History.csv")
+
+
+```
+
+```{r}
+a %>%
+  dplyr::filter(`Civic Street Name` == "HIGHLAND" & `Civic Suffix` == "CRES" & `Civic Number` == 10)
+
+e %>%
+  dplyr::filter(`Assessment Account Number` == "01498754")
+
+d %>%
+  dplyr::filter(`Assessment Account Number` == "01498754")
+
+c %>%
+  dplyr::filter(`Assessment Account Number` == "01498754")
+```
+
+```{r}
+f <-readr::read_csv("~/Github/recipe_book/data/Assessed_Value_and_Taxable_Assessed_Value_History.csv")
+f
+```
+
+```{r}
+readr::read_csv("~/Github/recipe_book/data/precipitation-data-2020.csv")
+
+```
+
+```{r}
+readr::write_csv(
+  head(readr::read_csv("~/Github/recipe_book/data/yellow_tripdata_2020-12.csv"), 100000), "~/Github/recipe_book/data/sample/nyc_yellow_trips.csv"
+)
+```
+
+
+```{r}
+a
+b
+c
+d
+e
+```
+
+```{r}
+b %>%
+  dplyr::group_by(`Number of Beds`) %>%
+  dplyr::tally()
+```
+
+

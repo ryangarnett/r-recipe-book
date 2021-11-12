@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 3 Recipe Group | Data Analytics with R: A recipe book</title>
+  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 3 Recipe Group | Data Analytics with R: A recipe book" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 3 Recipe Group | Data Analytics with R: A recipe book" />
+  
+  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  
+
+<meta name="author" content="Ryan Garnett" />
+
+
+<meta name="date" content="2021-08-25" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="accessing-packages.html"/>
+
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> url: your book url like <span>https://bookdown.org/yihui/bookdown</span></a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#usage"><i class="fa fa-check"></i><b>1.1</b> Usage</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#render-book"><i class="fa fa-check"></i><b>1.2</b> Render book</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#preview-book"><i class="fa fa-check"></i><b>1.3</b> Preview book</a></li>
+</ul></li>
+<li class="part"><span><b>Appetizers</b></span></li>
+<li class="chapter" data-level="2" data-path="accessing-packages.html"><a href="accessing-packages.html"><i class="fa fa-check"></i><b>2</b> Accessing Packages</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="accessing-packages.html"><a href="accessing-packages.html#install-a-package"><i class="fa fa-check"></i><b>2.1</b> Install a Package</a>
+<ul>
+<li class="chapter" data-level="2.1.1" data-path="accessing-packages.html"><a href="accessing-packages.html#install-a-single-package"><i class="fa fa-check"></i><b>2.1.1</b> Install a Single Package</a></li>
+<li class="chapter" data-level="2.1.2" data-path="accessing-packages.html"><a href="accessing-packages.html#install-multiple-packages"><i class="fa fa-check"></i><b>2.1.2</b> Install Multiple Packages</a></li>
+<li class="chapter" data-level="2.1.3" data-path="accessing-packages.html"><a href="accessing-packages.html#load-a-package"><i class="fa fa-check"></i><b>2.1.3</b> Load a Package</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="recipe-group.html"><a href="recipe-group.html"><i class="fa fa-check"></i><b>3</b> Recipe Group</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="recipe-group.html"><a href="recipe-group.html#recipe-name"><i class="fa fa-check"></i><b>3.1</b> Recipe Name</a></li>
+<li class="chapter" data-level="3.2" data-path="recipe-group.html"><a href="recipe-group.html#recipe-name-1"><i class="fa fa-check"></i><b>3.2</b> Recipe Name</a></li>
+<li class="chapter" data-level="3.3" data-path="recipe-group.html"><a href="recipe-group.html#recipe-name-2"><i class="fa fa-check"></i><b>3.3</b> Recipe Name</a></li>
+<li class="chapter" data-level="3.4" data-path="recipe-group.html"><a href="recipe-group.html#recipe-name-3"><i class="fa fa-check"></i><b>3.4</b> Recipe Name</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Data Analytics with R: A recipe book</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="recipe-group" class="section level1" number="3">
+<h1><span class="header-section-number">Chapter 3</span> Recipe Group</h1>
+<div id="recipe-name" class="section level2" number="3.1">
+<h2><span class="header-section-number">3.1</span> Recipe Name</h2>
+<div id="recipe-desc" style="background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:left; vertical-align: middle; padding: 0 10px; height: 80px">
+<div id="spicy-0" style="float: right; text-align: right; vertical-align: middle; padding: 10px 5px">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#E8E8E8;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#E8E8E8;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#E8E8E8;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p>Recipe description blah blahblah blah blah blah blah Recipe description blah blahblah blah blah blah blah</p>
+</div>
+<br>
+<div id="ing-box" style="background-color: #6D6E71">
+<div style="float:center; background-color: #414042; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 160px; margin: 0 auto">
+<strong>Ingredients</strong>
+</div>
+<div style="float:left; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+library(dplyr) </br>
+library(tidyr) </br>
+library(ggpl2) </br>
+</div>
+<div style="float:right; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+data </br>
+</div>
+</div>
+<p><br></p>
+<p><strong>Sample Instructions</strong></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="recipe-group.html#cb1-1" aria-hidden="true" tabindex="-1"></a>data_frame <span class="sc">%&gt;%</span></span>
+<span id="cb1-2"><a href="recipe-group.html#cb1-2" aria-hidden="true" tabindex="-1"></a>  package_name<span class="sc">::</span><span class="fu">function_name</span>(column_name <span class="sc">==</span> <span class="st">&quot;string value&quot;</span>)</span></code></pre></div>
+<p><br></p>
+<p><strong>Real Instructions</strong></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="recipe-group.html#cb2-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb2-2"><a href="recipe-group.html#cb2-2" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(country <span class="sc">==</span> <span class="st">&quot;Canada&quot;</span>)</span></code></pre></div>
+<p><br/></p>
+</div>
+<div id="recipe-name-1" class="section level2" number="3.2">
+<h2><span class="header-section-number">3.2</span> Recipe Name</h2>
+<div id="recipe-desc" style="background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:left; vertical-align: middle; padding: 0 10px; height: 80px">
+<div id="spicy-1" style="float: right; text-align: right; vertical-align: middle; padding: 10px 5px">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#484848;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#E8E8E8;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#E8E8E8;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p>Recipe description blah blahblah blah blah blah blah Recipe description blah blahblah blah blah blah blah</p>
+</div>
+</br>
+<div id="ing-box" style="background-color: #6D6E71">
+<div style="float:center; background-color: #414042; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 160px; margin: 0 auto">
+<strong>Ingredients</strong>
+</div>
+<div style="float:left; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+library(dplyr) </br>
+library(tidyr) </br>
+library(ggpl2) </br>
+</div>
+<div style="float:right; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+data </br>
+</div>
+</div>
+<p><br></p>
+<p><strong>Sample Instructions</strong></p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="recipe-group.html#cb3-1" aria-hidden="true" tabindex="-1"></a>data_frame <span class="sc">%&gt;%</span></span>
+<span id="cb3-2"><a href="recipe-group.html#cb3-2" aria-hidden="true" tabindex="-1"></a>  package_name<span class="sc">::</span><span class="fu">function_name</span>(column_name <span class="sc">==</span> <span class="st">&quot;string value&quot;</span>)</span></code></pre></div>
+<p><br></p>
+<p><strong>Real Instructions</strong></p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="recipe-group.html#cb4-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb4-2"><a href="recipe-group.html#cb4-2" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(country <span class="sc">==</span> <span class="st">&quot;Canada&quot;</span>)</span></code></pre></div>
+<p><br/></p>
+</div>
+<div id="recipe-name-2" class="section level2" number="3.3">
+<h2><span class="header-section-number">3.3</span> Recipe Name</h2>
+<div id="recipe-desc" style="background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:left; vertical-align: middle; padding: 0 10px; height: 80px">
+<div id="spicy-2" style="float: right; text-align: right; vertical-align: middle; padding: 10px 5px">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#484848;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#484848;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#E8E8E8;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p>Recipe description blah blahblah blah blah blah blah Recipe description blah blahblah blah blah blah blah</p>
+</div>
+</br>
+<div id="ing-box" style="background-color: #6D6E71">
+<div style="float:center; background-color: #414042; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 160px; margin: 0 auto">
+<strong>Ingredients</strong>
+</div>
+<div style="float:left; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+library(dplyr) </br>
+library(tidyr) </br>
+library(ggpl2) </br>
+</div>
+<div style="float:right; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+data </br>
+</div>
+</div>
+<p><br></p>
+<p><strong>Sample Instructions</strong></p>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="recipe-group.html#cb5-1" aria-hidden="true" tabindex="-1"></a>data_frame <span class="sc">%&gt;%</span></span>
+<span id="cb5-2"><a href="recipe-group.html#cb5-2" aria-hidden="true" tabindex="-1"></a>  package_name<span class="sc">::</span><span class="fu">function_name</span>(column_name <span class="sc">==</span> <span class="st">&quot;string value&quot;</span>)</span></code></pre></div>
+<p><br></p>
+<p><strong>Real Instructions</strong></p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="recipe-group.html#cb6-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb6-2"><a href="recipe-group.html#cb6-2" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(country <span class="sc">==</span> <span class="st">&quot;Canada&quot;</span>)</span></code></pre></div>
+<p><br/></p>
+</div>
+<div id="recipe-name-3" class="section level2" number="3.4">
+<h2><span class="header-section-number">3.4</span> Recipe Name</h2>
+<div id="recipe-desc" style="background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:left; vertical-align: middle; padding: 0 10px; height: 80px">
+<div id="spicy-3" style="float: right; text-align: right; vertical-align: middle; padding: 10px 5px">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#484848;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#484848;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#484848;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p>Recipe description blah blahblah blah blah blah blah Recipe description blah blahblah blah blah blah blah</p>
+</div>
+</br>
+<div id="ing-box" style="background-color: #6D6E71">
+<div style="float:center; background-color: #414042; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 160px; margin: 0 auto">
+<strong>Ingredients</strong>
+</div>
+<div style="float:left; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+library(dplyr) </br>
+library(tidyr) </br>
+library(ggpl2) </br>
+</div>
+<div style="float:right; background-color: #6D6E71; color: #ffffff; font-size: 16px; text-align:center; vertical-align: middle; width: 50%; height: 120px">
+data </br>
+</div>
+</div>
+<p><br></p>
+<p><strong>Sample Instructions</strong></p>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="recipe-group.html#cb7-1" aria-hidden="true" tabindex="-1"></a>data_frame <span class="sc">%&gt;%</span></span>
+<span id="cb7-2"><a href="recipe-group.html#cb7-2" aria-hidden="true" tabindex="-1"></a>  package_name<span class="sc">::</span><span class="fu">function_name</span>(column_name <span class="sc">==</span> <span class="st">&quot;string value&quot;</span>)</span></code></pre></div>
+<p><br></p>
+<p><strong>Real Instructions</strong></p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="recipe-group.html#cb8-1" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb8-2"><a href="recipe-group.html#cb8-2" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(country <span class="sc">==</span> <span class="st">&quot;Canada&quot;</span>)</span></code></pre></div>
+<p><br/></p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="accessing-packages.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/USERNAME/REPO/edit/BRANCH/99-recipe-teplate.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["_main.pdf", "_main.epub"],
+"search": {
+"engine": "lunr",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

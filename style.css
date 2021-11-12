@@ -1,0 +1,70 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+.recipe-desc {
+  background-color: #153331;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: left;
+  vertical-align: middle;
+  padding: 0 10px;
+  height: 80px
+}
+.spicy {
+  float: right;
+  text-align: right;
+  vertical-align: middle;
+  padding: 10px 5px
+}
+.ing-box{
+  background-color: #6D6E71
+}
+.ing-title{
+  background-color: #414042;
+  color: #ffffff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  width: 160px;
+  margin: 0 auto
+}
+.package-box{
+  float: left;
+  background-color: #6D6E71;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  font-style: italic;
+  vertical-align: middle;
+  width: 50%;
+  height: 120px
+}
+.data-box{
+  float: right;
+  background-color: #6D6E71;
+  color: #ffffff;
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  vertical-align: middle;
+  width: 50%;
+  height: 120px
+}
+.element-text{
+  color: #000000;
+  font-size: 16px;
+  font-style: normal;
+}

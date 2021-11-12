@@ -1,0 +1,1224 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Data Analytics with R: A Recipe Book</title>
+  <meta name="description" content="A collection of recipes to assist with learning the concepts and syntax needed to perform R data analytics" />
+  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Data Analytics with R: A Recipe Book" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://github.com/ryangarnett/r-recipe-book" />
+  
+  <meta property="og:description" content="A collection of recipes to assist with learning the concepts and syntax needed to perform R data analytics" />
+  <meta name="github-repo" content="ryangarnett/r-recipe-book" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Data Analytics with R: A Recipe Book" />
+  
+  <meta name="twitter:description" content="A collection of recipes to assist with learning the concepts and syntax needed to perform R data analytics" />
+  
+
+<meta name="author" content="Ryan Garnett" />
+
+
+<meta name="date" content="2021-11-12" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="accessing-packages.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Data Analytics with R: A Recipe Book</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Intro</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#how-to-use-the-book"><i class="fa fa-check"></i><b>1.1</b> How to Use the Book</a>
+<ul>
+<li class="chapter" data-level="1.1.1" data-path="index.html"><a href="index.html#spicyness"><i class="fa fa-check"></i><b>1.1.1</b> Spicyness</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#data-used-within-the-book"><i class="fa fa-check"></i><b>1.2</b> Data Used within the Book</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#inspiration"><i class="fa fa-check"></i><b>1.3</b> Inspiration</a></li>
+<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#r-journey-recommendations"><i class="fa fa-check"></i><b>1.4</b> R Journey Recommendations</a></li>
+</ul></li>
+<li class="part"><span><b>Appetizers</b></span></li>
+<li class="chapter" data-level="2" data-path="accessing-packages.html"><a href="accessing-packages.html"><i class="fa fa-check"></i><b>2</b> Accessing Packages</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="accessing-packages.html"><a href="accessing-packages.html#installing-packages"><i class="fa fa-check"></i><b>2.1</b> Installing Packages</a>
+<ul>
+<li class="chapter" data-level="2.1.1" data-path="accessing-packages.html"><a href="accessing-packages.html#install-a-single-package"><i class="fa fa-check"></i><b>2.1.1</b> Install a Single Package</a></li>
+<li class="chapter" data-level="2.1.2" data-path="accessing-packages.html"><a href="accessing-packages.html#install-multiple-packages"><i class="fa fa-check"></i><b>2.1.2</b> Install Multiple Packages</a></li>
+</ul></li>
+<li class="chapter" data-level="2.2" data-path="accessing-packages.html"><a href="accessing-packages.html#loading-pagages"><i class="fa fa-check"></i><b>2.2</b> Loading Pagages</a>
+<ul>
+<li class="chapter" data-level="2.2.1" data-path="accessing-packages.html"><a href="accessing-packages.html#load-a-single-package"><i class="fa fa-check"></i><b>2.2.1</b> Load a Single Package</a></li>
+<li class="chapter" data-level="2.2.2" data-path="accessing-packages.html"><a href="accessing-packages.html#load-multiple-packages"><i class="fa fa-check"></i><b>2.2.2</b> Load Multiple Packages</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="creating-objects.html"><a href="creating-objects.html"><i class="fa fa-check"></i><b>3</b> Creating Objects</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="creating-objects.html"><a href="creating-objects.html#variables"><i class="fa fa-check"></i><b>3.1</b> Variables</a>
+<ul>
+<li class="chapter" data-level="3.1.1" data-path="creating-objects.html"><a href="creating-objects.html#create-a-character-variable"><i class="fa fa-check"></i><b>3.1.1</b> Create a character variable</a></li>
+<li class="chapter" data-level="3.1.2" data-path="creating-objects.html"><a href="creating-objects.html#create-a-numeric-variable"><i class="fa fa-check"></i><b>3.1.2</b> Create a numeric variable</a></li>
+<li class="chapter" data-level="3.1.3" data-path="creating-objects.html"><a href="creating-objects.html#create-a-variable-from-an-equation"><i class="fa fa-check"></i><b>3.1.3</b> Create a variable from an equation</a></li>
+<li class="chapter" data-level="3.1.4" data-path="creating-objects.html"><a href="creating-objects.html#create-a-variable-from-combining-variables"><i class="fa fa-check"></i><b>3.1.4</b> Create a variable from combining variables</a></li>
+<li class="chapter" data-level="3.1.5" data-path="creating-objects.html"><a href="creating-objects.html#create-a-variable-from-a-function"><i class="fa fa-check"></i><b>3.1.5</b> Create a variable from a function</a></li>
+</ul></li>
+<li class="chapter" data-level="3.2" data-path="creating-objects.html"><a href="creating-objects.html#vectors"><i class="fa fa-check"></i><b>3.2</b> Vectors</a>
+<ul>
+<li class="chapter" data-level="3.2.1" data-path="creating-objects.html"><a href="creating-objects.html#create-a-character-vector"><i class="fa fa-check"></i><b>3.2.1</b> Create a character vector</a></li>
+<li class="chapter" data-level="3.2.2" data-path="creating-objects.html"><a href="creating-objects.html#create-a-numeric-vector"><i class="fa fa-check"></i><b>3.2.2</b> Create a numeric vector</a></li>
+</ul></li>
+<li class="chapter" data-level="3.3" data-path="creating-objects.html"><a href="creating-objects.html#dataframe"><i class="fa fa-check"></i><b>3.3</b> Dataframe</a>
+<ul>
+<li class="chapter" data-level="3.3.1" data-path="creating-objects.html"><a href="creating-objects.html#create-dataframe-with-multiple-character-columns"><i class="fa fa-check"></i><b>3.3.1</b> Create dataframe with multiple character columns</a></li>
+<li class="chapter" data-level="3.3.2" data-path="creating-objects.html"><a href="creating-objects.html#create-dataframe-with-multiple-numeric-columns"><i class="fa fa-check"></i><b>3.3.2</b> Create dataframe with multiple numeric columns</a></li>
+<li class="chapter" data-level="3.3.3" data-path="creating-objects.html"><a href="creating-objects.html#create-dataframe-with-multiple-character-and-numeric-columns"><i class="fa fa-check"></i><b>3.3.3</b> Create dataframe with multiple character and numeric columns</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="importing-data.html"><a href="importing-data.html"><i class="fa fa-check"></i><b>4</b> Importing Data</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="importing-data.html"><a href="importing-data.html#csv-files"><i class="fa fa-check"></i><b>4.1</b> CSV Files</a>
+<ul>
+<li class="chapter" data-level="4.1.1" data-path="importing-data.html"><a href="importing-data.html#import-csv-file-macos"><i class="fa fa-check"></i><b>4.1.1</b> Import CSV File macOS</a></li>
+<li class="chapter" data-level="4.1.2" data-path="importing-data.html"><a href="importing-data.html#import-csv-file-windows"><i class="fa fa-check"></i><b>4.1.2</b> Import CSV File Windows</a></li>
+<li class="chapter" data-level="4.1.3" data-path="importing-data.html"><a href="importing-data.html#import-csv-file-linux"><i class="fa fa-check"></i><b>4.1.3</b> Import CSV File Linux</a></li>
+<li class="chapter" data-level="4.1.4" data-path="importing-data.html"><a href="importing-data.html#import-csv-from-github"><i class="fa fa-check"></i><b>4.1.4</b> Import CSV from GitHub</a></li>
+<li class="chapter" data-level="4.1.5" data-path="importing-data.html"><a href="importing-data.html#skip-rows-on-csv-import"><i class="fa fa-check"></i><b>4.1.5</b> Skip Rows on CSV Import</a></li>
+<li class="chapter" data-level="4.1.6" data-path="importing-data.html"><a href="importing-data.html#skip-blank-rows-on-csv-import"><i class="fa fa-check"></i><b>4.1.6</b> Skip Blank Rows on CSV Import</a></li>
+<li class="chapter" data-level="4.1.7" data-path="importing-data.html"><a href="importing-data.html#read-number-of-rows-on-csv-import"><i class="fa fa-check"></i><b>4.1.7</b> Read Number of Rows on CSV Import</a></li>
+<li class="chapter" data-level="4.1.8" data-path="importing-data.html"><a href="importing-data.html#read-specific-columns-on-csv-import"><i class="fa fa-check"></i><b>4.1.8</b> Read Specific Columns on CSV Import</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="importing-data.html"><a href="importing-data.html#excel-files"><i class="fa fa-check"></i><b>4.2</b> Excel Files</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="importing-data.html"><a href="importing-data.html#import-excel-file"><i class="fa fa-check"></i><b>4.2.1</b> Import Excel File</a></li>
+<li class="chapter" data-level="4.2.2" data-path="importing-data.html"><a href="importing-data.html#skip-rows-on-excel-import"><i class="fa fa-check"></i><b>4.2.2</b> Skip Rows on Excel Import</a></li>
+<li class="chapter" data-level="4.2.3" data-path="importing-data.html"><a href="importing-data.html#read-number-of-rows-on-excel-import"><i class="fa fa-check"></i><b>4.2.3</b> Read Number of Rows on Excel Import</a></li>
+<li class="chapter" data-level="4.2.4" data-path="importing-data.html"><a href="importing-data.html#read-specific-sheet-on-excel-import"><i class="fa fa-check"></i><b>4.2.4</b> Read Specific Sheet on Excel Import</a></li>
+<li class="chapter" data-level="4.2.5" data-path="importing-data.html"><a href="importing-data.html#read-range-of-cells-on-excel-import"><i class="fa fa-check"></i><b>4.2.5</b> Read Range of Cells on Excel Import</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="preview-data.html"><a href="preview-data.html"><i class="fa fa-check"></i><b>5</b> Preview Data</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="preview-data.html"><a href="preview-data.html#inspect-data-structure"><i class="fa fa-check"></i><b>5.1</b> Inspect Data Structure</a>
+<ul>
+<li class="chapter" data-level="5.1.1" data-path="preview-data.html"><a href="preview-data.html#preview-the-structure-of-a-dataframe"><i class="fa fa-check"></i><b>5.1.1</b> Preview the structure of a dataframe</a></li>
+</ul></li>
+<li class="chapter" data-level="5.2" data-path="preview-data.html"><a href="preview-data.html#preview-data-1"><i class="fa fa-check"></i><b>5.2</b> Preview Data</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="preview-data.html"><a href="preview-data.html#subset-of-rows-to-preview-in-a-dataframe"><i class="fa fa-check"></i><b>5.2.1</b> Subset of rows to preview in a dataframe</a></li>
+<li class="chapter" data-level="5.2.2" data-path="preview-data.html"><a href="preview-data.html#specify-a-set-number-of-rows-to-preview-in-a-dataframe"><i class="fa fa-check"></i><b>5.2.2</b> Specify a set number of rows to preview in a dataframe</a></li>
+<li class="chapter" data-level="5.2.3" data-path="preview-data.html"><a href="preview-data.html#preview-all-rows-of-a-dataframe"><i class="fa fa-check"></i><b>5.2.3</b> Preview all rows of a dataframe</a></li>
+<li class="chapter" data-level="5.2.4" data-path="preview-data.html"><a href="preview-data.html#preview-all-rows-of-a-dataframe-within-a-viewer"><i class="fa fa-check"></i><b>5.2.4</b> Preview all rows of a dataframe within a viewer</a></li>
+</ul></li>
+</ul></li>
+<li class="part"><span><b>Breakfast</b></span></li>
+<li class="chapter" data-level="6" data-path="data-exploration.html"><a href="data-exploration.html"><i class="fa fa-check"></i><b>6</b> Data Exploration</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="data-exploration.html"><a href="data-exploration.html#selecting-data-columns"><i class="fa fa-check"></i><b>6.1</b> Selecting Data Columns</a>
+<ul>
+<li class="chapter" data-level="6.1.1" data-path="data-exploration.html"><a href="data-exploration.html#select-data-by-column-name"><i class="fa fa-check"></i><b>6.1.1</b> Select data by column name</a></li>
+<li class="chapter" data-level="6.1.2" data-path="data-exploration.html"><a href="data-exploration.html#select-data-by-multiple-column-names"><i class="fa fa-check"></i><b>6.1.2</b> Select data by multiple column names</a></li>
+<li class="chapter" data-level="6.1.3" data-path="data-exploration.html"><a href="data-exploration.html#select-data-by-column-index"><i class="fa fa-check"></i><b>6.1.3</b> Select data by column index</a></li>
+<li class="chapter" data-level="6.1.4" data-path="data-exploration.html"><a href="data-exploration.html#select-data-by-multiple-column-index"><i class="fa fa-check"></i><b>6.1.4</b> Select data by multiple column index</a></li>
+<li class="chapter" data-level="6.1.5" data-path="data-exploration.html"><a href="data-exploration.html#select-data-by-column-index-range"><i class="fa fa-check"></i><b>6.1.5</b> Select data by column index range</a></li>
+<li class="chapter" data-level="6.1.6" data-path="data-exploration.html"><a href="data-exploration.html#select-data-by-column-index-and-column-index-range"><i class="fa fa-check"></i><b>6.1.6</b> Select data by column index and column index range</a></li>
+<li class="chapter" data-level="6.1.7" data-path="data-exploration.html"><a href="data-exploration.html#select-all-but-last-column"><i class="fa fa-check"></i><b>6.1.7</b> Select all but last column</a></li>
+</ul></li>
+<li class="chapter" data-level="6.2" data-path="data-exploration.html"><a href="data-exploration.html#filtering-data"><i class="fa fa-check"></i><b>6.2</b> Filtering Data</a>
+<ul>
+<li class="chapter" data-level="6.2.1" data-path="data-exploration.html"><a href="data-exploration.html#filter-single-column-by-character-value"><i class="fa fa-check"></i><b>6.2.1</b> Filter single column by character value</a></li>
+<li class="chapter" data-level="6.2.2" data-path="data-exploration.html"><a href="data-exploration.html#filter-single-column-by-numeric-value"><i class="fa fa-check"></i><b>6.2.2</b> Filter single column by numeric value</a></li>
+<li class="chapter" data-level="6.2.3" data-path="data-exploration.html"><a href="data-exploration.html#filter-single-column-by-multiple-character-values"><i class="fa fa-check"></i><b>6.2.3</b> Filter single column by multiple character values</a></li>
+<li class="chapter" data-level="6.2.4" data-path="data-exploration.html"><a href="data-exploration.html#filter-single-column-by-multiple-numeric-values"><i class="fa fa-check"></i><b>6.2.4</b> Filter single column by multiple numeric values</a></li>
+<li class="chapter" data-level="6.2.5" data-path="data-exploration.html"><a href="data-exploration.html#filter-single-column-by-range-of-numeric-values"><i class="fa fa-check"></i><b>6.2.5</b> Filter single column by range of numeric values</a></li>
+<li class="chapter" data-level="6.2.6" data-path="data-exploration.html"><a href="data-exploration.html#filter-numeric-data-larger-than"><i class="fa fa-check"></i><b>6.2.6</b> Filter numeric data larger than</a></li>
+<li class="chapter" data-level="6.2.7" data-path="data-exploration.html"><a href="data-exploration.html#filter-numeric-data-smaller-than"><i class="fa fa-check"></i><b>6.2.7</b> Filter numeric data smaller than</a></li>
+<li class="chapter" data-level="6.2.8" data-path="data-exploration.html"><a href="data-exploration.html#filter-multiple-columns"><i class="fa fa-check"></i><b>6.2.8</b> Filter multiple columns</a></li>
+<li class="chapter" data-level="6.2.9" data-path="data-exploration.html"><a href="data-exploration.html#filter-multiple-columns-1"><i class="fa fa-check"></i><b>6.2.9</b> Filter multiple columns</a></li>
+<li class="chapter" data-level="6.2.10" data-path="data-exploration.html"><a href="data-exploration.html#filter-when-multiple-character-values-not-in-a-column"><i class="fa fa-check"></i><b>6.2.10</b> Filter when multiple character values not in a column</a></li>
+</ul></li>
+<li class="chapter" data-level="6.3" data-path="data-exploration.html"><a href="data-exploration.html#combining-commands"><i class="fa fa-check"></i><b>6.3</b> Combining Commands</a>
+<ul>
+<li class="chapter" data-level="6.3.1" data-path="data-exploration.html"><a href="data-exploration.html#select-specific-columns-and-filter-column-by-character-value"><i class="fa fa-check"></i><b>6.3.1</b> Select specific columns and filter column by character value</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="data-quality.html"><a href="data-quality.html"><i class="fa fa-check"></i><b>7</b> Data Quality</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="data-quality.html"><a href="data-quality.html#data-profiling"><i class="fa fa-check"></i><b>7.1</b> Data Profiling</a>
+<ul>
+<li class="chapter" data-level="7.1.1" data-path="data-quality.html"><a href="data-quality.html#find-duplicates-in-single-column"><i class="fa fa-check"></i><b>7.1.1</b> Find duplicates in single column</a></li>
+<li class="chapter" data-level="7.1.2" data-path="data-quality.html"><a href="data-quality.html#find-duplicates-in-multiple-columns"><i class="fa fa-check"></i><b>7.1.2</b> Find duplicates in multiple columns</a></li>
+</ul></li>
+<li class="chapter" data-level="7.2" data-path="data-quality.html"><a href="data-quality.html#data-cleaning"><i class="fa fa-check"></i><b>7.2</b> Data Cleaning</a>
+<ul>
+<li class="chapter" data-level="7.2.1" data-path="data-quality.html"><a href="data-quality.html#clean-common-header-naming-issues"><i class="fa fa-check"></i><b>7.2.1</b> Clean common header naming issues</a></li>
+<li class="chapter" data-level="7.2.2" data-path="data-quality.html"><a href="data-quality.html#remove-empty-columns"><i class="fa fa-check"></i><b>7.2.2</b> Remove empty columns</a></li>
+<li class="chapter" data-level="7.2.3" data-path="data-quality.html"><a href="data-quality.html#remove-empty-rows"><i class="fa fa-check"></i><b>7.2.3</b> Remove empty rows</a></li>
+<li class="chapter" data-level="7.2.4" data-path="data-quality.html"><a href="data-quality.html#remove-empty-rows-and-columns"><i class="fa fa-check"></i><b>7.2.4</b> Remove empty rows and columns</a></li>
+<li class="chapter" data-level="7.2.5" data-path="data-quality.html"><a href="data-quality.html#convert-null-to-specific-character-value-in-a-single-column"><i class="fa fa-check"></i><b>7.2.5</b> Convert null to specific character value in a single column</a></li>
+<li class="chapter" data-level="7.2.6" data-path="data-quality.html"><a href="data-quality.html#convert-null-to-specific-numeric-value-in-a-single-column"><i class="fa fa-check"></i><b>7.2.6</b> Convert null to specific numeric value in a single column</a></li>
+<li class="chapter" data-level="7.2.7" data-path="data-quality.html"><a href="data-quality.html#remove-leading-whitespace-from-a-character-values-in-a-single-column"><i class="fa fa-check"></i><b>7.2.7</b> Remove leading whitespace from a character values in a single column</a></li>
+<li class="chapter" data-level="7.2.8" data-path="data-quality.html"><a href="data-quality.html#remove-trailing-whitespace-from-a-character-values-in-a-single-column"><i class="fa fa-check"></i><b>7.2.8</b> Remove trailing whitespace from a character values in a single column</a></li>
+<li class="chapter" data-level="7.2.9" data-path="data-quality.html"><a href="data-quality.html#remove-leading-and-trailing-whitespace-from-a-character-values-in-a-single-column"><i class="fa fa-check"></i><b>7.2.9</b> Remove leading and trailing whitespace from a character values in a single column</a></li>
+<li class="chapter" data-level="7.2.10" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-lower-case-in-a-single-column"><i class="fa fa-check"></i><b>7.2.10</b> Change all characters to lower case in a single column</a></li>
+<li class="chapter" data-level="7.2.11" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-upper-case-in-a-single-column"><i class="fa fa-check"></i><b>7.2.11</b> Change all characters to upper case in a single column</a></li>
+<li class="chapter" data-level="7.2.12" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-title-case-in-a-single-column"><i class="fa fa-check"></i><b>7.2.12</b> Change all characters to title case in a single column</a></li>
+<li class="chapter" data-level="7.2.13" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-sentence-case-in-a-single-column"><i class="fa fa-check"></i><b>7.2.13</b> Change all characters to sentence case in a single column</a></li>
+<li class="chapter" data-level="7.2.14" data-path="data-quality.html"><a href="data-quality.html#remove-punctuation-from-a-single-character-column"><i class="fa fa-check"></i><b>7.2.14</b> Remove punctuation from a single character column</a></li>
+<li class="chapter" data-level="7.2.15" data-path="data-quality.html"><a href="data-quality.html#change-all-spaces-to-underscores-in-a-single-character-column"><i class="fa fa-check"></i><b>7.2.15</b> Change all spaces to underscores in a single character column</a></li>
+<li class="chapter" data-level="7.2.16" data-path="data-quality.html"><a href="data-quality.html#convert-null-with-specific-value-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.16</b> Convert null with specific value in all character columns</a></li>
+<li class="chapter" data-level="7.2.17" data-path="data-quality.html"><a href="data-quality.html#convert-null-with-specific-value-in-all-numeric-columns"><i class="fa fa-check"></i><b>7.2.17</b> Convert null with specific value in all numeric columns</a></li>
+<li class="chapter" data-level="7.2.18" data-path="data-quality.html"><a href="data-quality.html#remove-whitespace-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.18</b> Remove whitespace in all character columns</a></li>
+<li class="chapter" data-level="7.2.19" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-lower-case-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.19</b> Change all characters to lower case in all character columns</a></li>
+<li class="chapter" data-level="7.2.20" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-upper-case-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.20</b> Change all characters to upper case in all character columns</a></li>
+<li class="chapter" data-level="7.2.21" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-title-case-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.21</b> Change all characters to title case in all character columns</a></li>
+<li class="chapter" data-level="7.2.22" data-path="data-quality.html"><a href="data-quality.html#change-all-characters-to-sentence-case-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.22</b> Change all characters to sentence case in all character columns</a></li>
+<li class="chapter" data-level="7.2.23" data-path="data-quality.html"><a href="data-quality.html#remove-punctuation-from-all-character-columns"><i class="fa fa-check"></i><b>7.2.23</b> Remove punctuation from all character columns</a></li>
+<li class="chapter" data-level="7.2.24" data-path="data-quality.html"><a href="data-quality.html#change-all-spaces-to-underscores-in-all-character-columns"><i class="fa fa-check"></i><b>7.2.24</b> Change all spaces to underscores in all character columns</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="data-quality.html"><a href="data-quality.html#combining-commands-1"><i class="fa fa-check"></i><b>7.3</b> Combining Commands</a>
+<ul>
+<li class="chapter" data-level="7.3.1" data-path="data-quality.html"><a href="data-quality.html#clean-structure-and-values-of-a-dataframe"><i class="fa fa-check"></i><b>7.3.1</b> Clean structure and values of a dataframe</a></li>
+</ul></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Data Analytics with R: A Recipe Book</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Data Analytics with R: A Recipe Book</h1>
+<p class="author"><em>Ryan Garnett</em></p>
+<p class="date"><em>2021-11-12</em></p>
+</div>
+<div id="intro" class="section level1" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Intro</h1>
+<p>In 2018 I made my first New Year’s resolution in over 30 years, to use R exclusively at work; the challenge with this resolution was that I did not know how to write code, alone write code in R. At that time I was leading an geospatial analytics team at the City of Toronto and I decided to undertake all my analysis work, both geospatial and non-geospatial, as a code first approach using R. My venture and journey was a challenge, to say the least. Undertaking a code first analysis approach in R was a very difficult journey for me, one that had many ups and downs. Along the way I was helped and encourage by many people, starting with my best friend <a href="https://twitter.com/MDAEnv">Dr. Matt Adams</a> where we spent a long Friday night going page-by-page through the <a href="https://r4ds.had.co.nz/">R for Data Science</a> book by Hadley Wickham &amp; Garrett Grolemund at Matt’s dinning room table, to <a href="https://twitter.com/sharlagelfand">Sharla Gelfand</a> and <a href="https://www.linkedin.com/in/geoffrey-hunter-29325a7a/">Geoffrey Hunter</a> who provided tremendous encouragement, and of course the amazing R community. With all the positive experiences I also encountered countless stumbling blocks; from learning material designed for people who have an existing literacy level on the subject, a feeling that many authors forget what it was like to be at the start of the learning journey, lengthy and difficult material to consume, to formal learning that is structured as a linear path, while as an adult learner in a working environment my journey was non-linear and based on the challenge of the day. The combination of my stumbling blocks and my lack of formal education in a field of quantitative analysis or formal computer programming training developed into a serious inferiority complex. However one evening during the midst of COVID-19 lockdown while watching a YouTube video by Johnny Harris titled <a href="https://www.youtube.com/watch?v=3i1lNJPY-4Q">“The Fastest Way to Learn a New Language: The Video Game Map Theory”</a> I was inspired to turn the experiences, successes and challenges, gained over my four year R journey into a book designed to help those who are on their own R data analytics journey.</p>
+<p><br></p>
+<p>Just what the world needs another data analytics book focusing on R. That is where this book, I am hoping, is a little different. The structure and design of this book is based on iterative learning, starting with the most basic and build by adding one new element concept. Throughout my life I had a challenge learning highly technical subjects, however I have been able to over come the challenge by trying to make a 1-to-1 comparison based on a four part idea:</p>
+<ol style="list-style-type: decimal">
+<li>concept (what)</li>
+<li>purpose (why)</li>
+<li>structure (how)</li>
+<li>example (how)</li>
+</ol>
+<p><br></p>
+<p>Building on a central theme presented in the video by Johnny Harris <em>linear learning styles with the sole aim of becoming fluent in a language may result in the inability to perform basic and tangible actions desired by those wanting to communicate within that language</em>, and thinking of adult learners and individuals learning on the job who are looking for help on a specific challenge, the book has been structured to be small easily consumable chunks similar to that of a recipe card. The concept for a recipe card is that they are self contained, providing all the ingredients, preparation, and instructions required to create a meal. While a cookbook may consist of many recipes, there is no expectation to read, understand, and master all the recipes in order to prepare a meal. Following this as the central theme the book, it has been designed as a number of data analytics recipes focusing on the R language.</p>
+<p></br>
+</br></p>
+<div id="how-to-use-the-book" class="section level2" number="1.1">
+<h2><span class="header-section-number">1.1</span> How to Use the Book</h2>
+<p>The book has a natural progression built around a five course meal starting at the very beginning for individuals with no prior experience coding R, but looking to join the R data analytics community. In order to take advantage of the book you should have access R and RStudio (either locally installed or available via a cloud provider) and have some comfortable within the RStudio software environment. To follow along with the recipes I would recommend working in either a R Notebook or a R Markdown document; both can be created within RStudio by clicking <em>File - New File</em> and selecting either the R Notebook or R Markdown… option.</p>
+<p>In R there are many ways to undertake and tackle a problem, each with their own pros and cons. The examples, or recipes, in this book are by no means the only, best, or most efficient means of performing a certain data analytics task. The approach taken is to build a base that can be easily built on using a similar style, throught, and coding syntax.</p>
+<p>The sections are independent of each other, allowing a learner to begin according to their individual R data analytics journey. The book is broken into five sections:</p>
+<ol style="list-style-type: decimal">
+<li>Appetizers</li>
+<li>Breakfast</li>
+<li>Lunch</li>
+<li>Supper</li>
+<li>Dessert</li>
+</ol>
+<p>An example design of a R data analytics recipe card.</p>
+<h3>
+Select data by multiple column names
+</h3>
+<div id="ysxsnoipet" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#ysxsnoipet .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#ysxsnoipet .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#ysxsnoipet .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#ysxsnoipet .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#ysxsnoipet .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#ysxsnoipet .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#ysxsnoipet .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#ysxsnoipet .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#ysxsnoipet .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#ysxsnoipet .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#ysxsnoipet .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#ysxsnoipet .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#ysxsnoipet .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#ysxsnoipet .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ysxsnoipet .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ysxsnoipet .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#ysxsnoipet .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#ysxsnoipet .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#ysxsnoipet .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#ysxsnoipet .gt_left {
+  text-align: left;
+}
+
+#ysxsnoipet .gt_center {
+  text-align: center;
+}
+
+#ysxsnoipet .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#ysxsnoipet .gt_font_normal {
+  font-weight: normal;
+}
+
+#ysxsnoipet .gt_font_bold {
+  font-weight: bold;
+}
+
+#ysxsnoipet .gt_font_italic {
+  font-style: italic;
+}
+
+#ysxsnoipet .gt_super {
+  font-size: 65%;
+}
+
+#ysxsnoipet .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:500px;"/>
+    <col style="width:200px;"/>
+  </colgroup>
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"><strong>Description</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1"></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Method to subset data using multiple column names</td>
+<td class="gt_row gt_right"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+<div id="orkwyeaisz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#orkwyeaisz .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#orkwyeaisz .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#orkwyeaisz .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#orkwyeaisz .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#orkwyeaisz .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#orkwyeaisz .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#orkwyeaisz .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#orkwyeaisz .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#orkwyeaisz .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#orkwyeaisz .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#orkwyeaisz .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#orkwyeaisz .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#orkwyeaisz .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#orkwyeaisz .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#orkwyeaisz .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#orkwyeaisz .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#orkwyeaisz .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#orkwyeaisz .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#orkwyeaisz .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#orkwyeaisz .gt_left {
+  text-align: left;
+}
+
+#orkwyeaisz .gt_center {
+  text-align: center;
+}
+
+#orkwyeaisz .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#orkwyeaisz .gt_font_normal {
+  font-weight: normal;
+}
+
+#orkwyeaisz .gt_font_bold {
+  font-weight: bold;
+}
+
+#orkwyeaisz .gt_font_italic {
+  font-style: italic;
+}
+
+#orkwyeaisz .gt_super {
+  font-size: 65%;
+}
+
+#orkwyeaisz .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:350px;"/>
+    <col style="width:350px;"/>
+  </colgroup>
+  <thead class="gt_header">
+    <tr>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_bottom_border" style>Ingredients</th>
+    </tr>
+    
+  </thead>
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Package</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_center"><div class='gt_from_md'><p>readr<br>dplyr</p>
+</div></td>
+<td class="gt_row gt_center"><div class='gt_from_md'><p>sample.csv</p>
+</div></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+<p></br>
+</br></p>
+<p><strong>Preparation</strong></p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" aria-hidden="true" tabindex="-1"></a>countries <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_csv</span>(<span class="st">&quot;C:/data/countries.csv&quot;</span>)</span></code></pre></div>
+<p></br></p>
+<p><strong>Sample Instructions</strong></p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="index.html#cb2-1" aria-hidden="true" tabindex="-1"></a>package<span class="sc">:</span><span class="cf">function</span>(dataframe, column_name1, column_name2, column_name2)</span></code></pre></div>
+<p></br></p>
+<p><strong>Actual Instructions</strong></p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="index.html#cb3-1" aria-hidden="true" tabindex="-1"></a>dplyr<span class="sc">::</span><span class="fu">select</span>(countries, continent, capital, population)</span></code></pre></div>
+<p></br>
+</br></p>
+<div id="spicyness" class="section level3" number="1.1.1">
+<h3><span class="header-section-number">1.1.1</span> Spicyness</h3>
+<p>I love spicy food; tacos, burritos, chili, curry, hot sauce, almost anything, and I add hot sauce to almost everything. When beginning to eat spicy food you generally do not start with a Carolina Reaper, ghost pepper, or a habanero; most people may start with adding Frank’s Hot Sauce, a little chili powder, or even some fresh jalapenos to a meal. Similar to the progression of spicy food a spicy index was used to help communicate the relative difficulty of the analytical concept or technical coding difficulty.</p>
+<div class="recipe-desc">
+<div class="spicy">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p><b>Not spicy</b>: Not technically difficult subject matter</p>
+</div>
+<div class="recipe-desc">
+<div class="spicy">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p><b>Mild spicy</b>: Minimal technically difficult subject matter</p>
+</div>
+<div class="recipe-desc">
+<div class="spicy">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p><b>Moderate spicy</b>: Moderate technically difficult subject matter</p>
+</div>
+<div class="recipe-desc">
+<div class="spicy">
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg> <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg>
+</div>
+<p><b>Very spicy</b>: Technically difficult subject matter</p>
+</div>
+<p></br>
+</br></p>
+</div>
+</div>
+<div id="data-used-within-the-book" class="section level2" number="1.2">
+<h2><span class="header-section-number">1.2</span> Data Used within the Book</h2>
+<p>TBD</p>
+<p></br>
+</br></p>
+</div>
+<div id="inspiration" class="section level2" number="1.3">
+<h2><span class="header-section-number">1.3</span> Inspiration</h2>
+<p>Like with most, and as stated earlier, I was inspired by many different sources during the ideation, design, and creation of this book. The following are a selected resources that provided the inspiration to help create this book.</p>
+<p><a href="https://www.rstudio.com/resources/cheatsheets/">RStudio cheatsheets</a></p>
+<p><a href="https://stackoverflow.com/">stackoverflow</a></p>
+<p><a href="https://r4ds.had.co.nz/">R for Data Science</a> by Hadley Wickham &amp; Garrett Grolemund <br>
+<a href="https://www.tidytextmining.com/">Text Mining with R</a> by Julia Silge &amp; David Robinson <br>
+<a href="https://geocompr.robinlovelace.net/">Geocomputation with R</a> by Robin Lovelace, Jakub Nowosad &amp; Jannes Muenchow <br>
+<a href="https://www.amazon.com/Cookshelf-Chinese-Jenny-Stacey/dp/075254392X">Cookshelf Chinese</a> by Jenny Stacey <br>
+<a href="https://www.youtube.com/watch?v=3i1lNJPY-4Q">The Fastest Way to Learn a New Language: The Video Game Map Theory</a> by Johnny Harris</p>
+<p></br>
+</br></p>
+</div>
+<div id="r-journey-recommendations" class="section level2" number="1.4">
+<h2><span class="header-section-number">1.4</span> R Journey Recommendations</h2>
+<p>Everyone tackles problems and learns differently. Reflecting on my R journey I would recommend the following to anyone beginning their journey:</p>
+<ul>
+<li>start small</li>
+<li>choose a real world problem that you are interested in (i.e. school, work, or personally interesting)</li>
+<li>break the problem into chunks that allow you to see progress</li>
+<li>in the beginning prioritize <em>making it work</em> over <em>highly optimized and efficient code</em></li>
+<li>build off the knowledge you develop</li>
+<li>don’t be afraid of making mistakes</li>
+<li>ask for help</li>
+<li>celebrate your successes, regardless of how small they may seem</li>
+<li>most of all, HAVE FUN!!!</li>
+</ul>
+<p><br></p>
+<center>
+<div class="figure">
+<img src="images/small_steps.png" alt="" />
+<p class="caption">Small steps vs. large steps</p>
+</div>
+<p><a href="https://m.facebook.com/111950100703954/photos/a.113382257227405/198657015366595/?type=3">Available here</a></p>
+</center>
+
+</div>
+</div>
+
+
+
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="accessing-packages.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/USERNAME/REPO/edit/BRANCH/index.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["data_analytics_recipe_book.pdf", "data_analytics_recipe_book.epub"],
+"search": {
+"engine": "lunr",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

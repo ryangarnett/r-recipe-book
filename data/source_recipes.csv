@@ -1,0 +1,94 @@
+id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
+1,Appetizers,Accessing Packages,Installing Packages,Install a single package,Method to install a single package in R,0,,
+2,Appetizers,Accessing Packages,Installing Packages,Install multiple packages,Method to install multiple packages in R,0,,
+3,Appetizers,Accessing Packages,Loading Packages,Load a single package,Method to load and gain access to the functionality of a package in R,0,,
+4,Appetizers,Creating Objects,Variables,Create a character variable,Create a variable object in memory for a specific character value,0,,
+5,Appetizers,Creating Objects,Variables,Create a numeric variable,Create a variable object in memory for a specific number value,0,,
+6,Appetizers,Creating Objects,Variables,Create a variable from an equation,Create a variable object in memory for a specific mathematical equation,0,,
+7,Appetizers,Creating Objects,Variables,Create a variable from combining variables,Create a variable object in memory by combining two variable objects together,0,,
+8,Appetizers,Creating Objects,Variables,Create a variable from a function,Create a variable object in memory from the output from the system date function,0,,
+9,Appetizers,Creating Objects,Vectors,Create a character vector,Create a vector object in memory that has multiple character values,0,,
+10,Appetizers,Creating Objects,Vectors,Create a numeric vector,Create a vector object in memory that has multiple numeric values,0,,
+11,Appetizers,Creating Objects,Dataframe,Create dataframe with multiple character columns,Create a dataframe object in memory that has multiple character columns,0,,
+12,Appetizers,Creating Objects,Dataframe,Create dataframe with multiple numeric columns,Create a dataframe object in memory that has multiple numeric columns,0,,
+13,Appetizers,Creating Objects,Dataframe,Create dataframe with multiple character and numeric columns,Create a dataframe object in memory that has multiple character and numeric columns,0,,
+14,Appetizers,Preview Data,Data Structure,Preview the structure of a dataframe,Method to inspect the data structure and elements of a dataframe,0,readr,sample.csv
+15,Appetizers,Preview Data,View Portion of Data,Preview a subset of rows in a dataframe,Method to visually inspect the first few rows of a dataframe,0,readr,sample.csv
+16,Appetizers,Preview Data,View Portion of Data,Preview a specified number of rows to subset in a dataframe,Method to visually inspect a specific number of rows of a dataframe,0,readr,sample.csv
+17,Appetizers,Preview Data,View All Data,Preview all rows of a dataframe,Method to visually inspect all rows of a dataframe,0,readr,sample.csv
+18,Appetizers,Preview Data,View All Data,Preview all rows of a dataframe within a viewer,Method to visually inspect all rows and columns of a dataframe in a sortable viewer,0,readr,sample.csv
+19,Appetizers,Importing Data,CSV Files,Import csv file on macOS,Basic method for reading a csv file on a macOS computer,1,readr,sample.csv
+20,Appetizers,Importing Data,CSV Files,Import csv file on Linux,Basic method for reading a csv file on a Linux computer,1,readr,sample.csv
+21,Appetizers,Importing Data,CSV Files,Import csv file on Windows,Basic method for reading a csv file on a Windows computer,1,readr,sample.csv
+22,Appetizers,Importing Data,CSV Files,Import csv file from GitHub,Basic method for reading a csv file stored in a GitHub repository,1,readr,sample.csv
+23,Appetizers,Importing Data,CSV Files,Skip rows on csv import,Skip a number of rows when reading a csv file,1,readr,sample.csv
+24,Appetizers,Importing Data,CSV Files,Skip blank rows on csv import,Skip all rows that are blank when reading a csv file,1,readr,sample.csv
+25,Appetizers,Importing Data,CSV Files,Read number of rows on csv import,Read a specific number of rows when reading a csv file,1,readr,sample.csv
+26,Appetizers,Importing Data,CSV Files,Read specific columns on csv import,Read a specific columns when reading a csv file,1,readr,sample.csv
+27,Appetizers,Importing Data,Excel Files,Import excel file,Basic method for reading an excel file,1,readxl,sample.xlsx
+28,Appetizers,Importing Data,Excel Files,Skip rows on excel import,Skip rows when reading excel files,1,readxl,sample.xlsx
+29,Appetizers,Importing Data,Excel Files,Read number of rows on excel import,Read a specific number of rows when reading an excel file,1,readxl,sample.xlsx
+30,Appetizers,Importing Data,Excel Files,Read specific sheet on excel import,Read a specific sheet of an excel file,1,readxl,sample.xlsx
+31,Appetizers,Importing Data,Excel Files,Read range of cells on excel import,Read a specific range of cells of an excel file,1,readxl,sample.xlsx
+,,,,,,,,
+33,Breakfast,Data Exploration,Selecting Data Columns,Select data by column name,Method to subset data using a specific column name,1,readr dplyr,sample.csv
+34,Breakfast,Data Exploration,Selecting Data Columns,Select data by multiple column names,Method to subset data using multiple column names,1,readr dplyr,sample.csv
+35,Breakfast,Data Exploration,Selecting Data Columns,Select data by column index,Method to subset data using specific column index numbers,1,readr dplyr,sample.csv
+36,Breakfast,Data Exploration,Selecting Data Columns,Select data by multiple column index,Method to subset data using a specific column index number,1,readr dplyr,sample.csv
+37,Breakfast,Data Exploration,Selecting Data Columns,Select data by column index range,Method to subset data in a range of column index numbers,1,readr dplyr,sample.csv
+38,Breakfast,Data Exploration,Selecting Data Columns,Select data by column index and column index range,Method to subset data by specific column index numbers and a range of column index numbers,1,readr dplyr,sample.csv
+39,Breakfast,Data Exploration,Selecting Data Columns,Select all by last column,Method to retrieve all columns except the last column,1,readr dplyr,sample.csv
+40,Breakfast,Data Exploration,Filtering Data,Filter single column by character value,Method to filter a single column of character data when equal to a specific value,1,readr dplyr,sample.csv
+41,Breakfast,Data Exploration,Filtering Data,Filter single column by numeric value,Method to filter a single column of numeric data when equal to a specific value,1,readr dplyr,sample.csv
+42,Breakfast,Data Exploration,Filtering Data,Filter single column by multiple character values,Method to filter a single column of character data with multiple character values,1,readr dplyr,sample.csv
+43,Breakfast,Data Exploration,Filtering Data,Filter single column by multiple numeric values,Method to filter a single column of numeric data with multiple numeric values,1,readr dplyr,sample.csv
+44,Breakfast,Data Exploration,Filtering Data,Filter single column by range of numeric values,Method to filter numeric data within a range of values,1,readr dplyr,sample.csv
+45,Breakfast,Data Exploration,Filtering Data,Filter single column by numeric data larger than value,Method to filter number data that is larger than a value,1,readr dplyr,sample.csv
+46,Breakfast,Data Exploration,Filtering Data,Filter single column by numeric data smaller than value,Method to filter numeric data that is smaller than a value,1,readr dplyr,sample.csv
+47,Breakfast,Data Exploration,Filtering Data,Filter multiple columns,Method to filter data using multiple columns when filtering of all columns execute to be true,1,readr dplyr,sample.csv
+48,Breakfast,Data Exploration,Filtering Data,Filter multiple columns,Method to filter data using multiple columns when filtering of any column execute to be true,1,readr dplyr,sample.csv
+49,Breakfast,Data Exploration,Filtering Data,Filter when multiple character values not in a column,Method to filter data when specific text values are not present in a specified column,1,readr dplyr,sample.csv
+50,Breakfast,Data Exploration,Combining Commands,Select specific columns and filter column by character value,Method to combine a select and filter expression in a single command,1,readr dplyr,sample.csv
+51,Breakfast,Data Quality,Data Cleaning,Clean common header naming issues,"Replaces common data header naming conversion issues; such as spaces, special characters, and duplicate names ",1,readr janitor,sample.csv
+52,Breakfast,Data Quality,Data Cleaning,Remove empty columns,Removes columns that have no values and are completely empty,1,readr janitor,sample.csv
+53,Breakfast,Data Quality,Data Cleaning,Remove empty rows,Removes rows that have no values and are completely empty,1,readr janitor,sample.csv
+54,Breakfast,Data Quality,Data Cleaning,Remove empty rows and columns,Removes rows and columns that have no values and are completely empty,1,readr janitor,sample.csv
+55,Breakfast,Data Quality,Data Profiling,Find duplicates in single column,Method to find duplicate values in a single column of a dataframe column,1,readr janitor,sample.csv
+56,Breakfast,Data Quality,Data Profiling,Find duplicates in multiple columns,Method to find duplicate values across multiple columns of a dataframe column,1,readr janitor,sample.csv
+57,Breakfast,Data Quality,Data Cleaning,Convert null to specific character value in a single column,Method to change all null to a specific character value in a single character column of a dataframe,1,readr tidyr,sample.csv
+58,Breakfast,Data Quality,Data Cleaning,Convert null to specific numeric value in a single column,Method to change all null to a specific numeric value in a single numeric column of a dataframe,1,readr tidyr,sample.csv
+59,Breakfast,Data Quality,Data Cleaning,Remove leading whitespace from a character values in a single column,Method to remove whitespace at the beginning of a character value in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+60,Breakfast,Data Quality,Data Cleaning,Remove trailing whitespace from a character values in a single column,Method to remove whitespace at the end of a character value in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+61,Breakfast,Data Quality,Data Cleaning,Remove leading and trailing whitespace from a character values in a single column,Method to remove whitespace at the beginning and end of a character value in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+62,Breakfast,Data Quality,Data Cleaning,Change all characters to lower case in a single column,Method to change all character values to lower case in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+63,Breakfast,Data Quality,Data Cleaning,Change all characters to upper case in a single column,Method to change all character values to upper case in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+64,Breakfast,Data Quality,Data Cleaning,Change all characters to title case in a single column,Method to change all character values to title case in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+65,Breakfast,Data Quality,Data Cleaning,Change all characters to sentence case in a single column,Method to change all character values to sentence case in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+66,Breakfast,Data Quality,Data Cleaning,Remove punctuation from a single character column,Method to remove punctuation including special characters from a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+67,Breakfast,Data Quality,Data Cleaning,Change all spaces to underscores in a single character column,Method to change all spaces to an underscore in a single character column of a dataframe,1,readr dplyr stringr,sample.csv
+68,Breakfast,Data Quality,Data Cleaning,Convert null with specific value in all character columns,Method to change all null to a specific character value in a all character columns of a dataframe,2,readr dplyr tidyr,sample.csv
+69,Breakfast,Data Quality,Data Cleaning,Convert null with specific value in all numeric columns,Method to change all null to a specific numeric value in a all numeric columns of a dataframe,2,readr dplyr tidyr,sample.csv
+70,Breakfast,Data Quality,Data Cleaning,Remove whitespace in all character columns,Method to remove whitespace at the beginning and end of a character value in all character columns of a dataframe,2,readr dplyr stringr,sample.csv
+71,Breakfast,Data Quality,Data Cleaning,Change all characters to lower case in all character columns,Method to change all character values to lower case in all character columns of a dataframe,2,readr dplyr stringr,sample.csv
+72,Breakfast,Data Quality,Data Cleaning,Change all characters to upper case in all character columns,Method to change all character values to upper case in all character columns of a dataframe,2,readr dplyr stringr,sample.csv
+73,Breakfast,Data Quality,Data Cleaning,Change all characters to title case in all character columns,Method to change all character values to title case in all character columns of a dataframe,2,readr dplyr stringr,sample.csv
+74,Breakfast,Data Quality,Data Cleaning,Change all characters to sentence case in all character columns,Method to change all character values to sentence case in all character columns of a dataframe,2,readr dplyr stringr,sample.csv
+75,Breakfast,Data Quality,Data Cleaning,Remove punctuation from all character columns,Method to remove punctuation including special characters from all character columns of a dataframe,2,readr dplyr stringr,sample.csv
+76,Breakfast,Data Quality,Data Cleaning,Change all spaces to underscores in all character columns,Method to change all spaces to an underscore in a single character column of a dataframe,2,readr dplyr stringr,sample.csv
+77,Breakfast,Data Quality,Data Cleaning,Clean structure and values of a dataframe,Method to cleann the structure and values in all character and numeric columns of a dataframe,2,readr dplyr janitor stringr tidyr,sample.csv
+78,Appetizers,Accessing Packages,Installing Packages,Load multiple packages,Method to load and gain access to the functionality of multiple packages in R,0,,
+,Breakfast,Data Transformation,Character Data,,,,,
+,Breakfast,Data Transformation,Date Data,,,,,
+,Breakfast,Data Transformation,Between Data Types,,,,,
+,Breakfast,Data Transformation,Reshaping Data,,,,,
+,Breakfast,Data Fusion,Appending Dataframes,Add a dataframe to bottom of a dataframe,,,,
+,Breakfast,Data Fusion,Appending Dataframes,Add a dataframe to the right of a dataframe,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Join with same joining column names,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Join with different joining names,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Join with subset of columns from one dataframe,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Join with subset of columns from two dataframes,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Inner join,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Left join,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Right join,,,,
+,Breakfast,Data Fusion,Joining Dataframes,Full join,,,,
+,Breakfast,Feature Engineering,,,,,,

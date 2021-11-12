@@ -1,0 +1,863 @@
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+library(janitor)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("/home/ryangarnett/Github/recipe_book/data/source_recipes.csv")
+```
+
+# Data Quality
+
+
+> *Data quality requires a certain level of sophistication within a company to even understand that it's a problem <br> Colleen Graham <br>*
+
+
+## Data Profiling
+
+### Find duplicates in single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(55)
+ingredients_table(55)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+janitor::get_dupes(df, country)
+```
+
+
+### Find duplicates in multiple columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(56)
+ingredients_table(56)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1, column_name2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+janitor::get_dupes(df, country, capital)
+```
+
+
+## Data Cleaning
+
+
+### Clean common header naming issues
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(51)
+ingredients_table(51)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+janitor::clean_names(claims)
+```
+
+
+### Remove empty columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(52)
+ingredients_table(52)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+janitor::remove_empty(claims)
+```
+
+
+### Remove empty rows
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(53)
+ingredients_table(53)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+janitor::remove_empty_rows(claims)
+```
+
+
+### Remove empty rows and columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(54)
+ingredients_table(54)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, which = c("rows", "cols")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+janitor::remove_empty(claims, which = c("rows", "cols")
+```
+
+
+### Convert null to specific character value in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(57)
+ingredients_table(57)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, list(column_name = "text"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+tidyr::replace_na(df, list(country = "unknown"))
+```
+
+
+### Convert null to specific numeric value in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(58)
+ingredients_table(58)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, list(column_name = number))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+tidyr::replace_na(df, list(population = -999))
+```
+
+
+### Remove leading whitespace from a character values in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(59)
+ingredients_table(59)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name, side = c("right")))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = c("right")))
+```
+
+
+### Remove trailing whitespace from a character values in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(60)
+ingredients_table(60)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name, side = c("left")))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = c("left")))
+```
+
+
+### Remove leading and trailing whitespace from a character values in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(61)
+ingredients_table(61)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name, side = c("both")))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = c("both")))
+```
+
+
+### Change all characters to lower case in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(62)
+ingredients_table(62)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`))
+```
+
+
+### Change all characters to upper case in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(63)
+ingredients_table(63)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`))
+```
+
+
+### Change all characters to title case in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(64)
+ingredients_table(64)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`))
+```
+
+
+### Change all characters to sentence case in a single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(65)
+ingredients_table(65)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Name`))
+```
+
+
+### Remove punctuation from a single character column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(66)
+ingredients_table(66)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name, "[[:punct:]]", ""))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, "[[:punct:]]", ""))
+```
+
+
+### Change all spaces to underscores in a single character column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(67)
+ingredients_table(67)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = package::function(column_name, " ", "_"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_"))
+```
+
+
+### Convert null with specific value in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(68)
+ingredients_table(68)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, is.character, package::function, replace = "text")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
+```
+
+
+### Convert null with specific value in all numeric columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(69)
+ingredients_table(69)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, is.numeric, package::function, replace = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
+```
+
+
+### Remove whitespace in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(70)
+ingredients_table(70)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(where(is.character), package::function))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
+```
+
+
+
+### Change all characters to lower case in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(71)
+ingredients_table(71)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(where(is.character), package::function))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
+```
+
+
+### Change all characters to upper case in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(72)
+ingredients_table(72)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(where(is.character), package::function))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
+```
+
+
+### Change all characters to title case in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(73)
+ingredients_table(73)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(where(is.character), package::function))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
+```
+
+
+### Change all characters to sentence case in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(74)
+ingredients_table(74)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(where(is.character), package::function))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
+```
+
+
+### Remove punctuation from all character columns
+```{r  eval=FALSE, include=TRUE}
+
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(75)
+ingredients_table(75)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(package::function(., "[[:punct:]]", "")))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")))
+```
+
+
+### Change all spaces to underscores in all character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(76)
+ingredients_table(76)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(package::function(., " ", "_")))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
+```
+
+
+## Combining Commands
+### Clean structure and values of a dataframe
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(77)
+ingredients_table(77)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+data <- data %>%
+  package::function() %>%
+  package::function() %>%
+  package::function(is.character, package::function, replace = "text") %>%
+  package::function(is.numeric, package::function, replace = number) %>%
+  package::function(package::function(where(is.character), package::function)) %>%
+  package::function(package::function(where(is.character), package::function)) %>%
+  package::function(package::function(package::function(., "[[:punct:]]", "")))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+data <- data %>%
+  janitor::clean_names() %>%
+  janitor::remove_empty() %>%
+  dplyr::mutate_if(is.character, tidyr::replace_na, replace = "unknown") %>%
+  dplyr::mutate_if(is.numeric, tidyr::replace_na, replace = -999) %>%
+  dplyr::mutate(dplyr::across(where(is.character), stringr::str_trim)) %>%
+  dplyr::mutate(dplyr::across(where(is.character), stringr::str_to_upper)) %>%
+  dplyr::mutate_all(dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")))
+```
+
+
+
+
+
+

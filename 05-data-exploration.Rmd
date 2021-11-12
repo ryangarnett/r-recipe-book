@@ -1,0 +1,594 @@
+# (PART\*) Breakfast {-}
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("/home/ryangarnett/Github/recipe_book/data/source_recipes.csv")
+```
+
+# Data Exploration
+Data exploration is an essential part of data analytics, the preliminary step to data wrangling techniques, which will be covered in the next three chapters. Similar to other areas in R there are many different approaches to data exploration. This section will explore non data visualization data exploration techniques.
+
+> *You can have data without information, but you cannot have information without data <br> Daniel Keys Moran*
+
+
+## Selecting Data Columns
+The size of data continues to grow, both in the number of rows and columns in a dataframe. Wide data, that with many columns, can provide challenges to data exploration, making it important to be able to limit and specify the columns that are used during data exploration.
+
+
+### Select data by column name
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(33)
+ingredients_table(33)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, column1)
+```
+
+
+### Select data by multiple column names
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(34)
+ingredients_table(34)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1, column_name2, column_name3, column_name4)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, column1, column2, column3, column4)
+```
+
+
+### Select data by column index
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(35)
+ingredients_table(35)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, 1)
+```
+
+
+### Select data by multiple column index
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(36)
+ingredients_table(36)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, number, number, number, number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, 1, 2, 5, 8)
+```
+
+
+### Select data by column index range
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(37)
+ingredients_table(37)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, number:number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, 1:4)
+```
+
+
+### Select data by column index and column index range
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(38)
+ingredients_table(38)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, number, number, number, number:number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, 1, 3, 5, 7:9)
+```
+
+
+### Select all but last column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(39)
+ingredients_table(39)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, -1)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, -1)
+```
+
+
+## Filtering Data
+Similar to reducing the number of columns during data exploration, it is important to be able to reduce the number of rows, which can be performed by creating a subsection of data based on a single, or multiple, values.
+
+
+### Filter single column by character value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(40)
+ingredients_table(40)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name == "text")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::select(df, country == "Canada")
+```
+
+
+### Filter single column by numeric value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(41)
+ingredients_table(41)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name == number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 == 5)
+```
+
+
+### Filter single column by multiple character values
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(42)
+ingredients_table(42)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name %in% c("text", "text", "text"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 %in% c("NS", "NB", "PE"))
+```
+
+
+### Filter single column by multiple numeric values
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(43)
+ingredients_table(43)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name %in% c(number, number, number))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 %in% c(5, 10, 15))
+```
+
+
+### Filter single column by range of numeric values
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(44)
+ingredients_table(44)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, package::function(column, low value, high value))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, dplyr::between(column1, 5, 10))
+```
+
+
+### Filter numeric data larger than
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(45)
+ingredients_table(45)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, > number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 > 5)
+```
+
+
+### Filter numeric data smaller than
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(46)
+ingredients_table(46)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, > number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 < 5)
+```
+
+
+### Filter multiple columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(47)
+ingredients_table(47)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column1 == "text", column2 == number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 == "Canada", column2 == 10)
+```
+
+
+### Filter multiple columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(48)
+ingredients_table(48)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column1 == "text" || column2 == number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, column1 == "Canada" || column2 == 10)
+```
+
+
+### Filter when multiple character values not in a column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(49)
+ingredients_table(49)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, !column_name %in% c("text1", "text2", "text3"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::filter(df, !column1 %in% c("NS", "NB", "PE"))
+```
+
+
+## Combining Commands
+### Select specific columns and filter column by character value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(50)
+ingredients_table(50)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+data %>%
+  package::function(column_name1, column_name2, column_name3) %>%
+  package::function(column_name1 %in% c("text1", "text2", "text3"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+df %>%
+  dplyr::select(column1, column2, column3) %>%
+  dplyr::filter(column1 %in% c("NS", "NB", "PE"))
+```

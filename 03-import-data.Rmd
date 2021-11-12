@@ -1,0 +1,360 @@
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("/home/ryangarnett/Github/recipe_book/data/source_recipes.csv")
+```
+
+# Importing Data
+Data are the ingredients needed for all successful analytic undertaking. The volume and diversity of data created daily is increasing dramatically from various different sources. Importing data is a necessary and staple step for any analytics projects.
+
+> *The amount of data we produce every day is truly mind-boggling. There are 2.5 quintillion bytes of data created each day at our current pace, but that pace is only accelerating with the growth of the Internet of Things (IoT). Over the last two years alone 90 percent of the data in the world was generated <br> Bernard Marr <br> [Forbes](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/?sh=2a1d02760ba9)*
+
+
+## CSV Files
+A comma separated value (CSV) file is a file format commonly used to store rectangular structured data, especially with data analytics projects. The next few recipes leverage the `readr` package for importing CSV files.
+
+### Import CSV File macOS
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(19)
+ingredients_table(19)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.csv")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("/data/sample.csv")
+```
+
+
+### Import CSV File Windows
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(21)
+ingredients_table(21)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.csv")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("C:/data/sample.csv")
+```
+
+
+### Import CSV File Linux
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(20)
+ingredients_table(20)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("~/file_path/file_name.csv")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("~/data/sample.csv")
+```
+
+
+### Import CSV from GitHub
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(22)
+ingredients_table(22)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("url/file_name.csv")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.csv")
+```
+
+
+### Skip Rows on CSV Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(23)
+ingredients_table(23)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.csv", skip = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("C:/data/sample.csv", skip = 2)
+```
+
+
+### Skip Blank Rows on CSV Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(24)
+ingredients_table(24)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.csv", skip = TRUE)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("C:/data/sample.csv", skip = TRUE)
+```
+
+
+### Read Number of Rows on CSV Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(25)
+ingredients_table(25)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.csv", n_max = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readr::read_csv("file_path/file_name.csv", n_max = 1000)
+```
+
+
+### Read Specific Columns on CSV Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(26)
+ingredients_table(26)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+object_name <- package::function(column1 = col_data_type(),
+                         column2 = col_data_type())
+
+package::function("file_path/file_name.csv", col_types = object_name)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+selected_columns <- readr::cols_only(name = col_character(),
+                              age = col_double())
+
+readr::read_csv("file_path/file_name.csv", col_types = selected_columns)
+```
+
+
+## Excel Files
+Within many organizations Excel files are a file format commonly used to store rectangular structured data. The next few recipes leverage the `readxl` package for importing Excel files.
+
+### Import Excel File
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(27)
+ingredients_table(27)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.xlsx")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readxl::read_excel("C:/data/sample.xlsx")
+```
+
+
+### Skip Rows on Excel Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(28)
+ingredients_table(28)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.xlsx", skip = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readxl::read_excel("C:/data/sample.xlsx", skip = 2)
+```
+
+
+### Read Number of Rows on Excel Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(29)
+ingredients_table(29)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.xlsx", n_max = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
+```
+
+
+### Read Specific Sheet on Excel Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(30)
+ingredients_table(30)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.xlsx", sheet = "sheet_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
+```
+
+
+### Read Range of Cells on Excel Import
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(31)
+ingredients_table(31)
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function("file_path/file_name.xlsx", range = "upper left cell ID:lower right cell ID")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+readxl::read_excel("C:/data/sample.xlsx", range = "B2:D25")
+```
