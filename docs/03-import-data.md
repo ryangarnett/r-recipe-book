@@ -14,12 +14,12 @@ A comma separated value (CSV) file is a file format commonly used to store recta
 ### Import CSV File macOS
 
 ```{=html}
-<div id="nnngndehvs" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qsxdjgkrop" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#nnngndehvs .gt_table {
+#qsxdjgkrop .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -44,7 +44,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-left-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_heading {
+#qsxdjgkrop .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -56,7 +56,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_title {
+#qsxdjgkrop .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -66,7 +66,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-bottom-width: 0;
 }
 
-#nnngndehvs .gt_subtitle {
+#qsxdjgkrop .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -76,13 +76,13 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-top-width: 0;
 }
 
-#nnngndehvs .gt_bottom_border {
+#qsxdjgkrop .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_col_headings {
+#qsxdjgkrop .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -97,7 +97,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_col_heading {
+#qsxdjgkrop .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -117,7 +117,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   overflow-x: hidden;
 }
 
-#nnngndehvs .gt_column_spanner_outer {
+#qsxdjgkrop .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -129,15 +129,15 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-right: 4px;
 }
 
-#nnngndehvs .gt_column_spanner_outer:first-child {
+#qsxdjgkrop .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nnngndehvs .gt_column_spanner_outer:last-child {
+#qsxdjgkrop .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nnngndehvs .gt_column_spanner {
+#qsxdjgkrop .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -149,7 +149,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   width: 100%;
 }
 
-#nnngndehvs .gt_group_heading {
+#qsxdjgkrop .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -171,7 +171,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   vertical-align: middle;
 }
 
-#nnngndehvs .gt_empty_group_heading {
+#qsxdjgkrop .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -186,15 +186,15 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   vertical-align: middle;
 }
 
-#nnngndehvs .gt_from_md > :first-child {
+#qsxdjgkrop .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#nnngndehvs .gt_from_md > :last-child {
+#qsxdjgkrop .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#nnngndehvs .gt_row {
+#qsxdjgkrop .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -213,7 +213,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   overflow-x: hidden;
 }
 
-#nnngndehvs .gt_stub {
+#qsxdjgkrop .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -225,7 +225,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-left: 12px;
 }
 
-#nnngndehvs .gt_summary_row {
+#qsxdjgkrop .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -235,7 +235,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-right: 5px;
 }
 
-#nnngndehvs .gt_first_summary_row {
+#qsxdjgkrop .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -245,7 +245,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-top-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_grand_summary_row {
+#qsxdjgkrop .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -255,7 +255,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-right: 5px;
 }
 
-#nnngndehvs .gt_first_grand_summary_row {
+#qsxdjgkrop .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -265,11 +265,11 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-top-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_striped {
+#qsxdjgkrop .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nnngndehvs .gt_table_body {
+#qsxdjgkrop .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -278,7 +278,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-bottom-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_footnotes {
+#qsxdjgkrop .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -292,13 +292,13 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_footnote {
+#qsxdjgkrop .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nnngndehvs .gt_sourcenotes {
+#qsxdjgkrop .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -312,41 +312,41 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#nnngndehvs .gt_sourcenote {
+#qsxdjgkrop .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nnngndehvs .gt_left {
+#qsxdjgkrop .gt_left {
   text-align: left;
 }
 
-#nnngndehvs .gt_center {
+#qsxdjgkrop .gt_center {
   text-align: center;
 }
 
-#nnngndehvs .gt_right {
+#qsxdjgkrop .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nnngndehvs .gt_font_normal {
+#qsxdjgkrop .gt_font_normal {
   font-weight: normal;
 }
 
-#nnngndehvs .gt_font_bold {
+#qsxdjgkrop .gt_font_bold {
   font-weight: bold;
 }
 
-#nnngndehvs .gt_font_italic {
+#qsxdjgkrop .gt_font_italic {
   font-style: italic;
 }
 
-#nnngndehvs .gt_super {
+#qsxdjgkrop .gt_super {
   font-size: 65%;
 }
 
-#nnngndehvs .gt_footnote_marks {
+#qsxdjgkrop .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -375,12 +375,12 @@ A comma separated value (CSV) file is a file format commonly used to store recta
 ```
 
 ```{=html}
-<div id="bxgoozzkqf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jqhwkinjmo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bxgoozzkqf .gt_table {
+#jqhwkinjmo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -405,7 +405,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-left-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_heading {
+#jqhwkinjmo .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -417,7 +417,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_title {
+#jqhwkinjmo .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -427,7 +427,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-bottom-width: 0;
 }
 
-#bxgoozzkqf .gt_subtitle {
+#jqhwkinjmo .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -437,13 +437,13 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-top-width: 0;
 }
 
-#bxgoozzkqf .gt_bottom_border {
+#jqhwkinjmo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_col_headings {
+#jqhwkinjmo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -458,7 +458,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_col_heading {
+#jqhwkinjmo .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -478,7 +478,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   overflow-x: hidden;
 }
 
-#bxgoozzkqf .gt_column_spanner_outer {
+#jqhwkinjmo .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -490,15 +490,15 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-right: 4px;
 }
 
-#bxgoozzkqf .gt_column_spanner_outer:first-child {
+#jqhwkinjmo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bxgoozzkqf .gt_column_spanner_outer:last-child {
+#jqhwkinjmo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bxgoozzkqf .gt_column_spanner {
+#jqhwkinjmo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -510,7 +510,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   width: 100%;
 }
 
-#bxgoozzkqf .gt_group_heading {
+#jqhwkinjmo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -532,7 +532,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   vertical-align: middle;
 }
 
-#bxgoozzkqf .gt_empty_group_heading {
+#jqhwkinjmo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -547,15 +547,15 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   vertical-align: middle;
 }
 
-#bxgoozzkqf .gt_from_md > :first-child {
+#jqhwkinjmo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bxgoozzkqf .gt_from_md > :last-child {
+#jqhwkinjmo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bxgoozzkqf .gt_row {
+#jqhwkinjmo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -574,7 +574,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   overflow-x: hidden;
 }
 
-#bxgoozzkqf .gt_stub {
+#jqhwkinjmo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -586,7 +586,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-left: 12px;
 }
 
-#bxgoozzkqf .gt_summary_row {
+#jqhwkinjmo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -596,7 +596,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-right: 5px;
 }
 
-#bxgoozzkqf .gt_first_summary_row {
+#jqhwkinjmo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -606,7 +606,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-top-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_grand_summary_row {
+#jqhwkinjmo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -616,7 +616,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   padding-right: 5px;
 }
 
-#bxgoozzkqf .gt_first_grand_summary_row {
+#jqhwkinjmo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -626,11 +626,11 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-top-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_striped {
+#jqhwkinjmo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bxgoozzkqf .gt_table_body {
+#jqhwkinjmo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -639,7 +639,7 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-bottom-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_footnotes {
+#jqhwkinjmo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -653,13 +653,13 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_footnote {
+#jqhwkinjmo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bxgoozzkqf .gt_sourcenotes {
+#jqhwkinjmo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -673,41 +673,41 @@ A comma separated value (CSV) file is a file format commonly used to store recta
   border-right-color: #D3D3D3;
 }
 
-#bxgoozzkqf .gt_sourcenote {
+#jqhwkinjmo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bxgoozzkqf .gt_left {
+#jqhwkinjmo .gt_left {
   text-align: left;
 }
 
-#bxgoozzkqf .gt_center {
+#jqhwkinjmo .gt_center {
   text-align: center;
 }
 
-#bxgoozzkqf .gt_right {
+#jqhwkinjmo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bxgoozzkqf .gt_font_normal {
+#jqhwkinjmo .gt_font_normal {
   font-weight: normal;
 }
 
-#bxgoozzkqf .gt_font_bold {
+#jqhwkinjmo .gt_font_bold {
   font-weight: bold;
 }
 
-#bxgoozzkqf .gt_font_italic {
+#jqhwkinjmo .gt_font_italic {
   font-style: italic;
 }
 
-#bxgoozzkqf .gt_super {
+#jqhwkinjmo .gt_super {
   font-size: 65%;
 }
 
-#bxgoozzkqf .gt_footnote_marks {
+#jqhwkinjmo .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -762,12 +762,12 @@ readr::read_csv("/data/sample.csv")
 ### Import CSV File Windows
 
 ```{=html}
-<div id="dqhmejaeuv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="myzjnnkqkf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#dqhmejaeuv .gt_table {
+#myzjnnkqkf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -792,7 +792,7 @@ readr::read_csv("/data/sample.csv")
   border-left-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_heading {
+#myzjnnkqkf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -804,7 +804,7 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_title {
+#myzjnnkqkf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -814,7 +814,7 @@ readr::read_csv("/data/sample.csv")
   border-bottom-width: 0;
 }
 
-#dqhmejaeuv .gt_subtitle {
+#myzjnnkqkf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -824,13 +824,13 @@ readr::read_csv("/data/sample.csv")
   border-top-width: 0;
 }
 
-#dqhmejaeuv .gt_bottom_border {
+#myzjnnkqkf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_col_headings {
+#myzjnnkqkf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -845,7 +845,7 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_col_heading {
+#myzjnnkqkf .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -865,7 +865,7 @@ readr::read_csv("/data/sample.csv")
   overflow-x: hidden;
 }
 
-#dqhmejaeuv .gt_column_spanner_outer {
+#myzjnnkqkf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -877,15 +877,15 @@ readr::read_csv("/data/sample.csv")
   padding-right: 4px;
 }
 
-#dqhmejaeuv .gt_column_spanner_outer:first-child {
+#myzjnnkqkf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dqhmejaeuv .gt_column_spanner_outer:last-child {
+#myzjnnkqkf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dqhmejaeuv .gt_column_spanner {
+#myzjnnkqkf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -897,7 +897,7 @@ readr::read_csv("/data/sample.csv")
   width: 100%;
 }
 
-#dqhmejaeuv .gt_group_heading {
+#myzjnnkqkf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -919,7 +919,7 @@ readr::read_csv("/data/sample.csv")
   vertical-align: middle;
 }
 
-#dqhmejaeuv .gt_empty_group_heading {
+#myzjnnkqkf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -934,15 +934,15 @@ readr::read_csv("/data/sample.csv")
   vertical-align: middle;
 }
 
-#dqhmejaeuv .gt_from_md > :first-child {
+#myzjnnkqkf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#dqhmejaeuv .gt_from_md > :last-child {
+#myzjnnkqkf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#dqhmejaeuv .gt_row {
+#myzjnnkqkf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -961,7 +961,7 @@ readr::read_csv("/data/sample.csv")
   overflow-x: hidden;
 }
 
-#dqhmejaeuv .gt_stub {
+#myzjnnkqkf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -973,7 +973,7 @@ readr::read_csv("/data/sample.csv")
   padding-left: 12px;
 }
 
-#dqhmejaeuv .gt_summary_row {
+#myzjnnkqkf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -983,7 +983,7 @@ readr::read_csv("/data/sample.csv")
   padding-right: 5px;
 }
 
-#dqhmejaeuv .gt_first_summary_row {
+#myzjnnkqkf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -993,7 +993,7 @@ readr::read_csv("/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_grand_summary_row {
+#myzjnnkqkf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1003,7 +1003,7 @@ readr::read_csv("/data/sample.csv")
   padding-right: 5px;
 }
 
-#dqhmejaeuv .gt_first_grand_summary_row {
+#myzjnnkqkf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1013,11 +1013,11 @@ readr::read_csv("/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_striped {
+#myzjnnkqkf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dqhmejaeuv .gt_table_body {
+#myzjnnkqkf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1026,7 +1026,7 @@ readr::read_csv("/data/sample.csv")
   border-bottom-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_footnotes {
+#myzjnnkqkf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1040,13 +1040,13 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_footnote {
+#myzjnnkqkf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#dqhmejaeuv .gt_sourcenotes {
+#myzjnnkqkf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1060,41 +1060,41 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#dqhmejaeuv .gt_sourcenote {
+#myzjnnkqkf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#dqhmejaeuv .gt_left {
+#myzjnnkqkf .gt_left {
   text-align: left;
 }
 
-#dqhmejaeuv .gt_center {
+#myzjnnkqkf .gt_center {
   text-align: center;
 }
 
-#dqhmejaeuv .gt_right {
+#myzjnnkqkf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dqhmejaeuv .gt_font_normal {
+#myzjnnkqkf .gt_font_normal {
   font-weight: normal;
 }
 
-#dqhmejaeuv .gt_font_bold {
+#myzjnnkqkf .gt_font_bold {
   font-weight: bold;
 }
 
-#dqhmejaeuv .gt_font_italic {
+#myzjnnkqkf .gt_font_italic {
   font-style: italic;
 }
 
-#dqhmejaeuv .gt_super {
+#myzjnnkqkf .gt_super {
   font-size: 65%;
 }
 
-#dqhmejaeuv .gt_footnote_marks {
+#myzjnnkqkf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1123,12 +1123,12 @@ readr::read_csv("/data/sample.csv")
 ```
 
 ```{=html}
-<div id="mhuczdymgu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jdjvujobct" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#mhuczdymgu .gt_table {
+#jdjvujobct .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1153,7 +1153,7 @@ readr::read_csv("/data/sample.csv")
   border-left-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_heading {
+#jdjvujobct .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1165,7 +1165,7 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_title {
+#jdjvujobct .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1175,7 +1175,7 @@ readr::read_csv("/data/sample.csv")
   border-bottom-width: 0;
 }
 
-#mhuczdymgu .gt_subtitle {
+#jdjvujobct .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1185,13 +1185,13 @@ readr::read_csv("/data/sample.csv")
   border-top-width: 0;
 }
 
-#mhuczdymgu .gt_bottom_border {
+#jdjvujobct .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_col_headings {
+#jdjvujobct .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1206,7 +1206,7 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_col_heading {
+#jdjvujobct .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1226,7 +1226,7 @@ readr::read_csv("/data/sample.csv")
   overflow-x: hidden;
 }
 
-#mhuczdymgu .gt_column_spanner_outer {
+#jdjvujobct .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1238,15 +1238,15 @@ readr::read_csv("/data/sample.csv")
   padding-right: 4px;
 }
 
-#mhuczdymgu .gt_column_spanner_outer:first-child {
+#jdjvujobct .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#mhuczdymgu .gt_column_spanner_outer:last-child {
+#jdjvujobct .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#mhuczdymgu .gt_column_spanner {
+#jdjvujobct .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1258,7 +1258,7 @@ readr::read_csv("/data/sample.csv")
   width: 100%;
 }
 
-#mhuczdymgu .gt_group_heading {
+#jdjvujobct .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1280,7 +1280,7 @@ readr::read_csv("/data/sample.csv")
   vertical-align: middle;
 }
 
-#mhuczdymgu .gt_empty_group_heading {
+#jdjvujobct .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1295,15 +1295,15 @@ readr::read_csv("/data/sample.csv")
   vertical-align: middle;
 }
 
-#mhuczdymgu .gt_from_md > :first-child {
+#jdjvujobct .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#mhuczdymgu .gt_from_md > :last-child {
+#jdjvujobct .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#mhuczdymgu .gt_row {
+#jdjvujobct .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1322,7 +1322,7 @@ readr::read_csv("/data/sample.csv")
   overflow-x: hidden;
 }
 
-#mhuczdymgu .gt_stub {
+#jdjvujobct .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1334,7 +1334,7 @@ readr::read_csv("/data/sample.csv")
   padding-left: 12px;
 }
 
-#mhuczdymgu .gt_summary_row {
+#jdjvujobct .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1344,7 +1344,7 @@ readr::read_csv("/data/sample.csv")
   padding-right: 5px;
 }
 
-#mhuczdymgu .gt_first_summary_row {
+#jdjvujobct .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1354,7 +1354,7 @@ readr::read_csv("/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_grand_summary_row {
+#jdjvujobct .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1364,7 +1364,7 @@ readr::read_csv("/data/sample.csv")
   padding-right: 5px;
 }
 
-#mhuczdymgu .gt_first_grand_summary_row {
+#jdjvujobct .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1374,11 +1374,11 @@ readr::read_csv("/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_striped {
+#jdjvujobct .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#mhuczdymgu .gt_table_body {
+#jdjvujobct .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1387,7 +1387,7 @@ readr::read_csv("/data/sample.csv")
   border-bottom-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_footnotes {
+#jdjvujobct .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1401,13 +1401,13 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_footnote {
+#jdjvujobct .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#mhuczdymgu .gt_sourcenotes {
+#jdjvujobct .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1421,41 +1421,41 @@ readr::read_csv("/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#mhuczdymgu .gt_sourcenote {
+#jdjvujobct .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#mhuczdymgu .gt_left {
+#jdjvujobct .gt_left {
   text-align: left;
 }
 
-#mhuczdymgu .gt_center {
+#jdjvujobct .gt_center {
   text-align: center;
 }
 
-#mhuczdymgu .gt_right {
+#jdjvujobct .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#mhuczdymgu .gt_font_normal {
+#jdjvujobct .gt_font_normal {
   font-weight: normal;
 }
 
-#mhuczdymgu .gt_font_bold {
+#jdjvujobct .gt_font_bold {
   font-weight: bold;
 }
 
-#mhuczdymgu .gt_font_italic {
+#jdjvujobct .gt_font_italic {
   font-style: italic;
 }
 
-#mhuczdymgu .gt_super {
+#jdjvujobct .gt_super {
   font-size: 65%;
 }
 
-#mhuczdymgu .gt_footnote_marks {
+#jdjvujobct .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1510,12 +1510,12 @@ readr::read_csv("C:/data/sample.csv")
 ### Import CSV File Linux
 
 ```{=html}
-<div id="bhdzblkxvz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ffkelmvlzo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bhdzblkxvz .gt_table {
+#ffkelmvlzo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1540,7 +1540,7 @@ readr::read_csv("C:/data/sample.csv")
   border-left-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_heading {
+#ffkelmvlzo .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1552,7 +1552,7 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_title {
+#ffkelmvlzo .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1562,7 +1562,7 @@ readr::read_csv("C:/data/sample.csv")
   border-bottom-width: 0;
 }
 
-#bhdzblkxvz .gt_subtitle {
+#ffkelmvlzo .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1572,13 +1572,13 @@ readr::read_csv("C:/data/sample.csv")
   border-top-width: 0;
 }
 
-#bhdzblkxvz .gt_bottom_border {
+#ffkelmvlzo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_col_headings {
+#ffkelmvlzo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1593,7 +1593,7 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_col_heading {
+#ffkelmvlzo .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1613,7 +1613,7 @@ readr::read_csv("C:/data/sample.csv")
   overflow-x: hidden;
 }
 
-#bhdzblkxvz .gt_column_spanner_outer {
+#ffkelmvlzo .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1625,15 +1625,15 @@ readr::read_csv("C:/data/sample.csv")
   padding-right: 4px;
 }
 
-#bhdzblkxvz .gt_column_spanner_outer:first-child {
+#ffkelmvlzo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bhdzblkxvz .gt_column_spanner_outer:last-child {
+#ffkelmvlzo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bhdzblkxvz .gt_column_spanner {
+#ffkelmvlzo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1645,7 +1645,7 @@ readr::read_csv("C:/data/sample.csv")
   width: 100%;
 }
 
-#bhdzblkxvz .gt_group_heading {
+#ffkelmvlzo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1667,7 +1667,7 @@ readr::read_csv("C:/data/sample.csv")
   vertical-align: middle;
 }
 
-#bhdzblkxvz .gt_empty_group_heading {
+#ffkelmvlzo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1682,15 +1682,15 @@ readr::read_csv("C:/data/sample.csv")
   vertical-align: middle;
 }
 
-#bhdzblkxvz .gt_from_md > :first-child {
+#ffkelmvlzo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bhdzblkxvz .gt_from_md > :last-child {
+#ffkelmvlzo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bhdzblkxvz .gt_row {
+#ffkelmvlzo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1709,7 +1709,7 @@ readr::read_csv("C:/data/sample.csv")
   overflow-x: hidden;
 }
 
-#bhdzblkxvz .gt_stub {
+#ffkelmvlzo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1721,7 +1721,7 @@ readr::read_csv("C:/data/sample.csv")
   padding-left: 12px;
 }
 
-#bhdzblkxvz .gt_summary_row {
+#ffkelmvlzo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1731,7 +1731,7 @@ readr::read_csv("C:/data/sample.csv")
   padding-right: 5px;
 }
 
-#bhdzblkxvz .gt_first_summary_row {
+#ffkelmvlzo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1741,7 +1741,7 @@ readr::read_csv("C:/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_grand_summary_row {
+#ffkelmvlzo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1751,7 +1751,7 @@ readr::read_csv("C:/data/sample.csv")
   padding-right: 5px;
 }
 
-#bhdzblkxvz .gt_first_grand_summary_row {
+#ffkelmvlzo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1761,11 +1761,11 @@ readr::read_csv("C:/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_striped {
+#ffkelmvlzo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bhdzblkxvz .gt_table_body {
+#ffkelmvlzo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1774,7 +1774,7 @@ readr::read_csv("C:/data/sample.csv")
   border-bottom-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_footnotes {
+#ffkelmvlzo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1788,13 +1788,13 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_footnote {
+#ffkelmvlzo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bhdzblkxvz .gt_sourcenotes {
+#ffkelmvlzo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1808,41 +1808,41 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#bhdzblkxvz .gt_sourcenote {
+#ffkelmvlzo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bhdzblkxvz .gt_left {
+#ffkelmvlzo .gt_left {
   text-align: left;
 }
 
-#bhdzblkxvz .gt_center {
+#ffkelmvlzo .gt_center {
   text-align: center;
 }
 
-#bhdzblkxvz .gt_right {
+#ffkelmvlzo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bhdzblkxvz .gt_font_normal {
+#ffkelmvlzo .gt_font_normal {
   font-weight: normal;
 }
 
-#bhdzblkxvz .gt_font_bold {
+#ffkelmvlzo .gt_font_bold {
   font-weight: bold;
 }
 
-#bhdzblkxvz .gt_font_italic {
+#ffkelmvlzo .gt_font_italic {
   font-style: italic;
 }
 
-#bhdzblkxvz .gt_super {
+#ffkelmvlzo .gt_super {
   font-size: 65%;
 }
 
-#bhdzblkxvz .gt_footnote_marks {
+#ffkelmvlzo .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1871,12 +1871,12 @@ readr::read_csv("C:/data/sample.csv")
 ```
 
 ```{=html}
-<div id="zalhsmjmxb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="sfhzkoqdtb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zalhsmjmxb .gt_table {
+#sfhzkoqdtb .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1901,7 +1901,7 @@ readr::read_csv("C:/data/sample.csv")
   border-left-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_heading {
+#sfhzkoqdtb .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1913,7 +1913,7 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_title {
+#sfhzkoqdtb .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1923,7 +1923,7 @@ readr::read_csv("C:/data/sample.csv")
   border-bottom-width: 0;
 }
 
-#zalhsmjmxb .gt_subtitle {
+#sfhzkoqdtb .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1933,13 +1933,13 @@ readr::read_csv("C:/data/sample.csv")
   border-top-width: 0;
 }
 
-#zalhsmjmxb .gt_bottom_border {
+#sfhzkoqdtb .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_col_headings {
+#sfhzkoqdtb .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1954,7 +1954,7 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_col_heading {
+#sfhzkoqdtb .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1974,7 +1974,7 @@ readr::read_csv("C:/data/sample.csv")
   overflow-x: hidden;
 }
 
-#zalhsmjmxb .gt_column_spanner_outer {
+#sfhzkoqdtb .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1986,15 +1986,15 @@ readr::read_csv("C:/data/sample.csv")
   padding-right: 4px;
 }
 
-#zalhsmjmxb .gt_column_spanner_outer:first-child {
+#sfhzkoqdtb .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zalhsmjmxb .gt_column_spanner_outer:last-child {
+#sfhzkoqdtb .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zalhsmjmxb .gt_column_spanner {
+#sfhzkoqdtb .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2006,7 +2006,7 @@ readr::read_csv("C:/data/sample.csv")
   width: 100%;
 }
 
-#zalhsmjmxb .gt_group_heading {
+#sfhzkoqdtb .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2028,7 +2028,7 @@ readr::read_csv("C:/data/sample.csv")
   vertical-align: middle;
 }
 
-#zalhsmjmxb .gt_empty_group_heading {
+#sfhzkoqdtb .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2043,15 +2043,15 @@ readr::read_csv("C:/data/sample.csv")
   vertical-align: middle;
 }
 
-#zalhsmjmxb .gt_from_md > :first-child {
+#sfhzkoqdtb .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zalhsmjmxb .gt_from_md > :last-child {
+#sfhzkoqdtb .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zalhsmjmxb .gt_row {
+#sfhzkoqdtb .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2070,7 +2070,7 @@ readr::read_csv("C:/data/sample.csv")
   overflow-x: hidden;
 }
 
-#zalhsmjmxb .gt_stub {
+#sfhzkoqdtb .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2082,7 +2082,7 @@ readr::read_csv("C:/data/sample.csv")
   padding-left: 12px;
 }
 
-#zalhsmjmxb .gt_summary_row {
+#sfhzkoqdtb .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2092,7 +2092,7 @@ readr::read_csv("C:/data/sample.csv")
   padding-right: 5px;
 }
 
-#zalhsmjmxb .gt_first_summary_row {
+#sfhzkoqdtb .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2102,7 +2102,7 @@ readr::read_csv("C:/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_grand_summary_row {
+#sfhzkoqdtb .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2112,7 +2112,7 @@ readr::read_csv("C:/data/sample.csv")
   padding-right: 5px;
 }
 
-#zalhsmjmxb .gt_first_grand_summary_row {
+#sfhzkoqdtb .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2122,11 +2122,11 @@ readr::read_csv("C:/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_striped {
+#sfhzkoqdtb .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zalhsmjmxb .gt_table_body {
+#sfhzkoqdtb .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2135,7 +2135,7 @@ readr::read_csv("C:/data/sample.csv")
   border-bottom-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_footnotes {
+#sfhzkoqdtb .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2149,13 +2149,13 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_footnote {
+#sfhzkoqdtb .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zalhsmjmxb .gt_sourcenotes {
+#sfhzkoqdtb .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2169,41 +2169,41 @@ readr::read_csv("C:/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#zalhsmjmxb .gt_sourcenote {
+#sfhzkoqdtb .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zalhsmjmxb .gt_left {
+#sfhzkoqdtb .gt_left {
   text-align: left;
 }
 
-#zalhsmjmxb .gt_center {
+#sfhzkoqdtb .gt_center {
   text-align: center;
 }
 
-#zalhsmjmxb .gt_right {
+#sfhzkoqdtb .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zalhsmjmxb .gt_font_normal {
+#sfhzkoqdtb .gt_font_normal {
   font-weight: normal;
 }
 
-#zalhsmjmxb .gt_font_bold {
+#sfhzkoqdtb .gt_font_bold {
   font-weight: bold;
 }
 
-#zalhsmjmxb .gt_font_italic {
+#sfhzkoqdtb .gt_font_italic {
   font-style: italic;
 }
 
-#zalhsmjmxb .gt_super {
+#sfhzkoqdtb .gt_super {
   font-size: 65%;
 }
 
-#zalhsmjmxb .gt_footnote_marks {
+#sfhzkoqdtb .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2258,12 +2258,12 @@ readr::read_csv("~/data/sample.csv")
 ### Import CSV from GitHub
 
 ```{=html}
-<div id="fmkxvgmigc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kzvhnxbkyd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#fmkxvgmigc .gt_table {
+#kzvhnxbkyd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2288,7 +2288,7 @@ readr::read_csv("~/data/sample.csv")
   border-left-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_heading {
+#kzvhnxbkyd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2300,7 +2300,7 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_title {
+#kzvhnxbkyd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2310,7 +2310,7 @@ readr::read_csv("~/data/sample.csv")
   border-bottom-width: 0;
 }
 
-#fmkxvgmigc .gt_subtitle {
+#kzvhnxbkyd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2320,13 +2320,13 @@ readr::read_csv("~/data/sample.csv")
   border-top-width: 0;
 }
 
-#fmkxvgmigc .gt_bottom_border {
+#kzvhnxbkyd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_col_headings {
+#kzvhnxbkyd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2341,7 +2341,7 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_col_heading {
+#kzvhnxbkyd .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2361,7 +2361,7 @@ readr::read_csv("~/data/sample.csv")
   overflow-x: hidden;
 }
 
-#fmkxvgmigc .gt_column_spanner_outer {
+#kzvhnxbkyd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2373,15 +2373,15 @@ readr::read_csv("~/data/sample.csv")
   padding-right: 4px;
 }
 
-#fmkxvgmigc .gt_column_spanner_outer:first-child {
+#kzvhnxbkyd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fmkxvgmigc .gt_column_spanner_outer:last-child {
+#kzvhnxbkyd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fmkxvgmigc .gt_column_spanner {
+#kzvhnxbkyd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2393,7 +2393,7 @@ readr::read_csv("~/data/sample.csv")
   width: 100%;
 }
 
-#fmkxvgmigc .gt_group_heading {
+#kzvhnxbkyd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2415,7 +2415,7 @@ readr::read_csv("~/data/sample.csv")
   vertical-align: middle;
 }
 
-#fmkxvgmigc .gt_empty_group_heading {
+#kzvhnxbkyd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2430,15 +2430,15 @@ readr::read_csv("~/data/sample.csv")
   vertical-align: middle;
 }
 
-#fmkxvgmigc .gt_from_md > :first-child {
+#kzvhnxbkyd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fmkxvgmigc .gt_from_md > :last-child {
+#kzvhnxbkyd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fmkxvgmigc .gt_row {
+#kzvhnxbkyd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2457,7 +2457,7 @@ readr::read_csv("~/data/sample.csv")
   overflow-x: hidden;
 }
 
-#fmkxvgmigc .gt_stub {
+#kzvhnxbkyd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2469,7 +2469,7 @@ readr::read_csv("~/data/sample.csv")
   padding-left: 12px;
 }
 
-#fmkxvgmigc .gt_summary_row {
+#kzvhnxbkyd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2479,7 +2479,7 @@ readr::read_csv("~/data/sample.csv")
   padding-right: 5px;
 }
 
-#fmkxvgmigc .gt_first_summary_row {
+#kzvhnxbkyd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2489,7 +2489,7 @@ readr::read_csv("~/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_grand_summary_row {
+#kzvhnxbkyd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2499,7 +2499,7 @@ readr::read_csv("~/data/sample.csv")
   padding-right: 5px;
 }
 
-#fmkxvgmigc .gt_first_grand_summary_row {
+#kzvhnxbkyd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2509,11 +2509,11 @@ readr::read_csv("~/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_striped {
+#kzvhnxbkyd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fmkxvgmigc .gt_table_body {
+#kzvhnxbkyd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2522,7 +2522,7 @@ readr::read_csv("~/data/sample.csv")
   border-bottom-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_footnotes {
+#kzvhnxbkyd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2536,13 +2536,13 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_footnote {
+#kzvhnxbkyd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#fmkxvgmigc .gt_sourcenotes {
+#kzvhnxbkyd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2556,41 +2556,41 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#fmkxvgmigc .gt_sourcenote {
+#kzvhnxbkyd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#fmkxvgmigc .gt_left {
+#kzvhnxbkyd .gt_left {
   text-align: left;
 }
 
-#fmkxvgmigc .gt_center {
+#kzvhnxbkyd .gt_center {
   text-align: center;
 }
 
-#fmkxvgmigc .gt_right {
+#kzvhnxbkyd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fmkxvgmigc .gt_font_normal {
+#kzvhnxbkyd .gt_font_normal {
   font-weight: normal;
 }
 
-#fmkxvgmigc .gt_font_bold {
+#kzvhnxbkyd .gt_font_bold {
   font-weight: bold;
 }
 
-#fmkxvgmigc .gt_font_italic {
+#kzvhnxbkyd .gt_font_italic {
   font-style: italic;
 }
 
-#fmkxvgmigc .gt_super {
+#kzvhnxbkyd .gt_super {
   font-size: 65%;
 }
 
-#fmkxvgmigc .gt_footnote_marks {
+#kzvhnxbkyd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2619,12 +2619,12 @@ readr::read_csv("~/data/sample.csv")
 ```
 
 ```{=html}
-<div id="epycvvpyfw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xlpfgkdqub" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#epycvvpyfw .gt_table {
+#xlpfgkdqub .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2649,7 +2649,7 @@ readr::read_csv("~/data/sample.csv")
   border-left-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_heading {
+#xlpfgkdqub .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2661,7 +2661,7 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_title {
+#xlpfgkdqub .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2671,7 +2671,7 @@ readr::read_csv("~/data/sample.csv")
   border-bottom-width: 0;
 }
 
-#epycvvpyfw .gt_subtitle {
+#xlpfgkdqub .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2681,13 +2681,13 @@ readr::read_csv("~/data/sample.csv")
   border-top-width: 0;
 }
 
-#epycvvpyfw .gt_bottom_border {
+#xlpfgkdqub .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_col_headings {
+#xlpfgkdqub .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2702,7 +2702,7 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_col_heading {
+#xlpfgkdqub .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2722,7 +2722,7 @@ readr::read_csv("~/data/sample.csv")
   overflow-x: hidden;
 }
 
-#epycvvpyfw .gt_column_spanner_outer {
+#xlpfgkdqub .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2734,15 +2734,15 @@ readr::read_csv("~/data/sample.csv")
   padding-right: 4px;
 }
 
-#epycvvpyfw .gt_column_spanner_outer:first-child {
+#xlpfgkdqub .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#epycvvpyfw .gt_column_spanner_outer:last-child {
+#xlpfgkdqub .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#epycvvpyfw .gt_column_spanner {
+#xlpfgkdqub .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2754,7 +2754,7 @@ readr::read_csv("~/data/sample.csv")
   width: 100%;
 }
 
-#epycvvpyfw .gt_group_heading {
+#xlpfgkdqub .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2776,7 +2776,7 @@ readr::read_csv("~/data/sample.csv")
   vertical-align: middle;
 }
 
-#epycvvpyfw .gt_empty_group_heading {
+#xlpfgkdqub .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2791,15 +2791,15 @@ readr::read_csv("~/data/sample.csv")
   vertical-align: middle;
 }
 
-#epycvvpyfw .gt_from_md > :first-child {
+#xlpfgkdqub .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#epycvvpyfw .gt_from_md > :last-child {
+#xlpfgkdqub .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#epycvvpyfw .gt_row {
+#xlpfgkdqub .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2818,7 +2818,7 @@ readr::read_csv("~/data/sample.csv")
   overflow-x: hidden;
 }
 
-#epycvvpyfw .gt_stub {
+#xlpfgkdqub .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2830,7 +2830,7 @@ readr::read_csv("~/data/sample.csv")
   padding-left: 12px;
 }
 
-#epycvvpyfw .gt_summary_row {
+#xlpfgkdqub .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2840,7 +2840,7 @@ readr::read_csv("~/data/sample.csv")
   padding-right: 5px;
 }
 
-#epycvvpyfw .gt_first_summary_row {
+#xlpfgkdqub .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2850,7 +2850,7 @@ readr::read_csv("~/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_grand_summary_row {
+#xlpfgkdqub .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2860,7 +2860,7 @@ readr::read_csv("~/data/sample.csv")
   padding-right: 5px;
 }
 
-#epycvvpyfw .gt_first_grand_summary_row {
+#xlpfgkdqub .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2870,11 +2870,11 @@ readr::read_csv("~/data/sample.csv")
   border-top-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_striped {
+#xlpfgkdqub .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#epycvvpyfw .gt_table_body {
+#xlpfgkdqub .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2883,7 +2883,7 @@ readr::read_csv("~/data/sample.csv")
   border-bottom-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_footnotes {
+#xlpfgkdqub .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2897,13 +2897,13 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_footnote {
+#xlpfgkdqub .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#epycvvpyfw .gt_sourcenotes {
+#xlpfgkdqub .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2917,41 +2917,41 @@ readr::read_csv("~/data/sample.csv")
   border-right-color: #D3D3D3;
 }
 
-#epycvvpyfw .gt_sourcenote {
+#xlpfgkdqub .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#epycvvpyfw .gt_left {
+#xlpfgkdqub .gt_left {
   text-align: left;
 }
 
-#epycvvpyfw .gt_center {
+#xlpfgkdqub .gt_center {
   text-align: center;
 }
 
-#epycvvpyfw .gt_right {
+#xlpfgkdqub .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#epycvvpyfw .gt_font_normal {
+#xlpfgkdqub .gt_font_normal {
   font-weight: normal;
 }
 
-#epycvvpyfw .gt_font_bold {
+#xlpfgkdqub .gt_font_bold {
   font-weight: bold;
 }
 
-#epycvvpyfw .gt_font_italic {
+#xlpfgkdqub .gt_font_italic {
   font-style: italic;
 }
 
-#epycvvpyfw .gt_super {
+#xlpfgkdqub .gt_super {
   font-size: 65%;
 }
 
-#epycvvpyfw .gt_footnote_marks {
+#xlpfgkdqub .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3006,12 +3006,12 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
 ### Skip Rows on CSV Import
 
 ```{=html}
-<div id="rdsqvejhqh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ohuozueniy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#rdsqvejhqh .gt_table {
+#ohuozueniy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3036,7 +3036,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-left-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_heading {
+#ohuozueniy .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3048,7 +3048,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_title {
+#ohuozueniy .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3058,7 +3058,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-bottom-width: 0;
 }
 
-#rdsqvejhqh .gt_subtitle {
+#ohuozueniy .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3068,13 +3068,13 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-top-width: 0;
 }
 
-#rdsqvejhqh .gt_bottom_border {
+#ohuozueniy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_col_headings {
+#ohuozueniy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3089,7 +3089,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_col_heading {
+#ohuozueniy .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3109,7 +3109,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   overflow-x: hidden;
 }
 
-#rdsqvejhqh .gt_column_spanner_outer {
+#ohuozueniy .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3121,15 +3121,15 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-right: 4px;
 }
 
-#rdsqvejhqh .gt_column_spanner_outer:first-child {
+#ohuozueniy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#rdsqvejhqh .gt_column_spanner_outer:last-child {
+#ohuozueniy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#rdsqvejhqh .gt_column_spanner {
+#ohuozueniy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3141,7 +3141,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   width: 100%;
 }
 
-#rdsqvejhqh .gt_group_heading {
+#ohuozueniy .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3163,7 +3163,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   vertical-align: middle;
 }
 
-#rdsqvejhqh .gt_empty_group_heading {
+#ohuozueniy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3178,15 +3178,15 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   vertical-align: middle;
 }
 
-#rdsqvejhqh .gt_from_md > :first-child {
+#ohuozueniy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#rdsqvejhqh .gt_from_md > :last-child {
+#ohuozueniy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#rdsqvejhqh .gt_row {
+#ohuozueniy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3205,7 +3205,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   overflow-x: hidden;
 }
 
-#rdsqvejhqh .gt_stub {
+#ohuozueniy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3217,7 +3217,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-left: 12px;
 }
 
-#rdsqvejhqh .gt_summary_row {
+#ohuozueniy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3227,7 +3227,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-right: 5px;
 }
 
-#rdsqvejhqh .gt_first_summary_row {
+#ohuozueniy .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3237,7 +3237,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-top-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_grand_summary_row {
+#ohuozueniy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3247,7 +3247,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-right: 5px;
 }
 
-#rdsqvejhqh .gt_first_grand_summary_row {
+#ohuozueniy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3257,11 +3257,11 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-top-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_striped {
+#ohuozueniy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#rdsqvejhqh .gt_table_body {
+#ohuozueniy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3270,7 +3270,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-bottom-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_footnotes {
+#ohuozueniy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3284,13 +3284,13 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_footnote {
+#ohuozueniy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#rdsqvejhqh .gt_sourcenotes {
+#ohuozueniy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3304,41 +3304,41 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#rdsqvejhqh .gt_sourcenote {
+#ohuozueniy .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#rdsqvejhqh .gt_left {
+#ohuozueniy .gt_left {
   text-align: left;
 }
 
-#rdsqvejhqh .gt_center {
+#ohuozueniy .gt_center {
   text-align: center;
 }
 
-#rdsqvejhqh .gt_right {
+#ohuozueniy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#rdsqvejhqh .gt_font_normal {
+#ohuozueniy .gt_font_normal {
   font-weight: normal;
 }
 
-#rdsqvejhqh .gt_font_bold {
+#ohuozueniy .gt_font_bold {
   font-weight: bold;
 }
 
-#rdsqvejhqh .gt_font_italic {
+#ohuozueniy .gt_font_italic {
   font-style: italic;
 }
 
-#rdsqvejhqh .gt_super {
+#ohuozueniy .gt_super {
   font-size: 65%;
 }
 
-#rdsqvejhqh .gt_footnote_marks {
+#ohuozueniy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3367,12 +3367,12 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
 ```
 
 ```{=html}
-<div id="ybmwinknew" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="rmqionixzb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ybmwinknew .gt_table {
+#rmqionixzb .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3397,7 +3397,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-left-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_heading {
+#rmqionixzb .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3409,7 +3409,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_title {
+#rmqionixzb .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3419,7 +3419,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-bottom-width: 0;
 }
 
-#ybmwinknew .gt_subtitle {
+#rmqionixzb .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3429,13 +3429,13 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-top-width: 0;
 }
 
-#ybmwinknew .gt_bottom_border {
+#rmqionixzb .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_col_headings {
+#rmqionixzb .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3450,7 +3450,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_col_heading {
+#rmqionixzb .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3470,7 +3470,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   overflow-x: hidden;
 }
 
-#ybmwinknew .gt_column_spanner_outer {
+#rmqionixzb .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3482,15 +3482,15 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-right: 4px;
 }
 
-#ybmwinknew .gt_column_spanner_outer:first-child {
+#rmqionixzb .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ybmwinknew .gt_column_spanner_outer:last-child {
+#rmqionixzb .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ybmwinknew .gt_column_spanner {
+#rmqionixzb .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3502,7 +3502,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   width: 100%;
 }
 
-#ybmwinknew .gt_group_heading {
+#rmqionixzb .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3524,7 +3524,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   vertical-align: middle;
 }
 
-#ybmwinknew .gt_empty_group_heading {
+#rmqionixzb .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3539,15 +3539,15 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   vertical-align: middle;
 }
 
-#ybmwinknew .gt_from_md > :first-child {
+#rmqionixzb .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ybmwinknew .gt_from_md > :last-child {
+#rmqionixzb .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ybmwinknew .gt_row {
+#rmqionixzb .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3566,7 +3566,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   overflow-x: hidden;
 }
 
-#ybmwinknew .gt_stub {
+#rmqionixzb .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3578,7 +3578,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-left: 12px;
 }
 
-#ybmwinknew .gt_summary_row {
+#rmqionixzb .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3588,7 +3588,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-right: 5px;
 }
 
-#ybmwinknew .gt_first_summary_row {
+#rmqionixzb .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3598,7 +3598,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-top-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_grand_summary_row {
+#rmqionixzb .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3608,7 +3608,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   padding-right: 5px;
 }
 
-#ybmwinknew .gt_first_grand_summary_row {
+#rmqionixzb .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3618,11 +3618,11 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-top-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_striped {
+#rmqionixzb .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ybmwinknew .gt_table_body {
+#rmqionixzb .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3631,7 +3631,7 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-bottom-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_footnotes {
+#rmqionixzb .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3645,13 +3645,13 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_footnote {
+#rmqionixzb .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ybmwinknew .gt_sourcenotes {
+#rmqionixzb .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3665,41 +3665,41 @@ readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.cs
   border-right-color: #D3D3D3;
 }
 
-#ybmwinknew .gt_sourcenote {
+#rmqionixzb .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ybmwinknew .gt_left {
+#rmqionixzb .gt_left {
   text-align: left;
 }
 
-#ybmwinknew .gt_center {
+#rmqionixzb .gt_center {
   text-align: center;
 }
 
-#ybmwinknew .gt_right {
+#rmqionixzb .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ybmwinknew .gt_font_normal {
+#rmqionixzb .gt_font_normal {
   font-weight: normal;
 }
 
-#ybmwinknew .gt_font_bold {
+#rmqionixzb .gt_font_bold {
   font-weight: bold;
 }
 
-#ybmwinknew .gt_font_italic {
+#rmqionixzb .gt_font_italic {
   font-style: italic;
 }
 
-#ybmwinknew .gt_super {
+#rmqionixzb .gt_super {
   font-size: 65%;
 }
 
-#ybmwinknew .gt_footnote_marks {
+#rmqionixzb .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3754,12 +3754,12 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
 ### Skip Blank Rows on CSV Import
 
 ```{=html}
-<div id="qmztcsvqzw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="tcsasusmha" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qmztcsvqzw .gt_table {
+#tcsasusmha .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3784,7 +3784,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-left-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_heading {
+#tcsasusmha .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3796,7 +3796,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_title {
+#tcsasusmha .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3806,7 +3806,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-bottom-width: 0;
 }
 
-#qmztcsvqzw .gt_subtitle {
+#tcsasusmha .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3816,13 +3816,13 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-top-width: 0;
 }
 
-#qmztcsvqzw .gt_bottom_border {
+#tcsasusmha .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_col_headings {
+#tcsasusmha .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3837,7 +3837,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_col_heading {
+#tcsasusmha .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3857,7 +3857,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   overflow-x: hidden;
 }
 
-#qmztcsvqzw .gt_column_spanner_outer {
+#tcsasusmha .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3869,15 +3869,15 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-right: 4px;
 }
 
-#qmztcsvqzw .gt_column_spanner_outer:first-child {
+#tcsasusmha .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qmztcsvqzw .gt_column_spanner_outer:last-child {
+#tcsasusmha .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qmztcsvqzw .gt_column_spanner {
+#tcsasusmha .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3889,7 +3889,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   width: 100%;
 }
 
-#qmztcsvqzw .gt_group_heading {
+#tcsasusmha .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3911,7 +3911,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   vertical-align: middle;
 }
 
-#qmztcsvqzw .gt_empty_group_heading {
+#tcsasusmha .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3926,15 +3926,15 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   vertical-align: middle;
 }
 
-#qmztcsvqzw .gt_from_md > :first-child {
+#tcsasusmha .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qmztcsvqzw .gt_from_md > :last-child {
+#tcsasusmha .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qmztcsvqzw .gt_row {
+#tcsasusmha .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3953,7 +3953,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   overflow-x: hidden;
 }
 
-#qmztcsvqzw .gt_stub {
+#tcsasusmha .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3965,7 +3965,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-left: 12px;
 }
 
-#qmztcsvqzw .gt_summary_row {
+#tcsasusmha .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3975,7 +3975,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-right: 5px;
 }
 
-#qmztcsvqzw .gt_first_summary_row {
+#tcsasusmha .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3985,7 +3985,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_grand_summary_row {
+#tcsasusmha .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3995,7 +3995,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-right: 5px;
 }
 
-#qmztcsvqzw .gt_first_grand_summary_row {
+#tcsasusmha .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4005,11 +4005,11 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_striped {
+#tcsasusmha .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qmztcsvqzw .gt_table_body {
+#tcsasusmha .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4018,7 +4018,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-bottom-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_footnotes {
+#tcsasusmha .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4032,13 +4032,13 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_footnote {
+#tcsasusmha .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qmztcsvqzw .gt_sourcenotes {
+#tcsasusmha .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4052,41 +4052,41 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#qmztcsvqzw .gt_sourcenote {
+#tcsasusmha .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qmztcsvqzw .gt_left {
+#tcsasusmha .gt_left {
   text-align: left;
 }
 
-#qmztcsvqzw .gt_center {
+#tcsasusmha .gt_center {
   text-align: center;
 }
 
-#qmztcsvqzw .gt_right {
+#tcsasusmha .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qmztcsvqzw .gt_font_normal {
+#tcsasusmha .gt_font_normal {
   font-weight: normal;
 }
 
-#qmztcsvqzw .gt_font_bold {
+#tcsasusmha .gt_font_bold {
   font-weight: bold;
 }
 
-#qmztcsvqzw .gt_font_italic {
+#tcsasusmha .gt_font_italic {
   font-style: italic;
 }
 
-#qmztcsvqzw .gt_super {
+#tcsasusmha .gt_super {
   font-size: 65%;
 }
 
-#qmztcsvqzw .gt_footnote_marks {
+#tcsasusmha .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4115,12 +4115,12 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
 ```
 
 ```{=html}
-<div id="yjskernbce" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="znzvshuhbv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#yjskernbce .gt_table {
+#znzvshuhbv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4145,7 +4145,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-left-color: #D3D3D3;
 }
 
-#yjskernbce .gt_heading {
+#znzvshuhbv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4157,7 +4157,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#yjskernbce .gt_title {
+#znzvshuhbv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4167,7 +4167,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-bottom-width: 0;
 }
 
-#yjskernbce .gt_subtitle {
+#znzvshuhbv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4177,13 +4177,13 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-top-width: 0;
 }
 
-#yjskernbce .gt_bottom_border {
+#znzvshuhbv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yjskernbce .gt_col_headings {
+#znzvshuhbv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4198,7 +4198,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#yjskernbce .gt_col_heading {
+#znzvshuhbv .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4218,7 +4218,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   overflow-x: hidden;
 }
 
-#yjskernbce .gt_column_spanner_outer {
+#znzvshuhbv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4230,15 +4230,15 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-right: 4px;
 }
 
-#yjskernbce .gt_column_spanner_outer:first-child {
+#znzvshuhbv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yjskernbce .gt_column_spanner_outer:last-child {
+#znzvshuhbv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yjskernbce .gt_column_spanner {
+#znzvshuhbv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4250,7 +4250,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   width: 100%;
 }
 
-#yjskernbce .gt_group_heading {
+#znzvshuhbv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4272,7 +4272,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   vertical-align: middle;
 }
 
-#yjskernbce .gt_empty_group_heading {
+#znzvshuhbv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4287,15 +4287,15 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   vertical-align: middle;
 }
 
-#yjskernbce .gt_from_md > :first-child {
+#znzvshuhbv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#yjskernbce .gt_from_md > :last-child {
+#znzvshuhbv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#yjskernbce .gt_row {
+#znzvshuhbv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4314,7 +4314,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   overflow-x: hidden;
 }
 
-#yjskernbce .gt_stub {
+#znzvshuhbv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4326,7 +4326,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-left: 12px;
 }
 
-#yjskernbce .gt_summary_row {
+#znzvshuhbv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4336,7 +4336,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-right: 5px;
 }
 
-#yjskernbce .gt_first_summary_row {
+#znzvshuhbv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4346,7 +4346,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#yjskernbce .gt_grand_summary_row {
+#znzvshuhbv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4356,7 +4356,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   padding-right: 5px;
 }
 
-#yjskernbce .gt_first_grand_summary_row {
+#znzvshuhbv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4366,11 +4366,11 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#yjskernbce .gt_striped {
+#znzvshuhbv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yjskernbce .gt_table_body {
+#znzvshuhbv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4379,7 +4379,7 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-bottom-color: #D3D3D3;
 }
 
-#yjskernbce .gt_footnotes {
+#znzvshuhbv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4393,13 +4393,13 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#yjskernbce .gt_footnote {
+#znzvshuhbv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#yjskernbce .gt_sourcenotes {
+#znzvshuhbv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4413,41 +4413,41 @@ readr::read_csv("C:/data/sample.csv", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#yjskernbce .gt_sourcenote {
+#znzvshuhbv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#yjskernbce .gt_left {
+#znzvshuhbv .gt_left {
   text-align: left;
 }
 
-#yjskernbce .gt_center {
+#znzvshuhbv .gt_center {
   text-align: center;
 }
 
-#yjskernbce .gt_right {
+#znzvshuhbv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yjskernbce .gt_font_normal {
+#znzvshuhbv .gt_font_normal {
   font-weight: normal;
 }
 
-#yjskernbce .gt_font_bold {
+#znzvshuhbv .gt_font_bold {
   font-weight: bold;
 }
 
-#yjskernbce .gt_font_italic {
+#znzvshuhbv .gt_font_italic {
   font-style: italic;
 }
 
-#yjskernbce .gt_super {
+#znzvshuhbv .gt_super {
   font-size: 65%;
 }
 
-#yjskernbce .gt_footnote_marks {
+#znzvshuhbv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4502,12 +4502,12 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
 ### Read Number of Rows on CSV Import
 
 ```{=html}
-<div id="zykizyzpny" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ukyrdlxenr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zykizyzpny .gt_table {
+#ukyrdlxenr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4532,7 +4532,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-left-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_heading {
+#ukyrdlxenr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4544,7 +4544,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_title {
+#ukyrdlxenr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4554,7 +4554,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-bottom-width: 0;
 }
 
-#zykizyzpny .gt_subtitle {
+#ukyrdlxenr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4564,13 +4564,13 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-top-width: 0;
 }
 
-#zykizyzpny .gt_bottom_border {
+#ukyrdlxenr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_col_headings {
+#ukyrdlxenr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4585,7 +4585,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_col_heading {
+#ukyrdlxenr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4605,7 +4605,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   overflow-x: hidden;
 }
 
-#zykizyzpny .gt_column_spanner_outer {
+#ukyrdlxenr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4617,15 +4617,15 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-right: 4px;
 }
 
-#zykizyzpny .gt_column_spanner_outer:first-child {
+#ukyrdlxenr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zykizyzpny .gt_column_spanner_outer:last-child {
+#ukyrdlxenr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zykizyzpny .gt_column_spanner {
+#ukyrdlxenr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4637,7 +4637,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   width: 100%;
 }
 
-#zykizyzpny .gt_group_heading {
+#ukyrdlxenr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4659,7 +4659,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   vertical-align: middle;
 }
 
-#zykizyzpny .gt_empty_group_heading {
+#ukyrdlxenr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4674,15 +4674,15 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   vertical-align: middle;
 }
 
-#zykizyzpny .gt_from_md > :first-child {
+#ukyrdlxenr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zykizyzpny .gt_from_md > :last-child {
+#ukyrdlxenr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zykizyzpny .gt_row {
+#ukyrdlxenr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4701,7 +4701,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   overflow-x: hidden;
 }
 
-#zykizyzpny .gt_stub {
+#ukyrdlxenr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4713,7 +4713,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-left: 12px;
 }
 
-#zykizyzpny .gt_summary_row {
+#ukyrdlxenr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4723,7 +4723,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-right: 5px;
 }
 
-#zykizyzpny .gt_first_summary_row {
+#ukyrdlxenr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4733,7 +4733,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-top-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_grand_summary_row {
+#ukyrdlxenr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4743,7 +4743,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-right: 5px;
 }
 
-#zykizyzpny .gt_first_grand_summary_row {
+#ukyrdlxenr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4753,11 +4753,11 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-top-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_striped {
+#ukyrdlxenr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zykizyzpny .gt_table_body {
+#ukyrdlxenr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4766,7 +4766,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-bottom-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_footnotes {
+#ukyrdlxenr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4780,13 +4780,13 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_footnote {
+#ukyrdlxenr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zykizyzpny .gt_sourcenotes {
+#ukyrdlxenr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4800,41 +4800,41 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#zykizyzpny .gt_sourcenote {
+#ukyrdlxenr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zykizyzpny .gt_left {
+#ukyrdlxenr .gt_left {
   text-align: left;
 }
 
-#zykizyzpny .gt_center {
+#ukyrdlxenr .gt_center {
   text-align: center;
 }
 
-#zykizyzpny .gt_right {
+#ukyrdlxenr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zykizyzpny .gt_font_normal {
+#ukyrdlxenr .gt_font_normal {
   font-weight: normal;
 }
 
-#zykizyzpny .gt_font_bold {
+#ukyrdlxenr .gt_font_bold {
   font-weight: bold;
 }
 
-#zykizyzpny .gt_font_italic {
+#ukyrdlxenr .gt_font_italic {
   font-style: italic;
 }
 
-#zykizyzpny .gt_super {
+#ukyrdlxenr .gt_super {
   font-size: 65%;
 }
 
-#zykizyzpny .gt_footnote_marks {
+#ukyrdlxenr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4863,12 +4863,12 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
 ```
 
 ```{=html}
-<div id="xyqnqxrtrs" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lqtyqibpcb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#xyqnqxrtrs .gt_table {
+#lqtyqibpcb .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4893,7 +4893,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-left-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_heading {
+#lqtyqibpcb .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4905,7 +4905,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_title {
+#lqtyqibpcb .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4915,7 +4915,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-bottom-width: 0;
 }
 
-#xyqnqxrtrs .gt_subtitle {
+#lqtyqibpcb .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4925,13 +4925,13 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-top-width: 0;
 }
 
-#xyqnqxrtrs .gt_bottom_border {
+#lqtyqibpcb .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_col_headings {
+#lqtyqibpcb .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4946,7 +4946,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_col_heading {
+#lqtyqibpcb .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4966,7 +4966,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   overflow-x: hidden;
 }
 
-#xyqnqxrtrs .gt_column_spanner_outer {
+#lqtyqibpcb .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4978,15 +4978,15 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-right: 4px;
 }
 
-#xyqnqxrtrs .gt_column_spanner_outer:first-child {
+#lqtyqibpcb .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xyqnqxrtrs .gt_column_spanner_outer:last-child {
+#lqtyqibpcb .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xyqnqxrtrs .gt_column_spanner {
+#lqtyqibpcb .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4998,7 +4998,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   width: 100%;
 }
 
-#xyqnqxrtrs .gt_group_heading {
+#lqtyqibpcb .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5020,7 +5020,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   vertical-align: middle;
 }
 
-#xyqnqxrtrs .gt_empty_group_heading {
+#lqtyqibpcb .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5035,15 +5035,15 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   vertical-align: middle;
 }
 
-#xyqnqxrtrs .gt_from_md > :first-child {
+#lqtyqibpcb .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xyqnqxrtrs .gt_from_md > :last-child {
+#lqtyqibpcb .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xyqnqxrtrs .gt_row {
+#lqtyqibpcb .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5062,7 +5062,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   overflow-x: hidden;
 }
 
-#xyqnqxrtrs .gt_stub {
+#lqtyqibpcb .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5074,7 +5074,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-left: 12px;
 }
 
-#xyqnqxrtrs .gt_summary_row {
+#lqtyqibpcb .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5084,7 +5084,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-right: 5px;
 }
 
-#xyqnqxrtrs .gt_first_summary_row {
+#lqtyqibpcb .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5094,7 +5094,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-top-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_grand_summary_row {
+#lqtyqibpcb .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5104,7 +5104,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   padding-right: 5px;
 }
 
-#xyqnqxrtrs .gt_first_grand_summary_row {
+#lqtyqibpcb .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5114,11 +5114,11 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-top-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_striped {
+#lqtyqibpcb .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xyqnqxrtrs .gt_table_body {
+#lqtyqibpcb .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5127,7 +5127,7 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-bottom-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_footnotes {
+#lqtyqibpcb .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5141,13 +5141,13 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_footnote {
+#lqtyqibpcb .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xyqnqxrtrs .gt_sourcenotes {
+#lqtyqibpcb .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5161,41 +5161,41 @@ readr::read_csv("C:/data/sample.csv", skip = TRUE)
   border-right-color: #D3D3D3;
 }
 
-#xyqnqxrtrs .gt_sourcenote {
+#lqtyqibpcb .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xyqnqxrtrs .gt_left {
+#lqtyqibpcb .gt_left {
   text-align: left;
 }
 
-#xyqnqxrtrs .gt_center {
+#lqtyqibpcb .gt_center {
   text-align: center;
 }
 
-#xyqnqxrtrs .gt_right {
+#lqtyqibpcb .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xyqnqxrtrs .gt_font_normal {
+#lqtyqibpcb .gt_font_normal {
   font-weight: normal;
 }
 
-#xyqnqxrtrs .gt_font_bold {
+#lqtyqibpcb .gt_font_bold {
   font-weight: bold;
 }
 
-#xyqnqxrtrs .gt_font_italic {
+#lqtyqibpcb .gt_font_italic {
   font-style: italic;
 }
 
-#xyqnqxrtrs .gt_super {
+#lqtyqibpcb .gt_super {
   font-size: 65%;
 }
 
-#xyqnqxrtrs .gt_footnote_marks {
+#lqtyqibpcb .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5250,12 +5250,12 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
 ### Read Specific Columns on CSV Import
 
 ```{=html}
-<div id="hmkqvcmidh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="edekmxmoym" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#hmkqvcmidh .gt_table {
+#edekmxmoym .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5280,7 +5280,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-left-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_heading {
+#edekmxmoym .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5292,7 +5292,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_title {
+#edekmxmoym .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5302,7 +5302,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-bottom-width: 0;
 }
 
-#hmkqvcmidh .gt_subtitle {
+#edekmxmoym .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5312,13 +5312,13 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-top-width: 0;
 }
 
-#hmkqvcmidh .gt_bottom_border {
+#edekmxmoym .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_col_headings {
+#edekmxmoym .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5333,7 +5333,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_col_heading {
+#edekmxmoym .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5353,7 +5353,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   overflow-x: hidden;
 }
 
-#hmkqvcmidh .gt_column_spanner_outer {
+#edekmxmoym .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5365,15 +5365,15 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-right: 4px;
 }
 
-#hmkqvcmidh .gt_column_spanner_outer:first-child {
+#edekmxmoym .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#hmkqvcmidh .gt_column_spanner_outer:last-child {
+#edekmxmoym .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#hmkqvcmidh .gt_column_spanner {
+#edekmxmoym .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5385,7 +5385,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   width: 100%;
 }
 
-#hmkqvcmidh .gt_group_heading {
+#edekmxmoym .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5407,7 +5407,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   vertical-align: middle;
 }
 
-#hmkqvcmidh .gt_empty_group_heading {
+#edekmxmoym .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5422,15 +5422,15 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   vertical-align: middle;
 }
 
-#hmkqvcmidh .gt_from_md > :first-child {
+#edekmxmoym .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#hmkqvcmidh .gt_from_md > :last-child {
+#edekmxmoym .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#hmkqvcmidh .gt_row {
+#edekmxmoym .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5449,7 +5449,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   overflow-x: hidden;
 }
 
-#hmkqvcmidh .gt_stub {
+#edekmxmoym .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5461,7 +5461,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-left: 12px;
 }
 
-#hmkqvcmidh .gt_summary_row {
+#edekmxmoym .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5471,7 +5471,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-right: 5px;
 }
 
-#hmkqvcmidh .gt_first_summary_row {
+#edekmxmoym .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5481,7 +5481,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_grand_summary_row {
+#edekmxmoym .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5491,7 +5491,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-right: 5px;
 }
 
-#hmkqvcmidh .gt_first_grand_summary_row {
+#edekmxmoym .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5501,11 +5501,11 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_striped {
+#edekmxmoym .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#hmkqvcmidh .gt_table_body {
+#edekmxmoym .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5514,7 +5514,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-bottom-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_footnotes {
+#edekmxmoym .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5528,13 +5528,13 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_footnote {
+#edekmxmoym .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#hmkqvcmidh .gt_sourcenotes {
+#edekmxmoym .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5548,41 +5548,41 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#hmkqvcmidh .gt_sourcenote {
+#edekmxmoym .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#hmkqvcmidh .gt_left {
+#edekmxmoym .gt_left {
   text-align: left;
 }
 
-#hmkqvcmidh .gt_center {
+#edekmxmoym .gt_center {
   text-align: center;
 }
 
-#hmkqvcmidh .gt_right {
+#edekmxmoym .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#hmkqvcmidh .gt_font_normal {
+#edekmxmoym .gt_font_normal {
   font-weight: normal;
 }
 
-#hmkqvcmidh .gt_font_bold {
+#edekmxmoym .gt_font_bold {
   font-weight: bold;
 }
 
-#hmkqvcmidh .gt_font_italic {
+#edekmxmoym .gt_font_italic {
   font-style: italic;
 }
 
-#hmkqvcmidh .gt_super {
+#edekmxmoym .gt_super {
   font-size: 65%;
 }
 
-#hmkqvcmidh .gt_footnote_marks {
+#edekmxmoym .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5611,12 +5611,12 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
 ```
 
 ```{=html}
-<div id="tviljioixf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="vcahtgjpai" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tviljioixf .gt_table {
+#vcahtgjpai .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5641,7 +5641,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-left-color: #D3D3D3;
 }
 
-#tviljioixf .gt_heading {
+#vcahtgjpai .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5653,7 +5653,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#tviljioixf .gt_title {
+#vcahtgjpai .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5663,7 +5663,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-bottom-width: 0;
 }
 
-#tviljioixf .gt_subtitle {
+#vcahtgjpai .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5673,13 +5673,13 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-top-width: 0;
 }
 
-#tviljioixf .gt_bottom_border {
+#vcahtgjpai .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tviljioixf .gt_col_headings {
+#vcahtgjpai .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5694,7 +5694,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#tviljioixf .gt_col_heading {
+#vcahtgjpai .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5714,7 +5714,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   overflow-x: hidden;
 }
 
-#tviljioixf .gt_column_spanner_outer {
+#vcahtgjpai .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5726,15 +5726,15 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-right: 4px;
 }
 
-#tviljioixf .gt_column_spanner_outer:first-child {
+#vcahtgjpai .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tviljioixf .gt_column_spanner_outer:last-child {
+#vcahtgjpai .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tviljioixf .gt_column_spanner {
+#vcahtgjpai .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5746,7 +5746,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   width: 100%;
 }
 
-#tviljioixf .gt_group_heading {
+#vcahtgjpai .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5768,7 +5768,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   vertical-align: middle;
 }
 
-#tviljioixf .gt_empty_group_heading {
+#vcahtgjpai .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5783,15 +5783,15 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   vertical-align: middle;
 }
 
-#tviljioixf .gt_from_md > :first-child {
+#vcahtgjpai .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tviljioixf .gt_from_md > :last-child {
+#vcahtgjpai .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tviljioixf .gt_row {
+#vcahtgjpai .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5810,7 +5810,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   overflow-x: hidden;
 }
 
-#tviljioixf .gt_stub {
+#vcahtgjpai .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5822,7 +5822,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-left: 12px;
 }
 
-#tviljioixf .gt_summary_row {
+#vcahtgjpai .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5832,7 +5832,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-right: 5px;
 }
 
-#tviljioixf .gt_first_summary_row {
+#vcahtgjpai .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5842,7 +5842,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#tviljioixf .gt_grand_summary_row {
+#vcahtgjpai .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5852,7 +5852,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   padding-right: 5px;
 }
 
-#tviljioixf .gt_first_grand_summary_row {
+#vcahtgjpai .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5862,11 +5862,11 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#tviljioixf .gt_striped {
+#vcahtgjpai .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tviljioixf .gt_table_body {
+#vcahtgjpai .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5875,7 +5875,7 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-bottom-color: #D3D3D3;
 }
 
-#tviljioixf .gt_footnotes {
+#vcahtgjpai .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5889,13 +5889,13 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#tviljioixf .gt_footnote {
+#vcahtgjpai .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tviljioixf .gt_sourcenotes {
+#vcahtgjpai .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5909,41 +5909,41 @@ readr::read_csv("file_path/file_name.csv", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#tviljioixf .gt_sourcenote {
+#vcahtgjpai .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tviljioixf .gt_left {
+#vcahtgjpai .gt_left {
   text-align: left;
 }
 
-#tviljioixf .gt_center {
+#vcahtgjpai .gt_center {
   text-align: center;
 }
 
-#tviljioixf .gt_right {
+#vcahtgjpai .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tviljioixf .gt_font_normal {
+#vcahtgjpai .gt_font_normal {
   font-weight: normal;
 }
 
-#tviljioixf .gt_font_bold {
+#vcahtgjpai .gt_font_bold {
   font-weight: bold;
 }
 
-#tviljioixf .gt_font_italic {
+#vcahtgjpai .gt_font_italic {
   font-style: italic;
 }
 
-#tviljioixf .gt_super {
+#vcahtgjpai .gt_super {
   font-size: 65%;
 }
 
-#tviljioixf .gt_footnote_marks {
+#vcahtgjpai .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6007,12 +6007,12 @@ Within many organizations Excel files are a file format commonly used to store r
 ### Import Excel File
 
 ```{=html}
-<div id="kqmdjdgrfy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="pqwwlytnbm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kqmdjdgrfy .gt_table {
+#pqwwlytnbm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6037,7 +6037,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-left-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_heading {
+#pqwwlytnbm .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6049,7 +6049,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_title {
+#pqwwlytnbm .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6059,7 +6059,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-bottom-width: 0;
 }
 
-#kqmdjdgrfy .gt_subtitle {
+#pqwwlytnbm .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6069,13 +6069,13 @@ Within many organizations Excel files are a file format commonly used to store r
   border-top-width: 0;
 }
 
-#kqmdjdgrfy .gt_bottom_border {
+#pqwwlytnbm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_col_headings {
+#pqwwlytnbm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6090,7 +6090,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_col_heading {
+#pqwwlytnbm .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6110,7 +6110,7 @@ Within many organizations Excel files are a file format commonly used to store r
   overflow-x: hidden;
 }
 
-#kqmdjdgrfy .gt_column_spanner_outer {
+#pqwwlytnbm .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6122,15 +6122,15 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-right: 4px;
 }
 
-#kqmdjdgrfy .gt_column_spanner_outer:first-child {
+#pqwwlytnbm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kqmdjdgrfy .gt_column_spanner_outer:last-child {
+#pqwwlytnbm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kqmdjdgrfy .gt_column_spanner {
+#pqwwlytnbm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6142,7 +6142,7 @@ Within many organizations Excel files are a file format commonly used to store r
   width: 100%;
 }
 
-#kqmdjdgrfy .gt_group_heading {
+#pqwwlytnbm .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6164,7 +6164,7 @@ Within many organizations Excel files are a file format commonly used to store r
   vertical-align: middle;
 }
 
-#kqmdjdgrfy .gt_empty_group_heading {
+#pqwwlytnbm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6179,15 +6179,15 @@ Within many organizations Excel files are a file format commonly used to store r
   vertical-align: middle;
 }
 
-#kqmdjdgrfy .gt_from_md > :first-child {
+#pqwwlytnbm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kqmdjdgrfy .gt_from_md > :last-child {
+#pqwwlytnbm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kqmdjdgrfy .gt_row {
+#pqwwlytnbm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6206,7 +6206,7 @@ Within many organizations Excel files are a file format commonly used to store r
   overflow-x: hidden;
 }
 
-#kqmdjdgrfy .gt_stub {
+#pqwwlytnbm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6218,7 +6218,7 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-left: 12px;
 }
 
-#kqmdjdgrfy .gt_summary_row {
+#pqwwlytnbm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6228,7 +6228,7 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-right: 5px;
 }
 
-#kqmdjdgrfy .gt_first_summary_row {
+#pqwwlytnbm .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6238,7 +6238,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-top-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_grand_summary_row {
+#pqwwlytnbm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6248,7 +6248,7 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-right: 5px;
 }
 
-#kqmdjdgrfy .gt_first_grand_summary_row {
+#pqwwlytnbm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6258,11 +6258,11 @@ Within many organizations Excel files are a file format commonly used to store r
   border-top-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_striped {
+#pqwwlytnbm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kqmdjdgrfy .gt_table_body {
+#pqwwlytnbm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6271,7 +6271,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-bottom-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_footnotes {
+#pqwwlytnbm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6285,13 +6285,13 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_footnote {
+#pqwwlytnbm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kqmdjdgrfy .gt_sourcenotes {
+#pqwwlytnbm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6305,41 +6305,41 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#kqmdjdgrfy .gt_sourcenote {
+#pqwwlytnbm .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kqmdjdgrfy .gt_left {
+#pqwwlytnbm .gt_left {
   text-align: left;
 }
 
-#kqmdjdgrfy .gt_center {
+#pqwwlytnbm .gt_center {
   text-align: center;
 }
 
-#kqmdjdgrfy .gt_right {
+#pqwwlytnbm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kqmdjdgrfy .gt_font_normal {
+#pqwwlytnbm .gt_font_normal {
   font-weight: normal;
 }
 
-#kqmdjdgrfy .gt_font_bold {
+#pqwwlytnbm .gt_font_bold {
   font-weight: bold;
 }
 
-#kqmdjdgrfy .gt_font_italic {
+#pqwwlytnbm .gt_font_italic {
   font-style: italic;
 }
 
-#kqmdjdgrfy .gt_super {
+#pqwwlytnbm .gt_super {
   font-size: 65%;
 }
 
-#kqmdjdgrfy .gt_footnote_marks {
+#pqwwlytnbm .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6368,12 +6368,12 @@ Within many organizations Excel files are a file format commonly used to store r
 ```
 
 ```{=html}
-<div id="ckgrhqsuiw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lamdjrstjh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ckgrhqsuiw .gt_table {
+#lamdjrstjh .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6398,7 +6398,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-left-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_heading {
+#lamdjrstjh .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6410,7 +6410,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_title {
+#lamdjrstjh .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6420,7 +6420,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-bottom-width: 0;
 }
 
-#ckgrhqsuiw .gt_subtitle {
+#lamdjrstjh .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6430,13 +6430,13 @@ Within many organizations Excel files are a file format commonly used to store r
   border-top-width: 0;
 }
 
-#ckgrhqsuiw .gt_bottom_border {
+#lamdjrstjh .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_col_headings {
+#lamdjrstjh .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6451,7 +6451,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_col_heading {
+#lamdjrstjh .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6471,7 +6471,7 @@ Within many organizations Excel files are a file format commonly used to store r
   overflow-x: hidden;
 }
 
-#ckgrhqsuiw .gt_column_spanner_outer {
+#lamdjrstjh .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6483,15 +6483,15 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-right: 4px;
 }
 
-#ckgrhqsuiw .gt_column_spanner_outer:first-child {
+#lamdjrstjh .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ckgrhqsuiw .gt_column_spanner_outer:last-child {
+#lamdjrstjh .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ckgrhqsuiw .gt_column_spanner {
+#lamdjrstjh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6503,7 +6503,7 @@ Within many organizations Excel files are a file format commonly used to store r
   width: 100%;
 }
 
-#ckgrhqsuiw .gt_group_heading {
+#lamdjrstjh .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6525,7 +6525,7 @@ Within many organizations Excel files are a file format commonly used to store r
   vertical-align: middle;
 }
 
-#ckgrhqsuiw .gt_empty_group_heading {
+#lamdjrstjh .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6540,15 +6540,15 @@ Within many organizations Excel files are a file format commonly used to store r
   vertical-align: middle;
 }
 
-#ckgrhqsuiw .gt_from_md > :first-child {
+#lamdjrstjh .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ckgrhqsuiw .gt_from_md > :last-child {
+#lamdjrstjh .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ckgrhqsuiw .gt_row {
+#lamdjrstjh .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6567,7 +6567,7 @@ Within many organizations Excel files are a file format commonly used to store r
   overflow-x: hidden;
 }
 
-#ckgrhqsuiw .gt_stub {
+#lamdjrstjh .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6579,7 +6579,7 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-left: 12px;
 }
 
-#ckgrhqsuiw .gt_summary_row {
+#lamdjrstjh .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6589,7 +6589,7 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-right: 5px;
 }
 
-#ckgrhqsuiw .gt_first_summary_row {
+#lamdjrstjh .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6599,7 +6599,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-top-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_grand_summary_row {
+#lamdjrstjh .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6609,7 +6609,7 @@ Within many organizations Excel files are a file format commonly used to store r
   padding-right: 5px;
 }
 
-#ckgrhqsuiw .gt_first_grand_summary_row {
+#lamdjrstjh .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6619,11 +6619,11 @@ Within many organizations Excel files are a file format commonly used to store r
   border-top-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_striped {
+#lamdjrstjh .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ckgrhqsuiw .gt_table_body {
+#lamdjrstjh .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6632,7 +6632,7 @@ Within many organizations Excel files are a file format commonly used to store r
   border-bottom-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_footnotes {
+#lamdjrstjh .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6646,13 +6646,13 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_footnote {
+#lamdjrstjh .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ckgrhqsuiw .gt_sourcenotes {
+#lamdjrstjh .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6666,41 +6666,41 @@ Within many organizations Excel files are a file format commonly used to store r
   border-right-color: #D3D3D3;
 }
 
-#ckgrhqsuiw .gt_sourcenote {
+#lamdjrstjh .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ckgrhqsuiw .gt_left {
+#lamdjrstjh .gt_left {
   text-align: left;
 }
 
-#ckgrhqsuiw .gt_center {
+#lamdjrstjh .gt_center {
   text-align: center;
 }
 
-#ckgrhqsuiw .gt_right {
+#lamdjrstjh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ckgrhqsuiw .gt_font_normal {
+#lamdjrstjh .gt_font_normal {
   font-weight: normal;
 }
 
-#ckgrhqsuiw .gt_font_bold {
+#lamdjrstjh .gt_font_bold {
   font-weight: bold;
 }
 
-#ckgrhqsuiw .gt_font_italic {
+#lamdjrstjh .gt_font_italic {
   font-style: italic;
 }
 
-#ckgrhqsuiw .gt_super {
+#lamdjrstjh .gt_super {
   font-size: 65%;
 }
 
-#ckgrhqsuiw .gt_footnote_marks {
+#lamdjrstjh .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6755,12 +6755,12 @@ readxl::read_excel("C:/data/sample.xlsx")
 ### Skip Rows on Excel Import
 
 ```{=html}
-<div id="sdsbmopygf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="yjiqkbbqkf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#sdsbmopygf .gt_table {
+#yjiqkbbqkf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6785,7 +6785,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-left-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_heading {
+#yjiqkbbqkf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6797,7 +6797,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_title {
+#yjiqkbbqkf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6807,7 +6807,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-bottom-width: 0;
 }
 
-#sdsbmopygf .gt_subtitle {
+#yjiqkbbqkf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6817,13 +6817,13 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-top-width: 0;
 }
 
-#sdsbmopygf .gt_bottom_border {
+#yjiqkbbqkf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_col_headings {
+#yjiqkbbqkf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6838,7 +6838,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_col_heading {
+#yjiqkbbqkf .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6858,7 +6858,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   overflow-x: hidden;
 }
 
-#sdsbmopygf .gt_column_spanner_outer {
+#yjiqkbbqkf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6870,15 +6870,15 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-right: 4px;
 }
 
-#sdsbmopygf .gt_column_spanner_outer:first-child {
+#yjiqkbbqkf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#sdsbmopygf .gt_column_spanner_outer:last-child {
+#yjiqkbbqkf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#sdsbmopygf .gt_column_spanner {
+#yjiqkbbqkf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6890,7 +6890,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   width: 100%;
 }
 
-#sdsbmopygf .gt_group_heading {
+#yjiqkbbqkf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6912,7 +6912,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   vertical-align: middle;
 }
 
-#sdsbmopygf .gt_empty_group_heading {
+#yjiqkbbqkf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6927,15 +6927,15 @@ readxl::read_excel("C:/data/sample.xlsx")
   vertical-align: middle;
 }
 
-#sdsbmopygf .gt_from_md > :first-child {
+#yjiqkbbqkf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#sdsbmopygf .gt_from_md > :last-child {
+#yjiqkbbqkf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#sdsbmopygf .gt_row {
+#yjiqkbbqkf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6954,7 +6954,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   overflow-x: hidden;
 }
 
-#sdsbmopygf .gt_stub {
+#yjiqkbbqkf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6966,7 +6966,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-left: 12px;
 }
 
-#sdsbmopygf .gt_summary_row {
+#yjiqkbbqkf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6976,7 +6976,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-right: 5px;
 }
 
-#sdsbmopygf .gt_first_summary_row {
+#yjiqkbbqkf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6986,7 +6986,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-top-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_grand_summary_row {
+#yjiqkbbqkf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6996,7 +6996,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-right: 5px;
 }
 
-#sdsbmopygf .gt_first_grand_summary_row {
+#yjiqkbbqkf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7006,11 +7006,11 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-top-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_striped {
+#yjiqkbbqkf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#sdsbmopygf .gt_table_body {
+#yjiqkbbqkf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7019,7 +7019,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-bottom-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_footnotes {
+#yjiqkbbqkf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7033,13 +7033,13 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_footnote {
+#yjiqkbbqkf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#sdsbmopygf .gt_sourcenotes {
+#yjiqkbbqkf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7053,41 +7053,41 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#sdsbmopygf .gt_sourcenote {
+#yjiqkbbqkf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#sdsbmopygf .gt_left {
+#yjiqkbbqkf .gt_left {
   text-align: left;
 }
 
-#sdsbmopygf .gt_center {
+#yjiqkbbqkf .gt_center {
   text-align: center;
 }
 
-#sdsbmopygf .gt_right {
+#yjiqkbbqkf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#sdsbmopygf .gt_font_normal {
+#yjiqkbbqkf .gt_font_normal {
   font-weight: normal;
 }
 
-#sdsbmopygf .gt_font_bold {
+#yjiqkbbqkf .gt_font_bold {
   font-weight: bold;
 }
 
-#sdsbmopygf .gt_font_italic {
+#yjiqkbbqkf .gt_font_italic {
   font-style: italic;
 }
 
-#sdsbmopygf .gt_super {
+#yjiqkbbqkf .gt_super {
   font-size: 65%;
 }
 
-#sdsbmopygf .gt_footnote_marks {
+#yjiqkbbqkf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7116,12 +7116,12 @@ readxl::read_excel("C:/data/sample.xlsx")
 ```
 
 ```{=html}
-<div id="kihduwuqec" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="iiawqzrrok" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kihduwuqec .gt_table {
+#iiawqzrrok .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7146,7 +7146,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-left-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_heading {
+#iiawqzrrok .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7158,7 +7158,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_title {
+#iiawqzrrok .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7168,7 +7168,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-bottom-width: 0;
 }
 
-#kihduwuqec .gt_subtitle {
+#iiawqzrrok .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7178,13 +7178,13 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-top-width: 0;
 }
 
-#kihduwuqec .gt_bottom_border {
+#iiawqzrrok .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_col_headings {
+#iiawqzrrok .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7199,7 +7199,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_col_heading {
+#iiawqzrrok .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7219,7 +7219,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   overflow-x: hidden;
 }
 
-#kihduwuqec .gt_column_spanner_outer {
+#iiawqzrrok .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7231,15 +7231,15 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-right: 4px;
 }
 
-#kihduwuqec .gt_column_spanner_outer:first-child {
+#iiawqzrrok .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kihduwuqec .gt_column_spanner_outer:last-child {
+#iiawqzrrok .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kihduwuqec .gt_column_spanner {
+#iiawqzrrok .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7251,7 +7251,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   width: 100%;
 }
 
-#kihduwuqec .gt_group_heading {
+#iiawqzrrok .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7273,7 +7273,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   vertical-align: middle;
 }
 
-#kihduwuqec .gt_empty_group_heading {
+#iiawqzrrok .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7288,15 +7288,15 @@ readxl::read_excel("C:/data/sample.xlsx")
   vertical-align: middle;
 }
 
-#kihduwuqec .gt_from_md > :first-child {
+#iiawqzrrok .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kihduwuqec .gt_from_md > :last-child {
+#iiawqzrrok .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kihduwuqec .gt_row {
+#iiawqzrrok .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7315,7 +7315,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   overflow-x: hidden;
 }
 
-#kihduwuqec .gt_stub {
+#iiawqzrrok .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7327,7 +7327,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-left: 12px;
 }
 
-#kihduwuqec .gt_summary_row {
+#iiawqzrrok .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7337,7 +7337,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-right: 5px;
 }
 
-#kihduwuqec .gt_first_summary_row {
+#iiawqzrrok .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7347,7 +7347,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-top-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_grand_summary_row {
+#iiawqzrrok .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7357,7 +7357,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   padding-right: 5px;
 }
 
-#kihduwuqec .gt_first_grand_summary_row {
+#iiawqzrrok .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7367,11 +7367,11 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-top-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_striped {
+#iiawqzrrok .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kihduwuqec .gt_table_body {
+#iiawqzrrok .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7380,7 +7380,7 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-bottom-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_footnotes {
+#iiawqzrrok .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7394,13 +7394,13 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_footnote {
+#iiawqzrrok .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kihduwuqec .gt_sourcenotes {
+#iiawqzrrok .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7414,41 +7414,41 @@ readxl::read_excel("C:/data/sample.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#kihduwuqec .gt_sourcenote {
+#iiawqzrrok .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kihduwuqec .gt_left {
+#iiawqzrrok .gt_left {
   text-align: left;
 }
 
-#kihduwuqec .gt_center {
+#iiawqzrrok .gt_center {
   text-align: center;
 }
 
-#kihduwuqec .gt_right {
+#iiawqzrrok .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kihduwuqec .gt_font_normal {
+#iiawqzrrok .gt_font_normal {
   font-weight: normal;
 }
 
-#kihduwuqec .gt_font_bold {
+#iiawqzrrok .gt_font_bold {
   font-weight: bold;
 }
 
-#kihduwuqec .gt_font_italic {
+#iiawqzrrok .gt_font_italic {
   font-style: italic;
 }
 
-#kihduwuqec .gt_super {
+#iiawqzrrok .gt_super {
   font-size: 65%;
 }
 
-#kihduwuqec .gt_footnote_marks {
+#iiawqzrrok .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7503,12 +7503,12 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
 ### Read Number of Rows on Excel Import
 
 ```{=html}
-<div id="kupdahvink" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gwlrlmuico" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kupdahvink .gt_table {
+#gwlrlmuico .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7533,7 +7533,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-left-color: #D3D3D3;
 }
 
-#kupdahvink .gt_heading {
+#gwlrlmuico .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7545,7 +7545,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#kupdahvink .gt_title {
+#gwlrlmuico .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7555,7 +7555,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-bottom-width: 0;
 }
 
-#kupdahvink .gt_subtitle {
+#gwlrlmuico .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7565,13 +7565,13 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-top-width: 0;
 }
 
-#kupdahvink .gt_bottom_border {
+#gwlrlmuico .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kupdahvink .gt_col_headings {
+#gwlrlmuico .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7586,7 +7586,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#kupdahvink .gt_col_heading {
+#gwlrlmuico .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -7606,7 +7606,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   overflow-x: hidden;
 }
 
-#kupdahvink .gt_column_spanner_outer {
+#gwlrlmuico .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -7618,15 +7618,15 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-right: 4px;
 }
 
-#kupdahvink .gt_column_spanner_outer:first-child {
+#gwlrlmuico .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kupdahvink .gt_column_spanner_outer:last-child {
+#gwlrlmuico .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kupdahvink .gt_column_spanner {
+#gwlrlmuico .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7638,7 +7638,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   width: 100%;
 }
 
-#kupdahvink .gt_group_heading {
+#gwlrlmuico .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7660,7 +7660,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   vertical-align: middle;
 }
 
-#kupdahvink .gt_empty_group_heading {
+#gwlrlmuico .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7675,15 +7675,15 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   vertical-align: middle;
 }
 
-#kupdahvink .gt_from_md > :first-child {
+#gwlrlmuico .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kupdahvink .gt_from_md > :last-child {
+#gwlrlmuico .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kupdahvink .gt_row {
+#gwlrlmuico .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7702,7 +7702,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   overflow-x: hidden;
 }
 
-#kupdahvink .gt_stub {
+#gwlrlmuico .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7714,7 +7714,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-left: 12px;
 }
 
-#kupdahvink .gt_summary_row {
+#gwlrlmuico .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7724,7 +7724,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-right: 5px;
 }
 
-#kupdahvink .gt_first_summary_row {
+#gwlrlmuico .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7734,7 +7734,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#kupdahvink .gt_grand_summary_row {
+#gwlrlmuico .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7744,7 +7744,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-right: 5px;
 }
 
-#kupdahvink .gt_first_grand_summary_row {
+#gwlrlmuico .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7754,11 +7754,11 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#kupdahvink .gt_striped {
+#gwlrlmuico .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kupdahvink .gt_table_body {
+#gwlrlmuico .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7767,7 +7767,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-bottom-color: #D3D3D3;
 }
 
-#kupdahvink .gt_footnotes {
+#gwlrlmuico .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7781,13 +7781,13 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#kupdahvink .gt_footnote {
+#gwlrlmuico .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kupdahvink .gt_sourcenotes {
+#gwlrlmuico .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7801,41 +7801,41 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#kupdahvink .gt_sourcenote {
+#gwlrlmuico .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kupdahvink .gt_left {
+#gwlrlmuico .gt_left {
   text-align: left;
 }
 
-#kupdahvink .gt_center {
+#gwlrlmuico .gt_center {
   text-align: center;
 }
 
-#kupdahvink .gt_right {
+#gwlrlmuico .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kupdahvink .gt_font_normal {
+#gwlrlmuico .gt_font_normal {
   font-weight: normal;
 }
 
-#kupdahvink .gt_font_bold {
+#gwlrlmuico .gt_font_bold {
   font-weight: bold;
 }
 
-#kupdahvink .gt_font_italic {
+#gwlrlmuico .gt_font_italic {
   font-style: italic;
 }
 
-#kupdahvink .gt_super {
+#gwlrlmuico .gt_super {
   font-size: 65%;
 }
 
-#kupdahvink .gt_footnote_marks {
+#gwlrlmuico .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7864,12 +7864,12 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
 ```
 
 ```{=html}
-<div id="iuwtijgxeu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ofkciddwdm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#iuwtijgxeu .gt_table {
+#ofkciddwdm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7894,7 +7894,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-left-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_heading {
+#ofkciddwdm .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7906,7 +7906,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_title {
+#ofkciddwdm .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7916,7 +7916,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-bottom-width: 0;
 }
 
-#iuwtijgxeu .gt_subtitle {
+#ofkciddwdm .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7926,13 +7926,13 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-top-width: 0;
 }
 
-#iuwtijgxeu .gt_bottom_border {
+#ofkciddwdm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_col_headings {
+#ofkciddwdm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7947,7 +7947,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_col_heading {
+#ofkciddwdm .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7967,7 +7967,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   overflow-x: hidden;
 }
 
-#iuwtijgxeu .gt_column_spanner_outer {
+#ofkciddwdm .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7979,15 +7979,15 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-right: 4px;
 }
 
-#iuwtijgxeu .gt_column_spanner_outer:first-child {
+#ofkciddwdm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#iuwtijgxeu .gt_column_spanner_outer:last-child {
+#ofkciddwdm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#iuwtijgxeu .gt_column_spanner {
+#ofkciddwdm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7999,7 +7999,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   width: 100%;
 }
 
-#iuwtijgxeu .gt_group_heading {
+#ofkciddwdm .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8021,7 +8021,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   vertical-align: middle;
 }
 
-#iuwtijgxeu .gt_empty_group_heading {
+#ofkciddwdm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8036,15 +8036,15 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   vertical-align: middle;
 }
 
-#iuwtijgxeu .gt_from_md > :first-child {
+#ofkciddwdm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#iuwtijgxeu .gt_from_md > :last-child {
+#ofkciddwdm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#iuwtijgxeu .gt_row {
+#ofkciddwdm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8063,7 +8063,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   overflow-x: hidden;
 }
 
-#iuwtijgxeu .gt_stub {
+#ofkciddwdm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8075,7 +8075,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-left: 12px;
 }
 
-#iuwtijgxeu .gt_summary_row {
+#ofkciddwdm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8085,7 +8085,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-right: 5px;
 }
 
-#iuwtijgxeu .gt_first_summary_row {
+#ofkciddwdm .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8095,7 +8095,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_grand_summary_row {
+#ofkciddwdm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8105,7 +8105,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   padding-right: 5px;
 }
 
-#iuwtijgxeu .gt_first_grand_summary_row {
+#ofkciddwdm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8115,11 +8115,11 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-top-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_striped {
+#ofkciddwdm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#iuwtijgxeu .gt_table_body {
+#ofkciddwdm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8128,7 +8128,7 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-bottom-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_footnotes {
+#ofkciddwdm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8142,13 +8142,13 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_footnote {
+#ofkciddwdm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#iuwtijgxeu .gt_sourcenotes {
+#ofkciddwdm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8162,41 +8162,41 @@ readxl::read_excel("C:/data/sample.xlsx", skip = 2)
   border-right-color: #D3D3D3;
 }
 
-#iuwtijgxeu .gt_sourcenote {
+#ofkciddwdm .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#iuwtijgxeu .gt_left {
+#ofkciddwdm .gt_left {
   text-align: left;
 }
 
-#iuwtijgxeu .gt_center {
+#ofkciddwdm .gt_center {
   text-align: center;
 }
 
-#iuwtijgxeu .gt_right {
+#ofkciddwdm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#iuwtijgxeu .gt_font_normal {
+#ofkciddwdm .gt_font_normal {
   font-weight: normal;
 }
 
-#iuwtijgxeu .gt_font_bold {
+#ofkciddwdm .gt_font_bold {
   font-weight: bold;
 }
 
-#iuwtijgxeu .gt_font_italic {
+#ofkciddwdm .gt_font_italic {
   font-style: italic;
 }
 
-#iuwtijgxeu .gt_super {
+#ofkciddwdm .gt_super {
   font-size: 65%;
 }
 
-#iuwtijgxeu .gt_footnote_marks {
+#ofkciddwdm .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8251,12 +8251,12 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
 ### Read Specific Sheet on Excel Import
 
 ```{=html}
-<div id="vaeqhqqeth" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jjbusmjjes" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#vaeqhqqeth .gt_table {
+#jjbusmjjes .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -8281,7 +8281,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-left-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_heading {
+#jjbusmjjes .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -8293,7 +8293,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_title {
+#jjbusmjjes .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -8303,7 +8303,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-bottom-width: 0;
 }
 
-#vaeqhqqeth .gt_subtitle {
+#jjbusmjjes .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8313,13 +8313,13 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-top-width: 0;
 }
 
-#vaeqhqqeth .gt_bottom_border {
+#jjbusmjjes .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_col_headings {
+#jjbusmjjes .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8334,7 +8334,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_col_heading {
+#jjbusmjjes .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -8354,7 +8354,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   overflow-x: hidden;
 }
 
-#vaeqhqqeth .gt_column_spanner_outer {
+#jjbusmjjes .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -8366,15 +8366,15 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-right: 4px;
 }
 
-#vaeqhqqeth .gt_column_spanner_outer:first-child {
+#jjbusmjjes .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#vaeqhqqeth .gt_column_spanner_outer:last-child {
+#jjbusmjjes .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#vaeqhqqeth .gt_column_spanner {
+#jjbusmjjes .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8386,7 +8386,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   width: 100%;
 }
 
-#vaeqhqqeth .gt_group_heading {
+#jjbusmjjes .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8408,7 +8408,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   vertical-align: middle;
 }
 
-#vaeqhqqeth .gt_empty_group_heading {
+#jjbusmjjes .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8423,15 +8423,15 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   vertical-align: middle;
 }
 
-#vaeqhqqeth .gt_from_md > :first-child {
+#jjbusmjjes .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#vaeqhqqeth .gt_from_md > :last-child {
+#jjbusmjjes .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#vaeqhqqeth .gt_row {
+#jjbusmjjes .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8450,7 +8450,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   overflow-x: hidden;
 }
 
-#vaeqhqqeth .gt_stub {
+#jjbusmjjes .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8462,7 +8462,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-left: 12px;
 }
 
-#vaeqhqqeth .gt_summary_row {
+#jjbusmjjes .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8472,7 +8472,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-right: 5px;
 }
 
-#vaeqhqqeth .gt_first_summary_row {
+#jjbusmjjes .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8482,7 +8482,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_grand_summary_row {
+#jjbusmjjes .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8492,7 +8492,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-right: 5px;
 }
 
-#vaeqhqqeth .gt_first_grand_summary_row {
+#jjbusmjjes .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8502,11 +8502,11 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_striped {
+#jjbusmjjes .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#vaeqhqqeth .gt_table_body {
+#jjbusmjjes .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8515,7 +8515,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-bottom-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_footnotes {
+#jjbusmjjes .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8529,13 +8529,13 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_footnote {
+#jjbusmjjes .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#vaeqhqqeth .gt_sourcenotes {
+#jjbusmjjes .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8549,41 +8549,41 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#vaeqhqqeth .gt_sourcenote {
+#jjbusmjjes .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#vaeqhqqeth .gt_left {
+#jjbusmjjes .gt_left {
   text-align: left;
 }
 
-#vaeqhqqeth .gt_center {
+#jjbusmjjes .gt_center {
   text-align: center;
 }
 
-#vaeqhqqeth .gt_right {
+#jjbusmjjes .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#vaeqhqqeth .gt_font_normal {
+#jjbusmjjes .gt_font_normal {
   font-weight: normal;
 }
 
-#vaeqhqqeth .gt_font_bold {
+#jjbusmjjes .gt_font_bold {
   font-weight: bold;
 }
 
-#vaeqhqqeth .gt_font_italic {
+#jjbusmjjes .gt_font_italic {
   font-style: italic;
 }
 
-#vaeqhqqeth .gt_super {
+#jjbusmjjes .gt_super {
   font-size: 65%;
 }
 
-#vaeqhqqeth .gt_footnote_marks {
+#jjbusmjjes .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8612,12 +8612,12 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
 ```
 
 ```{=html}
-<div id="fhqqkgqhmn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mvoufjezqk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#fhqqkgqhmn .gt_table {
+#mvoufjezqk .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -8642,7 +8642,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-left-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_heading {
+#mvoufjezqk .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -8654,7 +8654,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_title {
+#mvoufjezqk .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -8664,7 +8664,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-bottom-width: 0;
 }
 
-#fhqqkgqhmn .gt_subtitle {
+#mvoufjezqk .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8674,13 +8674,13 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-top-width: 0;
 }
 
-#fhqqkgqhmn .gt_bottom_border {
+#mvoufjezqk .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_col_headings {
+#mvoufjezqk .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8695,7 +8695,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_col_heading {
+#mvoufjezqk .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8715,7 +8715,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   overflow-x: hidden;
 }
 
-#fhqqkgqhmn .gt_column_spanner_outer {
+#mvoufjezqk .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8727,15 +8727,15 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-right: 4px;
 }
 
-#fhqqkgqhmn .gt_column_spanner_outer:first-child {
+#mvoufjezqk .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fhqqkgqhmn .gt_column_spanner_outer:last-child {
+#mvoufjezqk .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fhqqkgqhmn .gt_column_spanner {
+#mvoufjezqk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8747,7 +8747,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   width: 100%;
 }
 
-#fhqqkgqhmn .gt_group_heading {
+#mvoufjezqk .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8769,7 +8769,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   vertical-align: middle;
 }
 
-#fhqqkgqhmn .gt_empty_group_heading {
+#mvoufjezqk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8784,15 +8784,15 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   vertical-align: middle;
 }
 
-#fhqqkgqhmn .gt_from_md > :first-child {
+#mvoufjezqk .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fhqqkgqhmn .gt_from_md > :last-child {
+#mvoufjezqk .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fhqqkgqhmn .gt_row {
+#mvoufjezqk .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8811,7 +8811,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   overflow-x: hidden;
 }
 
-#fhqqkgqhmn .gt_stub {
+#mvoufjezqk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8823,7 +8823,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-left: 12px;
 }
 
-#fhqqkgqhmn .gt_summary_row {
+#mvoufjezqk .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8833,7 +8833,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-right: 5px;
 }
 
-#fhqqkgqhmn .gt_first_summary_row {
+#mvoufjezqk .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8843,7 +8843,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_grand_summary_row {
+#mvoufjezqk .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8853,7 +8853,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   padding-right: 5px;
 }
 
-#fhqqkgqhmn .gt_first_grand_summary_row {
+#mvoufjezqk .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8863,11 +8863,11 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-top-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_striped {
+#mvoufjezqk .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fhqqkgqhmn .gt_table_body {
+#mvoufjezqk .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8876,7 +8876,7 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-bottom-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_footnotes {
+#mvoufjezqk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8890,13 +8890,13 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_footnote {
+#mvoufjezqk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#fhqqkgqhmn .gt_sourcenotes {
+#mvoufjezqk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8910,41 +8910,41 @@ readxl::read_excel("C:/data/sample.xlsx", n_max = 1000)
   border-right-color: #D3D3D3;
 }
 
-#fhqqkgqhmn .gt_sourcenote {
+#mvoufjezqk .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#fhqqkgqhmn .gt_left {
+#mvoufjezqk .gt_left {
   text-align: left;
 }
 
-#fhqqkgqhmn .gt_center {
+#mvoufjezqk .gt_center {
   text-align: center;
 }
 
-#fhqqkgqhmn .gt_right {
+#mvoufjezqk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fhqqkgqhmn .gt_font_normal {
+#mvoufjezqk .gt_font_normal {
   font-weight: normal;
 }
 
-#fhqqkgqhmn .gt_font_bold {
+#mvoufjezqk .gt_font_bold {
   font-weight: bold;
 }
 
-#fhqqkgqhmn .gt_font_italic {
+#mvoufjezqk .gt_font_italic {
   font-style: italic;
 }
 
-#fhqqkgqhmn .gt_super {
+#mvoufjezqk .gt_super {
   font-size: 65%;
 }
 
-#fhqqkgqhmn .gt_footnote_marks {
+#mvoufjezqk .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8999,12 +8999,12 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
 ### Read Range of Cells on Excel Import
 
 ```{=html}
-<div id="qdhfpgscvi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="sngmwydrca" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qdhfpgscvi .gt_table {
+#sngmwydrca .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -9029,7 +9029,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-left-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_heading {
+#sngmwydrca .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -9041,7 +9041,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_title {
+#sngmwydrca .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -9051,7 +9051,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-bottom-width: 0;
 }
 
-#qdhfpgscvi .gt_subtitle {
+#sngmwydrca .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -9061,13 +9061,13 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-top-width: 0;
 }
 
-#qdhfpgscvi .gt_bottom_border {
+#sngmwydrca .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_col_headings {
+#sngmwydrca .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9082,7 +9082,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_col_heading {
+#sngmwydrca .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -9102,7 +9102,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   overflow-x: hidden;
 }
 
-#qdhfpgscvi .gt_column_spanner_outer {
+#sngmwydrca .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -9114,15 +9114,15 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-right: 4px;
 }
 
-#qdhfpgscvi .gt_column_spanner_outer:first-child {
+#sngmwydrca .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qdhfpgscvi .gt_column_spanner_outer:last-child {
+#sngmwydrca .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qdhfpgscvi .gt_column_spanner {
+#sngmwydrca .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -9134,7 +9134,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   width: 100%;
 }
 
-#qdhfpgscvi .gt_group_heading {
+#sngmwydrca .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9156,7 +9156,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   vertical-align: middle;
 }
 
-#qdhfpgscvi .gt_empty_group_heading {
+#sngmwydrca .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9171,15 +9171,15 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   vertical-align: middle;
 }
 
-#qdhfpgscvi .gt_from_md > :first-child {
+#sngmwydrca .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qdhfpgscvi .gt_from_md > :last-child {
+#sngmwydrca .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qdhfpgscvi .gt_row {
+#sngmwydrca .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9198,7 +9198,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   overflow-x: hidden;
 }
 
-#qdhfpgscvi .gt_stub {
+#sngmwydrca .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -9210,7 +9210,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-left: 12px;
 }
 
-#qdhfpgscvi .gt_summary_row {
+#sngmwydrca .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9220,7 +9220,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-right: 5px;
 }
 
-#qdhfpgscvi .gt_first_summary_row {
+#sngmwydrca .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9230,7 +9230,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-top-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_grand_summary_row {
+#sngmwydrca .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9240,7 +9240,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-right: 5px;
 }
 
-#qdhfpgscvi .gt_first_grand_summary_row {
+#sngmwydrca .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9250,11 +9250,11 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-top-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_striped {
+#sngmwydrca .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qdhfpgscvi .gt_table_body {
+#sngmwydrca .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9263,7 +9263,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-bottom-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_footnotes {
+#sngmwydrca .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9277,13 +9277,13 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_footnote {
+#sngmwydrca .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qdhfpgscvi .gt_sourcenotes {
+#sngmwydrca .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9297,41 +9297,41 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#qdhfpgscvi .gt_sourcenote {
+#sngmwydrca .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qdhfpgscvi .gt_left {
+#sngmwydrca .gt_left {
   text-align: left;
 }
 
-#qdhfpgscvi .gt_center {
+#sngmwydrca .gt_center {
   text-align: center;
 }
 
-#qdhfpgscvi .gt_right {
+#sngmwydrca .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qdhfpgscvi .gt_font_normal {
+#sngmwydrca .gt_font_normal {
   font-weight: normal;
 }
 
-#qdhfpgscvi .gt_font_bold {
+#sngmwydrca .gt_font_bold {
   font-weight: bold;
 }
 
-#qdhfpgscvi .gt_font_italic {
+#sngmwydrca .gt_font_italic {
   font-style: italic;
 }
 
-#qdhfpgscvi .gt_super {
+#sngmwydrca .gt_super {
   font-size: 65%;
 }
 
-#qdhfpgscvi .gt_footnote_marks {
+#sngmwydrca .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -9360,12 +9360,12 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
 ```
 
 ```{=html}
-<div id="wzuekmduvb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="oaglqdwxsg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wzuekmduvb .gt_table {
+#oaglqdwxsg .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -9390,7 +9390,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-left-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_heading {
+#oaglqdwxsg .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -9402,7 +9402,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_title {
+#oaglqdwxsg .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -9412,7 +9412,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-bottom-width: 0;
 }
 
-#wzuekmduvb .gt_subtitle {
+#oaglqdwxsg .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -9422,13 +9422,13 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-top-width: 0;
 }
 
-#wzuekmduvb .gt_bottom_border {
+#oaglqdwxsg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_col_headings {
+#oaglqdwxsg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9443,7 +9443,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_col_heading {
+#oaglqdwxsg .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -9463,7 +9463,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   overflow-x: hidden;
 }
 
-#wzuekmduvb .gt_column_spanner_outer {
+#oaglqdwxsg .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -9475,15 +9475,15 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-right: 4px;
 }
 
-#wzuekmduvb .gt_column_spanner_outer:first-child {
+#oaglqdwxsg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wzuekmduvb .gt_column_spanner_outer:last-child {
+#oaglqdwxsg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wzuekmduvb .gt_column_spanner {
+#oaglqdwxsg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -9495,7 +9495,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   width: 100%;
 }
 
-#wzuekmduvb .gt_group_heading {
+#oaglqdwxsg .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9517,7 +9517,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   vertical-align: middle;
 }
 
-#wzuekmduvb .gt_empty_group_heading {
+#oaglqdwxsg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9532,15 +9532,15 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   vertical-align: middle;
 }
 
-#wzuekmduvb .gt_from_md > :first-child {
+#oaglqdwxsg .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wzuekmduvb .gt_from_md > :last-child {
+#oaglqdwxsg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wzuekmduvb .gt_row {
+#oaglqdwxsg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9559,7 +9559,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   overflow-x: hidden;
 }
 
-#wzuekmduvb .gt_stub {
+#oaglqdwxsg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -9571,7 +9571,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-left: 12px;
 }
 
-#wzuekmduvb .gt_summary_row {
+#oaglqdwxsg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9581,7 +9581,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-right: 5px;
 }
 
-#wzuekmduvb .gt_first_summary_row {
+#oaglqdwxsg .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9591,7 +9591,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-top-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_grand_summary_row {
+#oaglqdwxsg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9601,7 +9601,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   padding-right: 5px;
 }
 
-#wzuekmduvb .gt_first_grand_summary_row {
+#oaglqdwxsg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9611,11 +9611,11 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-top-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_striped {
+#oaglqdwxsg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wzuekmduvb .gt_table_body {
+#oaglqdwxsg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9624,7 +9624,7 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-bottom-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_footnotes {
+#oaglqdwxsg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9638,13 +9638,13 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_footnote {
+#oaglqdwxsg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wzuekmduvb .gt_sourcenotes {
+#oaglqdwxsg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9658,41 +9658,41 @@ readxl::read_excel("C:/data/sample.xlsx", sheet = "source_data")
   border-right-color: #D3D3D3;
 }
 
-#wzuekmduvb .gt_sourcenote {
+#oaglqdwxsg .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wzuekmduvb .gt_left {
+#oaglqdwxsg .gt_left {
   text-align: left;
 }
 
-#wzuekmduvb .gt_center {
+#oaglqdwxsg .gt_center {
   text-align: center;
 }
 
-#wzuekmduvb .gt_right {
+#oaglqdwxsg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wzuekmduvb .gt_font_normal {
+#oaglqdwxsg .gt_font_normal {
   font-weight: normal;
 }
 
-#wzuekmduvb .gt_font_bold {
+#oaglqdwxsg .gt_font_bold {
   font-weight: bold;
 }
 
-#wzuekmduvb .gt_font_italic {
+#oaglqdwxsg .gt_font_italic {
   font-style: italic;
 }
 
-#wzuekmduvb .gt_super {
+#oaglqdwxsg .gt_super {
   font-size: 65%;
 }
 
-#wzuekmduvb .gt_footnote_marks {
+#oaglqdwxsg .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;

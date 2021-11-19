@@ -24,7 +24,7 @@
 <meta name="author" content="Ryan Garnett" />
 
 
-<meta name="date" content="2021-11-12" />
+<meta name="date" content="2021-11-19" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -289,6 +289,22 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="7.3.1" data-path="data-quality.html"><a href="data-quality.html#clean-structure-and-values-of-a-dataframe"><i class="fa fa-check"></i><b>7.3.1</b> Clean structure and values of a dataframe</a></li>
 </ul></li>
 </ul></li>
+<li class="chapter" data-level="8" data-path="data-transformation.html"><a href="data-transformation.html"><i class="fa fa-check"></i><b>8</b> Data Transformation</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="data-transformation.html"><a href="data-transformation.html#between-data-types"><i class="fa fa-check"></i><b>8.1</b> Between Data Types</a>
+<ul>
+<li class="chapter" data-level="8.1.1" data-path="data-transformation.html"><a href="data-transformation.html#change-character-data-type-to-numeric-data-type-in-single-column"><i class="fa fa-check"></i><b>8.1.1</b> Change character data type to numeric data type in single column</a></li>
+<li class="chapter" data-level="8.1.2" data-path="data-transformation.html"><a href="data-transformation.html#change-numeric-data-type-to-character-data-type-in-single-column"><i class="fa fa-check"></i><b>8.1.2</b> Change numeric data type to character data type in single column</a></li>
+<li class="chapter" data-level="8.1.3" data-path="data-transformation.html"><a href="data-transformation.html#change-character-data-type-to-date-data-type-in-single-column"><i class="fa fa-check"></i><b>8.1.3</b> Change character data type to date data type in single column</a></li>
+<li class="chapter" data-level="8.1.4" data-path="data-transformation.html"><a href="data-transformation.html#change-all-character-data-columns-to-numeric-data"><i class="fa fa-check"></i><b>8.1.4</b> Change all character data columns to numeric data</a></li>
+<li class="chapter" data-level="8.1.5" data-path="data-transformation.html"><a href="data-transformation.html#change-all-numeric-data-columns-to-character-data"><i class="fa fa-check"></i><b>8.1.5</b> Change all numeric data columns to character data</a></li>
+<li class="chapter" data-level="8.1.6" data-path="data-transformation.html"><a href="data-transformation.html#change-all-character-data-columns-to-date-data"><i class="fa fa-check"></i><b>8.1.6</b> Change all character data columns to date data</a></li>
+<li class="chapter" data-level="8.1.7" data-path="data-transformation.html"><a href="data-transformation.html#change-character-data-type-to-numeric-data-type-in-selected-columns"><i class="fa fa-check"></i><b>8.1.7</b> Change character data type to numeric data type in selected columns</a></li>
+<li class="chapter" data-level="8.1.8" data-path="data-transformation.html"><a href="data-transformation.html#change-numeric-data-type-to-character-data-type-in-selected-columns"><i class="fa fa-check"></i><b>8.1.8</b> Change numeric data type to character data type in selected columns</a></li>
+<li class="chapter" data-level="8.1.9" data-path="data-transformation.html"><a href="data-transformation.html#change-character-data-type-to-date-data-type-in-selected-columns"><i class="fa fa-check"></i><b>8.1.9</b> Change character data type to date data type in selected columns</a></li>
+</ul></li>
+<li class="chapter" data-level="8.2" data-path="data-transformation.html"><a href="data-transformation.html#reshaping-data"><i class="fa fa-check"></i><b>8.2</b> Reshaping Data</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -312,7 +328,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div id="header">
 <h1 class="title">Data Analytics with R: A Recipe Book</h1>
 <p class="author"><em>Ryan Garnett</em></p>
-<p class="date"><em>2021-11-12</em></p>
+<p class="date"><em>2021-11-19</em></p>
 </div>
 <div id="intro" class="section level1" number="1">
 <h1><span class="header-section-number">Chapter 1</span> Intro</h1>
@@ -345,12 +361,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <h3>
 Select data by multiple column names
 </h3>
-<div id="ysxsnoipet" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="rctlgjzcpl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ysxsnoipet .gt_table {
+#rctlgjzcpl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -375,7 +391,7 @@ Select data by multiple column names
   border-left-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_heading {
+#rctlgjzcpl .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -387,7 +403,7 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_title {
+#rctlgjzcpl .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -397,7 +413,7 @@ Select data by multiple column names
   border-bottom-width: 0;
 }
 
-#ysxsnoipet .gt_subtitle {
+#rctlgjzcpl .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -407,13 +423,13 @@ Select data by multiple column names
   border-top-width: 0;
 }
 
-#ysxsnoipet .gt_bottom_border {
+#rctlgjzcpl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_col_headings {
+#rctlgjzcpl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -428,7 +444,7 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_col_heading {
+#rctlgjzcpl .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -448,7 +464,7 @@ Select data by multiple column names
   overflow-x: hidden;
 }
 
-#ysxsnoipet .gt_column_spanner_outer {
+#rctlgjzcpl .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -460,15 +476,15 @@ Select data by multiple column names
   padding-right: 4px;
 }
 
-#ysxsnoipet .gt_column_spanner_outer:first-child {
+#rctlgjzcpl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ysxsnoipet .gt_column_spanner_outer:last-child {
+#rctlgjzcpl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ysxsnoipet .gt_column_spanner {
+#rctlgjzcpl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -480,7 +496,7 @@ Select data by multiple column names
   width: 100%;
 }
 
-#ysxsnoipet .gt_group_heading {
+#rctlgjzcpl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -502,7 +518,7 @@ Select data by multiple column names
   vertical-align: middle;
 }
 
-#ysxsnoipet .gt_empty_group_heading {
+#rctlgjzcpl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -517,15 +533,15 @@ Select data by multiple column names
   vertical-align: middle;
 }
 
-#ysxsnoipet .gt_from_md > :first-child {
+#rctlgjzcpl .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ysxsnoipet .gt_from_md > :last-child {
+#rctlgjzcpl .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ysxsnoipet .gt_row {
+#rctlgjzcpl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -544,7 +560,7 @@ Select data by multiple column names
   overflow-x: hidden;
 }
 
-#ysxsnoipet .gt_stub {
+#rctlgjzcpl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -556,7 +572,7 @@ Select data by multiple column names
   padding-left: 12px;
 }
 
-#ysxsnoipet .gt_summary_row {
+#rctlgjzcpl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -566,7 +582,7 @@ Select data by multiple column names
   padding-right: 5px;
 }
 
-#ysxsnoipet .gt_first_summary_row {
+#rctlgjzcpl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -576,7 +592,7 @@ Select data by multiple column names
   border-top-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_grand_summary_row {
+#rctlgjzcpl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -586,7 +602,7 @@ Select data by multiple column names
   padding-right: 5px;
 }
 
-#ysxsnoipet .gt_first_grand_summary_row {
+#rctlgjzcpl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -596,11 +612,11 @@ Select data by multiple column names
   border-top-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_striped {
+#rctlgjzcpl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ysxsnoipet .gt_table_body {
+#rctlgjzcpl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -609,7 +625,7 @@ Select data by multiple column names
   border-bottom-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_footnotes {
+#rctlgjzcpl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -623,13 +639,13 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_footnote {
+#rctlgjzcpl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ysxsnoipet .gt_sourcenotes {
+#rctlgjzcpl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -643,41 +659,41 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#ysxsnoipet .gt_sourcenote {
+#rctlgjzcpl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ysxsnoipet .gt_left {
+#rctlgjzcpl .gt_left {
   text-align: left;
 }
 
-#ysxsnoipet .gt_center {
+#rctlgjzcpl .gt_center {
   text-align: center;
 }
 
-#ysxsnoipet .gt_right {
+#rctlgjzcpl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ysxsnoipet .gt_font_normal {
+#rctlgjzcpl .gt_font_normal {
   font-weight: normal;
 }
 
-#ysxsnoipet .gt_font_bold {
+#rctlgjzcpl .gt_font_bold {
   font-weight: bold;
 }
 
-#ysxsnoipet .gt_font_italic {
+#rctlgjzcpl .gt_font_italic {
   font-style: italic;
 }
 
-#ysxsnoipet .gt_super {
+#rctlgjzcpl .gt_super {
   font-size: 65%;
 }
 
-#ysxsnoipet .gt_footnote_marks {
+#rctlgjzcpl .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -703,12 +719,12 @@ Select data by multiple column names
   
 </table>
 </div>
-<div id="orkwyeaisz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="yoowhxqrys" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#orkwyeaisz .gt_table {
+#yoowhxqrys .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -733,7 +749,7 @@ Select data by multiple column names
   border-left-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_heading {
+#yoowhxqrys .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -745,7 +761,7 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_title {
+#yoowhxqrys .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -755,7 +771,7 @@ Select data by multiple column names
   border-bottom-width: 0;
 }
 
-#orkwyeaisz .gt_subtitle {
+#yoowhxqrys .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -765,13 +781,13 @@ Select data by multiple column names
   border-top-width: 0;
 }
 
-#orkwyeaisz .gt_bottom_border {
+#yoowhxqrys .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_col_headings {
+#yoowhxqrys .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -786,7 +802,7 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_col_heading {
+#yoowhxqrys .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -806,7 +822,7 @@ Select data by multiple column names
   overflow-x: hidden;
 }
 
-#orkwyeaisz .gt_column_spanner_outer {
+#yoowhxqrys .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -818,15 +834,15 @@ Select data by multiple column names
   padding-right: 4px;
 }
 
-#orkwyeaisz .gt_column_spanner_outer:first-child {
+#yoowhxqrys .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#orkwyeaisz .gt_column_spanner_outer:last-child {
+#yoowhxqrys .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#orkwyeaisz .gt_column_spanner {
+#yoowhxqrys .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -838,7 +854,7 @@ Select data by multiple column names
   width: 100%;
 }
 
-#orkwyeaisz .gt_group_heading {
+#yoowhxqrys .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -860,7 +876,7 @@ Select data by multiple column names
   vertical-align: middle;
 }
 
-#orkwyeaisz .gt_empty_group_heading {
+#yoowhxqrys .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -875,15 +891,15 @@ Select data by multiple column names
   vertical-align: middle;
 }
 
-#orkwyeaisz .gt_from_md > :first-child {
+#yoowhxqrys .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#orkwyeaisz .gt_from_md > :last-child {
+#yoowhxqrys .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#orkwyeaisz .gt_row {
+#yoowhxqrys .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -902,7 +918,7 @@ Select data by multiple column names
   overflow-x: hidden;
 }
 
-#orkwyeaisz .gt_stub {
+#yoowhxqrys .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -914,7 +930,7 @@ Select data by multiple column names
   padding-left: 12px;
 }
 
-#orkwyeaisz .gt_summary_row {
+#yoowhxqrys .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -924,7 +940,7 @@ Select data by multiple column names
   padding-right: 5px;
 }
 
-#orkwyeaisz .gt_first_summary_row {
+#yoowhxqrys .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -934,7 +950,7 @@ Select data by multiple column names
   border-top-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_grand_summary_row {
+#yoowhxqrys .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -944,7 +960,7 @@ Select data by multiple column names
   padding-right: 5px;
 }
 
-#orkwyeaisz .gt_first_grand_summary_row {
+#yoowhxqrys .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -954,11 +970,11 @@ Select data by multiple column names
   border-top-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_striped {
+#yoowhxqrys .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#orkwyeaisz .gt_table_body {
+#yoowhxqrys .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -967,7 +983,7 @@ Select data by multiple column names
   border-bottom-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_footnotes {
+#yoowhxqrys .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -981,13 +997,13 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_footnote {
+#yoowhxqrys .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#orkwyeaisz .gt_sourcenotes {
+#yoowhxqrys .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1001,41 +1017,41 @@ Select data by multiple column names
   border-right-color: #D3D3D3;
 }
 
-#orkwyeaisz .gt_sourcenote {
+#yoowhxqrys .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#orkwyeaisz .gt_left {
+#yoowhxqrys .gt_left {
   text-align: left;
 }
 
-#orkwyeaisz .gt_center {
+#yoowhxqrys .gt_center {
   text-align: center;
 }
 
-#orkwyeaisz .gt_right {
+#yoowhxqrys .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#orkwyeaisz .gt_font_normal {
+#yoowhxqrys .gt_font_normal {
   font-weight: normal;
 }
 
-#orkwyeaisz .gt_font_bold {
+#yoowhxqrys .gt_font_bold {
   font-weight: bold;
 }
 
-#orkwyeaisz .gt_font_italic {
+#yoowhxqrys .gt_font_italic {
   font-style: italic;
 }
 
-#orkwyeaisz .gt_super {
+#yoowhxqrys .gt_super {
   font-size: 65%;
 }
 
-#orkwyeaisz .gt_footnote_marks {
+#yoowhxqrys .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1147,7 +1163,7 @@ Select data by multiple column names
 <p><br></p>
 <center>
 <div class="figure">
-<img src="images/small_steps.png" alt="" />
+<img src="/home/ryangarnett/Github/recipe_book/images/small_steps.png" alt="" />
 <p class="caption">Small steps vs. large steps</p>
 </div>
 <p><a href="https://m.facebook.com/111950100703954/photos/a.113382257227405/198657015366595/?type=3">Available here</a></p>

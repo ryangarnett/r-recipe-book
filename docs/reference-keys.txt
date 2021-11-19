@@ -107,11 +107,10 @@ between-data-types
 change-character-data-type-to-numeric-data-type-in-single-column
 change-numeric-data-type-to-character-data-type-in-single-column
 change-character-data-type-to-date-data-type-in-single-column
-date-data
-reshaping-data
 change-all-character-data-columns-to-numeric-data
 change-all-numeric-data-columns-to-character-data
 change-all-character-data-columns-to-date-data
 change-character-data-type-to-numeric-data-type-in-selected-columns
 change-numeric-data-type-to-character-data-type-in-selected-columns
 change-character-data-type-to-date-data-type-in-selected-columns
+reshaping-data
