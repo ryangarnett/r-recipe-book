@@ -1,0 +1,429 @@
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+library(janitor)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>"),
+                  data = stringr::str_replace_all(data, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("~/Github/r-recipe-book/data/source_recipes.csv")
+```
+
+# Combining Data
+It is very common to have data stored in multiple different tables or dataframes. For many data analysis approaches it is preferred to have multiple data sources in a single dataframe. This chapter will focus on combining multiple dataframes into a single dataframe.
+
+
+## Appending Dataframes
+Appending data is a common practice to combine multiple dataframes into a single dataframes without using common values between datasets to combine data.
+
+
+### Add a dataframe to bottom of a dataframe
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(88)
+ingredients_table(88)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample1.csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+rbind(data1, data2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+rbind(df1, df2)
+```
+
+
+### Add a dataframe to right of a dataframe
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(89)
+ingredients_table(89)
+```
+
+</br>
+
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample1.csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+cbind(data1, data2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+cbind(df1, df2)
+```
+
+
+## Joining Dataframes
+Joining data is a common practice to combine multiple dataframes into a single dataframes based on common values within columns.
+
+
+### Join with same joining column names
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(90)
+ingredients_table(90)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::left_join(df1, df2, by = "user_id")
+```
+
+
+### Join with different joining names
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(91)
+ingredients_table(91)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = c("data1 column_name" = "data2 column_name"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
+```
+
+
+### Join with subset of columns from one dataframe
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(92)
+ingredients_table(92)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, package::function(data2, column_name1, column_name2, column_name3), by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_amount), by = "user_id")
+```
+
+
+### Join with subset of columns from two dataframes
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(93)
+ingredients_table(93)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(package::function(data1, column_name1, column_name2, column_name3), package::function(data2, column_name1, column_name2, column_name3), by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::select(df2, user_id, product_purchased, purchase_amount), by = "user_id")
+```
+
+
+### Join matching rows in both dataframes
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(94)
+ingredients_table(94)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::inner_join(df1, df2, by = "user_id")
+```
+
+
+### Join matching rows from the second dataframe to the first dataframe
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(95)
+ingredients_table(95)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::left_join(df1, df2, by = "user_id")
+```
+
+
+### Join matching rows from the first dataframe to the first dataframe
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(96)
+ingredients_table(96)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::right_join(df1, df2, by = "user_id")
+```
+
+### Join all rows regardless of matching
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(97)
+ingredients_table(97)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::full_join(df1, df2, by = "user_id")
+```
+
+
+### Filter dataframe where matching rows between dataframes
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(98)
+ingredients_table(98)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::semi_join(df1, df2, by = "user_id")
+```
+
+
+### Filter dataframe where non-matching rows between dataframes
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(99)
+ingredients_table(99)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df1 <- readr::read_csv("C:/data/sample.1csv")
+df2 <- readr::read_csv("C:/data/sample2.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data1, data2, by = "column_name")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::anti_join(df1, df2, by = "user_id")
+```

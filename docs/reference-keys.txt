@@ -129,3 +129,7 @@ join-matching-rows-from-the-first-dataframe-to-the-first-dataframe
 join-all-rows-regardless-of-matching
 filter-dataframe-where-matching-rows-between-dataframes
 filter-dataframe-where-non-matching-rows-between-dataframes
+modifying-data
+changing-data-values
+creating-new-data-columns
+date-data
