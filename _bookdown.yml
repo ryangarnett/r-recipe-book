@@ -2,6 +2,6 @@ book_filename: "data_analytics_recipe_book"
 chapter_name: "Chapter "
 repo: https://github.com/ryangarnett/r-recipe-book
 output_dir: docs
-rmd_files: ["index.Rmd", "01-access-packages.Rmd", "02-creating-objects.Rmd", "03-import-data.Rmd", "04-preview-data.Rmd", "05-data-exploration.Rmd", "06-data-cleaning.Rmd"]
+rmd_files: ["index.Rmd", "01-access-packages.Rmd", "02-creating-objects.Rmd", "03-import-data.Rmd", "04-preview-data.Rmd", "05-data-exploration.Rmd", "06-data-cleaning.Rmd","07-data-transformation.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes

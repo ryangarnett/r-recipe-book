@@ -1,0 +1,336 @@
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+library(janitor)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("~/Github/r-recipe-book/data/source_recipes.csv")
+```
+
+# Data Transformation
+Data is collected in many different ways, and for many different purposes. While the data structure may work for oen use case, it may not work for another. A few common series of tasks is to transform the strucutre and data types. This chapter will focus on transforming data to follow the [tidy data principles](https://vita.had.co.nz/papers/tidy-data.pdf).
+
+<br>
+
+> *It is often said that 80% of data analysis is spent on the cleaning and preparing data. And it’s not just a first step, but it must be repeated many times over the course of analysis as new problems come to light or new data is collected. <br> [Tidy data](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html) - exerts from Hadly Wickham*
+
+
+## Between Data Types
+It is very common that the data types stored in a dataset differ from the desired data type for analysis. Data may be collected in one format for various reason, however that format many not allow for specific data analysis techniques. The following recipes outline how to change columns of data to a new data type.
+
+### Change character data type to numeric data type in single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(79)
+ingredients_table(79)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = as.numeric(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, column1 = as.numeric(column1))
+```
+
+
+### Change numeric data type to character data type in single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(80)
+ingredients_table(80)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = as.character(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, column1 = as.character(column1))
+```
+
+
+### Change character data type to date data type in single column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(81)
+ingredients_table(81)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = as.Date(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, column1 = as.Date(column1))
+```
+
+
+### Change all character data columns to numeric data
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(82)
+ingredients_table(82)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, is.character, as.numeric)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_if(df, is.character, as.numeric)
+```
+
+
+### Change all numeric data columns to character data
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(83)
+ingredients_table(83)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, is.numeric, as.character)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_if(df, is.numeric, as.character)
+```
+
+
+### Change all character data columns to date data
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(84)
+ingredients_table(84)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, is.chacter, as.Date)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_if(df, is.character, as.Date)
+```
+
+
+### Change character data type to numeric data type in selected columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(85)
+ingredients_table(85)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, c("column_name1", "column_name2"), as.numeric)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_at(df, c("column1", "column2"), as.numeric)
+```
+
+
+### Change numeric data type to character data type in selected columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(86)
+ingredients_table(86)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, c("column_name1", "column_name2"), as.character)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_at(df, c("column1", "column2"), as.character)
+```
+
+
+### Change character data type to date data type in selected columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(87)
+ingredients_table(87)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, c("column_name1", "column_name2"), as.Date)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate_at(df, c("column1", "column2"), as.Date)
+```
+
+
+## Reshaping Data

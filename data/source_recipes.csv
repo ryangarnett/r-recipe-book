@@ -77,10 +77,30 @@ id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
 76,Breakfast,Data Quality,Data Cleaning,Change all spaces to underscores in all character columns,Method to change all spaces to an underscore in a single character column of a dataframe,2,readr dplyr stringr,sample.csv
 77,Breakfast,Data Quality,Data Cleaning,Clean structure and values of a dataframe,Method to cleann the structure and values in all character and numeric columns of a dataframe,2,readr dplyr janitor stringr tidyr,sample.csv
 78,Appetizers,Accessing Packages,Installing Packages,Load multiple packages,Method to load and gain access to the functionality of multiple packages in R,0,,
-,Breakfast,Data Transformation,Character Data,,,,,
-,Breakfast,Data Transformation,Date Data,,,,,
-,Breakfast,Data Transformation,Between Data Types,,,,,
-,Breakfast,Data Transformation,Reshaping Data,,,,,
+79,Breakfast,Data Transformation,Between Data Types,Change character data type to numeric data type in single column,Method to change all character values to numeric values in a single column of a dataframe,1,readr dplyr,sample.csv
+80,Breakfast,Data Transformation,Between Data Types,Change numeric data type to character data type in single column,Method to change all numeric values to character values in a single column of a dataframe,1,readr dplyr,sample.csv
+81,Breakfast,Data Transformation,Between Data Types,Change character data type to date data type in single column,Method to change all character values to date values in a single column of a dataframe,1,readr dplyr,sample.csv
+82,Breakfast,Data Transformation,Between Data Types,Change all character data columns to numeric data,Method to change all character values to numeric values in all character columns of a dataframe,1,readr dplyr,sample.csv
+83,Breakfast,Data Transformation,Between Data Types,Change all numeric data columns to character data,Method to change all numeric values to character values in all numeric columns of a dataframe,1,readr dplyr,sample.csv
+84,Breakfast,Data Transformation,Between Data Types,Change all character data columns to date data,Method to change all character values to date values in all character columns of a dataframe,1,readr dplyr,sample.csv
+85,Breakfast,Data Transformation,Between Data Types,Change character data type to numeric data type in selected columns,Method to change all character values to numeric values in selected character columns of a dataframe,1,readr dplyr,sample.csv
+86,Breakfast,Data Transformation,Between Data Types,Change numeric data type to character data type in selected columns,Method to change all numeric values to character values in selected numeric columns of a dataframe,1,readr dplyr,sample.csv
+87,Breakfast,Data Transformation,Between Data Types,Change character data type to date data type in selected columns,Method to change all character values to date values in selected character columns of a dataframe,1,readr dplyr,sample.csv
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
 ,Breakfast,Data Fusion,Appending Dataframes,Add a dataframe to bottom of a dataframe,,,,
 ,Breakfast,Data Fusion,Appending Dataframes,Add a dataframe to the right of a dataframe,,,,
 ,Breakfast,Data Fusion,Joining Dataframes,Join with same joining column names,,,,
