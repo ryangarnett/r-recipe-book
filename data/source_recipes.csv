@@ -86,29 +86,15 @@ id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
 85,Breakfast,Data Transformation,Between Data Types,Change character data type to numeric data type in selected columns,Method to change all character values to numeric values in selected character columns of a dataframe,1,readr dplyr,sample.csv
 86,Breakfast,Data Transformation,Between Data Types,Change numeric data type to character data type in selected columns,Method to change all numeric values to character values in selected numeric columns of a dataframe,1,readr dplyr,sample.csv
 87,Breakfast,Data Transformation,Between Data Types,Change character data type to date data type in selected columns,Method to change all character values to date values in selected character columns of a dataframe,1,readr dplyr,sample.csv
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,Breakfast,Data Fusion,Appending Dataframes,Add a dataframe to bottom of a dataframe,,,,
-,Breakfast,Data Fusion,Appending Dataframes,Add a dataframe to the right of a dataframe,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Join with same joining column names,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Join with different joining names,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Join with subset of columns from one dataframe,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Join with subset of columns from two dataframes,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Inner join,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Left join,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Right join,,,,
-,Breakfast,Data Fusion,Joining Dataframes,Full join,,,,
-,Breakfast,Feature Engineering,,,,,,
+88,Breakfast,Combing Data,Appending Dataframes,Add a dataframe to bottom of a dataframe,Method to add rows from a dataframe that has the same columns to the bottom of another dataframe,1,readr,sample1.csv sample2.csv
+89,Breakfast,Combing Data,Appending Dataframes,Add a dataframe to the right of a dataframe,Method to add columns from a dataframe to the right of the existing columns in another dataframe,1,readr,sample1.csv sample2.csv
+90,Breakfast,Combing Data,Joining Dataframes,Join with same joining column names,Method to join two dataframes when the joining column name is the same in both dataframes,1,readr dplyr,sample1.csv sample2.csv
+91,Breakfast,Combing Data,Joining Dataframes,Join with different joining names,Method to join two dataframes when the joining column name is different between the dataframes,1,readr dplyr,sample1.csv sample2.csv
+92,Breakfast,Combing Data,Joining Dataframes,Join with subset of columns from one dataframe,Method to join two dataframes whiles reducing the number of columns from one dataframe,1,readr dplyr,sample1.csv sample2.csv
+93,Breakfast,Combing Data,Joining Dataframes,Join with subset of columns from two dataframes,Method to join two dataframes whiles reducing the number of columns from both dataframes,1,readr dplyr,sample1.csv sample2.csv
+94,Breakfast,Combing Data,Joining Dataframes,Join matching rows in both dataframes,Method to join two dataframes when rows between both dataframes match,1,readr dplyr,sample1.csv sample2.csv
+95,Breakfast,Combing Data,Joining Dataframes,Join matching rows from the second dataframe to the first dataframe,Method to join matching rows from the second dataframe to the first dataframe,1,readr dplyr,sample1.csv sample2.csv
+96,Breakfast,Combing Data,Joining Dataframes,Join matching rows from the first dataframe to the first dataframe,Method to join matching rows from the first dataframe to the first dataframe,1,readr dplyr,sample1.csv sample2.csv
+97,Breakfast,Combing Data,Joining Dataframes,Join all rows regardless of matching,Method to join regardless of matching between both dataframes,1,readr dplyr,sample1.csv sample2.csv
+98,Breakfast,Combing Data,Joining Dataframes,Filter dataframe where matching rows between dataframes,Method to filter rows in first dataframe that match the second dataframe,1,readr dplyr,sample1.csv sample2.csv
+99,Breakfast,Combing Data,Joining Dataframes,Filter dataframe where non-matching rows between dataframes,Method to filter rows in first dataframe that do not match the second dataframe,1,readr dplyr,sample1.csv sample2.csv

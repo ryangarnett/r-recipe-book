@@ -52,7 +52,8 @@ description_table <- function(id){
 ingredients_table <- function(id){
   recipe_data %>%
     dplyr::filter(id == {{id}}) %>%
-    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>"),
+                  data = stringr::str_replace_all(data, " ", "<br>")) %>%
     dplyr::select(packages, data) %>%
     gt::gt() %>%
     gt::tab_header(title = "Ingredients") %>%
