@@ -119,7 +119,7 @@ install.packages(c("package_name1","package_name2", "package_name3"))
 install.packages(c("readr", "dplyr", "tidyr"))
 ```
 
-## Loading Pagages
+## Loading Packages
 Once a package has been installed into RStudio it must be loaded into the RStudio environment. Each time you write code (i.e. a RNotebook, RMarkdown document, script, etc.) the specific packages that will be used must be loaded. The most common method for loading packages is to place the commands within a code block section.
 
 ### Load a Single Package

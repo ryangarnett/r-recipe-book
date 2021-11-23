@@ -98,3 +98,37 @@ id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
 97,Breakfast,Combing Data,Joining Dataframes,Join all rows regardless of matching,Method to join regardless of matching between both dataframes,1,readr dplyr,sample1.csv sample2.csv
 98,Breakfast,Combing Data,Joining Dataframes,Filter dataframe where matching rows between dataframes,Method to filter rows in first dataframe that match the second dataframe,1,readr dplyr,sample1.csv sample2.csv
 99,Breakfast,Combing Data,Joining Dataframes,Filter dataframe where non-matching rows between dataframes,Method to filter rows in first dataframe that do not match the second dataframe,1,readr dplyr,sample1.csv sample2.csv
+100,Breakfast,Modifying Data,Static Value,Change or create a single character column with a static character value,Method to change or create a character column with a single specific character value,1,readr dplyr,sample.csv
+101,Breakfast,Modifying Data,Static Value,Change or create a single numeric column with a static numeric value,Method to change or create a numeric column with a single specific numeric value,1,readr dplyr,sample.csv
+102,Breakfast,Modifying Data,Static Value,Change a single date column with a static date value,Method to change a date column with a single specific date value,1,readr dplyr,sample.csv
+103,Breakfast,Modifying Data,Static Value,Change or create multiple character columns with a static character value,Method to change or create multiple character columns with a single specific character value,1,readr dplyr,sample.csv
+104,Breakfast,Modifying Data,Static Value,Change or create multiple numeric columns with a static numeric value,Method to change or create multiple numeric columns with a single specific numeric value,1,readr dplyr,sample.csv
+105,Breakfast,Modifying Data,Static Value,Change multiple date columns with a static date value,Method to change multiple date columns with a single specific date value,1,readr dplyr,sample.csv
+106,Breakfast,Modifying Data,Static Value,Create a new date column with a static date value,Method to create a new date column with a single specific date value,1,readr dplyr,sample.csv
+107,Breakfast,Modifying Data,Static Value,Create multiple new date columns with a static date value,Method to create multiple new date columns with a single specific date value,1,readr dplyr,sample.csv
+108,Breakfast,Modifying Data,Using Existing Column(s),Create new character column from static text and a character column,Method to create a new character column by combining values from a character column with static text,1,readr dplyr,sample.csv
+109,Breakfast,Modifying Data,Using Existing Column(s),Create new character column from multiple character columns,Method to create a new character column by combining values from multiple character columns,1,readr dplyr,sample.csv
+110,Breakfast,Modifying Data,Using Existing Column(s),Create new character column from multiple character columns and static text,Method to create a new character column by combining values from multiple character columns separated by a static text value,1,readr dplyr,sample.csv
+111,Breakfast,Modifying Data,Using Existing Column(s),Create new numeric column from a numeric column and a mathematical operation,Method to create a new numeric column by combining values from a numeric column and using a mathematical operation,1,readr dplyr,sample.csv
+112,Breakfast,Modifying Data,Using Existing Column(s),Create new numeric column from multiple numeric columns and mathematical operations,Method to create a new numeric column by combining values from multiple numeric column and using a mathematical operation,1,readr dplyr,sample.csv
+113,Breakfast,Modifying Data,Using Existing Column(s),Create new numeric column from a numeric column and a function,Method to create a new numeric column by combining values from a numeric column and using a function,1,readr dplyr,sample.csv
+114,Breakfast,Modifying Data,Using Existing Column(s),Create new date column from a date column and a mathematical operation,Method to create a new date column by combining values from a date column and using a mathematical operation,1,readr dplyr,sample.csv
+115,Breakfast,Modifying Data,Using Existing Column(s),Create new date column from multiple date columns and mathematical operations,Method to create a new date column by combining values from multiple date column and using a mathematical operation,1,readr dplyr,sample.csv
+116,Breakfast,Modifying Data,Using Existing Column(s),Create new date column from a date column and a function,Method to create a new date column by combining values from a date column and using a function,1,readr dplyr lubridate,sample.csv
+117,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally from existing numeric column with default static value,Method to create a new character column by using a conditional statement from an existing numeric column adding a static default value,1,readr dplyr,sample.csv
+118,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally from range of values in existing numeric column with default static value,Method to create a new character column by using a conditional statement from a range of values in an existing numeric column adding a static default value,2,readr dplyr,sample.csv
+119,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with default static value,,2,readr dplyr,sample.csv
+120,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with character column as default value,,2,readr dplyr,sample.csv
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,Create new numeric column conditionally from existing numeric column with default static value,,,,
+,,,,Create new numeric column conditionally from range of values in existing numeric column with default static value,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,Create new character column from single character condition with default static value,,,,
+,,,,Create new character column from multiple character conditions with default static value,,,,
+,,,,Create new character column from single character condition with character column as default value,,,,
+,,,,Create new character column from multiple character conditions with character column as default value,,,,
