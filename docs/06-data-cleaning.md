@@ -13,12 +13,12 @@
 ### Find duplicates in single column
 
 ```{=html}
-<div id="tawpbgfavr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qjtonahaeo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tawpbgfavr .gt_table {
+#qjtonahaeo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -43,7 +43,7 @@
   border-left-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_heading {
+#qjtonahaeo .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -55,7 +55,7 @@
   border-right-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_title {
+#qjtonahaeo .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -65,7 +65,7 @@
   border-bottom-width: 0;
 }
 
-#tawpbgfavr .gt_subtitle {
+#qjtonahaeo .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -75,13 +75,13 @@
   border-top-width: 0;
 }
 
-#tawpbgfavr .gt_bottom_border {
+#qjtonahaeo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_col_headings {
+#qjtonahaeo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -96,7 +96,7 @@
   border-right-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_col_heading {
+#qjtonahaeo .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -116,7 +116,7 @@
   overflow-x: hidden;
 }
 
-#tawpbgfavr .gt_column_spanner_outer {
+#qjtonahaeo .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -128,15 +128,15 @@
   padding-right: 4px;
 }
 
-#tawpbgfavr .gt_column_spanner_outer:first-child {
+#qjtonahaeo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tawpbgfavr .gt_column_spanner_outer:last-child {
+#qjtonahaeo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tawpbgfavr .gt_column_spanner {
+#qjtonahaeo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -148,7 +148,7 @@
   width: 100%;
 }
 
-#tawpbgfavr .gt_group_heading {
+#qjtonahaeo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -170,7 +170,7 @@
   vertical-align: middle;
 }
 
-#tawpbgfavr .gt_empty_group_heading {
+#qjtonahaeo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -185,15 +185,15 @@
   vertical-align: middle;
 }
 
-#tawpbgfavr .gt_from_md > :first-child {
+#qjtonahaeo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tawpbgfavr .gt_from_md > :last-child {
+#qjtonahaeo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tawpbgfavr .gt_row {
+#qjtonahaeo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -212,7 +212,7 @@
   overflow-x: hidden;
 }
 
-#tawpbgfavr .gt_stub {
+#qjtonahaeo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -224,7 +224,7 @@
   padding-left: 12px;
 }
 
-#tawpbgfavr .gt_summary_row {
+#qjtonahaeo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -234,7 +234,7 @@
   padding-right: 5px;
 }
 
-#tawpbgfavr .gt_first_summary_row {
+#qjtonahaeo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -244,7 +244,7 @@
   border-top-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_grand_summary_row {
+#qjtonahaeo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -254,7 +254,7 @@
   padding-right: 5px;
 }
 
-#tawpbgfavr .gt_first_grand_summary_row {
+#qjtonahaeo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -264,11 +264,11 @@
   border-top-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_striped {
+#qjtonahaeo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tawpbgfavr .gt_table_body {
+#qjtonahaeo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -277,7 +277,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_footnotes {
+#qjtonahaeo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -291,13 +291,13 @@
   border-right-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_footnote {
+#qjtonahaeo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tawpbgfavr .gt_sourcenotes {
+#qjtonahaeo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -311,41 +311,41 @@
   border-right-color: #D3D3D3;
 }
 
-#tawpbgfavr .gt_sourcenote {
+#qjtonahaeo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tawpbgfavr .gt_left {
+#qjtonahaeo .gt_left {
   text-align: left;
 }
 
-#tawpbgfavr .gt_center {
+#qjtonahaeo .gt_center {
   text-align: center;
 }
 
-#tawpbgfavr .gt_right {
+#qjtonahaeo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tawpbgfavr .gt_font_normal {
+#qjtonahaeo .gt_font_normal {
   font-weight: normal;
 }
 
-#tawpbgfavr .gt_font_bold {
+#qjtonahaeo .gt_font_bold {
   font-weight: bold;
 }
 
-#tawpbgfavr .gt_font_italic {
+#qjtonahaeo .gt_font_italic {
   font-style: italic;
 }
 
-#tawpbgfavr .gt_super {
+#qjtonahaeo .gt_super {
   font-size: 65%;
 }
 
-#tawpbgfavr .gt_footnote_marks {
+#qjtonahaeo .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -374,12 +374,12 @@
 ```
 
 ```{=html}
-<div id="zgrpxqsotk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kddmahfgup" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zgrpxqsotk .gt_table {
+#kddmahfgup .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -404,7 +404,7 @@
   border-left-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_heading {
+#kddmahfgup .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -416,7 +416,7 @@
   border-right-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_title {
+#kddmahfgup .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -426,7 +426,7 @@
   border-bottom-width: 0;
 }
 
-#zgrpxqsotk .gt_subtitle {
+#kddmahfgup .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -436,13 +436,13 @@
   border-top-width: 0;
 }
 
-#zgrpxqsotk .gt_bottom_border {
+#kddmahfgup .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_col_headings {
+#kddmahfgup .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -457,7 +457,7 @@
   border-right-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_col_heading {
+#kddmahfgup .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -477,7 +477,7 @@
   overflow-x: hidden;
 }
 
-#zgrpxqsotk .gt_column_spanner_outer {
+#kddmahfgup .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -489,15 +489,15 @@
   padding-right: 4px;
 }
 
-#zgrpxqsotk .gt_column_spanner_outer:first-child {
+#kddmahfgup .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zgrpxqsotk .gt_column_spanner_outer:last-child {
+#kddmahfgup .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zgrpxqsotk .gt_column_spanner {
+#kddmahfgup .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -509,7 +509,7 @@
   width: 100%;
 }
 
-#zgrpxqsotk .gt_group_heading {
+#kddmahfgup .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -531,7 +531,7 @@
   vertical-align: middle;
 }
 
-#zgrpxqsotk .gt_empty_group_heading {
+#kddmahfgup .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -546,15 +546,15 @@
   vertical-align: middle;
 }
 
-#zgrpxqsotk .gt_from_md > :first-child {
+#kddmahfgup .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zgrpxqsotk .gt_from_md > :last-child {
+#kddmahfgup .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zgrpxqsotk .gt_row {
+#kddmahfgup .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -573,7 +573,7 @@
   overflow-x: hidden;
 }
 
-#zgrpxqsotk .gt_stub {
+#kddmahfgup .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -585,7 +585,7 @@
   padding-left: 12px;
 }
 
-#zgrpxqsotk .gt_summary_row {
+#kddmahfgup .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -595,7 +595,7 @@
   padding-right: 5px;
 }
 
-#zgrpxqsotk .gt_first_summary_row {
+#kddmahfgup .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -605,7 +605,7 @@
   border-top-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_grand_summary_row {
+#kddmahfgup .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -615,7 +615,7 @@
   padding-right: 5px;
 }
 
-#zgrpxqsotk .gt_first_grand_summary_row {
+#kddmahfgup .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -625,11 +625,11 @@
   border-top-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_striped {
+#kddmahfgup .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zgrpxqsotk .gt_table_body {
+#kddmahfgup .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -638,7 +638,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_footnotes {
+#kddmahfgup .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -652,13 +652,13 @@
   border-right-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_footnote {
+#kddmahfgup .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zgrpxqsotk .gt_sourcenotes {
+#kddmahfgup .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -672,41 +672,41 @@
   border-right-color: #D3D3D3;
 }
 
-#zgrpxqsotk .gt_sourcenote {
+#kddmahfgup .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zgrpxqsotk .gt_left {
+#kddmahfgup .gt_left {
   text-align: left;
 }
 
-#zgrpxqsotk .gt_center {
+#kddmahfgup .gt_center {
   text-align: center;
 }
 
-#zgrpxqsotk .gt_right {
+#kddmahfgup .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zgrpxqsotk .gt_font_normal {
+#kddmahfgup .gt_font_normal {
   font-weight: normal;
 }
 
-#zgrpxqsotk .gt_font_bold {
+#kddmahfgup .gt_font_bold {
   font-weight: bold;
 }
 
-#zgrpxqsotk .gt_font_italic {
+#kddmahfgup .gt_font_italic {
   font-style: italic;
 }
 
-#zgrpxqsotk .gt_super {
+#kddmahfgup .gt_super {
   font-size: 65%;
 }
 
-#zgrpxqsotk .gt_footnote_marks {
+#kddmahfgup .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -769,12 +769,12 @@ janitor::get_dupes(df, country)
 ### Find duplicates in multiple columns
 
 ```{=html}
-<div id="embnzhiuvd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mcgmfhunkj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#embnzhiuvd .gt_table {
+#mcgmfhunkj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -799,7 +799,7 @@ janitor::get_dupes(df, country)
   border-left-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_heading {
+#mcgmfhunkj .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -811,7 +811,7 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_title {
+#mcgmfhunkj .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -821,7 +821,7 @@ janitor::get_dupes(df, country)
   border-bottom-width: 0;
 }
 
-#embnzhiuvd .gt_subtitle {
+#mcgmfhunkj .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -831,13 +831,13 @@ janitor::get_dupes(df, country)
   border-top-width: 0;
 }
 
-#embnzhiuvd .gt_bottom_border {
+#mcgmfhunkj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_col_headings {
+#mcgmfhunkj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -852,7 +852,7 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_col_heading {
+#mcgmfhunkj .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -872,7 +872,7 @@ janitor::get_dupes(df, country)
   overflow-x: hidden;
 }
 
-#embnzhiuvd .gt_column_spanner_outer {
+#mcgmfhunkj .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -884,15 +884,15 @@ janitor::get_dupes(df, country)
   padding-right: 4px;
 }
 
-#embnzhiuvd .gt_column_spanner_outer:first-child {
+#mcgmfhunkj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#embnzhiuvd .gt_column_spanner_outer:last-child {
+#mcgmfhunkj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#embnzhiuvd .gt_column_spanner {
+#mcgmfhunkj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -904,7 +904,7 @@ janitor::get_dupes(df, country)
   width: 100%;
 }
 
-#embnzhiuvd .gt_group_heading {
+#mcgmfhunkj .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -926,7 +926,7 @@ janitor::get_dupes(df, country)
   vertical-align: middle;
 }
 
-#embnzhiuvd .gt_empty_group_heading {
+#mcgmfhunkj .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -941,15 +941,15 @@ janitor::get_dupes(df, country)
   vertical-align: middle;
 }
 
-#embnzhiuvd .gt_from_md > :first-child {
+#mcgmfhunkj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#embnzhiuvd .gt_from_md > :last-child {
+#mcgmfhunkj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#embnzhiuvd .gt_row {
+#mcgmfhunkj .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -968,7 +968,7 @@ janitor::get_dupes(df, country)
   overflow-x: hidden;
 }
 
-#embnzhiuvd .gt_stub {
+#mcgmfhunkj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -980,7 +980,7 @@ janitor::get_dupes(df, country)
   padding-left: 12px;
 }
 
-#embnzhiuvd .gt_summary_row {
+#mcgmfhunkj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -990,7 +990,7 @@ janitor::get_dupes(df, country)
   padding-right: 5px;
 }
 
-#embnzhiuvd .gt_first_summary_row {
+#mcgmfhunkj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1000,7 +1000,7 @@ janitor::get_dupes(df, country)
   border-top-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_grand_summary_row {
+#mcgmfhunkj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1010,7 +1010,7 @@ janitor::get_dupes(df, country)
   padding-right: 5px;
 }
 
-#embnzhiuvd .gt_first_grand_summary_row {
+#mcgmfhunkj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1020,11 +1020,11 @@ janitor::get_dupes(df, country)
   border-top-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_striped {
+#mcgmfhunkj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#embnzhiuvd .gt_table_body {
+#mcgmfhunkj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1033,7 +1033,7 @@ janitor::get_dupes(df, country)
   border-bottom-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_footnotes {
+#mcgmfhunkj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1047,13 +1047,13 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_footnote {
+#mcgmfhunkj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#embnzhiuvd .gt_sourcenotes {
+#mcgmfhunkj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1067,41 +1067,41 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#embnzhiuvd .gt_sourcenote {
+#mcgmfhunkj .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#embnzhiuvd .gt_left {
+#mcgmfhunkj .gt_left {
   text-align: left;
 }
 
-#embnzhiuvd .gt_center {
+#mcgmfhunkj .gt_center {
   text-align: center;
 }
 
-#embnzhiuvd .gt_right {
+#mcgmfhunkj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#embnzhiuvd .gt_font_normal {
+#mcgmfhunkj .gt_font_normal {
   font-weight: normal;
 }
 
-#embnzhiuvd .gt_font_bold {
+#mcgmfhunkj .gt_font_bold {
   font-weight: bold;
 }
 
-#embnzhiuvd .gt_font_italic {
+#mcgmfhunkj .gt_font_italic {
   font-style: italic;
 }
 
-#embnzhiuvd .gt_super {
+#mcgmfhunkj .gt_super {
   font-size: 65%;
 }
 
-#embnzhiuvd .gt_footnote_marks {
+#mcgmfhunkj .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1130,12 +1130,12 @@ janitor::get_dupes(df, country)
 ```
 
 ```{=html}
-<div id="davnicqzoo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="nrtugcgavn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#davnicqzoo .gt_table {
+#nrtugcgavn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1160,7 +1160,7 @@ janitor::get_dupes(df, country)
   border-left-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_heading {
+#nrtugcgavn .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1172,7 +1172,7 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_title {
+#nrtugcgavn .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1182,7 +1182,7 @@ janitor::get_dupes(df, country)
   border-bottom-width: 0;
 }
 
-#davnicqzoo .gt_subtitle {
+#nrtugcgavn .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1192,13 +1192,13 @@ janitor::get_dupes(df, country)
   border-top-width: 0;
 }
 
-#davnicqzoo .gt_bottom_border {
+#nrtugcgavn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_col_headings {
+#nrtugcgavn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1213,7 +1213,7 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_col_heading {
+#nrtugcgavn .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1233,7 +1233,7 @@ janitor::get_dupes(df, country)
   overflow-x: hidden;
 }
 
-#davnicqzoo .gt_column_spanner_outer {
+#nrtugcgavn .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1245,15 +1245,15 @@ janitor::get_dupes(df, country)
   padding-right: 4px;
 }
 
-#davnicqzoo .gt_column_spanner_outer:first-child {
+#nrtugcgavn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#davnicqzoo .gt_column_spanner_outer:last-child {
+#nrtugcgavn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#davnicqzoo .gt_column_spanner {
+#nrtugcgavn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1265,7 +1265,7 @@ janitor::get_dupes(df, country)
   width: 100%;
 }
 
-#davnicqzoo .gt_group_heading {
+#nrtugcgavn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1287,7 +1287,7 @@ janitor::get_dupes(df, country)
   vertical-align: middle;
 }
 
-#davnicqzoo .gt_empty_group_heading {
+#nrtugcgavn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1302,15 +1302,15 @@ janitor::get_dupes(df, country)
   vertical-align: middle;
 }
 
-#davnicqzoo .gt_from_md > :first-child {
+#nrtugcgavn .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#davnicqzoo .gt_from_md > :last-child {
+#nrtugcgavn .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#davnicqzoo .gt_row {
+#nrtugcgavn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1329,7 +1329,7 @@ janitor::get_dupes(df, country)
   overflow-x: hidden;
 }
 
-#davnicqzoo .gt_stub {
+#nrtugcgavn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1341,7 +1341,7 @@ janitor::get_dupes(df, country)
   padding-left: 12px;
 }
 
-#davnicqzoo .gt_summary_row {
+#nrtugcgavn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1351,7 +1351,7 @@ janitor::get_dupes(df, country)
   padding-right: 5px;
 }
 
-#davnicqzoo .gt_first_summary_row {
+#nrtugcgavn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1361,7 +1361,7 @@ janitor::get_dupes(df, country)
   border-top-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_grand_summary_row {
+#nrtugcgavn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1371,7 +1371,7 @@ janitor::get_dupes(df, country)
   padding-right: 5px;
 }
 
-#davnicqzoo .gt_first_grand_summary_row {
+#nrtugcgavn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1381,11 +1381,11 @@ janitor::get_dupes(df, country)
   border-top-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_striped {
+#nrtugcgavn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#davnicqzoo .gt_table_body {
+#nrtugcgavn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1394,7 +1394,7 @@ janitor::get_dupes(df, country)
   border-bottom-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_footnotes {
+#nrtugcgavn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1408,13 +1408,13 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_footnote {
+#nrtugcgavn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#davnicqzoo .gt_sourcenotes {
+#nrtugcgavn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1428,41 +1428,41 @@ janitor::get_dupes(df, country)
   border-right-color: #D3D3D3;
 }
 
-#davnicqzoo .gt_sourcenote {
+#nrtugcgavn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#davnicqzoo .gt_left {
+#nrtugcgavn .gt_left {
   text-align: left;
 }
 
-#davnicqzoo .gt_center {
+#nrtugcgavn .gt_center {
   text-align: center;
 }
 
-#davnicqzoo .gt_right {
+#nrtugcgavn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#davnicqzoo .gt_font_normal {
+#nrtugcgavn .gt_font_normal {
   font-weight: normal;
 }
 
-#davnicqzoo .gt_font_bold {
+#nrtugcgavn .gt_font_bold {
   font-weight: bold;
 }
 
-#davnicqzoo .gt_font_italic {
+#nrtugcgavn .gt_font_italic {
   font-style: italic;
 }
 
-#davnicqzoo .gt_super {
+#nrtugcgavn .gt_super {
   font-size: 65%;
 }
 
-#davnicqzoo .gt_footnote_marks {
+#nrtugcgavn .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1528,12 +1528,12 @@ janitor::get_dupes(df, country, capital)
 ### Clean common header naming issues
 
 ```{=html}
-<div id="xnyigbnmar" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mljwpbudpl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#xnyigbnmar .gt_table {
+#mljwpbudpl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1558,7 +1558,7 @@ janitor::get_dupes(df, country, capital)
   border-left-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_heading {
+#mljwpbudpl .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1570,7 +1570,7 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_title {
+#mljwpbudpl .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1580,7 +1580,7 @@ janitor::get_dupes(df, country, capital)
   border-bottom-width: 0;
 }
 
-#xnyigbnmar .gt_subtitle {
+#mljwpbudpl .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1590,13 +1590,13 @@ janitor::get_dupes(df, country, capital)
   border-top-width: 0;
 }
 
-#xnyigbnmar .gt_bottom_border {
+#mljwpbudpl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_col_headings {
+#mljwpbudpl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1611,7 +1611,7 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_col_heading {
+#mljwpbudpl .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1631,7 +1631,7 @@ janitor::get_dupes(df, country, capital)
   overflow-x: hidden;
 }
 
-#xnyigbnmar .gt_column_spanner_outer {
+#mljwpbudpl .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1643,15 +1643,15 @@ janitor::get_dupes(df, country, capital)
   padding-right: 4px;
 }
 
-#xnyigbnmar .gt_column_spanner_outer:first-child {
+#mljwpbudpl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xnyigbnmar .gt_column_spanner_outer:last-child {
+#mljwpbudpl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xnyigbnmar .gt_column_spanner {
+#mljwpbudpl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1663,7 +1663,7 @@ janitor::get_dupes(df, country, capital)
   width: 100%;
 }
 
-#xnyigbnmar .gt_group_heading {
+#mljwpbudpl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1685,7 +1685,7 @@ janitor::get_dupes(df, country, capital)
   vertical-align: middle;
 }
 
-#xnyigbnmar .gt_empty_group_heading {
+#mljwpbudpl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1700,15 +1700,15 @@ janitor::get_dupes(df, country, capital)
   vertical-align: middle;
 }
 
-#xnyigbnmar .gt_from_md > :first-child {
+#mljwpbudpl .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xnyigbnmar .gt_from_md > :last-child {
+#mljwpbudpl .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xnyigbnmar .gt_row {
+#mljwpbudpl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1727,7 +1727,7 @@ janitor::get_dupes(df, country, capital)
   overflow-x: hidden;
 }
 
-#xnyigbnmar .gt_stub {
+#mljwpbudpl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1739,7 +1739,7 @@ janitor::get_dupes(df, country, capital)
   padding-left: 12px;
 }
 
-#xnyigbnmar .gt_summary_row {
+#mljwpbudpl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1749,7 +1749,7 @@ janitor::get_dupes(df, country, capital)
   padding-right: 5px;
 }
 
-#xnyigbnmar .gt_first_summary_row {
+#mljwpbudpl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1759,7 +1759,7 @@ janitor::get_dupes(df, country, capital)
   border-top-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_grand_summary_row {
+#mljwpbudpl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1769,7 +1769,7 @@ janitor::get_dupes(df, country, capital)
   padding-right: 5px;
 }
 
-#xnyigbnmar .gt_first_grand_summary_row {
+#mljwpbudpl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1779,11 +1779,11 @@ janitor::get_dupes(df, country, capital)
   border-top-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_striped {
+#mljwpbudpl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xnyigbnmar .gt_table_body {
+#mljwpbudpl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1792,7 +1792,7 @@ janitor::get_dupes(df, country, capital)
   border-bottom-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_footnotes {
+#mljwpbudpl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1806,13 +1806,13 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_footnote {
+#mljwpbudpl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xnyigbnmar .gt_sourcenotes {
+#mljwpbudpl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1826,41 +1826,41 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#xnyigbnmar .gt_sourcenote {
+#mljwpbudpl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xnyigbnmar .gt_left {
+#mljwpbudpl .gt_left {
   text-align: left;
 }
 
-#xnyigbnmar .gt_center {
+#mljwpbudpl .gt_center {
   text-align: center;
 }
 
-#xnyigbnmar .gt_right {
+#mljwpbudpl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xnyigbnmar .gt_font_normal {
+#mljwpbudpl .gt_font_normal {
   font-weight: normal;
 }
 
-#xnyigbnmar .gt_font_bold {
+#mljwpbudpl .gt_font_bold {
   font-weight: bold;
 }
 
-#xnyigbnmar .gt_font_italic {
+#mljwpbudpl .gt_font_italic {
   font-style: italic;
 }
 
-#xnyigbnmar .gt_super {
+#mljwpbudpl .gt_super {
   font-size: 65%;
 }
 
-#xnyigbnmar .gt_footnote_marks {
+#mljwpbudpl .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1889,12 +1889,12 @@ janitor::get_dupes(df, country, capital)
 ```
 
 ```{=html}
-<div id="bgapkelxzn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jpaalmcjus" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bgapkelxzn .gt_table {
+#jpaalmcjus .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1919,7 +1919,7 @@ janitor::get_dupes(df, country, capital)
   border-left-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_heading {
+#jpaalmcjus .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1931,7 +1931,7 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_title {
+#jpaalmcjus .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1941,7 +1941,7 @@ janitor::get_dupes(df, country, capital)
   border-bottom-width: 0;
 }
 
-#bgapkelxzn .gt_subtitle {
+#jpaalmcjus .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1951,13 +1951,13 @@ janitor::get_dupes(df, country, capital)
   border-top-width: 0;
 }
 
-#bgapkelxzn .gt_bottom_border {
+#jpaalmcjus .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_col_headings {
+#jpaalmcjus .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1972,7 +1972,7 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_col_heading {
+#jpaalmcjus .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1992,7 +1992,7 @@ janitor::get_dupes(df, country, capital)
   overflow-x: hidden;
 }
 
-#bgapkelxzn .gt_column_spanner_outer {
+#jpaalmcjus .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2004,15 +2004,15 @@ janitor::get_dupes(df, country, capital)
   padding-right: 4px;
 }
 
-#bgapkelxzn .gt_column_spanner_outer:first-child {
+#jpaalmcjus .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bgapkelxzn .gt_column_spanner_outer:last-child {
+#jpaalmcjus .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bgapkelxzn .gt_column_spanner {
+#jpaalmcjus .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2024,7 +2024,7 @@ janitor::get_dupes(df, country, capital)
   width: 100%;
 }
 
-#bgapkelxzn .gt_group_heading {
+#jpaalmcjus .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2046,7 +2046,7 @@ janitor::get_dupes(df, country, capital)
   vertical-align: middle;
 }
 
-#bgapkelxzn .gt_empty_group_heading {
+#jpaalmcjus .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2061,15 +2061,15 @@ janitor::get_dupes(df, country, capital)
   vertical-align: middle;
 }
 
-#bgapkelxzn .gt_from_md > :first-child {
+#jpaalmcjus .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bgapkelxzn .gt_from_md > :last-child {
+#jpaalmcjus .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bgapkelxzn .gt_row {
+#jpaalmcjus .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2088,7 +2088,7 @@ janitor::get_dupes(df, country, capital)
   overflow-x: hidden;
 }
 
-#bgapkelxzn .gt_stub {
+#jpaalmcjus .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2100,7 +2100,7 @@ janitor::get_dupes(df, country, capital)
   padding-left: 12px;
 }
 
-#bgapkelxzn .gt_summary_row {
+#jpaalmcjus .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2110,7 +2110,7 @@ janitor::get_dupes(df, country, capital)
   padding-right: 5px;
 }
 
-#bgapkelxzn .gt_first_summary_row {
+#jpaalmcjus .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2120,7 +2120,7 @@ janitor::get_dupes(df, country, capital)
   border-top-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_grand_summary_row {
+#jpaalmcjus .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2130,7 +2130,7 @@ janitor::get_dupes(df, country, capital)
   padding-right: 5px;
 }
 
-#bgapkelxzn .gt_first_grand_summary_row {
+#jpaalmcjus .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2140,11 +2140,11 @@ janitor::get_dupes(df, country, capital)
   border-top-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_striped {
+#jpaalmcjus .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bgapkelxzn .gt_table_body {
+#jpaalmcjus .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2153,7 +2153,7 @@ janitor::get_dupes(df, country, capital)
   border-bottom-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_footnotes {
+#jpaalmcjus .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2167,13 +2167,13 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_footnote {
+#jpaalmcjus .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bgapkelxzn .gt_sourcenotes {
+#jpaalmcjus .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2187,41 +2187,41 @@ janitor::get_dupes(df, country, capital)
   border-right-color: #D3D3D3;
 }
 
-#bgapkelxzn .gt_sourcenote {
+#jpaalmcjus .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bgapkelxzn .gt_left {
+#jpaalmcjus .gt_left {
   text-align: left;
 }
 
-#bgapkelxzn .gt_center {
+#jpaalmcjus .gt_center {
   text-align: center;
 }
 
-#bgapkelxzn .gt_right {
+#jpaalmcjus .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bgapkelxzn .gt_font_normal {
+#jpaalmcjus .gt_font_normal {
   font-weight: normal;
 }
 
-#bgapkelxzn .gt_font_bold {
+#jpaalmcjus .gt_font_bold {
   font-weight: bold;
 }
 
-#bgapkelxzn .gt_font_italic {
+#jpaalmcjus .gt_font_italic {
   font-style: italic;
 }
 
-#bgapkelxzn .gt_super {
+#jpaalmcjus .gt_super {
   font-size: 65%;
 }
 
-#bgapkelxzn .gt_footnote_marks {
+#jpaalmcjus .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2284,12 +2284,12 @@ janitor::clean_names(claims)
 ### Remove empty columns
 
 ```{=html}
-<div id="xebfwljhtr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jdpznpbzav" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#xebfwljhtr .gt_table {
+#jdpznpbzav .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2314,7 +2314,7 @@ janitor::clean_names(claims)
   border-left-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_heading {
+#jdpznpbzav .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2326,7 +2326,7 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_title {
+#jdpznpbzav .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2336,7 +2336,7 @@ janitor::clean_names(claims)
   border-bottom-width: 0;
 }
 
-#xebfwljhtr .gt_subtitle {
+#jdpznpbzav .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2346,13 +2346,13 @@ janitor::clean_names(claims)
   border-top-width: 0;
 }
 
-#xebfwljhtr .gt_bottom_border {
+#jdpznpbzav .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_col_headings {
+#jdpznpbzav .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2367,7 +2367,7 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_col_heading {
+#jdpznpbzav .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2387,7 +2387,7 @@ janitor::clean_names(claims)
   overflow-x: hidden;
 }
 
-#xebfwljhtr .gt_column_spanner_outer {
+#jdpznpbzav .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2399,15 +2399,15 @@ janitor::clean_names(claims)
   padding-right: 4px;
 }
 
-#xebfwljhtr .gt_column_spanner_outer:first-child {
+#jdpznpbzav .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xebfwljhtr .gt_column_spanner_outer:last-child {
+#jdpznpbzav .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xebfwljhtr .gt_column_spanner {
+#jdpznpbzav .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2419,7 +2419,7 @@ janitor::clean_names(claims)
   width: 100%;
 }
 
-#xebfwljhtr .gt_group_heading {
+#jdpznpbzav .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2441,7 +2441,7 @@ janitor::clean_names(claims)
   vertical-align: middle;
 }
 
-#xebfwljhtr .gt_empty_group_heading {
+#jdpznpbzav .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2456,15 +2456,15 @@ janitor::clean_names(claims)
   vertical-align: middle;
 }
 
-#xebfwljhtr .gt_from_md > :first-child {
+#jdpznpbzav .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xebfwljhtr .gt_from_md > :last-child {
+#jdpznpbzav .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xebfwljhtr .gt_row {
+#jdpznpbzav .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2483,7 +2483,7 @@ janitor::clean_names(claims)
   overflow-x: hidden;
 }
 
-#xebfwljhtr .gt_stub {
+#jdpznpbzav .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2495,7 +2495,7 @@ janitor::clean_names(claims)
   padding-left: 12px;
 }
 
-#xebfwljhtr .gt_summary_row {
+#jdpznpbzav .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2505,7 +2505,7 @@ janitor::clean_names(claims)
   padding-right: 5px;
 }
 
-#xebfwljhtr .gt_first_summary_row {
+#jdpznpbzav .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2515,7 +2515,7 @@ janitor::clean_names(claims)
   border-top-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_grand_summary_row {
+#jdpznpbzav .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2525,7 +2525,7 @@ janitor::clean_names(claims)
   padding-right: 5px;
 }
 
-#xebfwljhtr .gt_first_grand_summary_row {
+#jdpznpbzav .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2535,11 +2535,11 @@ janitor::clean_names(claims)
   border-top-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_striped {
+#jdpznpbzav .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xebfwljhtr .gt_table_body {
+#jdpznpbzav .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2548,7 +2548,7 @@ janitor::clean_names(claims)
   border-bottom-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_footnotes {
+#jdpznpbzav .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2562,13 +2562,13 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_footnote {
+#jdpznpbzav .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xebfwljhtr .gt_sourcenotes {
+#jdpznpbzav .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2582,41 +2582,41 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#xebfwljhtr .gt_sourcenote {
+#jdpznpbzav .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xebfwljhtr .gt_left {
+#jdpznpbzav .gt_left {
   text-align: left;
 }
 
-#xebfwljhtr .gt_center {
+#jdpznpbzav .gt_center {
   text-align: center;
 }
 
-#xebfwljhtr .gt_right {
+#jdpznpbzav .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xebfwljhtr .gt_font_normal {
+#jdpznpbzav .gt_font_normal {
   font-weight: normal;
 }
 
-#xebfwljhtr .gt_font_bold {
+#jdpznpbzav .gt_font_bold {
   font-weight: bold;
 }
 
-#xebfwljhtr .gt_font_italic {
+#jdpznpbzav .gt_font_italic {
   font-style: italic;
 }
 
-#xebfwljhtr .gt_super {
+#jdpznpbzav .gt_super {
   font-size: 65%;
 }
 
-#xebfwljhtr .gt_footnote_marks {
+#jdpznpbzav .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2645,12 +2645,12 @@ janitor::clean_names(claims)
 ```
 
 ```{=html}
-<div id="iooegsbnrq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="tiueuwgvzc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#iooegsbnrq .gt_table {
+#tiueuwgvzc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2675,7 +2675,7 @@ janitor::clean_names(claims)
   border-left-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_heading {
+#tiueuwgvzc .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2687,7 +2687,7 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_title {
+#tiueuwgvzc .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2697,7 +2697,7 @@ janitor::clean_names(claims)
   border-bottom-width: 0;
 }
 
-#iooegsbnrq .gt_subtitle {
+#tiueuwgvzc .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2707,13 +2707,13 @@ janitor::clean_names(claims)
   border-top-width: 0;
 }
 
-#iooegsbnrq .gt_bottom_border {
+#tiueuwgvzc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_col_headings {
+#tiueuwgvzc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2728,7 +2728,7 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_col_heading {
+#tiueuwgvzc .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2748,7 +2748,7 @@ janitor::clean_names(claims)
   overflow-x: hidden;
 }
 
-#iooegsbnrq .gt_column_spanner_outer {
+#tiueuwgvzc .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2760,15 +2760,15 @@ janitor::clean_names(claims)
   padding-right: 4px;
 }
 
-#iooegsbnrq .gt_column_spanner_outer:first-child {
+#tiueuwgvzc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#iooegsbnrq .gt_column_spanner_outer:last-child {
+#tiueuwgvzc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#iooegsbnrq .gt_column_spanner {
+#tiueuwgvzc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2780,7 +2780,7 @@ janitor::clean_names(claims)
   width: 100%;
 }
 
-#iooegsbnrq .gt_group_heading {
+#tiueuwgvzc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2802,7 +2802,7 @@ janitor::clean_names(claims)
   vertical-align: middle;
 }
 
-#iooegsbnrq .gt_empty_group_heading {
+#tiueuwgvzc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2817,15 +2817,15 @@ janitor::clean_names(claims)
   vertical-align: middle;
 }
 
-#iooegsbnrq .gt_from_md > :first-child {
+#tiueuwgvzc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#iooegsbnrq .gt_from_md > :last-child {
+#tiueuwgvzc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#iooegsbnrq .gt_row {
+#tiueuwgvzc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2844,7 +2844,7 @@ janitor::clean_names(claims)
   overflow-x: hidden;
 }
 
-#iooegsbnrq .gt_stub {
+#tiueuwgvzc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2856,7 +2856,7 @@ janitor::clean_names(claims)
   padding-left: 12px;
 }
 
-#iooegsbnrq .gt_summary_row {
+#tiueuwgvzc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2866,7 +2866,7 @@ janitor::clean_names(claims)
   padding-right: 5px;
 }
 
-#iooegsbnrq .gt_first_summary_row {
+#tiueuwgvzc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2876,7 +2876,7 @@ janitor::clean_names(claims)
   border-top-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_grand_summary_row {
+#tiueuwgvzc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2886,7 +2886,7 @@ janitor::clean_names(claims)
   padding-right: 5px;
 }
 
-#iooegsbnrq .gt_first_grand_summary_row {
+#tiueuwgvzc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2896,11 +2896,11 @@ janitor::clean_names(claims)
   border-top-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_striped {
+#tiueuwgvzc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#iooegsbnrq .gt_table_body {
+#tiueuwgvzc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2909,7 +2909,7 @@ janitor::clean_names(claims)
   border-bottom-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_footnotes {
+#tiueuwgvzc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2923,13 +2923,13 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_footnote {
+#tiueuwgvzc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#iooegsbnrq .gt_sourcenotes {
+#tiueuwgvzc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2943,41 +2943,41 @@ janitor::clean_names(claims)
   border-right-color: #D3D3D3;
 }
 
-#iooegsbnrq .gt_sourcenote {
+#tiueuwgvzc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#iooegsbnrq .gt_left {
+#tiueuwgvzc .gt_left {
   text-align: left;
 }
 
-#iooegsbnrq .gt_center {
+#tiueuwgvzc .gt_center {
   text-align: center;
 }
 
-#iooegsbnrq .gt_right {
+#tiueuwgvzc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#iooegsbnrq .gt_font_normal {
+#tiueuwgvzc .gt_font_normal {
   font-weight: normal;
 }
 
-#iooegsbnrq .gt_font_bold {
+#tiueuwgvzc .gt_font_bold {
   font-weight: bold;
 }
 
-#iooegsbnrq .gt_font_italic {
+#tiueuwgvzc .gt_font_italic {
   font-style: italic;
 }
 
-#iooegsbnrq .gt_super {
+#tiueuwgvzc .gt_super {
   font-size: 65%;
 }
 
-#iooegsbnrq .gt_footnote_marks {
+#tiueuwgvzc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3040,12 +3040,12 @@ janitor::remove_empty(claims)
 ### Remove empty rows
 
 ```{=html}
-<div id="ujtyuujqdl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dfwkosaabi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ujtyuujqdl .gt_table {
+#dfwkosaabi .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3070,7 +3070,7 @@ janitor::remove_empty(claims)
   border-left-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_heading {
+#dfwkosaabi .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3082,7 +3082,7 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_title {
+#dfwkosaabi .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3092,7 +3092,7 @@ janitor::remove_empty(claims)
   border-bottom-width: 0;
 }
 
-#ujtyuujqdl .gt_subtitle {
+#dfwkosaabi .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3102,13 +3102,13 @@ janitor::remove_empty(claims)
   border-top-width: 0;
 }
 
-#ujtyuujqdl .gt_bottom_border {
+#dfwkosaabi .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_col_headings {
+#dfwkosaabi .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3123,7 +3123,7 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_col_heading {
+#dfwkosaabi .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3143,7 +3143,7 @@ janitor::remove_empty(claims)
   overflow-x: hidden;
 }
 
-#ujtyuujqdl .gt_column_spanner_outer {
+#dfwkosaabi .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3155,15 +3155,15 @@ janitor::remove_empty(claims)
   padding-right: 4px;
 }
 
-#ujtyuujqdl .gt_column_spanner_outer:first-child {
+#dfwkosaabi .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ujtyuujqdl .gt_column_spanner_outer:last-child {
+#dfwkosaabi .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ujtyuujqdl .gt_column_spanner {
+#dfwkosaabi .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3175,7 +3175,7 @@ janitor::remove_empty(claims)
   width: 100%;
 }
 
-#ujtyuujqdl .gt_group_heading {
+#dfwkosaabi .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3197,7 +3197,7 @@ janitor::remove_empty(claims)
   vertical-align: middle;
 }
 
-#ujtyuujqdl .gt_empty_group_heading {
+#dfwkosaabi .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3212,15 +3212,15 @@ janitor::remove_empty(claims)
   vertical-align: middle;
 }
 
-#ujtyuujqdl .gt_from_md > :first-child {
+#dfwkosaabi .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ujtyuujqdl .gt_from_md > :last-child {
+#dfwkosaabi .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ujtyuujqdl .gt_row {
+#dfwkosaabi .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3239,7 +3239,7 @@ janitor::remove_empty(claims)
   overflow-x: hidden;
 }
 
-#ujtyuujqdl .gt_stub {
+#dfwkosaabi .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3251,7 +3251,7 @@ janitor::remove_empty(claims)
   padding-left: 12px;
 }
 
-#ujtyuujqdl .gt_summary_row {
+#dfwkosaabi .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3261,7 +3261,7 @@ janitor::remove_empty(claims)
   padding-right: 5px;
 }
 
-#ujtyuujqdl .gt_first_summary_row {
+#dfwkosaabi .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3271,7 +3271,7 @@ janitor::remove_empty(claims)
   border-top-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_grand_summary_row {
+#dfwkosaabi .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3281,7 +3281,7 @@ janitor::remove_empty(claims)
   padding-right: 5px;
 }
 
-#ujtyuujqdl .gt_first_grand_summary_row {
+#dfwkosaabi .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3291,11 +3291,11 @@ janitor::remove_empty(claims)
   border-top-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_striped {
+#dfwkosaabi .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ujtyuujqdl .gt_table_body {
+#dfwkosaabi .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3304,7 +3304,7 @@ janitor::remove_empty(claims)
   border-bottom-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_footnotes {
+#dfwkosaabi .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3318,13 +3318,13 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_footnote {
+#dfwkosaabi .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ujtyuujqdl .gt_sourcenotes {
+#dfwkosaabi .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3338,41 +3338,41 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ujtyuujqdl .gt_sourcenote {
+#dfwkosaabi .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ujtyuujqdl .gt_left {
+#dfwkosaabi .gt_left {
   text-align: left;
 }
 
-#ujtyuujqdl .gt_center {
+#dfwkosaabi .gt_center {
   text-align: center;
 }
 
-#ujtyuujqdl .gt_right {
+#dfwkosaabi .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ujtyuujqdl .gt_font_normal {
+#dfwkosaabi .gt_font_normal {
   font-weight: normal;
 }
 
-#ujtyuujqdl .gt_font_bold {
+#dfwkosaabi .gt_font_bold {
   font-weight: bold;
 }
 
-#ujtyuujqdl .gt_font_italic {
+#dfwkosaabi .gt_font_italic {
   font-style: italic;
 }
 
-#ujtyuujqdl .gt_super {
+#dfwkosaabi .gt_super {
   font-size: 65%;
 }
 
-#ujtyuujqdl .gt_footnote_marks {
+#dfwkosaabi .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3401,12 +3401,12 @@ janitor::remove_empty(claims)
 ```
 
 ```{=html}
-<div id="ioqhdcujuv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xhjxsgphdt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ioqhdcujuv .gt_table {
+#xhjxsgphdt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3431,7 +3431,7 @@ janitor::remove_empty(claims)
   border-left-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_heading {
+#xhjxsgphdt .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3443,7 +3443,7 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_title {
+#xhjxsgphdt .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3453,7 +3453,7 @@ janitor::remove_empty(claims)
   border-bottom-width: 0;
 }
 
-#ioqhdcujuv .gt_subtitle {
+#xhjxsgphdt .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3463,13 +3463,13 @@ janitor::remove_empty(claims)
   border-top-width: 0;
 }
 
-#ioqhdcujuv .gt_bottom_border {
+#xhjxsgphdt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_col_headings {
+#xhjxsgphdt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3484,7 +3484,7 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_col_heading {
+#xhjxsgphdt .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3504,7 +3504,7 @@ janitor::remove_empty(claims)
   overflow-x: hidden;
 }
 
-#ioqhdcujuv .gt_column_spanner_outer {
+#xhjxsgphdt .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3516,15 +3516,15 @@ janitor::remove_empty(claims)
   padding-right: 4px;
 }
 
-#ioqhdcujuv .gt_column_spanner_outer:first-child {
+#xhjxsgphdt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ioqhdcujuv .gt_column_spanner_outer:last-child {
+#xhjxsgphdt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ioqhdcujuv .gt_column_spanner {
+#xhjxsgphdt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3536,7 +3536,7 @@ janitor::remove_empty(claims)
   width: 100%;
 }
 
-#ioqhdcujuv .gt_group_heading {
+#xhjxsgphdt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3558,7 +3558,7 @@ janitor::remove_empty(claims)
   vertical-align: middle;
 }
 
-#ioqhdcujuv .gt_empty_group_heading {
+#xhjxsgphdt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3573,15 +3573,15 @@ janitor::remove_empty(claims)
   vertical-align: middle;
 }
 
-#ioqhdcujuv .gt_from_md > :first-child {
+#xhjxsgphdt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ioqhdcujuv .gt_from_md > :last-child {
+#xhjxsgphdt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ioqhdcujuv .gt_row {
+#xhjxsgphdt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3600,7 +3600,7 @@ janitor::remove_empty(claims)
   overflow-x: hidden;
 }
 
-#ioqhdcujuv .gt_stub {
+#xhjxsgphdt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3612,7 +3612,7 @@ janitor::remove_empty(claims)
   padding-left: 12px;
 }
 
-#ioqhdcujuv .gt_summary_row {
+#xhjxsgphdt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3622,7 +3622,7 @@ janitor::remove_empty(claims)
   padding-right: 5px;
 }
 
-#ioqhdcujuv .gt_first_summary_row {
+#xhjxsgphdt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3632,7 +3632,7 @@ janitor::remove_empty(claims)
   border-top-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_grand_summary_row {
+#xhjxsgphdt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3642,7 +3642,7 @@ janitor::remove_empty(claims)
   padding-right: 5px;
 }
 
-#ioqhdcujuv .gt_first_grand_summary_row {
+#xhjxsgphdt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3652,11 +3652,11 @@ janitor::remove_empty(claims)
   border-top-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_striped {
+#xhjxsgphdt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ioqhdcujuv .gt_table_body {
+#xhjxsgphdt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3665,7 +3665,7 @@ janitor::remove_empty(claims)
   border-bottom-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_footnotes {
+#xhjxsgphdt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3679,13 +3679,13 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_footnote {
+#xhjxsgphdt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ioqhdcujuv .gt_sourcenotes {
+#xhjxsgphdt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3699,41 +3699,41 @@ janitor::remove_empty(claims)
   border-right-color: #D3D3D3;
 }
 
-#ioqhdcujuv .gt_sourcenote {
+#xhjxsgphdt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ioqhdcujuv .gt_left {
+#xhjxsgphdt .gt_left {
   text-align: left;
 }
 
-#ioqhdcujuv .gt_center {
+#xhjxsgphdt .gt_center {
   text-align: center;
 }
 
-#ioqhdcujuv .gt_right {
+#xhjxsgphdt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ioqhdcujuv .gt_font_normal {
+#xhjxsgphdt .gt_font_normal {
   font-weight: normal;
 }
 
-#ioqhdcujuv .gt_font_bold {
+#xhjxsgphdt .gt_font_bold {
   font-weight: bold;
 }
 
-#ioqhdcujuv .gt_font_italic {
+#xhjxsgphdt .gt_font_italic {
   font-style: italic;
 }
 
-#ioqhdcujuv .gt_super {
+#xhjxsgphdt .gt_super {
   font-size: 65%;
 }
 
-#ioqhdcujuv .gt_footnote_marks {
+#xhjxsgphdt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3796,12 +3796,12 @@ janitor::remove_empty_rows(claims)
 ### Remove empty rows and columns
 
 ```{=html}
-<div id="cipdkvronq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="yvqfeijpni" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cipdkvronq .gt_table {
+#yvqfeijpni .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3826,7 +3826,7 @@ janitor::remove_empty_rows(claims)
   border-left-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_heading {
+#yvqfeijpni .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3838,7 +3838,7 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_title {
+#yvqfeijpni .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3848,7 +3848,7 @@ janitor::remove_empty_rows(claims)
   border-bottom-width: 0;
 }
 
-#cipdkvronq .gt_subtitle {
+#yvqfeijpni .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3858,13 +3858,13 @@ janitor::remove_empty_rows(claims)
   border-top-width: 0;
 }
 
-#cipdkvronq .gt_bottom_border {
+#yvqfeijpni .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_col_headings {
+#yvqfeijpni .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3879,7 +3879,7 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_col_heading {
+#yvqfeijpni .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3899,7 +3899,7 @@ janitor::remove_empty_rows(claims)
   overflow-x: hidden;
 }
 
-#cipdkvronq .gt_column_spanner_outer {
+#yvqfeijpni .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3911,15 +3911,15 @@ janitor::remove_empty_rows(claims)
   padding-right: 4px;
 }
 
-#cipdkvronq .gt_column_spanner_outer:first-child {
+#yvqfeijpni .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cipdkvronq .gt_column_spanner_outer:last-child {
+#yvqfeijpni .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cipdkvronq .gt_column_spanner {
+#yvqfeijpni .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3931,7 +3931,7 @@ janitor::remove_empty_rows(claims)
   width: 100%;
 }
 
-#cipdkvronq .gt_group_heading {
+#yvqfeijpni .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3953,7 +3953,7 @@ janitor::remove_empty_rows(claims)
   vertical-align: middle;
 }
 
-#cipdkvronq .gt_empty_group_heading {
+#yvqfeijpni .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3968,15 +3968,15 @@ janitor::remove_empty_rows(claims)
   vertical-align: middle;
 }
 
-#cipdkvronq .gt_from_md > :first-child {
+#yvqfeijpni .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cipdkvronq .gt_from_md > :last-child {
+#yvqfeijpni .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cipdkvronq .gt_row {
+#yvqfeijpni .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3995,7 +3995,7 @@ janitor::remove_empty_rows(claims)
   overflow-x: hidden;
 }
 
-#cipdkvronq .gt_stub {
+#yvqfeijpni .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4007,7 +4007,7 @@ janitor::remove_empty_rows(claims)
   padding-left: 12px;
 }
 
-#cipdkvronq .gt_summary_row {
+#yvqfeijpni .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4017,7 +4017,7 @@ janitor::remove_empty_rows(claims)
   padding-right: 5px;
 }
 
-#cipdkvronq .gt_first_summary_row {
+#yvqfeijpni .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4027,7 +4027,7 @@ janitor::remove_empty_rows(claims)
   border-top-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_grand_summary_row {
+#yvqfeijpni .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4037,7 +4037,7 @@ janitor::remove_empty_rows(claims)
   padding-right: 5px;
 }
 
-#cipdkvronq .gt_first_grand_summary_row {
+#yvqfeijpni .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4047,11 +4047,11 @@ janitor::remove_empty_rows(claims)
   border-top-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_striped {
+#yvqfeijpni .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cipdkvronq .gt_table_body {
+#yvqfeijpni .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4060,7 +4060,7 @@ janitor::remove_empty_rows(claims)
   border-bottom-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_footnotes {
+#yvqfeijpni .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4074,13 +4074,13 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_footnote {
+#yvqfeijpni .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#cipdkvronq .gt_sourcenotes {
+#yvqfeijpni .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4094,41 +4094,41 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#cipdkvronq .gt_sourcenote {
+#yvqfeijpni .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#cipdkvronq .gt_left {
+#yvqfeijpni .gt_left {
   text-align: left;
 }
 
-#cipdkvronq .gt_center {
+#yvqfeijpni .gt_center {
   text-align: center;
 }
 
-#cipdkvronq .gt_right {
+#yvqfeijpni .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cipdkvronq .gt_font_normal {
+#yvqfeijpni .gt_font_normal {
   font-weight: normal;
 }
 
-#cipdkvronq .gt_font_bold {
+#yvqfeijpni .gt_font_bold {
   font-weight: bold;
 }
 
-#cipdkvronq .gt_font_italic {
+#yvqfeijpni .gt_font_italic {
   font-style: italic;
 }
 
-#cipdkvronq .gt_super {
+#yvqfeijpni .gt_super {
   font-size: 65%;
 }
 
-#cipdkvronq .gt_footnote_marks {
+#yvqfeijpni .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4157,12 +4157,12 @@ janitor::remove_empty_rows(claims)
 ```
 
 ```{=html}
-<div id="lrhkuaehvp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fdbozqttre" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lrhkuaehvp .gt_table {
+#fdbozqttre .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4187,7 +4187,7 @@ janitor::remove_empty_rows(claims)
   border-left-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_heading {
+#fdbozqttre .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4199,7 +4199,7 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_title {
+#fdbozqttre .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4209,7 +4209,7 @@ janitor::remove_empty_rows(claims)
   border-bottom-width: 0;
 }
 
-#lrhkuaehvp .gt_subtitle {
+#fdbozqttre .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4219,13 +4219,13 @@ janitor::remove_empty_rows(claims)
   border-top-width: 0;
 }
 
-#lrhkuaehvp .gt_bottom_border {
+#fdbozqttre .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_col_headings {
+#fdbozqttre .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4240,7 +4240,7 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_col_heading {
+#fdbozqttre .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4260,7 +4260,7 @@ janitor::remove_empty_rows(claims)
   overflow-x: hidden;
 }
 
-#lrhkuaehvp .gt_column_spanner_outer {
+#fdbozqttre .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4272,15 +4272,15 @@ janitor::remove_empty_rows(claims)
   padding-right: 4px;
 }
 
-#lrhkuaehvp .gt_column_spanner_outer:first-child {
+#fdbozqttre .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lrhkuaehvp .gt_column_spanner_outer:last-child {
+#fdbozqttre .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lrhkuaehvp .gt_column_spanner {
+#fdbozqttre .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4292,7 +4292,7 @@ janitor::remove_empty_rows(claims)
   width: 100%;
 }
 
-#lrhkuaehvp .gt_group_heading {
+#fdbozqttre .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4314,7 +4314,7 @@ janitor::remove_empty_rows(claims)
   vertical-align: middle;
 }
 
-#lrhkuaehvp .gt_empty_group_heading {
+#fdbozqttre .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4329,15 +4329,15 @@ janitor::remove_empty_rows(claims)
   vertical-align: middle;
 }
 
-#lrhkuaehvp .gt_from_md > :first-child {
+#fdbozqttre .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#lrhkuaehvp .gt_from_md > :last-child {
+#fdbozqttre .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#lrhkuaehvp .gt_row {
+#fdbozqttre .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4356,7 +4356,7 @@ janitor::remove_empty_rows(claims)
   overflow-x: hidden;
 }
 
-#lrhkuaehvp .gt_stub {
+#fdbozqttre .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4368,7 +4368,7 @@ janitor::remove_empty_rows(claims)
   padding-left: 12px;
 }
 
-#lrhkuaehvp .gt_summary_row {
+#fdbozqttre .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4378,7 +4378,7 @@ janitor::remove_empty_rows(claims)
   padding-right: 5px;
 }
 
-#lrhkuaehvp .gt_first_summary_row {
+#fdbozqttre .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4388,7 +4388,7 @@ janitor::remove_empty_rows(claims)
   border-top-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_grand_summary_row {
+#fdbozqttre .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4398,7 +4398,7 @@ janitor::remove_empty_rows(claims)
   padding-right: 5px;
 }
 
-#lrhkuaehvp .gt_first_grand_summary_row {
+#fdbozqttre .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4408,11 +4408,11 @@ janitor::remove_empty_rows(claims)
   border-top-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_striped {
+#fdbozqttre .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lrhkuaehvp .gt_table_body {
+#fdbozqttre .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4421,7 +4421,7 @@ janitor::remove_empty_rows(claims)
   border-bottom-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_footnotes {
+#fdbozqttre .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4435,13 +4435,13 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_footnote {
+#fdbozqttre .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lrhkuaehvp .gt_sourcenotes {
+#fdbozqttre .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4455,41 +4455,41 @@ janitor::remove_empty_rows(claims)
   border-right-color: #D3D3D3;
 }
 
-#lrhkuaehvp .gt_sourcenote {
+#fdbozqttre .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lrhkuaehvp .gt_left {
+#fdbozqttre .gt_left {
   text-align: left;
 }
 
-#lrhkuaehvp .gt_center {
+#fdbozqttre .gt_center {
   text-align: center;
 }
 
-#lrhkuaehvp .gt_right {
+#fdbozqttre .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lrhkuaehvp .gt_font_normal {
+#fdbozqttre .gt_font_normal {
   font-weight: normal;
 }
 
-#lrhkuaehvp .gt_font_bold {
+#fdbozqttre .gt_font_bold {
   font-weight: bold;
 }
 
-#lrhkuaehvp .gt_font_italic {
+#fdbozqttre .gt_font_italic {
   font-style: italic;
 }
 
-#lrhkuaehvp .gt_super {
+#fdbozqttre .gt_super {
   font-size: 65%;
 }
 
-#lrhkuaehvp .gt_footnote_marks {
+#fdbozqttre .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4552,12 +4552,12 @@ janitor::remove_empty(claims, which = c("rows", "cols")
 ### Convert null to specific character value in a single column
 
 ```{=html}
-<div id="lschpgndeg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="atyvbtxbrd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lschpgndeg .gt_table {
+#atyvbtxbrd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4582,7 +4582,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-left-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_heading {
+#atyvbtxbrd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4594,7 +4594,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_title {
+#atyvbtxbrd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4604,7 +4604,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-bottom-width: 0;
 }
 
-#lschpgndeg .gt_subtitle {
+#atyvbtxbrd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4614,13 +4614,13 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-top-width: 0;
 }
 
-#lschpgndeg .gt_bottom_border {
+#atyvbtxbrd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_col_headings {
+#atyvbtxbrd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4635,7 +4635,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_col_heading {
+#atyvbtxbrd .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4655,7 +4655,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   overflow-x: hidden;
 }
 
-#lschpgndeg .gt_column_spanner_outer {
+#atyvbtxbrd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4667,15 +4667,15 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-right: 4px;
 }
 
-#lschpgndeg .gt_column_spanner_outer:first-child {
+#atyvbtxbrd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lschpgndeg .gt_column_spanner_outer:last-child {
+#atyvbtxbrd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lschpgndeg .gt_column_spanner {
+#atyvbtxbrd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4687,7 +4687,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   width: 100%;
 }
 
-#lschpgndeg .gt_group_heading {
+#atyvbtxbrd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4709,7 +4709,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   vertical-align: middle;
 }
 
-#lschpgndeg .gt_empty_group_heading {
+#atyvbtxbrd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4724,15 +4724,15 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   vertical-align: middle;
 }
 
-#lschpgndeg .gt_from_md > :first-child {
+#atyvbtxbrd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#lschpgndeg .gt_from_md > :last-child {
+#atyvbtxbrd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#lschpgndeg .gt_row {
+#atyvbtxbrd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4751,7 +4751,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   overflow-x: hidden;
 }
 
-#lschpgndeg .gt_stub {
+#atyvbtxbrd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4763,7 +4763,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-left: 12px;
 }
 
-#lschpgndeg .gt_summary_row {
+#atyvbtxbrd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4773,7 +4773,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-right: 5px;
 }
 
-#lschpgndeg .gt_first_summary_row {
+#atyvbtxbrd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4783,7 +4783,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-top-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_grand_summary_row {
+#atyvbtxbrd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4793,7 +4793,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-right: 5px;
 }
 
-#lschpgndeg .gt_first_grand_summary_row {
+#atyvbtxbrd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4803,11 +4803,11 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-top-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_striped {
+#atyvbtxbrd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lschpgndeg .gt_table_body {
+#atyvbtxbrd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4816,7 +4816,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-bottom-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_footnotes {
+#atyvbtxbrd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4830,13 +4830,13 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_footnote {
+#atyvbtxbrd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lschpgndeg .gt_sourcenotes {
+#atyvbtxbrd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4850,41 +4850,41 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#lschpgndeg .gt_sourcenote {
+#atyvbtxbrd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lschpgndeg .gt_left {
+#atyvbtxbrd .gt_left {
   text-align: left;
 }
 
-#lschpgndeg .gt_center {
+#atyvbtxbrd .gt_center {
   text-align: center;
 }
 
-#lschpgndeg .gt_right {
+#atyvbtxbrd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lschpgndeg .gt_font_normal {
+#atyvbtxbrd .gt_font_normal {
   font-weight: normal;
 }
 
-#lschpgndeg .gt_font_bold {
+#atyvbtxbrd .gt_font_bold {
   font-weight: bold;
 }
 
-#lschpgndeg .gt_font_italic {
+#atyvbtxbrd .gt_font_italic {
   font-style: italic;
 }
 
-#lschpgndeg .gt_super {
+#atyvbtxbrd .gt_super {
   font-size: 65%;
 }
 
-#lschpgndeg .gt_footnote_marks {
+#atyvbtxbrd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4913,12 +4913,12 @@ janitor::remove_empty(claims, which = c("rows", "cols")
 ```
 
 ```{=html}
-<div id="ermhsrcgbf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="uqfffutozl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ermhsrcgbf .gt_table {
+#uqfffutozl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4943,7 +4943,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-left-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_heading {
+#uqfffutozl .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4955,7 +4955,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_title {
+#uqfffutozl .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4965,7 +4965,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-bottom-width: 0;
 }
 
-#ermhsrcgbf .gt_subtitle {
+#uqfffutozl .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4975,13 +4975,13 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-top-width: 0;
 }
 
-#ermhsrcgbf .gt_bottom_border {
+#uqfffutozl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_col_headings {
+#uqfffutozl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4996,7 +4996,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_col_heading {
+#uqfffutozl .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5016,7 +5016,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   overflow-x: hidden;
 }
 
-#ermhsrcgbf .gt_column_spanner_outer {
+#uqfffutozl .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5028,15 +5028,15 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-right: 4px;
 }
 
-#ermhsrcgbf .gt_column_spanner_outer:first-child {
+#uqfffutozl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ermhsrcgbf .gt_column_spanner_outer:last-child {
+#uqfffutozl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ermhsrcgbf .gt_column_spanner {
+#uqfffutozl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5048,7 +5048,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   width: 100%;
 }
 
-#ermhsrcgbf .gt_group_heading {
+#uqfffutozl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5070,7 +5070,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   vertical-align: middle;
 }
 
-#ermhsrcgbf .gt_empty_group_heading {
+#uqfffutozl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5085,15 +5085,15 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   vertical-align: middle;
 }
 
-#ermhsrcgbf .gt_from_md > :first-child {
+#uqfffutozl .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ermhsrcgbf .gt_from_md > :last-child {
+#uqfffutozl .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ermhsrcgbf .gt_row {
+#uqfffutozl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5112,7 +5112,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   overflow-x: hidden;
 }
 
-#ermhsrcgbf .gt_stub {
+#uqfffutozl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5124,7 +5124,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-left: 12px;
 }
 
-#ermhsrcgbf .gt_summary_row {
+#uqfffutozl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5134,7 +5134,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-right: 5px;
 }
 
-#ermhsrcgbf .gt_first_summary_row {
+#uqfffutozl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5144,7 +5144,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-top-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_grand_summary_row {
+#uqfffutozl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5154,7 +5154,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   padding-right: 5px;
 }
 
-#ermhsrcgbf .gt_first_grand_summary_row {
+#uqfffutozl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5164,11 +5164,11 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-top-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_striped {
+#uqfffutozl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ermhsrcgbf .gt_table_body {
+#uqfffutozl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5177,7 +5177,7 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-bottom-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_footnotes {
+#uqfffutozl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5191,13 +5191,13 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_footnote {
+#uqfffutozl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ermhsrcgbf .gt_sourcenotes {
+#uqfffutozl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5211,41 +5211,41 @@ janitor::remove_empty(claims, which = c("rows", "cols")
   border-right-color: #D3D3D3;
 }
 
-#ermhsrcgbf .gt_sourcenote {
+#uqfffutozl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ermhsrcgbf .gt_left {
+#uqfffutozl .gt_left {
   text-align: left;
 }
 
-#ermhsrcgbf .gt_center {
+#uqfffutozl .gt_center {
   text-align: center;
 }
 
-#ermhsrcgbf .gt_right {
+#uqfffutozl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ermhsrcgbf .gt_font_normal {
+#uqfffutozl .gt_font_normal {
   font-weight: normal;
 }
 
-#ermhsrcgbf .gt_font_bold {
+#uqfffutozl .gt_font_bold {
   font-weight: bold;
 }
 
-#ermhsrcgbf .gt_font_italic {
+#uqfffutozl .gt_font_italic {
   font-style: italic;
 }
 
-#ermhsrcgbf .gt_super {
+#uqfffutozl .gt_super {
   font-size: 65%;
 }
 
-#ermhsrcgbf .gt_footnote_marks {
+#uqfffutozl .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5308,12 +5308,12 @@ tidyr::replace_na(df, list(country = "unknown"))
 ### Convert null to specific numeric value in a single column
 
 ```{=html}
-<div id="nhzixilzmj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="babqkdkotc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#nhzixilzmj .gt_table {
+#babqkdkotc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5338,7 +5338,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-left-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_heading {
+#babqkdkotc .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5350,7 +5350,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_title {
+#babqkdkotc .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5360,7 +5360,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-bottom-width: 0;
 }
 
-#nhzixilzmj .gt_subtitle {
+#babqkdkotc .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5370,13 +5370,13 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-top-width: 0;
 }
 
-#nhzixilzmj .gt_bottom_border {
+#babqkdkotc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_col_headings {
+#babqkdkotc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5391,7 +5391,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_col_heading {
+#babqkdkotc .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5411,7 +5411,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   overflow-x: hidden;
 }
 
-#nhzixilzmj .gt_column_spanner_outer {
+#babqkdkotc .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5423,15 +5423,15 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-right: 4px;
 }
 
-#nhzixilzmj .gt_column_spanner_outer:first-child {
+#babqkdkotc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nhzixilzmj .gt_column_spanner_outer:last-child {
+#babqkdkotc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nhzixilzmj .gt_column_spanner {
+#babqkdkotc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5443,7 +5443,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   width: 100%;
 }
 
-#nhzixilzmj .gt_group_heading {
+#babqkdkotc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5465,7 +5465,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   vertical-align: middle;
 }
 
-#nhzixilzmj .gt_empty_group_heading {
+#babqkdkotc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5480,15 +5480,15 @@ tidyr::replace_na(df, list(country = "unknown"))
   vertical-align: middle;
 }
 
-#nhzixilzmj .gt_from_md > :first-child {
+#babqkdkotc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#nhzixilzmj .gt_from_md > :last-child {
+#babqkdkotc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#nhzixilzmj .gt_row {
+#babqkdkotc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5507,7 +5507,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   overflow-x: hidden;
 }
 
-#nhzixilzmj .gt_stub {
+#babqkdkotc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5519,7 +5519,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-left: 12px;
 }
 
-#nhzixilzmj .gt_summary_row {
+#babqkdkotc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5529,7 +5529,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-right: 5px;
 }
 
-#nhzixilzmj .gt_first_summary_row {
+#babqkdkotc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5539,7 +5539,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-top-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_grand_summary_row {
+#babqkdkotc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5549,7 +5549,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-right: 5px;
 }
 
-#nhzixilzmj .gt_first_grand_summary_row {
+#babqkdkotc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5559,11 +5559,11 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-top-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_striped {
+#babqkdkotc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nhzixilzmj .gt_table_body {
+#babqkdkotc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5572,7 +5572,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-bottom-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_footnotes {
+#babqkdkotc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5586,13 +5586,13 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_footnote {
+#babqkdkotc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nhzixilzmj .gt_sourcenotes {
+#babqkdkotc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5606,41 +5606,41 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#nhzixilzmj .gt_sourcenote {
+#babqkdkotc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nhzixilzmj .gt_left {
+#babqkdkotc .gt_left {
   text-align: left;
 }
 
-#nhzixilzmj .gt_center {
+#babqkdkotc .gt_center {
   text-align: center;
 }
 
-#nhzixilzmj .gt_right {
+#babqkdkotc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nhzixilzmj .gt_font_normal {
+#babqkdkotc .gt_font_normal {
   font-weight: normal;
 }
 
-#nhzixilzmj .gt_font_bold {
+#babqkdkotc .gt_font_bold {
   font-weight: bold;
 }
 
-#nhzixilzmj .gt_font_italic {
+#babqkdkotc .gt_font_italic {
   font-style: italic;
 }
 
-#nhzixilzmj .gt_super {
+#babqkdkotc .gt_super {
   font-size: 65%;
 }
 
-#nhzixilzmj .gt_footnote_marks {
+#babqkdkotc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5669,12 +5669,12 @@ tidyr::replace_na(df, list(country = "unknown"))
 ```
 
 ```{=html}
-<div id="cbeqbzhhno" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fakuefhspz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cbeqbzhhno .gt_table {
+#fakuefhspz .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5699,7 +5699,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-left-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_heading {
+#fakuefhspz .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5711,7 +5711,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_title {
+#fakuefhspz .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5721,7 +5721,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-bottom-width: 0;
 }
 
-#cbeqbzhhno .gt_subtitle {
+#fakuefhspz .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5731,13 +5731,13 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-top-width: 0;
 }
 
-#cbeqbzhhno .gt_bottom_border {
+#fakuefhspz .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_col_headings {
+#fakuefhspz .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5752,7 +5752,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_col_heading {
+#fakuefhspz .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5772,7 +5772,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   overflow-x: hidden;
 }
 
-#cbeqbzhhno .gt_column_spanner_outer {
+#fakuefhspz .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5784,15 +5784,15 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-right: 4px;
 }
 
-#cbeqbzhhno .gt_column_spanner_outer:first-child {
+#fakuefhspz .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cbeqbzhhno .gt_column_spanner_outer:last-child {
+#fakuefhspz .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cbeqbzhhno .gt_column_spanner {
+#fakuefhspz .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5804,7 +5804,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   width: 100%;
 }
 
-#cbeqbzhhno .gt_group_heading {
+#fakuefhspz .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5826,7 +5826,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   vertical-align: middle;
 }
 
-#cbeqbzhhno .gt_empty_group_heading {
+#fakuefhspz .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5841,15 +5841,15 @@ tidyr::replace_na(df, list(country = "unknown"))
   vertical-align: middle;
 }
 
-#cbeqbzhhno .gt_from_md > :first-child {
+#fakuefhspz .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cbeqbzhhno .gt_from_md > :last-child {
+#fakuefhspz .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cbeqbzhhno .gt_row {
+#fakuefhspz .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5868,7 +5868,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   overflow-x: hidden;
 }
 
-#cbeqbzhhno .gt_stub {
+#fakuefhspz .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5880,7 +5880,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-left: 12px;
 }
 
-#cbeqbzhhno .gt_summary_row {
+#fakuefhspz .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5890,7 +5890,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-right: 5px;
 }
 
-#cbeqbzhhno .gt_first_summary_row {
+#fakuefhspz .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5900,7 +5900,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-top-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_grand_summary_row {
+#fakuefhspz .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5910,7 +5910,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   padding-right: 5px;
 }
 
-#cbeqbzhhno .gt_first_grand_summary_row {
+#fakuefhspz .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5920,11 +5920,11 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-top-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_striped {
+#fakuefhspz .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cbeqbzhhno .gt_table_body {
+#fakuefhspz .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5933,7 +5933,7 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-bottom-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_footnotes {
+#fakuefhspz .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5947,13 +5947,13 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_footnote {
+#fakuefhspz .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#cbeqbzhhno .gt_sourcenotes {
+#fakuefhspz .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5967,41 +5967,41 @@ tidyr::replace_na(df, list(country = "unknown"))
   border-right-color: #D3D3D3;
 }
 
-#cbeqbzhhno .gt_sourcenote {
+#fakuefhspz .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#cbeqbzhhno .gt_left {
+#fakuefhspz .gt_left {
   text-align: left;
 }
 
-#cbeqbzhhno .gt_center {
+#fakuefhspz .gt_center {
   text-align: center;
 }
 
-#cbeqbzhhno .gt_right {
+#fakuefhspz .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cbeqbzhhno .gt_font_normal {
+#fakuefhspz .gt_font_normal {
   font-weight: normal;
 }
 
-#cbeqbzhhno .gt_font_bold {
+#fakuefhspz .gt_font_bold {
   font-weight: bold;
 }
 
-#cbeqbzhhno .gt_font_italic {
+#fakuefhspz .gt_font_italic {
   font-style: italic;
 }
 
-#cbeqbzhhno .gt_super {
+#fakuefhspz .gt_super {
   font-size: 65%;
 }
 
-#cbeqbzhhno .gt_footnote_marks {
+#fakuefhspz .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6064,12 +6064,12 @@ tidyr::replace_na(df, list(population = -999))
 ### Remove leading whitespace from a character values in a single column
 
 ```{=html}
-<div id="haaotlvhts" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="czqdimnlwp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#haaotlvhts .gt_table {
+#czqdimnlwp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6094,7 +6094,7 @@ tidyr::replace_na(df, list(population = -999))
   border-left-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_heading {
+#czqdimnlwp .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6106,7 +6106,7 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_title {
+#czqdimnlwp .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6116,7 +6116,7 @@ tidyr::replace_na(df, list(population = -999))
   border-bottom-width: 0;
 }
 
-#haaotlvhts .gt_subtitle {
+#czqdimnlwp .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6126,13 +6126,13 @@ tidyr::replace_na(df, list(population = -999))
   border-top-width: 0;
 }
 
-#haaotlvhts .gt_bottom_border {
+#czqdimnlwp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_col_headings {
+#czqdimnlwp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6147,7 +6147,7 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_col_heading {
+#czqdimnlwp .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6167,7 +6167,7 @@ tidyr::replace_na(df, list(population = -999))
   overflow-x: hidden;
 }
 
-#haaotlvhts .gt_column_spanner_outer {
+#czqdimnlwp .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6179,15 +6179,15 @@ tidyr::replace_na(df, list(population = -999))
   padding-right: 4px;
 }
 
-#haaotlvhts .gt_column_spanner_outer:first-child {
+#czqdimnlwp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#haaotlvhts .gt_column_spanner_outer:last-child {
+#czqdimnlwp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#haaotlvhts .gt_column_spanner {
+#czqdimnlwp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6199,7 +6199,7 @@ tidyr::replace_na(df, list(population = -999))
   width: 100%;
 }
 
-#haaotlvhts .gt_group_heading {
+#czqdimnlwp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6221,7 +6221,7 @@ tidyr::replace_na(df, list(population = -999))
   vertical-align: middle;
 }
 
-#haaotlvhts .gt_empty_group_heading {
+#czqdimnlwp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6236,15 +6236,15 @@ tidyr::replace_na(df, list(population = -999))
   vertical-align: middle;
 }
 
-#haaotlvhts .gt_from_md > :first-child {
+#czqdimnlwp .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#haaotlvhts .gt_from_md > :last-child {
+#czqdimnlwp .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#haaotlvhts .gt_row {
+#czqdimnlwp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6263,7 +6263,7 @@ tidyr::replace_na(df, list(population = -999))
   overflow-x: hidden;
 }
 
-#haaotlvhts .gt_stub {
+#czqdimnlwp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6275,7 +6275,7 @@ tidyr::replace_na(df, list(population = -999))
   padding-left: 12px;
 }
 
-#haaotlvhts .gt_summary_row {
+#czqdimnlwp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6285,7 +6285,7 @@ tidyr::replace_na(df, list(population = -999))
   padding-right: 5px;
 }
 
-#haaotlvhts .gt_first_summary_row {
+#czqdimnlwp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6295,7 +6295,7 @@ tidyr::replace_na(df, list(population = -999))
   border-top-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_grand_summary_row {
+#czqdimnlwp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6305,7 +6305,7 @@ tidyr::replace_na(df, list(population = -999))
   padding-right: 5px;
 }
 
-#haaotlvhts .gt_first_grand_summary_row {
+#czqdimnlwp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6315,11 +6315,11 @@ tidyr::replace_na(df, list(population = -999))
   border-top-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_striped {
+#czqdimnlwp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#haaotlvhts .gt_table_body {
+#czqdimnlwp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6328,7 +6328,7 @@ tidyr::replace_na(df, list(population = -999))
   border-bottom-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_footnotes {
+#czqdimnlwp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6342,13 +6342,13 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_footnote {
+#czqdimnlwp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#haaotlvhts .gt_sourcenotes {
+#czqdimnlwp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6362,41 +6362,41 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#haaotlvhts .gt_sourcenote {
+#czqdimnlwp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#haaotlvhts .gt_left {
+#czqdimnlwp .gt_left {
   text-align: left;
 }
 
-#haaotlvhts .gt_center {
+#czqdimnlwp .gt_center {
   text-align: center;
 }
 
-#haaotlvhts .gt_right {
+#czqdimnlwp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#haaotlvhts .gt_font_normal {
+#czqdimnlwp .gt_font_normal {
   font-weight: normal;
 }
 
-#haaotlvhts .gt_font_bold {
+#czqdimnlwp .gt_font_bold {
   font-weight: bold;
 }
 
-#haaotlvhts .gt_font_italic {
+#czqdimnlwp .gt_font_italic {
   font-style: italic;
 }
 
-#haaotlvhts .gt_super {
+#czqdimnlwp .gt_super {
   font-size: 65%;
 }
 
-#haaotlvhts .gt_footnote_marks {
+#czqdimnlwp .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6425,12 +6425,12 @@ tidyr::replace_na(df, list(population = -999))
 ```
 
 ```{=html}
-<div id="hkzhdgnrtn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jwferlnqyb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#hkzhdgnrtn .gt_table {
+#jwferlnqyb .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6455,7 +6455,7 @@ tidyr::replace_na(df, list(population = -999))
   border-left-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_heading {
+#jwferlnqyb .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6467,7 +6467,7 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_title {
+#jwferlnqyb .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6477,7 +6477,7 @@ tidyr::replace_na(df, list(population = -999))
   border-bottom-width: 0;
 }
 
-#hkzhdgnrtn .gt_subtitle {
+#jwferlnqyb .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6487,13 +6487,13 @@ tidyr::replace_na(df, list(population = -999))
   border-top-width: 0;
 }
 
-#hkzhdgnrtn .gt_bottom_border {
+#jwferlnqyb .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_col_headings {
+#jwferlnqyb .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6508,7 +6508,7 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_col_heading {
+#jwferlnqyb .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6528,7 +6528,7 @@ tidyr::replace_na(df, list(population = -999))
   overflow-x: hidden;
 }
 
-#hkzhdgnrtn .gt_column_spanner_outer {
+#jwferlnqyb .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6540,15 +6540,15 @@ tidyr::replace_na(df, list(population = -999))
   padding-right: 4px;
 }
 
-#hkzhdgnrtn .gt_column_spanner_outer:first-child {
+#jwferlnqyb .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#hkzhdgnrtn .gt_column_spanner_outer:last-child {
+#jwferlnqyb .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#hkzhdgnrtn .gt_column_spanner {
+#jwferlnqyb .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6560,7 +6560,7 @@ tidyr::replace_na(df, list(population = -999))
   width: 100%;
 }
 
-#hkzhdgnrtn .gt_group_heading {
+#jwferlnqyb .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6582,7 +6582,7 @@ tidyr::replace_na(df, list(population = -999))
   vertical-align: middle;
 }
 
-#hkzhdgnrtn .gt_empty_group_heading {
+#jwferlnqyb .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6597,15 +6597,15 @@ tidyr::replace_na(df, list(population = -999))
   vertical-align: middle;
 }
 
-#hkzhdgnrtn .gt_from_md > :first-child {
+#jwferlnqyb .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#hkzhdgnrtn .gt_from_md > :last-child {
+#jwferlnqyb .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#hkzhdgnrtn .gt_row {
+#jwferlnqyb .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6624,7 +6624,7 @@ tidyr::replace_na(df, list(population = -999))
   overflow-x: hidden;
 }
 
-#hkzhdgnrtn .gt_stub {
+#jwferlnqyb .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6636,7 +6636,7 @@ tidyr::replace_na(df, list(population = -999))
   padding-left: 12px;
 }
 
-#hkzhdgnrtn .gt_summary_row {
+#jwferlnqyb .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6646,7 +6646,7 @@ tidyr::replace_na(df, list(population = -999))
   padding-right: 5px;
 }
 
-#hkzhdgnrtn .gt_first_summary_row {
+#jwferlnqyb .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6656,7 +6656,7 @@ tidyr::replace_na(df, list(population = -999))
   border-top-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_grand_summary_row {
+#jwferlnqyb .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6666,7 +6666,7 @@ tidyr::replace_na(df, list(population = -999))
   padding-right: 5px;
 }
 
-#hkzhdgnrtn .gt_first_grand_summary_row {
+#jwferlnqyb .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6676,11 +6676,11 @@ tidyr::replace_na(df, list(population = -999))
   border-top-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_striped {
+#jwferlnqyb .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#hkzhdgnrtn .gt_table_body {
+#jwferlnqyb .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6689,7 +6689,7 @@ tidyr::replace_na(df, list(population = -999))
   border-bottom-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_footnotes {
+#jwferlnqyb .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6703,13 +6703,13 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_footnote {
+#jwferlnqyb .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#hkzhdgnrtn .gt_sourcenotes {
+#jwferlnqyb .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6723,41 +6723,41 @@ tidyr::replace_na(df, list(population = -999))
   border-right-color: #D3D3D3;
 }
 
-#hkzhdgnrtn .gt_sourcenote {
+#jwferlnqyb .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#hkzhdgnrtn .gt_left {
+#jwferlnqyb .gt_left {
   text-align: left;
 }
 
-#hkzhdgnrtn .gt_center {
+#jwferlnqyb .gt_center {
   text-align: center;
 }
 
-#hkzhdgnrtn .gt_right {
+#jwferlnqyb .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#hkzhdgnrtn .gt_font_normal {
+#jwferlnqyb .gt_font_normal {
   font-weight: normal;
 }
 
-#hkzhdgnrtn .gt_font_bold {
+#jwferlnqyb .gt_font_bold {
   font-weight: bold;
 }
 
-#hkzhdgnrtn .gt_font_italic {
+#jwferlnqyb .gt_font_italic {
   font-style: italic;
 }
 
-#hkzhdgnrtn .gt_super {
+#jwferlnqyb .gt_super {
   font-size: 65%;
 }
 
-#hkzhdgnrtn .gt_footnote_marks {
+#jwferlnqyb .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6820,12 +6820,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
 ### Remove trailing whitespace from a character values in a single column
 
 ```{=html}
-<div id="abhikisuxh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bjqwexcwya" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#abhikisuxh .gt_table {
+#bjqwexcwya .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6850,7 +6850,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-left-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_heading {
+#bjqwexcwya .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6862,7 +6862,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_title {
+#bjqwexcwya .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6872,7 +6872,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-width: 0;
 }
 
-#abhikisuxh .gt_subtitle {
+#bjqwexcwya .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6882,13 +6882,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-width: 0;
 }
 
-#abhikisuxh .gt_bottom_border {
+#bjqwexcwya .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_col_headings {
+#bjqwexcwya .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6903,7 +6903,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_col_heading {
+#bjqwexcwya .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6923,7 +6923,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#abhikisuxh .gt_column_spanner_outer {
+#bjqwexcwya .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6935,15 +6935,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 4px;
 }
 
-#abhikisuxh .gt_column_spanner_outer:first-child {
+#bjqwexcwya .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#abhikisuxh .gt_column_spanner_outer:last-child {
+#bjqwexcwya .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#abhikisuxh .gt_column_spanner {
+#bjqwexcwya .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6955,7 +6955,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   width: 100%;
 }
 
-#abhikisuxh .gt_group_heading {
+#bjqwexcwya .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6977,7 +6977,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#abhikisuxh .gt_empty_group_heading {
+#bjqwexcwya .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6992,15 +6992,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#abhikisuxh .gt_from_md > :first-child {
+#bjqwexcwya .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#abhikisuxh .gt_from_md > :last-child {
+#bjqwexcwya .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#abhikisuxh .gt_row {
+#bjqwexcwya .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7019,7 +7019,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#abhikisuxh .gt_stub {
+#bjqwexcwya .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7031,7 +7031,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-left: 12px;
 }
 
-#abhikisuxh .gt_summary_row {
+#bjqwexcwya .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7041,7 +7041,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#abhikisuxh .gt_first_summary_row {
+#bjqwexcwya .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7051,7 +7051,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_grand_summary_row {
+#bjqwexcwya .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7061,7 +7061,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#abhikisuxh .gt_first_grand_summary_row {
+#bjqwexcwya .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7071,11 +7071,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_striped {
+#bjqwexcwya .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#abhikisuxh .gt_table_body {
+#bjqwexcwya .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7084,7 +7084,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_footnotes {
+#bjqwexcwya .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7098,13 +7098,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_footnote {
+#bjqwexcwya .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#abhikisuxh .gt_sourcenotes {
+#bjqwexcwya .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7118,41 +7118,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#abhikisuxh .gt_sourcenote {
+#bjqwexcwya .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#abhikisuxh .gt_left {
+#bjqwexcwya .gt_left {
   text-align: left;
 }
 
-#abhikisuxh .gt_center {
+#bjqwexcwya .gt_center {
   text-align: center;
 }
 
-#abhikisuxh .gt_right {
+#bjqwexcwya .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#abhikisuxh .gt_font_normal {
+#bjqwexcwya .gt_font_normal {
   font-weight: normal;
 }
 
-#abhikisuxh .gt_font_bold {
+#bjqwexcwya .gt_font_bold {
   font-weight: bold;
 }
 
-#abhikisuxh .gt_font_italic {
+#bjqwexcwya .gt_font_italic {
   font-style: italic;
 }
 
-#abhikisuxh .gt_super {
+#bjqwexcwya .gt_super {
   font-size: 65%;
 }
 
-#abhikisuxh .gt_footnote_marks {
+#bjqwexcwya .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7181,12 +7181,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
 ```
 
 ```{=html}
-<div id="lrhrqnphty" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zvjaldzsqu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lrhrqnphty .gt_table {
+#zvjaldzsqu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7211,7 +7211,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-left-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_heading {
+#zvjaldzsqu .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7223,7 +7223,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_title {
+#zvjaldzsqu .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7233,7 +7233,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-width: 0;
 }
 
-#lrhrqnphty .gt_subtitle {
+#zvjaldzsqu .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7243,13 +7243,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-width: 0;
 }
 
-#lrhrqnphty .gt_bottom_border {
+#zvjaldzsqu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_col_headings {
+#zvjaldzsqu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7264,7 +7264,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_col_heading {
+#zvjaldzsqu .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7284,7 +7284,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#lrhrqnphty .gt_column_spanner_outer {
+#zvjaldzsqu .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7296,15 +7296,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 4px;
 }
 
-#lrhrqnphty .gt_column_spanner_outer:first-child {
+#zvjaldzsqu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lrhrqnphty .gt_column_spanner_outer:last-child {
+#zvjaldzsqu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lrhrqnphty .gt_column_spanner {
+#zvjaldzsqu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7316,7 +7316,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   width: 100%;
 }
 
-#lrhrqnphty .gt_group_heading {
+#zvjaldzsqu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7338,7 +7338,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#lrhrqnphty .gt_empty_group_heading {
+#zvjaldzsqu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7353,15 +7353,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#lrhrqnphty .gt_from_md > :first-child {
+#zvjaldzsqu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#lrhrqnphty .gt_from_md > :last-child {
+#zvjaldzsqu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#lrhrqnphty .gt_row {
+#zvjaldzsqu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7380,7 +7380,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#lrhrqnphty .gt_stub {
+#zvjaldzsqu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7392,7 +7392,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-left: 12px;
 }
 
-#lrhrqnphty .gt_summary_row {
+#zvjaldzsqu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7402,7 +7402,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#lrhrqnphty .gt_first_summary_row {
+#zvjaldzsqu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7412,7 +7412,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_grand_summary_row {
+#zvjaldzsqu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7422,7 +7422,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#lrhrqnphty .gt_first_grand_summary_row {
+#zvjaldzsqu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7432,11 +7432,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_striped {
+#zvjaldzsqu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lrhrqnphty .gt_table_body {
+#zvjaldzsqu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7445,7 +7445,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_footnotes {
+#zvjaldzsqu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7459,13 +7459,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_footnote {
+#zvjaldzsqu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lrhrqnphty .gt_sourcenotes {
+#zvjaldzsqu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7479,41 +7479,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#lrhrqnphty .gt_sourcenote {
+#zvjaldzsqu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lrhrqnphty .gt_left {
+#zvjaldzsqu .gt_left {
   text-align: left;
 }
 
-#lrhrqnphty .gt_center {
+#zvjaldzsqu .gt_center {
   text-align: center;
 }
 
-#lrhrqnphty .gt_right {
+#zvjaldzsqu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lrhrqnphty .gt_font_normal {
+#zvjaldzsqu .gt_font_normal {
   font-weight: normal;
 }
 
-#lrhrqnphty .gt_font_bold {
+#zvjaldzsqu .gt_font_bold {
   font-weight: bold;
 }
 
-#lrhrqnphty .gt_font_italic {
+#zvjaldzsqu .gt_font_italic {
   font-style: italic;
 }
 
-#lrhrqnphty .gt_super {
+#zvjaldzsqu .gt_super {
   font-size: 65%;
 }
 
-#lrhrqnphty .gt_footnote_marks {
+#zvjaldzsqu .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7576,12 +7576,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
 ### Remove leading and trailing whitespace from a character values in a single column
 
 ```{=html}
-<div id="zxfmwzsemh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="tsjtjutugt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zxfmwzsemh .gt_table {
+#tsjtjutugt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7606,7 +7606,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-left-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_heading {
+#tsjtjutugt .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7618,7 +7618,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_title {
+#tsjtjutugt .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7628,7 +7628,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-width: 0;
 }
 
-#zxfmwzsemh .gt_subtitle {
+#tsjtjutugt .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7638,13 +7638,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-width: 0;
 }
 
-#zxfmwzsemh .gt_bottom_border {
+#tsjtjutugt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_col_headings {
+#tsjtjutugt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7659,7 +7659,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_col_heading {
+#tsjtjutugt .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -7679,7 +7679,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#zxfmwzsemh .gt_column_spanner_outer {
+#tsjtjutugt .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -7691,15 +7691,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 4px;
 }
 
-#zxfmwzsemh .gt_column_spanner_outer:first-child {
+#tsjtjutugt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zxfmwzsemh .gt_column_spanner_outer:last-child {
+#tsjtjutugt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zxfmwzsemh .gt_column_spanner {
+#tsjtjutugt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7711,7 +7711,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   width: 100%;
 }
 
-#zxfmwzsemh .gt_group_heading {
+#tsjtjutugt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7733,7 +7733,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#zxfmwzsemh .gt_empty_group_heading {
+#tsjtjutugt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7748,15 +7748,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#zxfmwzsemh .gt_from_md > :first-child {
+#tsjtjutugt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zxfmwzsemh .gt_from_md > :last-child {
+#tsjtjutugt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zxfmwzsemh .gt_row {
+#tsjtjutugt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7775,7 +7775,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#zxfmwzsemh .gt_stub {
+#tsjtjutugt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7787,7 +7787,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-left: 12px;
 }
 
-#zxfmwzsemh .gt_summary_row {
+#tsjtjutugt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7797,7 +7797,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#zxfmwzsemh .gt_first_summary_row {
+#tsjtjutugt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7807,7 +7807,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_grand_summary_row {
+#tsjtjutugt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7817,7 +7817,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#zxfmwzsemh .gt_first_grand_summary_row {
+#tsjtjutugt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7827,11 +7827,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_striped {
+#tsjtjutugt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zxfmwzsemh .gt_table_body {
+#tsjtjutugt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7840,7 +7840,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_footnotes {
+#tsjtjutugt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7854,13 +7854,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_footnote {
+#tsjtjutugt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zxfmwzsemh .gt_sourcenotes {
+#tsjtjutugt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7874,41 +7874,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#zxfmwzsemh .gt_sourcenote {
+#tsjtjutugt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zxfmwzsemh .gt_left {
+#tsjtjutugt .gt_left {
   text-align: left;
 }
 
-#zxfmwzsemh .gt_center {
+#tsjtjutugt .gt_center {
   text-align: center;
 }
 
-#zxfmwzsemh .gt_right {
+#tsjtjutugt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zxfmwzsemh .gt_font_normal {
+#tsjtjutugt .gt_font_normal {
   font-weight: normal;
 }
 
-#zxfmwzsemh .gt_font_bold {
+#tsjtjutugt .gt_font_bold {
   font-weight: bold;
 }
 
-#zxfmwzsemh .gt_font_italic {
+#tsjtjutugt .gt_font_italic {
   font-style: italic;
 }
 
-#zxfmwzsemh .gt_super {
+#tsjtjutugt .gt_super {
   font-size: 65%;
 }
 
-#zxfmwzsemh .gt_footnote_marks {
+#tsjtjutugt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7937,12 +7937,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
 ```
 
 ```{=html}
-<div id="qxggbrzymb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gdpqwaycfy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qxggbrzymb .gt_table {
+#gdpqwaycfy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7967,7 +7967,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-left-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_heading {
+#gdpqwaycfy .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7979,7 +7979,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_title {
+#gdpqwaycfy .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7989,7 +7989,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-width: 0;
 }
 
-#qxggbrzymb .gt_subtitle {
+#gdpqwaycfy .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7999,13 +7999,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-width: 0;
 }
 
-#qxggbrzymb .gt_bottom_border {
+#gdpqwaycfy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_col_headings {
+#gdpqwaycfy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8020,7 +8020,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_col_heading {
+#gdpqwaycfy .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8040,7 +8040,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#qxggbrzymb .gt_column_spanner_outer {
+#gdpqwaycfy .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8052,15 +8052,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 4px;
 }
 
-#qxggbrzymb .gt_column_spanner_outer:first-child {
+#gdpqwaycfy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qxggbrzymb .gt_column_spanner_outer:last-child {
+#gdpqwaycfy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qxggbrzymb .gt_column_spanner {
+#gdpqwaycfy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8072,7 +8072,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   width: 100%;
 }
 
-#qxggbrzymb .gt_group_heading {
+#gdpqwaycfy .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8094,7 +8094,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#qxggbrzymb .gt_empty_group_heading {
+#gdpqwaycfy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8109,15 +8109,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#qxggbrzymb .gt_from_md > :first-child {
+#gdpqwaycfy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qxggbrzymb .gt_from_md > :last-child {
+#gdpqwaycfy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qxggbrzymb .gt_row {
+#gdpqwaycfy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8136,7 +8136,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#qxggbrzymb .gt_stub {
+#gdpqwaycfy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8148,7 +8148,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-left: 12px;
 }
 
-#qxggbrzymb .gt_summary_row {
+#gdpqwaycfy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8158,7 +8158,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#qxggbrzymb .gt_first_summary_row {
+#gdpqwaycfy .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8168,7 +8168,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_grand_summary_row {
+#gdpqwaycfy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8178,7 +8178,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#qxggbrzymb .gt_first_grand_summary_row {
+#gdpqwaycfy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8188,11 +8188,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_striped {
+#gdpqwaycfy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qxggbrzymb .gt_table_body {
+#gdpqwaycfy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8201,7 +8201,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_footnotes {
+#gdpqwaycfy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8215,13 +8215,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_footnote {
+#gdpqwaycfy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qxggbrzymb .gt_sourcenotes {
+#gdpqwaycfy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8235,41 +8235,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#qxggbrzymb .gt_sourcenote {
+#gdpqwaycfy .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qxggbrzymb .gt_left {
+#gdpqwaycfy .gt_left {
   text-align: left;
 }
 
-#qxggbrzymb .gt_center {
+#gdpqwaycfy .gt_center {
   text-align: center;
 }
 
-#qxggbrzymb .gt_right {
+#gdpqwaycfy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qxggbrzymb .gt_font_normal {
+#gdpqwaycfy .gt_font_normal {
   font-weight: normal;
 }
 
-#qxggbrzymb .gt_font_bold {
+#gdpqwaycfy .gt_font_bold {
   font-weight: bold;
 }
 
-#qxggbrzymb .gt_font_italic {
+#gdpqwaycfy .gt_font_italic {
   font-style: italic;
 }
 
-#qxggbrzymb .gt_super {
+#gdpqwaycfy .gt_super {
   font-size: 65%;
 }
 
-#qxggbrzymb .gt_footnote_marks {
+#gdpqwaycfy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8332,12 +8332,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
 ### Change all characters to lower case in a single column
 
 ```{=html}
-<div id="pbpehxdbqn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mtgrrzovxo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#pbpehxdbqn .gt_table {
+#mtgrrzovxo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -8362,7 +8362,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-left-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_heading {
+#mtgrrzovxo .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -8374,7 +8374,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_title {
+#mtgrrzovxo .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -8384,7 +8384,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-width: 0;
 }
 
-#pbpehxdbqn .gt_subtitle {
+#mtgrrzovxo .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8394,13 +8394,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-width: 0;
 }
 
-#pbpehxdbqn .gt_bottom_border {
+#mtgrrzovxo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_col_headings {
+#mtgrrzovxo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8415,7 +8415,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_col_heading {
+#mtgrrzovxo .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -8435,7 +8435,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#pbpehxdbqn .gt_column_spanner_outer {
+#mtgrrzovxo .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -8447,15 +8447,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 4px;
 }
 
-#pbpehxdbqn .gt_column_spanner_outer:first-child {
+#mtgrrzovxo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#pbpehxdbqn .gt_column_spanner_outer:last-child {
+#mtgrrzovxo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#pbpehxdbqn .gt_column_spanner {
+#mtgrrzovxo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8467,7 +8467,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   width: 100%;
 }
 
-#pbpehxdbqn .gt_group_heading {
+#mtgrrzovxo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8489,7 +8489,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#pbpehxdbqn .gt_empty_group_heading {
+#mtgrrzovxo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8504,15 +8504,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#pbpehxdbqn .gt_from_md > :first-child {
+#mtgrrzovxo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#pbpehxdbqn .gt_from_md > :last-child {
+#mtgrrzovxo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#pbpehxdbqn .gt_row {
+#mtgrrzovxo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8531,7 +8531,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#pbpehxdbqn .gt_stub {
+#mtgrrzovxo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8543,7 +8543,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-left: 12px;
 }
 
-#pbpehxdbqn .gt_summary_row {
+#mtgrrzovxo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8553,7 +8553,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#pbpehxdbqn .gt_first_summary_row {
+#mtgrrzovxo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8563,7 +8563,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_grand_summary_row {
+#mtgrrzovxo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8573,7 +8573,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#pbpehxdbqn .gt_first_grand_summary_row {
+#mtgrrzovxo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8583,11 +8583,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_striped {
+#mtgrrzovxo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#pbpehxdbqn .gt_table_body {
+#mtgrrzovxo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8596,7 +8596,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_footnotes {
+#mtgrrzovxo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8610,13 +8610,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_footnote {
+#mtgrrzovxo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#pbpehxdbqn .gt_sourcenotes {
+#mtgrrzovxo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8630,41 +8630,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#pbpehxdbqn .gt_sourcenote {
+#mtgrrzovxo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#pbpehxdbqn .gt_left {
+#mtgrrzovxo .gt_left {
   text-align: left;
 }
 
-#pbpehxdbqn .gt_center {
+#mtgrrzovxo .gt_center {
   text-align: center;
 }
 
-#pbpehxdbqn .gt_right {
+#mtgrrzovxo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#pbpehxdbqn .gt_font_normal {
+#mtgrrzovxo .gt_font_normal {
   font-weight: normal;
 }
 
-#pbpehxdbqn .gt_font_bold {
+#mtgrrzovxo .gt_font_bold {
   font-weight: bold;
 }
 
-#pbpehxdbqn .gt_font_italic {
+#mtgrrzovxo .gt_font_italic {
   font-style: italic;
 }
 
-#pbpehxdbqn .gt_super {
+#mtgrrzovxo .gt_super {
   font-size: 65%;
 }
 
-#pbpehxdbqn .gt_footnote_marks {
+#mtgrrzovxo .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8693,12 +8693,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
 ```
 
 ```{=html}
-<div id="couhvxprtq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jjrfjtnduf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#couhvxprtq .gt_table {
+#jjrfjtnduf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -8723,7 +8723,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-left-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_heading {
+#jjrfjtnduf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -8735,7 +8735,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_title {
+#jjrfjtnduf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -8745,7 +8745,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-width: 0;
 }
 
-#couhvxprtq .gt_subtitle {
+#jjrfjtnduf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8755,13 +8755,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-width: 0;
 }
 
-#couhvxprtq .gt_bottom_border {
+#jjrfjtnduf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_col_headings {
+#jjrfjtnduf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8776,7 +8776,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_col_heading {
+#jjrfjtnduf .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8796,7 +8796,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#couhvxprtq .gt_column_spanner_outer {
+#jjrfjtnduf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8808,15 +8808,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 4px;
 }
 
-#couhvxprtq .gt_column_spanner_outer:first-child {
+#jjrfjtnduf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#couhvxprtq .gt_column_spanner_outer:last-child {
+#jjrfjtnduf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#couhvxprtq .gt_column_spanner {
+#jjrfjtnduf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8828,7 +8828,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   width: 100%;
 }
 
-#couhvxprtq .gt_group_heading {
+#jjrfjtnduf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8850,7 +8850,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#couhvxprtq .gt_empty_group_heading {
+#jjrfjtnduf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8865,15 +8865,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   vertical-align: middle;
 }
 
-#couhvxprtq .gt_from_md > :first-child {
+#jjrfjtnduf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#couhvxprtq .gt_from_md > :last-child {
+#jjrfjtnduf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#couhvxprtq .gt_row {
+#jjrfjtnduf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8892,7 +8892,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   overflow-x: hidden;
 }
 
-#couhvxprtq .gt_stub {
+#jjrfjtnduf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8904,7 +8904,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-left: 12px;
 }
 
-#couhvxprtq .gt_summary_row {
+#jjrfjtnduf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8914,7 +8914,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#couhvxprtq .gt_first_summary_row {
+#jjrfjtnduf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8924,7 +8924,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_grand_summary_row {
+#jjrfjtnduf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8934,7 +8934,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   padding-right: 5px;
 }
 
-#couhvxprtq .gt_first_grand_summary_row {
+#jjrfjtnduf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8944,11 +8944,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-top-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_striped {
+#jjrfjtnduf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#couhvxprtq .gt_table_body {
+#jjrfjtnduf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8957,7 +8957,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-bottom-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_footnotes {
+#jjrfjtnduf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8971,13 +8971,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_footnote {
+#jjrfjtnduf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#couhvxprtq .gt_sourcenotes {
+#jjrfjtnduf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8991,41 +8991,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_trim(`Municipal Unit`, side = 
   border-right-color: #D3D3D3;
 }
 
-#couhvxprtq .gt_sourcenote {
+#jjrfjtnduf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#couhvxprtq .gt_left {
+#jjrfjtnduf .gt_left {
   text-align: left;
 }
 
-#couhvxprtq .gt_center {
+#jjrfjtnduf .gt_center {
   text-align: center;
 }
 
-#couhvxprtq .gt_right {
+#jjrfjtnduf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#couhvxprtq .gt_font_normal {
+#jjrfjtnduf .gt_font_normal {
   font-weight: normal;
 }
 
-#couhvxprtq .gt_font_bold {
+#jjrfjtnduf .gt_font_bold {
   font-weight: bold;
 }
 
-#couhvxprtq .gt_font_italic {
+#jjrfjtnduf .gt_font_italic {
   font-style: italic;
 }
 
-#couhvxprtq .gt_super {
+#jjrfjtnduf .gt_super {
   font-size: 65%;
 }
 
-#couhvxprtq .gt_footnote_marks {
+#jjrfjtnduf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -9088,12 +9088,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
 ### Change all characters to upper case in a single column
 
 ```{=html}
-<div id="oyxhqtkctf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="rjdwooqfbd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#oyxhqtkctf .gt_table {
+#rjdwooqfbd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -9118,7 +9118,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-left-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_heading {
+#rjdwooqfbd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -9130,7 +9130,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_title {
+#rjdwooqfbd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -9140,7 +9140,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-bottom-width: 0;
 }
 
-#oyxhqtkctf .gt_subtitle {
+#rjdwooqfbd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -9150,13 +9150,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-top-width: 0;
 }
 
-#oyxhqtkctf .gt_bottom_border {
+#rjdwooqfbd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_col_headings {
+#rjdwooqfbd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9171,7 +9171,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_col_heading {
+#rjdwooqfbd .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -9191,7 +9191,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#oyxhqtkctf .gt_column_spanner_outer {
+#rjdwooqfbd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -9203,15 +9203,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-right: 4px;
 }
 
-#oyxhqtkctf .gt_column_spanner_outer:first-child {
+#rjdwooqfbd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#oyxhqtkctf .gt_column_spanner_outer:last-child {
+#rjdwooqfbd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#oyxhqtkctf .gt_column_spanner {
+#rjdwooqfbd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -9223,7 +9223,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   width: 100%;
 }
 
-#oyxhqtkctf .gt_group_heading {
+#rjdwooqfbd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9245,7 +9245,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   vertical-align: middle;
 }
 
-#oyxhqtkctf .gt_empty_group_heading {
+#rjdwooqfbd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9260,15 +9260,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   vertical-align: middle;
 }
 
-#oyxhqtkctf .gt_from_md > :first-child {
+#rjdwooqfbd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#oyxhqtkctf .gt_from_md > :last-child {
+#rjdwooqfbd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#oyxhqtkctf .gt_row {
+#rjdwooqfbd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9287,7 +9287,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#oyxhqtkctf .gt_stub {
+#rjdwooqfbd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -9299,7 +9299,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-left: 12px;
 }
 
-#oyxhqtkctf .gt_summary_row {
+#rjdwooqfbd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9309,7 +9309,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-right: 5px;
 }
 
-#oyxhqtkctf .gt_first_summary_row {
+#rjdwooqfbd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9319,7 +9319,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_grand_summary_row {
+#rjdwooqfbd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9329,7 +9329,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-right: 5px;
 }
 
-#oyxhqtkctf .gt_first_grand_summary_row {
+#rjdwooqfbd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9339,11 +9339,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_striped {
+#rjdwooqfbd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#oyxhqtkctf .gt_table_body {
+#rjdwooqfbd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9352,7 +9352,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-bottom-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_footnotes {
+#rjdwooqfbd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9366,13 +9366,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_footnote {
+#rjdwooqfbd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#oyxhqtkctf .gt_sourcenotes {
+#rjdwooqfbd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9386,41 +9386,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#oyxhqtkctf .gt_sourcenote {
+#rjdwooqfbd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#oyxhqtkctf .gt_left {
+#rjdwooqfbd .gt_left {
   text-align: left;
 }
 
-#oyxhqtkctf .gt_center {
+#rjdwooqfbd .gt_center {
   text-align: center;
 }
 
-#oyxhqtkctf .gt_right {
+#rjdwooqfbd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#oyxhqtkctf .gt_font_normal {
+#rjdwooqfbd .gt_font_normal {
   font-weight: normal;
 }
 
-#oyxhqtkctf .gt_font_bold {
+#rjdwooqfbd .gt_font_bold {
   font-weight: bold;
 }
 
-#oyxhqtkctf .gt_font_italic {
+#rjdwooqfbd .gt_font_italic {
   font-style: italic;
 }
 
-#oyxhqtkctf .gt_super {
+#rjdwooqfbd .gt_super {
   font-size: 65%;
 }
 
-#oyxhqtkctf .gt_footnote_marks {
+#rjdwooqfbd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -9449,12 +9449,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
 ```
 
 ```{=html}
-<div id="ilwqckhknj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="djafcvnzyd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ilwqckhknj .gt_table {
+#djafcvnzyd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -9479,7 +9479,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-left-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_heading {
+#djafcvnzyd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -9491,7 +9491,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_title {
+#djafcvnzyd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -9501,7 +9501,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-bottom-width: 0;
 }
 
-#ilwqckhknj .gt_subtitle {
+#djafcvnzyd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -9511,13 +9511,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-top-width: 0;
 }
 
-#ilwqckhknj .gt_bottom_border {
+#djafcvnzyd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_col_headings {
+#djafcvnzyd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9532,7 +9532,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_col_heading {
+#djafcvnzyd .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -9552,7 +9552,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#ilwqckhknj .gt_column_spanner_outer {
+#djafcvnzyd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -9564,15 +9564,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-right: 4px;
 }
 
-#ilwqckhknj .gt_column_spanner_outer:first-child {
+#djafcvnzyd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ilwqckhknj .gt_column_spanner_outer:last-child {
+#djafcvnzyd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ilwqckhknj .gt_column_spanner {
+#djafcvnzyd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -9584,7 +9584,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   width: 100%;
 }
 
-#ilwqckhknj .gt_group_heading {
+#djafcvnzyd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9606,7 +9606,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   vertical-align: middle;
 }
 
-#ilwqckhknj .gt_empty_group_heading {
+#djafcvnzyd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -9621,15 +9621,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   vertical-align: middle;
 }
 
-#ilwqckhknj .gt_from_md > :first-child {
+#djafcvnzyd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ilwqckhknj .gt_from_md > :last-child {
+#djafcvnzyd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ilwqckhknj .gt_row {
+#djafcvnzyd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9648,7 +9648,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#ilwqckhknj .gt_stub {
+#djafcvnzyd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -9660,7 +9660,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-left: 12px;
 }
 
-#ilwqckhknj .gt_summary_row {
+#djafcvnzyd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9670,7 +9670,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-right: 5px;
 }
 
-#ilwqckhknj .gt_first_summary_row {
+#djafcvnzyd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9680,7 +9680,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_grand_summary_row {
+#djafcvnzyd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -9690,7 +9690,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   padding-right: 5px;
 }
 
-#ilwqckhknj .gt_first_grand_summary_row {
+#djafcvnzyd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -9700,11 +9700,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_striped {
+#djafcvnzyd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ilwqckhknj .gt_table_body {
+#djafcvnzyd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9713,7 +9713,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-bottom-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_footnotes {
+#djafcvnzyd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9727,13 +9727,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_footnote {
+#djafcvnzyd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ilwqckhknj .gt_sourcenotes {
+#djafcvnzyd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9747,41 +9747,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_lower(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#ilwqckhknj .gt_sourcenote {
+#djafcvnzyd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ilwqckhknj .gt_left {
+#djafcvnzyd .gt_left {
   text-align: left;
 }
 
-#ilwqckhknj .gt_center {
+#djafcvnzyd .gt_center {
   text-align: center;
 }
 
-#ilwqckhknj .gt_right {
+#djafcvnzyd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ilwqckhknj .gt_font_normal {
+#djafcvnzyd .gt_font_normal {
   font-weight: normal;
 }
 
-#ilwqckhknj .gt_font_bold {
+#djafcvnzyd .gt_font_bold {
   font-weight: bold;
 }
 
-#ilwqckhknj .gt_font_italic {
+#djafcvnzyd .gt_font_italic {
   font-style: italic;
 }
 
-#ilwqckhknj .gt_super {
+#djafcvnzyd .gt_super {
   font-size: 65%;
 }
 
-#ilwqckhknj .gt_footnote_marks {
+#djafcvnzyd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -9844,12 +9844,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
 ### Change all characters to title case in a single column
 
 ```{=html}
-<div id="fyhqesgyoa" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dcncwakdwb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#fyhqesgyoa .gt_table {
+#dcncwakdwb .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -9874,7 +9874,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-left-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_heading {
+#dcncwakdwb .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -9886,7 +9886,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_title {
+#dcncwakdwb .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -9896,7 +9896,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-bottom-width: 0;
 }
 
-#fyhqesgyoa .gt_subtitle {
+#dcncwakdwb .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -9906,13 +9906,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-top-width: 0;
 }
 
-#fyhqesgyoa .gt_bottom_border {
+#dcncwakdwb .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_col_headings {
+#dcncwakdwb .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -9927,7 +9927,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_col_heading {
+#dcncwakdwb .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -9947,7 +9947,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#fyhqesgyoa .gt_column_spanner_outer {
+#dcncwakdwb .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -9959,15 +9959,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-right: 4px;
 }
 
-#fyhqesgyoa .gt_column_spanner_outer:first-child {
+#dcncwakdwb .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fyhqesgyoa .gt_column_spanner_outer:last-child {
+#dcncwakdwb .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fyhqesgyoa .gt_column_spanner {
+#dcncwakdwb .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -9979,7 +9979,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   width: 100%;
 }
 
-#fyhqesgyoa .gt_group_heading {
+#dcncwakdwb .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -10001,7 +10001,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   vertical-align: middle;
 }
 
-#fyhqesgyoa .gt_empty_group_heading {
+#dcncwakdwb .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -10016,15 +10016,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   vertical-align: middle;
 }
 
-#fyhqesgyoa .gt_from_md > :first-child {
+#dcncwakdwb .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fyhqesgyoa .gt_from_md > :last-child {
+#dcncwakdwb .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fyhqesgyoa .gt_row {
+#dcncwakdwb .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10043,7 +10043,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#fyhqesgyoa .gt_stub {
+#dcncwakdwb .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -10055,7 +10055,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-left: 12px;
 }
 
-#fyhqesgyoa .gt_summary_row {
+#dcncwakdwb .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -10065,7 +10065,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-right: 5px;
 }
 
-#fyhqesgyoa .gt_first_summary_row {
+#dcncwakdwb .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10075,7 +10075,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_grand_summary_row {
+#dcncwakdwb .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -10085,7 +10085,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-right: 5px;
 }
 
-#fyhqesgyoa .gt_first_grand_summary_row {
+#dcncwakdwb .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10095,11 +10095,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_striped {
+#dcncwakdwb .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fyhqesgyoa .gt_table_body {
+#dcncwakdwb .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -10108,7 +10108,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-bottom-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_footnotes {
+#dcncwakdwb .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -10122,13 +10122,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_footnote {
+#dcncwakdwb .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#fyhqesgyoa .gt_sourcenotes {
+#dcncwakdwb .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -10142,41 +10142,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#fyhqesgyoa .gt_sourcenote {
+#dcncwakdwb .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#fyhqesgyoa .gt_left {
+#dcncwakdwb .gt_left {
   text-align: left;
 }
 
-#fyhqesgyoa .gt_center {
+#dcncwakdwb .gt_center {
   text-align: center;
 }
 
-#fyhqesgyoa .gt_right {
+#dcncwakdwb .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fyhqesgyoa .gt_font_normal {
+#dcncwakdwb .gt_font_normal {
   font-weight: normal;
 }
 
-#fyhqesgyoa .gt_font_bold {
+#dcncwakdwb .gt_font_bold {
   font-weight: bold;
 }
 
-#fyhqesgyoa .gt_font_italic {
+#dcncwakdwb .gt_font_italic {
   font-style: italic;
 }
 
-#fyhqesgyoa .gt_super {
+#dcncwakdwb .gt_super {
   font-size: 65%;
 }
 
-#fyhqesgyoa .gt_footnote_marks {
+#dcncwakdwb .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -10205,12 +10205,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
 ```
 
 ```{=html}
-<div id="pgmifzuxha" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="obikthipwj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#pgmifzuxha .gt_table {
+#obikthipwj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -10235,7 +10235,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-left-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_heading {
+#obikthipwj .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -10247,7 +10247,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_title {
+#obikthipwj .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -10257,7 +10257,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-bottom-width: 0;
 }
 
-#pgmifzuxha .gt_subtitle {
+#obikthipwj .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -10267,13 +10267,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-top-width: 0;
 }
 
-#pgmifzuxha .gt_bottom_border {
+#obikthipwj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_col_headings {
+#obikthipwj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -10288,7 +10288,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_col_heading {
+#obikthipwj .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -10308,7 +10308,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#pgmifzuxha .gt_column_spanner_outer {
+#obikthipwj .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -10320,15 +10320,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-right: 4px;
 }
 
-#pgmifzuxha .gt_column_spanner_outer:first-child {
+#obikthipwj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#pgmifzuxha .gt_column_spanner_outer:last-child {
+#obikthipwj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#pgmifzuxha .gt_column_spanner {
+#obikthipwj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -10340,7 +10340,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   width: 100%;
 }
 
-#pgmifzuxha .gt_group_heading {
+#obikthipwj .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -10362,7 +10362,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   vertical-align: middle;
 }
 
-#pgmifzuxha .gt_empty_group_heading {
+#obikthipwj .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -10377,15 +10377,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   vertical-align: middle;
 }
 
-#pgmifzuxha .gt_from_md > :first-child {
+#obikthipwj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#pgmifzuxha .gt_from_md > :last-child {
+#obikthipwj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#pgmifzuxha .gt_row {
+#obikthipwj .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10404,7 +10404,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#pgmifzuxha .gt_stub {
+#obikthipwj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -10416,7 +10416,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-left: 12px;
 }
 
-#pgmifzuxha .gt_summary_row {
+#obikthipwj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -10426,7 +10426,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-right: 5px;
 }
 
-#pgmifzuxha .gt_first_summary_row {
+#obikthipwj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10436,7 +10436,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_grand_summary_row {
+#obikthipwj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -10446,7 +10446,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   padding-right: 5px;
 }
 
-#pgmifzuxha .gt_first_grand_summary_row {
+#obikthipwj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10456,11 +10456,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_striped {
+#obikthipwj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#pgmifzuxha .gt_table_body {
+#obikthipwj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -10469,7 +10469,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-bottom-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_footnotes {
+#obikthipwj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -10483,13 +10483,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_footnote {
+#obikthipwj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#pgmifzuxha .gt_sourcenotes {
+#obikthipwj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -10503,41 +10503,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_upper(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#pgmifzuxha .gt_sourcenote {
+#obikthipwj .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#pgmifzuxha .gt_left {
+#obikthipwj .gt_left {
   text-align: left;
 }
 
-#pgmifzuxha .gt_center {
+#obikthipwj .gt_center {
   text-align: center;
 }
 
-#pgmifzuxha .gt_right {
+#obikthipwj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#pgmifzuxha .gt_font_normal {
+#obikthipwj .gt_font_normal {
   font-weight: normal;
 }
 
-#pgmifzuxha .gt_font_bold {
+#obikthipwj .gt_font_bold {
   font-weight: bold;
 }
 
-#pgmifzuxha .gt_font_italic {
+#obikthipwj .gt_font_italic {
   font-style: italic;
 }
 
-#pgmifzuxha .gt_super {
+#obikthipwj .gt_super {
   font-size: 65%;
 }
 
-#pgmifzuxha .gt_footnote_marks {
+#obikthipwj .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -10600,12 +10600,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
 ### Change all characters to sentence case in a single column
 
 ```{=html}
-<div id="zyveklrudk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bxkcqvkmch" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zyveklrudk .gt_table {
+#bxkcqvkmch .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -10630,7 +10630,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-left-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_heading {
+#bxkcqvkmch .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -10642,7 +10642,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_title {
+#bxkcqvkmch .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -10652,7 +10652,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-bottom-width: 0;
 }
 
-#zyveklrudk .gt_subtitle {
+#bxkcqvkmch .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -10662,13 +10662,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-top-width: 0;
 }
 
-#zyveklrudk .gt_bottom_border {
+#bxkcqvkmch .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_col_headings {
+#bxkcqvkmch .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -10683,7 +10683,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_col_heading {
+#bxkcqvkmch .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -10703,7 +10703,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#zyveklrudk .gt_column_spanner_outer {
+#bxkcqvkmch .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -10715,15 +10715,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-right: 4px;
 }
 
-#zyveklrudk .gt_column_spanner_outer:first-child {
+#bxkcqvkmch .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zyveklrudk .gt_column_spanner_outer:last-child {
+#bxkcqvkmch .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zyveklrudk .gt_column_spanner {
+#bxkcqvkmch .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -10735,7 +10735,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   width: 100%;
 }
 
-#zyveklrudk .gt_group_heading {
+#bxkcqvkmch .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -10757,7 +10757,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   vertical-align: middle;
 }
 
-#zyveklrudk .gt_empty_group_heading {
+#bxkcqvkmch .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -10772,15 +10772,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   vertical-align: middle;
 }
 
-#zyveklrudk .gt_from_md > :first-child {
+#bxkcqvkmch .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zyveklrudk .gt_from_md > :last-child {
+#bxkcqvkmch .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zyveklrudk .gt_row {
+#bxkcqvkmch .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10799,7 +10799,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#zyveklrudk .gt_stub {
+#bxkcqvkmch .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -10811,7 +10811,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-left: 12px;
 }
 
-#zyveklrudk .gt_summary_row {
+#bxkcqvkmch .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -10821,7 +10821,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-right: 5px;
 }
 
-#zyveklrudk .gt_first_summary_row {
+#bxkcqvkmch .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10831,7 +10831,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_grand_summary_row {
+#bxkcqvkmch .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -10841,7 +10841,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-right: 5px;
 }
 
-#zyveklrudk .gt_first_grand_summary_row {
+#bxkcqvkmch .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -10851,11 +10851,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_striped {
+#bxkcqvkmch .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zyveklrudk .gt_table_body {
+#bxkcqvkmch .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -10864,7 +10864,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-bottom-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_footnotes {
+#bxkcqvkmch .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -10878,13 +10878,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_footnote {
+#bxkcqvkmch .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zyveklrudk .gt_sourcenotes {
+#bxkcqvkmch .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -10898,41 +10898,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#zyveklrudk .gt_sourcenote {
+#bxkcqvkmch .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zyveklrudk .gt_left {
+#bxkcqvkmch .gt_left {
   text-align: left;
 }
 
-#zyveklrudk .gt_center {
+#bxkcqvkmch .gt_center {
   text-align: center;
 }
 
-#zyveklrudk .gt_right {
+#bxkcqvkmch .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zyveklrudk .gt_font_normal {
+#bxkcqvkmch .gt_font_normal {
   font-weight: normal;
 }
 
-#zyveklrudk .gt_font_bold {
+#bxkcqvkmch .gt_font_bold {
   font-weight: bold;
 }
 
-#zyveklrudk .gt_font_italic {
+#bxkcqvkmch .gt_font_italic {
   font-style: italic;
 }
 
-#zyveklrudk .gt_super {
+#bxkcqvkmch .gt_super {
   font-size: 65%;
 }
 
-#zyveklrudk .gt_footnote_marks {
+#bxkcqvkmch .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -10961,12 +10961,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
 ```
 
 ```{=html}
-<div id="dzxelncsem" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="btlxbeudpc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#dzxelncsem .gt_table {
+#btlxbeudpc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -10991,7 +10991,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-left-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_heading {
+#btlxbeudpc .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -11003,7 +11003,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_title {
+#btlxbeudpc .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -11013,7 +11013,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-bottom-width: 0;
 }
 
-#dzxelncsem .gt_subtitle {
+#btlxbeudpc .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -11023,13 +11023,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-top-width: 0;
 }
 
-#dzxelncsem .gt_bottom_border {
+#btlxbeudpc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_col_headings {
+#btlxbeudpc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -11044,7 +11044,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_col_heading {
+#btlxbeudpc .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -11064,7 +11064,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#dzxelncsem .gt_column_spanner_outer {
+#btlxbeudpc .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -11076,15 +11076,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-right: 4px;
 }
 
-#dzxelncsem .gt_column_spanner_outer:first-child {
+#btlxbeudpc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dzxelncsem .gt_column_spanner_outer:last-child {
+#btlxbeudpc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dzxelncsem .gt_column_spanner {
+#btlxbeudpc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -11096,7 +11096,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   width: 100%;
 }
 
-#dzxelncsem .gt_group_heading {
+#btlxbeudpc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -11118,7 +11118,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   vertical-align: middle;
 }
 
-#dzxelncsem .gt_empty_group_heading {
+#btlxbeudpc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -11133,15 +11133,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   vertical-align: middle;
 }
 
-#dzxelncsem .gt_from_md > :first-child {
+#btlxbeudpc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#dzxelncsem .gt_from_md > :last-child {
+#btlxbeudpc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#dzxelncsem .gt_row {
+#btlxbeudpc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11160,7 +11160,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   overflow-x: hidden;
 }
 
-#dzxelncsem .gt_stub {
+#btlxbeudpc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -11172,7 +11172,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-left: 12px;
 }
 
-#dzxelncsem .gt_summary_row {
+#btlxbeudpc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -11182,7 +11182,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-right: 5px;
 }
 
-#dzxelncsem .gt_first_summary_row {
+#btlxbeudpc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11192,7 +11192,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_grand_summary_row {
+#btlxbeudpc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -11202,7 +11202,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   padding-right: 5px;
 }
 
-#dzxelncsem .gt_first_grand_summary_row {
+#btlxbeudpc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11212,11 +11212,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-top-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_striped {
+#btlxbeudpc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dzxelncsem .gt_table_body {
+#btlxbeudpc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -11225,7 +11225,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-bottom-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_footnotes {
+#btlxbeudpc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -11239,13 +11239,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_footnote {
+#btlxbeudpc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#dzxelncsem .gt_sourcenotes {
+#btlxbeudpc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -11259,41 +11259,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_title(`Civic Street Name`
   border-right-color: #D3D3D3;
 }
 
-#dzxelncsem .gt_sourcenote {
+#btlxbeudpc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#dzxelncsem .gt_left {
+#btlxbeudpc .gt_left {
   text-align: left;
 }
 
-#dzxelncsem .gt_center {
+#btlxbeudpc .gt_center {
   text-align: center;
 }
 
-#dzxelncsem .gt_right {
+#btlxbeudpc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dzxelncsem .gt_font_normal {
+#btlxbeudpc .gt_font_normal {
   font-weight: normal;
 }
 
-#dzxelncsem .gt_font_bold {
+#btlxbeudpc .gt_font_bold {
   font-weight: bold;
 }
 
-#dzxelncsem .gt_font_italic {
+#btlxbeudpc .gt_font_italic {
   font-style: italic;
 }
 
-#dzxelncsem .gt_super {
+#btlxbeudpc .gt_super {
   font-size: 65%;
 }
 
-#dzxelncsem .gt_footnote_marks {
+#btlxbeudpc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -11356,12 +11356,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
 ### Remove punctuation from a single character column
 
 ```{=html}
-<div id="saxdubrgoj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kyxjqwqclz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#saxdubrgoj .gt_table {
+#kyxjqwqclz .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -11386,7 +11386,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-left-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_heading {
+#kyxjqwqclz .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -11398,7 +11398,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_title {
+#kyxjqwqclz .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -11408,7 +11408,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-bottom-width: 0;
 }
 
-#saxdubrgoj .gt_subtitle {
+#kyxjqwqclz .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -11418,13 +11418,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-top-width: 0;
 }
 
-#saxdubrgoj .gt_bottom_border {
+#kyxjqwqclz .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_col_headings {
+#kyxjqwqclz .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -11439,7 +11439,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_col_heading {
+#kyxjqwqclz .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -11459,7 +11459,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   overflow-x: hidden;
 }
 
-#saxdubrgoj .gt_column_spanner_outer {
+#kyxjqwqclz .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -11471,15 +11471,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-right: 4px;
 }
 
-#saxdubrgoj .gt_column_spanner_outer:first-child {
+#kyxjqwqclz .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#saxdubrgoj .gt_column_spanner_outer:last-child {
+#kyxjqwqclz .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#saxdubrgoj .gt_column_spanner {
+#kyxjqwqclz .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -11491,7 +11491,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   width: 100%;
 }
 
-#saxdubrgoj .gt_group_heading {
+#kyxjqwqclz .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -11513,7 +11513,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   vertical-align: middle;
 }
 
-#saxdubrgoj .gt_empty_group_heading {
+#kyxjqwqclz .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -11528,15 +11528,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   vertical-align: middle;
 }
 
-#saxdubrgoj .gt_from_md > :first-child {
+#kyxjqwqclz .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#saxdubrgoj .gt_from_md > :last-child {
+#kyxjqwqclz .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#saxdubrgoj .gt_row {
+#kyxjqwqclz .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11555,7 +11555,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   overflow-x: hidden;
 }
 
-#saxdubrgoj .gt_stub {
+#kyxjqwqclz .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -11567,7 +11567,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-left: 12px;
 }
 
-#saxdubrgoj .gt_summary_row {
+#kyxjqwqclz .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -11577,7 +11577,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-right: 5px;
 }
 
-#saxdubrgoj .gt_first_summary_row {
+#kyxjqwqclz .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11587,7 +11587,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-top-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_grand_summary_row {
+#kyxjqwqclz .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -11597,7 +11597,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-right: 5px;
 }
 
-#saxdubrgoj .gt_first_grand_summary_row {
+#kyxjqwqclz .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11607,11 +11607,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-top-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_striped {
+#kyxjqwqclz .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#saxdubrgoj .gt_table_body {
+#kyxjqwqclz .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -11620,7 +11620,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-bottom-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_footnotes {
+#kyxjqwqclz .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -11634,13 +11634,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_footnote {
+#kyxjqwqclz .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#saxdubrgoj .gt_sourcenotes {
+#kyxjqwqclz .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -11654,41 +11654,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#saxdubrgoj .gt_sourcenote {
+#kyxjqwqclz .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#saxdubrgoj .gt_left {
+#kyxjqwqclz .gt_left {
   text-align: left;
 }
 
-#saxdubrgoj .gt_center {
+#kyxjqwqclz .gt_center {
   text-align: center;
 }
 
-#saxdubrgoj .gt_right {
+#kyxjqwqclz .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#saxdubrgoj .gt_font_normal {
+#kyxjqwqclz .gt_font_normal {
   font-weight: normal;
 }
 
-#saxdubrgoj .gt_font_bold {
+#kyxjqwqclz .gt_font_bold {
   font-weight: bold;
 }
 
-#saxdubrgoj .gt_font_italic {
+#kyxjqwqclz .gt_font_italic {
   font-style: italic;
 }
 
-#saxdubrgoj .gt_super {
+#kyxjqwqclz .gt_super {
   font-size: 65%;
 }
 
-#saxdubrgoj .gt_footnote_marks {
+#kyxjqwqclz .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -11717,12 +11717,12 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
 ```
 
 ```{=html}
-<div id="qxizxzdtps" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bxewpxapdb" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qxizxzdtps .gt_table {
+#bxewpxapdb .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -11747,7 +11747,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-left-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_heading {
+#bxewpxapdb .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -11759,7 +11759,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_title {
+#bxewpxapdb .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -11769,7 +11769,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-bottom-width: 0;
 }
 
-#qxizxzdtps .gt_subtitle {
+#bxewpxapdb .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -11779,13 +11779,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-top-width: 0;
 }
 
-#qxizxzdtps .gt_bottom_border {
+#bxewpxapdb .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_col_headings {
+#bxewpxapdb .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -11800,7 +11800,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_col_heading {
+#bxewpxapdb .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -11820,7 +11820,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   overflow-x: hidden;
 }
 
-#qxizxzdtps .gt_column_spanner_outer {
+#bxewpxapdb .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -11832,15 +11832,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-right: 4px;
 }
 
-#qxizxzdtps .gt_column_spanner_outer:first-child {
+#bxewpxapdb .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qxizxzdtps .gt_column_spanner_outer:last-child {
+#bxewpxapdb .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qxizxzdtps .gt_column_spanner {
+#bxewpxapdb .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -11852,7 +11852,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   width: 100%;
 }
 
-#qxizxzdtps .gt_group_heading {
+#bxewpxapdb .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -11874,7 +11874,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   vertical-align: middle;
 }
 
-#qxizxzdtps .gt_empty_group_heading {
+#bxewpxapdb .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -11889,15 +11889,15 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   vertical-align: middle;
 }
 
-#qxizxzdtps .gt_from_md > :first-child {
+#bxewpxapdb .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qxizxzdtps .gt_from_md > :last-child {
+#bxewpxapdb .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qxizxzdtps .gt_row {
+#bxewpxapdb .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11916,7 +11916,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   overflow-x: hidden;
 }
 
-#qxizxzdtps .gt_stub {
+#bxewpxapdb .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -11928,7 +11928,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-left: 12px;
 }
 
-#qxizxzdtps .gt_summary_row {
+#bxewpxapdb .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -11938,7 +11938,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-right: 5px;
 }
 
-#qxizxzdtps .gt_first_summary_row {
+#bxewpxapdb .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11948,7 +11948,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-top-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_grand_summary_row {
+#bxewpxapdb .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -11958,7 +11958,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   padding-right: 5px;
 }
 
-#qxizxzdtps .gt_first_grand_summary_row {
+#bxewpxapdb .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -11968,11 +11968,11 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-top-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_striped {
+#bxewpxapdb .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qxizxzdtps .gt_table_body {
+#bxewpxapdb .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -11981,7 +11981,7 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-bottom-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_footnotes {
+#bxewpxapdb .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -11995,13 +11995,13 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_footnote {
+#bxewpxapdb .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qxizxzdtps .gt_sourcenotes {
+#bxewpxapdb .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -12015,41 +12015,41 @@ dplyr::mutate(x, `Civic Street Name` = stringr::str_to_sentence(`Civic Street Na
   border-right-color: #D3D3D3;
 }
 
-#qxizxzdtps .gt_sourcenote {
+#bxewpxapdb .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qxizxzdtps .gt_left {
+#bxewpxapdb .gt_left {
   text-align: left;
 }
 
-#qxizxzdtps .gt_center {
+#bxewpxapdb .gt_center {
   text-align: center;
 }
 
-#qxizxzdtps .gt_right {
+#bxewpxapdb .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qxizxzdtps .gt_font_normal {
+#bxewpxapdb .gt_font_normal {
   font-weight: normal;
 }
 
-#qxizxzdtps .gt_font_bold {
+#bxewpxapdb .gt_font_bold {
   font-weight: bold;
 }
 
-#qxizxzdtps .gt_font_italic {
+#bxewpxapdb .gt_font_italic {
   font-style: italic;
 }
 
-#qxizxzdtps .gt_super {
+#bxewpxapdb .gt_super {
   font-size: 65%;
 }
 
-#qxizxzdtps .gt_footnote_marks {
+#bxewpxapdb .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -12112,12 +12112,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
 ### Change all spaces to underscores in a single character column
 
 ```{=html}
-<div id="lgrjvvlpfg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="eifiicchyp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lgrjvvlpfg .gt_table {
+#eifiicchyp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -12142,7 +12142,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-left-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_heading {
+#eifiicchyp .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -12154,7 +12154,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_title {
+#eifiicchyp .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -12164,7 +12164,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-bottom-width: 0;
 }
 
-#lgrjvvlpfg .gt_subtitle {
+#eifiicchyp .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -12174,13 +12174,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-top-width: 0;
 }
 
-#lgrjvvlpfg .gt_bottom_border {
+#eifiicchyp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_col_headings {
+#eifiicchyp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -12195,7 +12195,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_col_heading {
+#eifiicchyp .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -12215,7 +12215,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   overflow-x: hidden;
 }
 
-#lgrjvvlpfg .gt_column_spanner_outer {
+#eifiicchyp .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -12227,15 +12227,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-right: 4px;
 }
 
-#lgrjvvlpfg .gt_column_spanner_outer:first-child {
+#eifiicchyp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lgrjvvlpfg .gt_column_spanner_outer:last-child {
+#eifiicchyp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lgrjvvlpfg .gt_column_spanner {
+#eifiicchyp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -12247,7 +12247,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   width: 100%;
 }
 
-#lgrjvvlpfg .gt_group_heading {
+#eifiicchyp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -12269,7 +12269,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   vertical-align: middle;
 }
 
-#lgrjvvlpfg .gt_empty_group_heading {
+#eifiicchyp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -12284,15 +12284,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   vertical-align: middle;
 }
 
-#lgrjvvlpfg .gt_from_md > :first-child {
+#eifiicchyp .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#lgrjvvlpfg .gt_from_md > :last-child {
+#eifiicchyp .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#lgrjvvlpfg .gt_row {
+#eifiicchyp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -12311,7 +12311,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   overflow-x: hidden;
 }
 
-#lgrjvvlpfg .gt_stub {
+#eifiicchyp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -12323,7 +12323,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-left: 12px;
 }
 
-#lgrjvvlpfg .gt_summary_row {
+#eifiicchyp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -12333,7 +12333,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-right: 5px;
 }
 
-#lgrjvvlpfg .gt_first_summary_row {
+#eifiicchyp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -12343,7 +12343,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-top-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_grand_summary_row {
+#eifiicchyp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -12353,7 +12353,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-right: 5px;
 }
 
-#lgrjvvlpfg .gt_first_grand_summary_row {
+#eifiicchyp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -12363,11 +12363,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-top-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_striped {
+#eifiicchyp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lgrjvvlpfg .gt_table_body {
+#eifiicchyp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -12376,7 +12376,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-bottom-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_footnotes {
+#eifiicchyp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -12390,13 +12390,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_footnote {
+#eifiicchyp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lgrjvvlpfg .gt_sourcenotes {
+#eifiicchyp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -12410,41 +12410,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#lgrjvvlpfg .gt_sourcenote {
+#eifiicchyp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lgrjvvlpfg .gt_left {
+#eifiicchyp .gt_left {
   text-align: left;
 }
 
-#lgrjvvlpfg .gt_center {
+#eifiicchyp .gt_center {
   text-align: center;
 }
 
-#lgrjvvlpfg .gt_right {
+#eifiicchyp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lgrjvvlpfg .gt_font_normal {
+#eifiicchyp .gt_font_normal {
   font-weight: normal;
 }
 
-#lgrjvvlpfg .gt_font_bold {
+#eifiicchyp .gt_font_bold {
   font-weight: bold;
 }
 
-#lgrjvvlpfg .gt_font_italic {
+#eifiicchyp .gt_font_italic {
   font-style: italic;
 }
 
-#lgrjvvlpfg .gt_super {
+#eifiicchyp .gt_super {
   font-size: 65%;
 }
 
-#lgrjvvlpfg .gt_footnote_marks {
+#eifiicchyp .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -12473,12 +12473,12 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
 ```
 
 ```{=html}
-<div id="jqmknpbrpv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ltujfolzgw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jqmknpbrpv .gt_table {
+#ltujfolzgw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -12503,7 +12503,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-left-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_heading {
+#ltujfolzgw .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -12515,7 +12515,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_title {
+#ltujfolzgw .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -12525,7 +12525,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-bottom-width: 0;
 }
 
-#jqmknpbrpv .gt_subtitle {
+#ltujfolzgw .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -12535,13 +12535,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-top-width: 0;
 }
 
-#jqmknpbrpv .gt_bottom_border {
+#ltujfolzgw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_col_headings {
+#ltujfolzgw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -12556,7 +12556,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_col_heading {
+#ltujfolzgw .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -12576,7 +12576,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   overflow-x: hidden;
 }
 
-#jqmknpbrpv .gt_column_spanner_outer {
+#ltujfolzgw .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -12588,15 +12588,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-right: 4px;
 }
 
-#jqmknpbrpv .gt_column_spanner_outer:first-child {
+#ltujfolzgw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jqmknpbrpv .gt_column_spanner_outer:last-child {
+#ltujfolzgw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jqmknpbrpv .gt_column_spanner {
+#ltujfolzgw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -12608,7 +12608,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   width: 100%;
 }
 
-#jqmknpbrpv .gt_group_heading {
+#ltujfolzgw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -12630,7 +12630,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   vertical-align: middle;
 }
 
-#jqmknpbrpv .gt_empty_group_heading {
+#ltujfolzgw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -12645,15 +12645,15 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   vertical-align: middle;
 }
 
-#jqmknpbrpv .gt_from_md > :first-child {
+#ltujfolzgw .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jqmknpbrpv .gt_from_md > :last-child {
+#ltujfolzgw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jqmknpbrpv .gt_row {
+#ltujfolzgw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -12672,7 +12672,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   overflow-x: hidden;
 }
 
-#jqmknpbrpv .gt_stub {
+#ltujfolzgw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -12684,7 +12684,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-left: 12px;
 }
 
-#jqmknpbrpv .gt_summary_row {
+#ltujfolzgw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -12694,7 +12694,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-right: 5px;
 }
 
-#jqmknpbrpv .gt_first_summary_row {
+#ltujfolzgw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -12704,7 +12704,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-top-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_grand_summary_row {
+#ltujfolzgw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -12714,7 +12714,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   padding-right: 5px;
 }
 
-#jqmknpbrpv .gt_first_grand_summary_row {
+#ltujfolzgw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -12724,11 +12724,11 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-top-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_striped {
+#ltujfolzgw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jqmknpbrpv .gt_table_body {
+#ltujfolzgw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -12737,7 +12737,7 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-bottom-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_footnotes {
+#ltujfolzgw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -12751,13 +12751,13 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_footnote {
+#ltujfolzgw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jqmknpbrpv .gt_sourcenotes {
+#ltujfolzgw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -12771,41 +12771,41 @@ dplyr::mutate(df, `Municipal Unit` = stringr::str_replace_all(`Municipal Unit`, 
   border-right-color: #D3D3D3;
 }
 
-#jqmknpbrpv .gt_sourcenote {
+#ltujfolzgw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jqmknpbrpv .gt_left {
+#ltujfolzgw .gt_left {
   text-align: left;
 }
 
-#jqmknpbrpv .gt_center {
+#ltujfolzgw .gt_center {
   text-align: center;
 }
 
-#jqmknpbrpv .gt_right {
+#ltujfolzgw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jqmknpbrpv .gt_font_normal {
+#ltujfolzgw .gt_font_normal {
   font-weight: normal;
 }
 
-#jqmknpbrpv .gt_font_bold {
+#ltujfolzgw .gt_font_bold {
   font-weight: bold;
 }
 
-#jqmknpbrpv .gt_font_italic {
+#ltujfolzgw .gt_font_italic {
   font-style: italic;
 }
 
-#jqmknpbrpv .gt_super {
+#ltujfolzgw .gt_super {
   font-size: 65%;
 }
 
-#jqmknpbrpv .gt_footnote_marks {
+#ltujfolzgw .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -12868,12 +12868,12 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
 ### Convert null with specific value in all character columns
 
 ```{=html}
-<div id="cihpxuhnxg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="yjyhccvpcv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cihpxuhnxg .gt_table {
+#yjyhccvpcv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -12898,7 +12898,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-left-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_heading {
+#yjyhccvpcv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -12910,7 +12910,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_title {
+#yjyhccvpcv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -12920,7 +12920,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-bottom-width: 0;
 }
 
-#cihpxuhnxg .gt_subtitle {
+#yjyhccvpcv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -12930,13 +12930,13 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-top-width: 0;
 }
 
-#cihpxuhnxg .gt_bottom_border {
+#yjyhccvpcv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_col_headings {
+#yjyhccvpcv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -12951,7 +12951,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_col_heading {
+#yjyhccvpcv .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -12971,7 +12971,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   overflow-x: hidden;
 }
 
-#cihpxuhnxg .gt_column_spanner_outer {
+#yjyhccvpcv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -12983,15 +12983,15 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-right: 4px;
 }
 
-#cihpxuhnxg .gt_column_spanner_outer:first-child {
+#yjyhccvpcv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cihpxuhnxg .gt_column_spanner_outer:last-child {
+#yjyhccvpcv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cihpxuhnxg .gt_column_spanner {
+#yjyhccvpcv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -13003,7 +13003,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   width: 100%;
 }
 
-#cihpxuhnxg .gt_group_heading {
+#yjyhccvpcv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -13025,7 +13025,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   vertical-align: middle;
 }
 
-#cihpxuhnxg .gt_empty_group_heading {
+#yjyhccvpcv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -13040,15 +13040,15 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   vertical-align: middle;
 }
 
-#cihpxuhnxg .gt_from_md > :first-child {
+#yjyhccvpcv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cihpxuhnxg .gt_from_md > :last-child {
+#yjyhccvpcv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cihpxuhnxg .gt_row {
+#yjyhccvpcv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13067,7 +13067,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   overflow-x: hidden;
 }
 
-#cihpxuhnxg .gt_stub {
+#yjyhccvpcv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -13079,7 +13079,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-left: 12px;
 }
 
-#cihpxuhnxg .gt_summary_row {
+#yjyhccvpcv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -13089,7 +13089,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-right: 5px;
 }
 
-#cihpxuhnxg .gt_first_summary_row {
+#yjyhccvpcv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13099,7 +13099,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-top-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_grand_summary_row {
+#yjyhccvpcv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -13109,7 +13109,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-right: 5px;
 }
 
-#cihpxuhnxg .gt_first_grand_summary_row {
+#yjyhccvpcv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13119,11 +13119,11 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-top-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_striped {
+#yjyhccvpcv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cihpxuhnxg .gt_table_body {
+#yjyhccvpcv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -13132,7 +13132,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-bottom-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_footnotes {
+#yjyhccvpcv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -13146,13 +13146,13 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_footnote {
+#yjyhccvpcv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#cihpxuhnxg .gt_sourcenotes {
+#yjyhccvpcv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -13166,41 +13166,41 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#cihpxuhnxg .gt_sourcenote {
+#yjyhccvpcv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#cihpxuhnxg .gt_left {
+#yjyhccvpcv .gt_left {
   text-align: left;
 }
 
-#cihpxuhnxg .gt_center {
+#yjyhccvpcv .gt_center {
   text-align: center;
 }
 
-#cihpxuhnxg .gt_right {
+#yjyhccvpcv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cihpxuhnxg .gt_font_normal {
+#yjyhccvpcv .gt_font_normal {
   font-weight: normal;
 }
 
-#cihpxuhnxg .gt_font_bold {
+#yjyhccvpcv .gt_font_bold {
   font-weight: bold;
 }
 
-#cihpxuhnxg .gt_font_italic {
+#yjyhccvpcv .gt_font_italic {
   font-style: italic;
 }
 
-#cihpxuhnxg .gt_super {
+#yjyhccvpcv .gt_super {
   font-size: 65%;
 }
 
-#cihpxuhnxg .gt_footnote_marks {
+#yjyhccvpcv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -13229,12 +13229,12 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
 ```
 
 ```{=html}
-<div id="wrpiezdjaz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qubfeowdxm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wrpiezdjaz .gt_table {
+#qubfeowdxm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -13259,7 +13259,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-left-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_heading {
+#qubfeowdxm .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -13271,7 +13271,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_title {
+#qubfeowdxm .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -13281,7 +13281,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-bottom-width: 0;
 }
 
-#wrpiezdjaz .gt_subtitle {
+#qubfeowdxm .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -13291,13 +13291,13 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-top-width: 0;
 }
 
-#wrpiezdjaz .gt_bottom_border {
+#qubfeowdxm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_col_headings {
+#qubfeowdxm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -13312,7 +13312,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_col_heading {
+#qubfeowdxm .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -13332,7 +13332,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   overflow-x: hidden;
 }
 
-#wrpiezdjaz .gt_column_spanner_outer {
+#qubfeowdxm .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -13344,15 +13344,15 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-right: 4px;
 }
 
-#wrpiezdjaz .gt_column_spanner_outer:first-child {
+#qubfeowdxm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wrpiezdjaz .gt_column_spanner_outer:last-child {
+#qubfeowdxm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wrpiezdjaz .gt_column_spanner {
+#qubfeowdxm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -13364,7 +13364,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   width: 100%;
 }
 
-#wrpiezdjaz .gt_group_heading {
+#qubfeowdxm .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -13386,7 +13386,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   vertical-align: middle;
 }
 
-#wrpiezdjaz .gt_empty_group_heading {
+#qubfeowdxm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -13401,15 +13401,15 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   vertical-align: middle;
 }
 
-#wrpiezdjaz .gt_from_md > :first-child {
+#qubfeowdxm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wrpiezdjaz .gt_from_md > :last-child {
+#qubfeowdxm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wrpiezdjaz .gt_row {
+#qubfeowdxm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13428,7 +13428,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   overflow-x: hidden;
 }
 
-#wrpiezdjaz .gt_stub {
+#qubfeowdxm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -13440,7 +13440,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-left: 12px;
 }
 
-#wrpiezdjaz .gt_summary_row {
+#qubfeowdxm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -13450,7 +13450,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-right: 5px;
 }
 
-#wrpiezdjaz .gt_first_summary_row {
+#qubfeowdxm .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13460,7 +13460,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-top-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_grand_summary_row {
+#qubfeowdxm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -13470,7 +13470,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   padding-right: 5px;
 }
 
-#wrpiezdjaz .gt_first_grand_summary_row {
+#qubfeowdxm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13480,11 +13480,11 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-top-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_striped {
+#qubfeowdxm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wrpiezdjaz .gt_table_body {
+#qubfeowdxm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -13493,7 +13493,7 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-bottom-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_footnotes {
+#qubfeowdxm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -13507,13 +13507,13 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_footnote {
+#qubfeowdxm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wrpiezdjaz .gt_sourcenotes {
+#qubfeowdxm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -13527,41 +13527,41 @@ dplyr::mutate(df, `Municipal Unit` = str_replace_all(`Municipal Unit`, " ", "_")
   border-right-color: #D3D3D3;
 }
 
-#wrpiezdjaz .gt_sourcenote {
+#qubfeowdxm .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wrpiezdjaz .gt_left {
+#qubfeowdxm .gt_left {
   text-align: left;
 }
 
-#wrpiezdjaz .gt_center {
+#qubfeowdxm .gt_center {
   text-align: center;
 }
 
-#wrpiezdjaz .gt_right {
+#qubfeowdxm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wrpiezdjaz .gt_font_normal {
+#qubfeowdxm .gt_font_normal {
   font-weight: normal;
 }
 
-#wrpiezdjaz .gt_font_bold {
+#qubfeowdxm .gt_font_bold {
   font-weight: bold;
 }
 
-#wrpiezdjaz .gt_font_italic {
+#qubfeowdxm .gt_font_italic {
   font-style: italic;
 }
 
-#wrpiezdjaz .gt_super {
+#qubfeowdxm .gt_super {
   font-size: 65%;
 }
 
-#wrpiezdjaz .gt_footnote_marks {
+#qubfeowdxm .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -13624,12 +13624,12 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
 ### Convert null with specific value in all numeric columns
 
 ```{=html}
-<div id="rksqujojce" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xikckarjzn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#rksqujojce .gt_table {
+#xikckarjzn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -13654,7 +13654,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-left-color: #D3D3D3;
 }
 
-#rksqujojce .gt_heading {
+#xikckarjzn .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -13666,7 +13666,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#rksqujojce .gt_title {
+#xikckarjzn .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -13676,7 +13676,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-bottom-width: 0;
 }
 
-#rksqujojce .gt_subtitle {
+#xikckarjzn .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -13686,13 +13686,13 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-top-width: 0;
 }
 
-#rksqujojce .gt_bottom_border {
+#xikckarjzn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#rksqujojce .gt_col_headings {
+#xikckarjzn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -13707,7 +13707,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#rksqujojce .gt_col_heading {
+#xikckarjzn .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -13727,7 +13727,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   overflow-x: hidden;
 }
 
-#rksqujojce .gt_column_spanner_outer {
+#xikckarjzn .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -13739,15 +13739,15 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-right: 4px;
 }
 
-#rksqujojce .gt_column_spanner_outer:first-child {
+#xikckarjzn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#rksqujojce .gt_column_spanner_outer:last-child {
+#xikckarjzn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#rksqujojce .gt_column_spanner {
+#xikckarjzn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -13759,7 +13759,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   width: 100%;
 }
 
-#rksqujojce .gt_group_heading {
+#xikckarjzn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -13781,7 +13781,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   vertical-align: middle;
 }
 
-#rksqujojce .gt_empty_group_heading {
+#xikckarjzn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -13796,15 +13796,15 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   vertical-align: middle;
 }
 
-#rksqujojce .gt_from_md > :first-child {
+#xikckarjzn .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#rksqujojce .gt_from_md > :last-child {
+#xikckarjzn .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#rksqujojce .gt_row {
+#xikckarjzn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13823,7 +13823,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   overflow-x: hidden;
 }
 
-#rksqujojce .gt_stub {
+#xikckarjzn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -13835,7 +13835,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-left: 12px;
 }
 
-#rksqujojce .gt_summary_row {
+#xikckarjzn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -13845,7 +13845,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-right: 5px;
 }
 
-#rksqujojce .gt_first_summary_row {
+#xikckarjzn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13855,7 +13855,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-top-color: #D3D3D3;
 }
 
-#rksqujojce .gt_grand_summary_row {
+#xikckarjzn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -13865,7 +13865,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-right: 5px;
 }
 
-#rksqujojce .gt_first_grand_summary_row {
+#xikckarjzn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -13875,11 +13875,11 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-top-color: #D3D3D3;
 }
 
-#rksqujojce .gt_striped {
+#xikckarjzn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#rksqujojce .gt_table_body {
+#xikckarjzn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -13888,7 +13888,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-bottom-color: #D3D3D3;
 }
 
-#rksqujojce .gt_footnotes {
+#xikckarjzn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -13902,13 +13902,13 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#rksqujojce .gt_footnote {
+#xikckarjzn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#rksqujojce .gt_sourcenotes {
+#xikckarjzn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -13922,41 +13922,41 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#rksqujojce .gt_sourcenote {
+#xikckarjzn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#rksqujojce .gt_left {
+#xikckarjzn .gt_left {
   text-align: left;
 }
 
-#rksqujojce .gt_center {
+#xikckarjzn .gt_center {
   text-align: center;
 }
 
-#rksqujojce .gt_right {
+#xikckarjzn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#rksqujojce .gt_font_normal {
+#xikckarjzn .gt_font_normal {
   font-weight: normal;
 }
 
-#rksqujojce .gt_font_bold {
+#xikckarjzn .gt_font_bold {
   font-weight: bold;
 }
 
-#rksqujojce .gt_font_italic {
+#xikckarjzn .gt_font_italic {
   font-style: italic;
 }
 
-#rksqujojce .gt_super {
+#xikckarjzn .gt_super {
   font-size: 65%;
 }
 
-#rksqujojce .gt_footnote_marks {
+#xikckarjzn .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -13985,12 +13985,12 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
 ```
 
 ```{=html}
-<div id="kpwukvsjkw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="scprbpddfx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kpwukvsjkw .gt_table {
+#scprbpddfx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -14015,7 +14015,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-left-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_heading {
+#scprbpddfx .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -14027,7 +14027,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_title {
+#scprbpddfx .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -14037,7 +14037,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-bottom-width: 0;
 }
 
-#kpwukvsjkw .gt_subtitle {
+#scprbpddfx .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -14047,13 +14047,13 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-top-width: 0;
 }
 
-#kpwukvsjkw .gt_bottom_border {
+#scprbpddfx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_col_headings {
+#scprbpddfx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -14068,7 +14068,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_col_heading {
+#scprbpddfx .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -14088,7 +14088,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   overflow-x: hidden;
 }
 
-#kpwukvsjkw .gt_column_spanner_outer {
+#scprbpddfx .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -14100,15 +14100,15 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-right: 4px;
 }
 
-#kpwukvsjkw .gt_column_spanner_outer:first-child {
+#scprbpddfx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kpwukvsjkw .gt_column_spanner_outer:last-child {
+#scprbpddfx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kpwukvsjkw .gt_column_spanner {
+#scprbpddfx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -14120,7 +14120,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   width: 100%;
 }
 
-#kpwukvsjkw .gt_group_heading {
+#scprbpddfx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -14142,7 +14142,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   vertical-align: middle;
 }
 
-#kpwukvsjkw .gt_empty_group_heading {
+#scprbpddfx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -14157,15 +14157,15 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   vertical-align: middle;
 }
 
-#kpwukvsjkw .gt_from_md > :first-child {
+#scprbpddfx .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kpwukvsjkw .gt_from_md > :last-child {
+#scprbpddfx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kpwukvsjkw .gt_row {
+#scprbpddfx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14184,7 +14184,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   overflow-x: hidden;
 }
 
-#kpwukvsjkw .gt_stub {
+#scprbpddfx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -14196,7 +14196,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-left: 12px;
 }
 
-#kpwukvsjkw .gt_summary_row {
+#scprbpddfx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -14206,7 +14206,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-right: 5px;
 }
 
-#kpwukvsjkw .gt_first_summary_row {
+#scprbpddfx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14216,7 +14216,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-top-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_grand_summary_row {
+#scprbpddfx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -14226,7 +14226,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   padding-right: 5px;
 }
 
-#kpwukvsjkw .gt_first_grand_summary_row {
+#scprbpddfx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14236,11 +14236,11 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-top-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_striped {
+#scprbpddfx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kpwukvsjkw .gt_table_body {
+#scprbpddfx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -14249,7 +14249,7 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-bottom-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_footnotes {
+#scprbpddfx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -14263,13 +14263,13 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_footnote {
+#scprbpddfx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kpwukvsjkw .gt_sourcenotes {
+#scprbpddfx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -14283,41 +14283,41 @@ dplyr::mutate_if(df, is.character, tidyr::replace_na, replace = "unknown")
   border-right-color: #D3D3D3;
 }
 
-#kpwukvsjkw .gt_sourcenote {
+#scprbpddfx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kpwukvsjkw .gt_left {
+#scprbpddfx .gt_left {
   text-align: left;
 }
 
-#kpwukvsjkw .gt_center {
+#scprbpddfx .gt_center {
   text-align: center;
 }
 
-#kpwukvsjkw .gt_right {
+#scprbpddfx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kpwukvsjkw .gt_font_normal {
+#scprbpddfx .gt_font_normal {
   font-weight: normal;
 }
 
-#kpwukvsjkw .gt_font_bold {
+#scprbpddfx .gt_font_bold {
   font-weight: bold;
 }
 
-#kpwukvsjkw .gt_font_italic {
+#scprbpddfx .gt_font_italic {
   font-style: italic;
 }
 
-#kpwukvsjkw .gt_super {
+#scprbpddfx .gt_super {
   font-size: 65%;
 }
 
-#kpwukvsjkw .gt_footnote_marks {
+#scprbpddfx .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -14380,12 +14380,12 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
 ### Remove whitespace in all character columns
 
 ```{=html}
-<div id="iujlzhjtgu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wcbozufkfr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#iujlzhjtgu .gt_table {
+#wcbozufkfr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -14410,7 +14410,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-left-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_heading {
+#wcbozufkfr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -14422,7 +14422,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_title {
+#wcbozufkfr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -14432,7 +14432,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-bottom-width: 0;
 }
 
-#iujlzhjtgu .gt_subtitle {
+#wcbozufkfr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -14442,13 +14442,13 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-top-width: 0;
 }
 
-#iujlzhjtgu .gt_bottom_border {
+#wcbozufkfr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_col_headings {
+#wcbozufkfr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -14463,7 +14463,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_col_heading {
+#wcbozufkfr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -14483,7 +14483,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   overflow-x: hidden;
 }
 
-#iujlzhjtgu .gt_column_spanner_outer {
+#wcbozufkfr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -14495,15 +14495,15 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-right: 4px;
 }
 
-#iujlzhjtgu .gt_column_spanner_outer:first-child {
+#wcbozufkfr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#iujlzhjtgu .gt_column_spanner_outer:last-child {
+#wcbozufkfr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#iujlzhjtgu .gt_column_spanner {
+#wcbozufkfr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -14515,7 +14515,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   width: 100%;
 }
 
-#iujlzhjtgu .gt_group_heading {
+#wcbozufkfr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -14537,7 +14537,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   vertical-align: middle;
 }
 
-#iujlzhjtgu .gt_empty_group_heading {
+#wcbozufkfr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -14552,15 +14552,15 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   vertical-align: middle;
 }
 
-#iujlzhjtgu .gt_from_md > :first-child {
+#wcbozufkfr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#iujlzhjtgu .gt_from_md > :last-child {
+#wcbozufkfr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#iujlzhjtgu .gt_row {
+#wcbozufkfr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14579,7 +14579,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   overflow-x: hidden;
 }
 
-#iujlzhjtgu .gt_stub {
+#wcbozufkfr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -14591,7 +14591,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-left: 12px;
 }
 
-#iujlzhjtgu .gt_summary_row {
+#wcbozufkfr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -14601,7 +14601,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-right: 5px;
 }
 
-#iujlzhjtgu .gt_first_summary_row {
+#wcbozufkfr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14611,7 +14611,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-top-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_grand_summary_row {
+#wcbozufkfr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -14621,7 +14621,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-right: 5px;
 }
 
-#iujlzhjtgu .gt_first_grand_summary_row {
+#wcbozufkfr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14631,11 +14631,11 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-top-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_striped {
+#wcbozufkfr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#iujlzhjtgu .gt_table_body {
+#wcbozufkfr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -14644,7 +14644,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-bottom-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_footnotes {
+#wcbozufkfr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -14658,13 +14658,13 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_footnote {
+#wcbozufkfr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#iujlzhjtgu .gt_sourcenotes {
+#wcbozufkfr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -14678,41 +14678,41 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#iujlzhjtgu .gt_sourcenote {
+#wcbozufkfr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#iujlzhjtgu .gt_left {
+#wcbozufkfr .gt_left {
   text-align: left;
 }
 
-#iujlzhjtgu .gt_center {
+#wcbozufkfr .gt_center {
   text-align: center;
 }
 
-#iujlzhjtgu .gt_right {
+#wcbozufkfr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#iujlzhjtgu .gt_font_normal {
+#wcbozufkfr .gt_font_normal {
   font-weight: normal;
 }
 
-#iujlzhjtgu .gt_font_bold {
+#wcbozufkfr .gt_font_bold {
   font-weight: bold;
 }
 
-#iujlzhjtgu .gt_font_italic {
+#wcbozufkfr .gt_font_italic {
   font-style: italic;
 }
 
-#iujlzhjtgu .gt_super {
+#wcbozufkfr .gt_super {
   font-size: 65%;
 }
 
-#iujlzhjtgu .gt_footnote_marks {
+#wcbozufkfr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -14741,12 +14741,12 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
 ```
 
 ```{=html}
-<div id="jqtqrnaueh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kkajcjtsha" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jqtqrnaueh .gt_table {
+#kkajcjtsha .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -14771,7 +14771,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-left-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_heading {
+#kkajcjtsha .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -14783,7 +14783,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_title {
+#kkajcjtsha .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -14793,7 +14793,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-bottom-width: 0;
 }
 
-#jqtqrnaueh .gt_subtitle {
+#kkajcjtsha .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -14803,13 +14803,13 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-top-width: 0;
 }
 
-#jqtqrnaueh .gt_bottom_border {
+#kkajcjtsha .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_col_headings {
+#kkajcjtsha .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -14824,7 +14824,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_col_heading {
+#kkajcjtsha .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -14844,7 +14844,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   overflow-x: hidden;
 }
 
-#jqtqrnaueh .gt_column_spanner_outer {
+#kkajcjtsha .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -14856,15 +14856,15 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-right: 4px;
 }
 
-#jqtqrnaueh .gt_column_spanner_outer:first-child {
+#kkajcjtsha .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jqtqrnaueh .gt_column_spanner_outer:last-child {
+#kkajcjtsha .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jqtqrnaueh .gt_column_spanner {
+#kkajcjtsha .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -14876,7 +14876,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   width: 100%;
 }
 
-#jqtqrnaueh .gt_group_heading {
+#kkajcjtsha .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -14898,7 +14898,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   vertical-align: middle;
 }
 
-#jqtqrnaueh .gt_empty_group_heading {
+#kkajcjtsha .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -14913,15 +14913,15 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   vertical-align: middle;
 }
 
-#jqtqrnaueh .gt_from_md > :first-child {
+#kkajcjtsha .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jqtqrnaueh .gt_from_md > :last-child {
+#kkajcjtsha .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jqtqrnaueh .gt_row {
+#kkajcjtsha .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14940,7 +14940,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   overflow-x: hidden;
 }
 
-#jqtqrnaueh .gt_stub {
+#kkajcjtsha .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -14952,7 +14952,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-left: 12px;
 }
 
-#jqtqrnaueh .gt_summary_row {
+#kkajcjtsha .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -14962,7 +14962,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-right: 5px;
 }
 
-#jqtqrnaueh .gt_first_summary_row {
+#kkajcjtsha .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14972,7 +14972,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-top-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_grand_summary_row {
+#kkajcjtsha .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -14982,7 +14982,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   padding-right: 5px;
 }
 
-#jqtqrnaueh .gt_first_grand_summary_row {
+#kkajcjtsha .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -14992,11 +14992,11 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-top-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_striped {
+#kkajcjtsha .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jqtqrnaueh .gt_table_body {
+#kkajcjtsha .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -15005,7 +15005,7 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-bottom-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_footnotes {
+#kkajcjtsha .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -15019,13 +15019,13 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_footnote {
+#kkajcjtsha .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jqtqrnaueh .gt_sourcenotes {
+#kkajcjtsha .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -15039,41 +15039,41 @@ dplyr::mutate_if(x, is.numeric, tidyr::replace_na, replace = -999)
   border-right-color: #D3D3D3;
 }
 
-#jqtqrnaueh .gt_sourcenote {
+#kkajcjtsha .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jqtqrnaueh .gt_left {
+#kkajcjtsha .gt_left {
   text-align: left;
 }
 
-#jqtqrnaueh .gt_center {
+#kkajcjtsha .gt_center {
   text-align: center;
 }
 
-#jqtqrnaueh .gt_right {
+#kkajcjtsha .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jqtqrnaueh .gt_font_normal {
+#kkajcjtsha .gt_font_normal {
   font-weight: normal;
 }
 
-#jqtqrnaueh .gt_font_bold {
+#kkajcjtsha .gt_font_bold {
   font-weight: bold;
 }
 
-#jqtqrnaueh .gt_font_italic {
+#kkajcjtsha .gt_font_italic {
   font-style: italic;
 }
 
-#jqtqrnaueh .gt_super {
+#kkajcjtsha .gt_super {
   font-size: 65%;
 }
 
-#jqtqrnaueh .gt_footnote_marks {
+#kkajcjtsha .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -15137,12 +15137,12 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
 ### Change all characters to lower case in all character columns
 
 ```{=html}
-<div id="zzfglsmzdy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fszofwycuf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zzfglsmzdy .gt_table {
+#fszofwycuf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -15167,7 +15167,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-left-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_heading {
+#fszofwycuf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -15179,7 +15179,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_title {
+#fszofwycuf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -15189,7 +15189,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-bottom-width: 0;
 }
 
-#zzfglsmzdy .gt_subtitle {
+#fszofwycuf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -15199,13 +15199,13 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-top-width: 0;
 }
 
-#zzfglsmzdy .gt_bottom_border {
+#fszofwycuf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_col_headings {
+#fszofwycuf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -15220,7 +15220,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_col_heading {
+#fszofwycuf .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -15240,7 +15240,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   overflow-x: hidden;
 }
 
-#zzfglsmzdy .gt_column_spanner_outer {
+#fszofwycuf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -15252,15 +15252,15 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-right: 4px;
 }
 
-#zzfglsmzdy .gt_column_spanner_outer:first-child {
+#fszofwycuf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zzfglsmzdy .gt_column_spanner_outer:last-child {
+#fszofwycuf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zzfglsmzdy .gt_column_spanner {
+#fszofwycuf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -15272,7 +15272,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   width: 100%;
 }
 
-#zzfglsmzdy .gt_group_heading {
+#fszofwycuf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -15294,7 +15294,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   vertical-align: middle;
 }
 
-#zzfglsmzdy .gt_empty_group_heading {
+#fszofwycuf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -15309,15 +15309,15 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   vertical-align: middle;
 }
 
-#zzfglsmzdy .gt_from_md > :first-child {
+#fszofwycuf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zzfglsmzdy .gt_from_md > :last-child {
+#fszofwycuf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zzfglsmzdy .gt_row {
+#fszofwycuf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -15336,7 +15336,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   overflow-x: hidden;
 }
 
-#zzfglsmzdy .gt_stub {
+#fszofwycuf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -15348,7 +15348,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-left: 12px;
 }
 
-#zzfglsmzdy .gt_summary_row {
+#fszofwycuf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -15358,7 +15358,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-right: 5px;
 }
 
-#zzfglsmzdy .gt_first_summary_row {
+#fszofwycuf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -15368,7 +15368,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-top-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_grand_summary_row {
+#fszofwycuf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -15378,7 +15378,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-right: 5px;
 }
 
-#zzfglsmzdy .gt_first_grand_summary_row {
+#fszofwycuf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -15388,11 +15388,11 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-top-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_striped {
+#fszofwycuf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zzfglsmzdy .gt_table_body {
+#fszofwycuf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -15401,7 +15401,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-bottom-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_footnotes {
+#fszofwycuf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -15415,13 +15415,13 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_footnote {
+#fszofwycuf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zzfglsmzdy .gt_sourcenotes {
+#fszofwycuf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -15435,41 +15435,41 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#zzfglsmzdy .gt_sourcenote {
+#fszofwycuf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zzfglsmzdy .gt_left {
+#fszofwycuf .gt_left {
   text-align: left;
 }
 
-#zzfglsmzdy .gt_center {
+#fszofwycuf .gt_center {
   text-align: center;
 }
 
-#zzfglsmzdy .gt_right {
+#fszofwycuf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zzfglsmzdy .gt_font_normal {
+#fszofwycuf .gt_font_normal {
   font-weight: normal;
 }
 
-#zzfglsmzdy .gt_font_bold {
+#fszofwycuf .gt_font_bold {
   font-weight: bold;
 }
 
-#zzfglsmzdy .gt_font_italic {
+#fszofwycuf .gt_font_italic {
   font-style: italic;
 }
 
-#zzfglsmzdy .gt_super {
+#fszofwycuf .gt_super {
   font-size: 65%;
 }
 
-#zzfglsmzdy .gt_footnote_marks {
+#fszofwycuf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -15498,12 +15498,12 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
 ```
 
 ```{=html}
-<div id="awlsyjlacd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fzuaigpdvg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#awlsyjlacd .gt_table {
+#fzuaigpdvg .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -15528,7 +15528,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-left-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_heading {
+#fzuaigpdvg .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -15540,7 +15540,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_title {
+#fzuaigpdvg .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -15550,7 +15550,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-bottom-width: 0;
 }
 
-#awlsyjlacd .gt_subtitle {
+#fzuaigpdvg .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -15560,13 +15560,13 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-top-width: 0;
 }
 
-#awlsyjlacd .gt_bottom_border {
+#fzuaigpdvg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_col_headings {
+#fzuaigpdvg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -15581,7 +15581,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_col_heading {
+#fzuaigpdvg .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -15601,7 +15601,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   overflow-x: hidden;
 }
 
-#awlsyjlacd .gt_column_spanner_outer {
+#fzuaigpdvg .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -15613,15 +15613,15 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-right: 4px;
 }
 
-#awlsyjlacd .gt_column_spanner_outer:first-child {
+#fzuaigpdvg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#awlsyjlacd .gt_column_spanner_outer:last-child {
+#fzuaigpdvg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#awlsyjlacd .gt_column_spanner {
+#fzuaigpdvg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -15633,7 +15633,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   width: 100%;
 }
 
-#awlsyjlacd .gt_group_heading {
+#fzuaigpdvg .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -15655,7 +15655,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   vertical-align: middle;
 }
 
-#awlsyjlacd .gt_empty_group_heading {
+#fzuaigpdvg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -15670,15 +15670,15 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   vertical-align: middle;
 }
 
-#awlsyjlacd .gt_from_md > :first-child {
+#fzuaigpdvg .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#awlsyjlacd .gt_from_md > :last-child {
+#fzuaigpdvg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#awlsyjlacd .gt_row {
+#fzuaigpdvg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -15697,7 +15697,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   overflow-x: hidden;
 }
 
-#awlsyjlacd .gt_stub {
+#fzuaigpdvg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -15709,7 +15709,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-left: 12px;
 }
 
-#awlsyjlacd .gt_summary_row {
+#fzuaigpdvg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -15719,7 +15719,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-right: 5px;
 }
 
-#awlsyjlacd .gt_first_summary_row {
+#fzuaigpdvg .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -15729,7 +15729,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-top-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_grand_summary_row {
+#fzuaigpdvg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -15739,7 +15739,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   padding-right: 5px;
 }
 
-#awlsyjlacd .gt_first_grand_summary_row {
+#fzuaigpdvg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -15749,11 +15749,11 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-top-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_striped {
+#fzuaigpdvg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#awlsyjlacd .gt_table_body {
+#fzuaigpdvg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -15762,7 +15762,7 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-bottom-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_footnotes {
+#fzuaigpdvg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -15776,13 +15776,13 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_footnote {
+#fzuaigpdvg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#awlsyjlacd .gt_sourcenotes {
+#fzuaigpdvg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -15796,41 +15796,41 @@ dplyr::mutate(df, dplyr::across(where(is.character), stringr::str_trim))
   border-right-color: #D3D3D3;
 }
 
-#awlsyjlacd .gt_sourcenote {
+#fzuaigpdvg .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#awlsyjlacd .gt_left {
+#fzuaigpdvg .gt_left {
   text-align: left;
 }
 
-#awlsyjlacd .gt_center {
+#fzuaigpdvg .gt_center {
   text-align: center;
 }
 
-#awlsyjlacd .gt_right {
+#fzuaigpdvg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#awlsyjlacd .gt_font_normal {
+#fzuaigpdvg .gt_font_normal {
   font-weight: normal;
 }
 
-#awlsyjlacd .gt_font_bold {
+#fzuaigpdvg .gt_font_bold {
   font-weight: bold;
 }
 
-#awlsyjlacd .gt_font_italic {
+#fzuaigpdvg .gt_font_italic {
   font-style: italic;
 }
 
-#awlsyjlacd .gt_super {
+#fzuaigpdvg .gt_super {
   font-size: 65%;
 }
 
-#awlsyjlacd .gt_footnote_marks {
+#fzuaigpdvg .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -15893,12 +15893,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
 ### Change all characters to upper case in all character columns
 
 ```{=html}
-<div id="jrhiehmxlo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="sjvjexufbd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jrhiehmxlo .gt_table {
+#sjvjexufbd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -15923,7 +15923,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-left-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_heading {
+#sjvjexufbd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -15935,7 +15935,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_title {
+#sjvjexufbd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -15945,7 +15945,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-bottom-width: 0;
 }
 
-#jrhiehmxlo .gt_subtitle {
+#sjvjexufbd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -15955,13 +15955,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-top-width: 0;
 }
 
-#jrhiehmxlo .gt_bottom_border {
+#sjvjexufbd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_col_headings {
+#sjvjexufbd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -15976,7 +15976,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_col_heading {
+#sjvjexufbd .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -15996,7 +15996,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   overflow-x: hidden;
 }
 
-#jrhiehmxlo .gt_column_spanner_outer {
+#sjvjexufbd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -16008,15 +16008,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-right: 4px;
 }
 
-#jrhiehmxlo .gt_column_spanner_outer:first-child {
+#sjvjexufbd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jrhiehmxlo .gt_column_spanner_outer:last-child {
+#sjvjexufbd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jrhiehmxlo .gt_column_spanner {
+#sjvjexufbd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -16028,7 +16028,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   width: 100%;
 }
 
-#jrhiehmxlo .gt_group_heading {
+#sjvjexufbd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -16050,7 +16050,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   vertical-align: middle;
 }
 
-#jrhiehmxlo .gt_empty_group_heading {
+#sjvjexufbd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -16065,15 +16065,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   vertical-align: middle;
 }
 
-#jrhiehmxlo .gt_from_md > :first-child {
+#sjvjexufbd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jrhiehmxlo .gt_from_md > :last-child {
+#sjvjexufbd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jrhiehmxlo .gt_row {
+#sjvjexufbd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16092,7 +16092,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   overflow-x: hidden;
 }
 
-#jrhiehmxlo .gt_stub {
+#sjvjexufbd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -16104,7 +16104,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-left: 12px;
 }
 
-#jrhiehmxlo .gt_summary_row {
+#sjvjexufbd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -16114,7 +16114,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-right: 5px;
 }
 
-#jrhiehmxlo .gt_first_summary_row {
+#sjvjexufbd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16124,7 +16124,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-top-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_grand_summary_row {
+#sjvjexufbd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -16134,7 +16134,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-right: 5px;
 }
 
-#jrhiehmxlo .gt_first_grand_summary_row {
+#sjvjexufbd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16144,11 +16144,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-top-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_striped {
+#sjvjexufbd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jrhiehmxlo .gt_table_body {
+#sjvjexufbd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -16157,7 +16157,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-bottom-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_footnotes {
+#sjvjexufbd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -16171,13 +16171,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_footnote {
+#sjvjexufbd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jrhiehmxlo .gt_sourcenotes {
+#sjvjexufbd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -16191,41 +16191,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jrhiehmxlo .gt_sourcenote {
+#sjvjexufbd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jrhiehmxlo .gt_left {
+#sjvjexufbd .gt_left {
   text-align: left;
 }
 
-#jrhiehmxlo .gt_center {
+#sjvjexufbd .gt_center {
   text-align: center;
 }
 
-#jrhiehmxlo .gt_right {
+#sjvjexufbd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jrhiehmxlo .gt_font_normal {
+#sjvjexufbd .gt_font_normal {
   font-weight: normal;
 }
 
-#jrhiehmxlo .gt_font_bold {
+#sjvjexufbd .gt_font_bold {
   font-weight: bold;
 }
 
-#jrhiehmxlo .gt_font_italic {
+#sjvjexufbd .gt_font_italic {
   font-style: italic;
 }
 
-#jrhiehmxlo .gt_super {
+#sjvjexufbd .gt_super {
   font-size: 65%;
 }
 
-#jrhiehmxlo .gt_footnote_marks {
+#sjvjexufbd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -16254,12 +16254,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
 ```
 
 ```{=html}
-<div id="jmanphbmce" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="hlqlbfvgkd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jmanphbmce .gt_table {
+#hlqlbfvgkd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -16284,7 +16284,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-left-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_heading {
+#hlqlbfvgkd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -16296,7 +16296,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_title {
+#hlqlbfvgkd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -16306,7 +16306,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-bottom-width: 0;
 }
 
-#jmanphbmce .gt_subtitle {
+#hlqlbfvgkd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -16316,13 +16316,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-top-width: 0;
 }
 
-#jmanphbmce .gt_bottom_border {
+#hlqlbfvgkd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_col_headings {
+#hlqlbfvgkd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -16337,7 +16337,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_col_heading {
+#hlqlbfvgkd .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -16357,7 +16357,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   overflow-x: hidden;
 }
 
-#jmanphbmce .gt_column_spanner_outer {
+#hlqlbfvgkd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -16369,15 +16369,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-right: 4px;
 }
 
-#jmanphbmce .gt_column_spanner_outer:first-child {
+#hlqlbfvgkd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jmanphbmce .gt_column_spanner_outer:last-child {
+#hlqlbfvgkd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jmanphbmce .gt_column_spanner {
+#hlqlbfvgkd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -16389,7 +16389,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   width: 100%;
 }
 
-#jmanphbmce .gt_group_heading {
+#hlqlbfvgkd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -16411,7 +16411,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   vertical-align: middle;
 }
 
-#jmanphbmce .gt_empty_group_heading {
+#hlqlbfvgkd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -16426,15 +16426,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   vertical-align: middle;
 }
 
-#jmanphbmce .gt_from_md > :first-child {
+#hlqlbfvgkd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jmanphbmce .gt_from_md > :last-child {
+#hlqlbfvgkd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jmanphbmce .gt_row {
+#hlqlbfvgkd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16453,7 +16453,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   overflow-x: hidden;
 }
 
-#jmanphbmce .gt_stub {
+#hlqlbfvgkd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -16465,7 +16465,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-left: 12px;
 }
 
-#jmanphbmce .gt_summary_row {
+#hlqlbfvgkd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -16475,7 +16475,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-right: 5px;
 }
 
-#jmanphbmce .gt_first_summary_row {
+#hlqlbfvgkd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16485,7 +16485,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-top-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_grand_summary_row {
+#hlqlbfvgkd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -16495,7 +16495,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   padding-right: 5px;
 }
 
-#jmanphbmce .gt_first_grand_summary_row {
+#hlqlbfvgkd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16505,11 +16505,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-top-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_striped {
+#hlqlbfvgkd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jmanphbmce .gt_table_body {
+#hlqlbfvgkd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -16518,7 +16518,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-bottom-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_footnotes {
+#hlqlbfvgkd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -16532,13 +16532,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_footnote {
+#hlqlbfvgkd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jmanphbmce .gt_sourcenotes {
+#hlqlbfvgkd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -16552,41 +16552,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_lower))
   border-right-color: #D3D3D3;
 }
 
-#jmanphbmce .gt_sourcenote {
+#hlqlbfvgkd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jmanphbmce .gt_left {
+#hlqlbfvgkd .gt_left {
   text-align: left;
 }
 
-#jmanphbmce .gt_center {
+#hlqlbfvgkd .gt_center {
   text-align: center;
 }
 
-#jmanphbmce .gt_right {
+#hlqlbfvgkd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jmanphbmce .gt_font_normal {
+#hlqlbfvgkd .gt_font_normal {
   font-weight: normal;
 }
 
-#jmanphbmce .gt_font_bold {
+#hlqlbfvgkd .gt_font_bold {
   font-weight: bold;
 }
 
-#jmanphbmce .gt_font_italic {
+#hlqlbfvgkd .gt_font_italic {
   font-style: italic;
 }
 
-#jmanphbmce .gt_super {
+#hlqlbfvgkd .gt_super {
   font-size: 65%;
 }
 
-#jmanphbmce .gt_footnote_marks {
+#hlqlbfvgkd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -16649,12 +16649,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
 ### Change all characters to title case in all character columns
 
 ```{=html}
-<div id="vowppzxmzo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="rurxeptbbv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#vowppzxmzo .gt_table {
+#rurxeptbbv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -16679,7 +16679,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-left-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_heading {
+#rurxeptbbv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -16691,7 +16691,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_title {
+#rurxeptbbv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -16701,7 +16701,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-bottom-width: 0;
 }
 
-#vowppzxmzo .gt_subtitle {
+#rurxeptbbv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -16711,13 +16711,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-top-width: 0;
 }
 
-#vowppzxmzo .gt_bottom_border {
+#rurxeptbbv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_col_headings {
+#rurxeptbbv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -16732,7 +16732,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_col_heading {
+#rurxeptbbv .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -16752,7 +16752,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   overflow-x: hidden;
 }
 
-#vowppzxmzo .gt_column_spanner_outer {
+#rurxeptbbv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -16764,15 +16764,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-right: 4px;
 }
 
-#vowppzxmzo .gt_column_spanner_outer:first-child {
+#rurxeptbbv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#vowppzxmzo .gt_column_spanner_outer:last-child {
+#rurxeptbbv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#vowppzxmzo .gt_column_spanner {
+#rurxeptbbv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -16784,7 +16784,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   width: 100%;
 }
 
-#vowppzxmzo .gt_group_heading {
+#rurxeptbbv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -16806,7 +16806,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   vertical-align: middle;
 }
 
-#vowppzxmzo .gt_empty_group_heading {
+#rurxeptbbv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -16821,15 +16821,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   vertical-align: middle;
 }
 
-#vowppzxmzo .gt_from_md > :first-child {
+#rurxeptbbv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#vowppzxmzo .gt_from_md > :last-child {
+#rurxeptbbv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#vowppzxmzo .gt_row {
+#rurxeptbbv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16848,7 +16848,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   overflow-x: hidden;
 }
 
-#vowppzxmzo .gt_stub {
+#rurxeptbbv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -16860,7 +16860,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-left: 12px;
 }
 
-#vowppzxmzo .gt_summary_row {
+#rurxeptbbv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -16870,7 +16870,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-right: 5px;
 }
 
-#vowppzxmzo .gt_first_summary_row {
+#rurxeptbbv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16880,7 +16880,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-top-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_grand_summary_row {
+#rurxeptbbv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -16890,7 +16890,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-right: 5px;
 }
 
-#vowppzxmzo .gt_first_grand_summary_row {
+#rurxeptbbv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -16900,11 +16900,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-top-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_striped {
+#rurxeptbbv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#vowppzxmzo .gt_table_body {
+#rurxeptbbv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -16913,7 +16913,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-bottom-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_footnotes {
+#rurxeptbbv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -16927,13 +16927,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_footnote {
+#rurxeptbbv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#vowppzxmzo .gt_sourcenotes {
+#rurxeptbbv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -16947,41 +16947,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#vowppzxmzo .gt_sourcenote {
+#rurxeptbbv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#vowppzxmzo .gt_left {
+#rurxeptbbv .gt_left {
   text-align: left;
 }
 
-#vowppzxmzo .gt_center {
+#rurxeptbbv .gt_center {
   text-align: center;
 }
 
-#vowppzxmzo .gt_right {
+#rurxeptbbv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#vowppzxmzo .gt_font_normal {
+#rurxeptbbv .gt_font_normal {
   font-weight: normal;
 }
 
-#vowppzxmzo .gt_font_bold {
+#rurxeptbbv .gt_font_bold {
   font-weight: bold;
 }
 
-#vowppzxmzo .gt_font_italic {
+#rurxeptbbv .gt_font_italic {
   font-style: italic;
 }
 
-#vowppzxmzo .gt_super {
+#rurxeptbbv .gt_super {
   font-size: 65%;
 }
 
-#vowppzxmzo .gt_footnote_marks {
+#rurxeptbbv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -17010,12 +17010,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
 ```
 
 ```{=html}
-<div id="waamzsbuzm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fhpdczrqul" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#waamzsbuzm .gt_table {
+#fhpdczrqul .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -17040,7 +17040,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-left-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_heading {
+#fhpdczrqul .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -17052,7 +17052,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_title {
+#fhpdczrqul .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -17062,7 +17062,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-bottom-width: 0;
 }
 
-#waamzsbuzm .gt_subtitle {
+#fhpdczrqul .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -17072,13 +17072,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-top-width: 0;
 }
 
-#waamzsbuzm .gt_bottom_border {
+#fhpdczrqul .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_col_headings {
+#fhpdczrqul .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -17093,7 +17093,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_col_heading {
+#fhpdczrqul .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -17113,7 +17113,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   overflow-x: hidden;
 }
 
-#waamzsbuzm .gt_column_spanner_outer {
+#fhpdczrqul .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -17125,15 +17125,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-right: 4px;
 }
 
-#waamzsbuzm .gt_column_spanner_outer:first-child {
+#fhpdczrqul .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#waamzsbuzm .gt_column_spanner_outer:last-child {
+#fhpdczrqul .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#waamzsbuzm .gt_column_spanner {
+#fhpdczrqul .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -17145,7 +17145,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   width: 100%;
 }
 
-#waamzsbuzm .gt_group_heading {
+#fhpdczrqul .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -17167,7 +17167,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   vertical-align: middle;
 }
 
-#waamzsbuzm .gt_empty_group_heading {
+#fhpdczrqul .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -17182,15 +17182,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   vertical-align: middle;
 }
 
-#waamzsbuzm .gt_from_md > :first-child {
+#fhpdczrqul .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#waamzsbuzm .gt_from_md > :last-child {
+#fhpdczrqul .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#waamzsbuzm .gt_row {
+#fhpdczrqul .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17209,7 +17209,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   overflow-x: hidden;
 }
 
-#waamzsbuzm .gt_stub {
+#fhpdczrqul .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -17221,7 +17221,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-left: 12px;
 }
 
-#waamzsbuzm .gt_summary_row {
+#fhpdczrqul .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -17231,7 +17231,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-right: 5px;
 }
 
-#waamzsbuzm .gt_first_summary_row {
+#fhpdczrqul .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17241,7 +17241,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-top-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_grand_summary_row {
+#fhpdczrqul .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -17251,7 +17251,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   padding-right: 5px;
 }
 
-#waamzsbuzm .gt_first_grand_summary_row {
+#fhpdczrqul .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17261,11 +17261,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-top-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_striped {
+#fhpdczrqul .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#waamzsbuzm .gt_table_body {
+#fhpdczrqul .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -17274,7 +17274,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-bottom-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_footnotes {
+#fhpdczrqul .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -17288,13 +17288,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_footnote {
+#fhpdczrqul .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#waamzsbuzm .gt_sourcenotes {
+#fhpdczrqul .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -17308,41 +17308,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_upper))
   border-right-color: #D3D3D3;
 }
 
-#waamzsbuzm .gt_sourcenote {
+#fhpdczrqul .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#waamzsbuzm .gt_left {
+#fhpdczrqul .gt_left {
   text-align: left;
 }
 
-#waamzsbuzm .gt_center {
+#fhpdczrqul .gt_center {
   text-align: center;
 }
 
-#waamzsbuzm .gt_right {
+#fhpdczrqul .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#waamzsbuzm .gt_font_normal {
+#fhpdczrqul .gt_font_normal {
   font-weight: normal;
 }
 
-#waamzsbuzm .gt_font_bold {
+#fhpdczrqul .gt_font_bold {
   font-weight: bold;
 }
 
-#waamzsbuzm .gt_font_italic {
+#fhpdczrqul .gt_font_italic {
   font-style: italic;
 }
 
-#waamzsbuzm .gt_super {
+#fhpdczrqul .gt_super {
   font-size: 65%;
 }
 
-#waamzsbuzm .gt_footnote_marks {
+#fhpdczrqul .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -17405,12 +17405,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
 ### Change all characters to sentence case in all character columns
 
 ```{=html}
-<div id="cxsgscaahg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zhesjrztvx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cxsgscaahg .gt_table {
+#zhesjrztvx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -17435,7 +17435,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-left-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_heading {
+#zhesjrztvx .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -17447,7 +17447,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_title {
+#zhesjrztvx .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -17457,7 +17457,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-bottom-width: 0;
 }
 
-#cxsgscaahg .gt_subtitle {
+#zhesjrztvx .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -17467,13 +17467,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-top-width: 0;
 }
 
-#cxsgscaahg .gt_bottom_border {
+#zhesjrztvx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_col_headings {
+#zhesjrztvx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -17488,7 +17488,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_col_heading {
+#zhesjrztvx .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -17508,7 +17508,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   overflow-x: hidden;
 }
 
-#cxsgscaahg .gt_column_spanner_outer {
+#zhesjrztvx .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -17520,15 +17520,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-right: 4px;
 }
 
-#cxsgscaahg .gt_column_spanner_outer:first-child {
+#zhesjrztvx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cxsgscaahg .gt_column_spanner_outer:last-child {
+#zhesjrztvx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cxsgscaahg .gt_column_spanner {
+#zhesjrztvx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -17540,7 +17540,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   width: 100%;
 }
 
-#cxsgscaahg .gt_group_heading {
+#zhesjrztvx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -17562,7 +17562,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   vertical-align: middle;
 }
 
-#cxsgscaahg .gt_empty_group_heading {
+#zhesjrztvx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -17577,15 +17577,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   vertical-align: middle;
 }
 
-#cxsgscaahg .gt_from_md > :first-child {
+#zhesjrztvx .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cxsgscaahg .gt_from_md > :last-child {
+#zhesjrztvx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cxsgscaahg .gt_row {
+#zhesjrztvx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17604,7 +17604,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   overflow-x: hidden;
 }
 
-#cxsgscaahg .gt_stub {
+#zhesjrztvx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -17616,7 +17616,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-left: 12px;
 }
 
-#cxsgscaahg .gt_summary_row {
+#zhesjrztvx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -17626,7 +17626,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-right: 5px;
 }
 
-#cxsgscaahg .gt_first_summary_row {
+#zhesjrztvx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17636,7 +17636,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-top-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_grand_summary_row {
+#zhesjrztvx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -17646,7 +17646,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-right: 5px;
 }
 
-#cxsgscaahg .gt_first_grand_summary_row {
+#zhesjrztvx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17656,11 +17656,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-top-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_striped {
+#zhesjrztvx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cxsgscaahg .gt_table_body {
+#zhesjrztvx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -17669,7 +17669,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-bottom-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_footnotes {
+#zhesjrztvx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -17683,13 +17683,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_footnote {
+#zhesjrztvx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#cxsgscaahg .gt_sourcenotes {
+#zhesjrztvx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -17703,41 +17703,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#cxsgscaahg .gt_sourcenote {
+#zhesjrztvx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#cxsgscaahg .gt_left {
+#zhesjrztvx .gt_left {
   text-align: left;
 }
 
-#cxsgscaahg .gt_center {
+#zhesjrztvx .gt_center {
   text-align: center;
 }
 
-#cxsgscaahg .gt_right {
+#zhesjrztvx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cxsgscaahg .gt_font_normal {
+#zhesjrztvx .gt_font_normal {
   font-weight: normal;
 }
 
-#cxsgscaahg .gt_font_bold {
+#zhesjrztvx .gt_font_bold {
   font-weight: bold;
 }
 
-#cxsgscaahg .gt_font_italic {
+#zhesjrztvx .gt_font_italic {
   font-style: italic;
 }
 
-#cxsgscaahg .gt_super {
+#zhesjrztvx .gt_super {
   font-size: 65%;
 }
 
-#cxsgscaahg .gt_footnote_marks {
+#zhesjrztvx .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -17766,12 +17766,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
 ```
 
 ```{=html}
-<div id="xrdpfszzyq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bjwjgxhhdh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#xrdpfszzyq .gt_table {
+#bjwjgxhhdh .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -17796,7 +17796,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-left-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_heading {
+#bjwjgxhhdh .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -17808,7 +17808,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_title {
+#bjwjgxhhdh .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -17818,7 +17818,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-bottom-width: 0;
 }
 
-#xrdpfszzyq .gt_subtitle {
+#bjwjgxhhdh .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -17828,13 +17828,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-top-width: 0;
 }
 
-#xrdpfszzyq .gt_bottom_border {
+#bjwjgxhhdh .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_col_headings {
+#bjwjgxhhdh .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -17849,7 +17849,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_col_heading {
+#bjwjgxhhdh .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -17869,7 +17869,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   overflow-x: hidden;
 }
 
-#xrdpfszzyq .gt_column_spanner_outer {
+#bjwjgxhhdh .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -17881,15 +17881,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-right: 4px;
 }
 
-#xrdpfszzyq .gt_column_spanner_outer:first-child {
+#bjwjgxhhdh .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xrdpfszzyq .gt_column_spanner_outer:last-child {
+#bjwjgxhhdh .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xrdpfszzyq .gt_column_spanner {
+#bjwjgxhhdh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -17901,7 +17901,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   width: 100%;
 }
 
-#xrdpfszzyq .gt_group_heading {
+#bjwjgxhhdh .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -17923,7 +17923,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   vertical-align: middle;
 }
 
-#xrdpfszzyq .gt_empty_group_heading {
+#bjwjgxhhdh .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -17938,15 +17938,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   vertical-align: middle;
 }
 
-#xrdpfszzyq .gt_from_md > :first-child {
+#bjwjgxhhdh .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xrdpfszzyq .gt_from_md > :last-child {
+#bjwjgxhhdh .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xrdpfszzyq .gt_row {
+#bjwjgxhhdh .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17965,7 +17965,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   overflow-x: hidden;
 }
 
-#xrdpfszzyq .gt_stub {
+#bjwjgxhhdh .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -17977,7 +17977,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-left: 12px;
 }
 
-#xrdpfszzyq .gt_summary_row {
+#bjwjgxhhdh .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -17987,7 +17987,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-right: 5px;
 }
 
-#xrdpfszzyq .gt_first_summary_row {
+#bjwjgxhhdh .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -17997,7 +17997,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-top-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_grand_summary_row {
+#bjwjgxhhdh .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -18007,7 +18007,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   padding-right: 5px;
 }
 
-#xrdpfszzyq .gt_first_grand_summary_row {
+#bjwjgxhhdh .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18017,11 +18017,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-top-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_striped {
+#bjwjgxhhdh .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xrdpfszzyq .gt_table_body {
+#bjwjgxhhdh .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -18030,7 +18030,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-bottom-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_footnotes {
+#bjwjgxhhdh .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -18044,13 +18044,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_footnote {
+#bjwjgxhhdh .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xrdpfszzyq .gt_sourcenotes {
+#bjwjgxhhdh .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -18064,41 +18064,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_title))
   border-right-color: #D3D3D3;
 }
 
-#xrdpfszzyq .gt_sourcenote {
+#bjwjgxhhdh .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xrdpfszzyq .gt_left {
+#bjwjgxhhdh .gt_left {
   text-align: left;
 }
 
-#xrdpfszzyq .gt_center {
+#bjwjgxhhdh .gt_center {
   text-align: center;
 }
 
-#xrdpfszzyq .gt_right {
+#bjwjgxhhdh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xrdpfszzyq .gt_font_normal {
+#bjwjgxhhdh .gt_font_normal {
   font-weight: normal;
 }
 
-#xrdpfszzyq .gt_font_bold {
+#bjwjgxhhdh .gt_font_bold {
   font-weight: bold;
 }
 
-#xrdpfszzyq .gt_font_italic {
+#bjwjgxhhdh .gt_font_italic {
   font-style: italic;
 }
 
-#xrdpfszzyq .gt_super {
+#bjwjgxhhdh .gt_super {
   font-size: 65%;
 }
 
-#xrdpfszzyq .gt_footnote_marks {
+#bjwjgxhhdh .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -18163,12 +18163,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
 
 
 ```{=html}
-<div id="ibcpfegalf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="afozqnnqmv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ibcpfegalf .gt_table {
+#afozqnnqmv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -18193,7 +18193,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-left-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_heading {
+#afozqnnqmv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -18205,7 +18205,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_title {
+#afozqnnqmv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -18215,7 +18215,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-bottom-width: 0;
 }
 
-#ibcpfegalf .gt_subtitle {
+#afozqnnqmv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -18225,13 +18225,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-top-width: 0;
 }
 
-#ibcpfegalf .gt_bottom_border {
+#afozqnnqmv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_col_headings {
+#afozqnnqmv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -18246,7 +18246,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_col_heading {
+#afozqnnqmv .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -18266,7 +18266,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   overflow-x: hidden;
 }
 
-#ibcpfegalf .gt_column_spanner_outer {
+#afozqnnqmv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -18278,15 +18278,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-right: 4px;
 }
 
-#ibcpfegalf .gt_column_spanner_outer:first-child {
+#afozqnnqmv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ibcpfegalf .gt_column_spanner_outer:last-child {
+#afozqnnqmv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ibcpfegalf .gt_column_spanner {
+#afozqnnqmv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -18298,7 +18298,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   width: 100%;
 }
 
-#ibcpfegalf .gt_group_heading {
+#afozqnnqmv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -18320,7 +18320,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   vertical-align: middle;
 }
 
-#ibcpfegalf .gt_empty_group_heading {
+#afozqnnqmv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -18335,15 +18335,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   vertical-align: middle;
 }
 
-#ibcpfegalf .gt_from_md > :first-child {
+#afozqnnqmv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ibcpfegalf .gt_from_md > :last-child {
+#afozqnnqmv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ibcpfegalf .gt_row {
+#afozqnnqmv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18362,7 +18362,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   overflow-x: hidden;
 }
 
-#ibcpfegalf .gt_stub {
+#afozqnnqmv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -18374,7 +18374,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-left: 12px;
 }
 
-#ibcpfegalf .gt_summary_row {
+#afozqnnqmv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -18384,7 +18384,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-right: 5px;
 }
 
-#ibcpfegalf .gt_first_summary_row {
+#afozqnnqmv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18394,7 +18394,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-top-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_grand_summary_row {
+#afozqnnqmv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -18404,7 +18404,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-right: 5px;
 }
 
-#ibcpfegalf .gt_first_grand_summary_row {
+#afozqnnqmv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18414,11 +18414,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-top-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_striped {
+#afozqnnqmv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ibcpfegalf .gt_table_body {
+#afozqnnqmv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -18427,7 +18427,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-bottom-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_footnotes {
+#afozqnnqmv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -18441,13 +18441,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_footnote {
+#afozqnnqmv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ibcpfegalf .gt_sourcenotes {
+#afozqnnqmv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -18461,41 +18461,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#ibcpfegalf .gt_sourcenote {
+#afozqnnqmv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ibcpfegalf .gt_left {
+#afozqnnqmv .gt_left {
   text-align: left;
 }
 
-#ibcpfegalf .gt_center {
+#afozqnnqmv .gt_center {
   text-align: center;
 }
 
-#ibcpfegalf .gt_right {
+#afozqnnqmv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ibcpfegalf .gt_font_normal {
+#afozqnnqmv .gt_font_normal {
   font-weight: normal;
 }
 
-#ibcpfegalf .gt_font_bold {
+#afozqnnqmv .gt_font_bold {
   font-weight: bold;
 }
 
-#ibcpfegalf .gt_font_italic {
+#afozqnnqmv .gt_font_italic {
   font-style: italic;
 }
 
-#ibcpfegalf .gt_super {
+#afozqnnqmv .gt_super {
   font-size: 65%;
 }
 
-#ibcpfegalf .gt_footnote_marks {
+#afozqnnqmv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -18524,12 +18524,12 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
 ```
 
 ```{=html}
-<div id="jyyjttfejv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="iwhzujnhws" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jyyjttfejv .gt_table {
+#iwhzujnhws .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -18554,7 +18554,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-left-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_heading {
+#iwhzujnhws .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -18566,7 +18566,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_title {
+#iwhzujnhws .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -18576,7 +18576,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-bottom-width: 0;
 }
 
-#jyyjttfejv .gt_subtitle {
+#iwhzujnhws .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -18586,13 +18586,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-top-width: 0;
 }
 
-#jyyjttfejv .gt_bottom_border {
+#iwhzujnhws .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_col_headings {
+#iwhzujnhws .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -18607,7 +18607,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_col_heading {
+#iwhzujnhws .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -18627,7 +18627,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   overflow-x: hidden;
 }
 
-#jyyjttfejv .gt_column_spanner_outer {
+#iwhzujnhws .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -18639,15 +18639,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-right: 4px;
 }
 
-#jyyjttfejv .gt_column_spanner_outer:first-child {
+#iwhzujnhws .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jyyjttfejv .gt_column_spanner_outer:last-child {
+#iwhzujnhws .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jyyjttfejv .gt_column_spanner {
+#iwhzujnhws .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -18659,7 +18659,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   width: 100%;
 }
 
-#jyyjttfejv .gt_group_heading {
+#iwhzujnhws .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -18681,7 +18681,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   vertical-align: middle;
 }
 
-#jyyjttfejv .gt_empty_group_heading {
+#iwhzujnhws .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -18696,15 +18696,15 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   vertical-align: middle;
 }
 
-#jyyjttfejv .gt_from_md > :first-child {
+#iwhzujnhws .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jyyjttfejv .gt_from_md > :last-child {
+#iwhzujnhws .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jyyjttfejv .gt_row {
+#iwhzujnhws .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18723,7 +18723,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   overflow-x: hidden;
 }
 
-#jyyjttfejv .gt_stub {
+#iwhzujnhws .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -18735,7 +18735,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-left: 12px;
 }
 
-#jyyjttfejv .gt_summary_row {
+#iwhzujnhws .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -18745,7 +18745,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-right: 5px;
 }
 
-#jyyjttfejv .gt_first_summary_row {
+#iwhzujnhws .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18755,7 +18755,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-top-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_grand_summary_row {
+#iwhzujnhws .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -18765,7 +18765,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   padding-right: 5px;
 }
 
-#jyyjttfejv .gt_first_grand_summary_row {
+#iwhzujnhws .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -18775,11 +18775,11 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-top-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_striped {
+#iwhzujnhws .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jyyjttfejv .gt_table_body {
+#iwhzujnhws .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -18788,7 +18788,7 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-bottom-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_footnotes {
+#iwhzujnhws .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -18802,13 +18802,13 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_footnote {
+#iwhzujnhws .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jyyjttfejv .gt_sourcenotes {
+#iwhzujnhws .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -18822,41 +18822,41 @@ dplyr::mutate(x, dplyr::across(where(is.character), stringr::str_to_sentence))
   border-right-color: #D3D3D3;
 }
 
-#jyyjttfejv .gt_sourcenote {
+#iwhzujnhws .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jyyjttfejv .gt_left {
+#iwhzujnhws .gt_left {
   text-align: left;
 }
 
-#jyyjttfejv .gt_center {
+#iwhzujnhws .gt_center {
   text-align: center;
 }
 
-#jyyjttfejv .gt_right {
+#iwhzujnhws .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jyyjttfejv .gt_font_normal {
+#iwhzujnhws .gt_font_normal {
   font-weight: normal;
 }
 
-#jyyjttfejv .gt_font_bold {
+#iwhzujnhws .gt_font_bold {
   font-weight: bold;
 }
 
-#jyyjttfejv .gt_font_italic {
+#iwhzujnhws .gt_font_italic {
   font-style: italic;
 }
 
-#jyyjttfejv .gt_super {
+#iwhzujnhws .gt_super {
   font-size: 65%;
 }
 
-#jyyjttfejv .gt_footnote_marks {
+#iwhzujnhws .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -18919,12 +18919,12 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
 ### Change all spaces to underscores in all character columns
 
 ```{=html}
-<div id="oaiyonkzrd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="cfdvjekeht" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#oaiyonkzrd .gt_table {
+#cfdvjekeht .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -18949,7 +18949,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-left-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_heading {
+#cfdvjekeht .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -18961,7 +18961,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_title {
+#cfdvjekeht .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -18971,7 +18971,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-bottom-width: 0;
 }
 
-#oaiyonkzrd .gt_subtitle {
+#cfdvjekeht .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -18981,13 +18981,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-top-width: 0;
 }
 
-#oaiyonkzrd .gt_bottom_border {
+#cfdvjekeht .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_col_headings {
+#cfdvjekeht .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -19002,7 +19002,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_col_heading {
+#cfdvjekeht .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -19022,7 +19022,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   overflow-x: hidden;
 }
 
-#oaiyonkzrd .gt_column_spanner_outer {
+#cfdvjekeht .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -19034,15 +19034,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-right: 4px;
 }
 
-#oaiyonkzrd .gt_column_spanner_outer:first-child {
+#cfdvjekeht .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#oaiyonkzrd .gt_column_spanner_outer:last-child {
+#cfdvjekeht .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#oaiyonkzrd .gt_column_spanner {
+#cfdvjekeht .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -19054,7 +19054,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   width: 100%;
 }
 
-#oaiyonkzrd .gt_group_heading {
+#cfdvjekeht .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -19076,7 +19076,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   vertical-align: middle;
 }
 
-#oaiyonkzrd .gt_empty_group_heading {
+#cfdvjekeht .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -19091,15 +19091,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   vertical-align: middle;
 }
 
-#oaiyonkzrd .gt_from_md > :first-child {
+#cfdvjekeht .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#oaiyonkzrd .gt_from_md > :last-child {
+#cfdvjekeht .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#oaiyonkzrd .gt_row {
+#cfdvjekeht .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19118,7 +19118,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   overflow-x: hidden;
 }
 
-#oaiyonkzrd .gt_stub {
+#cfdvjekeht .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -19130,7 +19130,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-left: 12px;
 }
 
-#oaiyonkzrd .gt_summary_row {
+#cfdvjekeht .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -19140,7 +19140,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-right: 5px;
 }
 
-#oaiyonkzrd .gt_first_summary_row {
+#cfdvjekeht .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19150,7 +19150,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-top-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_grand_summary_row {
+#cfdvjekeht .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -19160,7 +19160,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-right: 5px;
 }
 
-#oaiyonkzrd .gt_first_grand_summary_row {
+#cfdvjekeht .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19170,11 +19170,11 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-top-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_striped {
+#cfdvjekeht .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#oaiyonkzrd .gt_table_body {
+#cfdvjekeht .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -19183,7 +19183,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-bottom-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_footnotes {
+#cfdvjekeht .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -19197,13 +19197,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_footnote {
+#cfdvjekeht .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#oaiyonkzrd .gt_sourcenotes {
+#cfdvjekeht .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -19217,41 +19217,41 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#oaiyonkzrd .gt_sourcenote {
+#cfdvjekeht .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#oaiyonkzrd .gt_left {
+#cfdvjekeht .gt_left {
   text-align: left;
 }
 
-#oaiyonkzrd .gt_center {
+#cfdvjekeht .gt_center {
   text-align: center;
 }
 
-#oaiyonkzrd .gt_right {
+#cfdvjekeht .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#oaiyonkzrd .gt_font_normal {
+#cfdvjekeht .gt_font_normal {
   font-weight: normal;
 }
 
-#oaiyonkzrd .gt_font_bold {
+#cfdvjekeht .gt_font_bold {
   font-weight: bold;
 }
 
-#oaiyonkzrd .gt_font_italic {
+#cfdvjekeht .gt_font_italic {
   font-style: italic;
 }
 
-#oaiyonkzrd .gt_super {
+#cfdvjekeht .gt_super {
   font-size: 65%;
 }
 
-#oaiyonkzrd .gt_footnote_marks {
+#cfdvjekeht .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -19280,12 +19280,12 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
 ```
 
 ```{=html}
-<div id="tqgaxyygfv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lhofbstfyc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tqgaxyygfv .gt_table {
+#lhofbstfyc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -19310,7 +19310,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-left-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_heading {
+#lhofbstfyc .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -19322,7 +19322,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_title {
+#lhofbstfyc .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -19332,7 +19332,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-bottom-width: 0;
 }
 
-#tqgaxyygfv .gt_subtitle {
+#lhofbstfyc .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -19342,13 +19342,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-top-width: 0;
 }
 
-#tqgaxyygfv .gt_bottom_border {
+#lhofbstfyc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_col_headings {
+#lhofbstfyc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -19363,7 +19363,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_col_heading {
+#lhofbstfyc .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -19383,7 +19383,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   overflow-x: hidden;
 }
 
-#tqgaxyygfv .gt_column_spanner_outer {
+#lhofbstfyc .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -19395,15 +19395,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-right: 4px;
 }
 
-#tqgaxyygfv .gt_column_spanner_outer:first-child {
+#lhofbstfyc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tqgaxyygfv .gt_column_spanner_outer:last-child {
+#lhofbstfyc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tqgaxyygfv .gt_column_spanner {
+#lhofbstfyc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -19415,7 +19415,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   width: 100%;
 }
 
-#tqgaxyygfv .gt_group_heading {
+#lhofbstfyc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -19437,7 +19437,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   vertical-align: middle;
 }
 
-#tqgaxyygfv .gt_empty_group_heading {
+#lhofbstfyc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -19452,15 +19452,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   vertical-align: middle;
 }
 
-#tqgaxyygfv .gt_from_md > :first-child {
+#lhofbstfyc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tqgaxyygfv .gt_from_md > :last-child {
+#lhofbstfyc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tqgaxyygfv .gt_row {
+#lhofbstfyc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19479,7 +19479,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   overflow-x: hidden;
 }
 
-#tqgaxyygfv .gt_stub {
+#lhofbstfyc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -19491,7 +19491,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-left: 12px;
 }
 
-#tqgaxyygfv .gt_summary_row {
+#lhofbstfyc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -19501,7 +19501,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-right: 5px;
 }
 
-#tqgaxyygfv .gt_first_summary_row {
+#lhofbstfyc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19511,7 +19511,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-top-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_grand_summary_row {
+#lhofbstfyc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -19521,7 +19521,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   padding-right: 5px;
 }
 
-#tqgaxyygfv .gt_first_grand_summary_row {
+#lhofbstfyc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19531,11 +19531,11 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-top-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_striped {
+#lhofbstfyc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tqgaxyygfv .gt_table_body {
+#lhofbstfyc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -19544,7 +19544,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-bottom-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_footnotes {
+#lhofbstfyc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -19558,13 +19558,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_footnote {
+#lhofbstfyc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tqgaxyygfv .gt_sourcenotes {
+#lhofbstfyc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -19578,41 +19578,41 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., "[[:punct:]]", "")
   border-right-color: #D3D3D3;
 }
 
-#tqgaxyygfv .gt_sourcenote {
+#lhofbstfyc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tqgaxyygfv .gt_left {
+#lhofbstfyc .gt_left {
   text-align: left;
 }
 
-#tqgaxyygfv .gt_center {
+#lhofbstfyc .gt_center {
   text-align: center;
 }
 
-#tqgaxyygfv .gt_right {
+#lhofbstfyc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tqgaxyygfv .gt_font_normal {
+#lhofbstfyc .gt_font_normal {
   font-weight: normal;
 }
 
-#tqgaxyygfv .gt_font_bold {
+#lhofbstfyc .gt_font_bold {
   font-weight: bold;
 }
 
-#tqgaxyygfv .gt_font_italic {
+#lhofbstfyc .gt_font_italic {
   font-style: italic;
 }
 
-#tqgaxyygfv .gt_super {
+#lhofbstfyc .gt_super {
   font-size: 65%;
 }
 
-#tqgaxyygfv .gt_footnote_marks {
+#lhofbstfyc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -19676,12 +19676,12 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
 ### Clean structure and values of a dataframe
 
 ```{=html}
-<div id="nwjtqwguud" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qbespmoplh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#nwjtqwguud .gt_table {
+#qbespmoplh .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -19706,7 +19706,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-left-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_heading {
+#qbespmoplh .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -19718,7 +19718,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_title {
+#qbespmoplh .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -19728,7 +19728,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-bottom-width: 0;
 }
 
-#nwjtqwguud .gt_subtitle {
+#qbespmoplh .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -19738,13 +19738,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-top-width: 0;
 }
 
-#nwjtqwguud .gt_bottom_border {
+#qbespmoplh .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_col_headings {
+#qbespmoplh .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -19759,7 +19759,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_col_heading {
+#qbespmoplh .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -19779,7 +19779,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   overflow-x: hidden;
 }
 
-#nwjtqwguud .gt_column_spanner_outer {
+#qbespmoplh .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -19791,15 +19791,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-right: 4px;
 }
 
-#nwjtqwguud .gt_column_spanner_outer:first-child {
+#qbespmoplh .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nwjtqwguud .gt_column_spanner_outer:last-child {
+#qbespmoplh .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nwjtqwguud .gt_column_spanner {
+#qbespmoplh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -19811,7 +19811,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   width: 100%;
 }
 
-#nwjtqwguud .gt_group_heading {
+#qbespmoplh .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -19833,7 +19833,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   vertical-align: middle;
 }
 
-#nwjtqwguud .gt_empty_group_heading {
+#qbespmoplh .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -19848,15 +19848,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   vertical-align: middle;
 }
 
-#nwjtqwguud .gt_from_md > :first-child {
+#qbespmoplh .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#nwjtqwguud .gt_from_md > :last-child {
+#qbespmoplh .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#nwjtqwguud .gt_row {
+#qbespmoplh .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19875,7 +19875,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   overflow-x: hidden;
 }
 
-#nwjtqwguud .gt_stub {
+#qbespmoplh .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -19887,7 +19887,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-left: 12px;
 }
 
-#nwjtqwguud .gt_summary_row {
+#qbespmoplh .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -19897,7 +19897,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-right: 5px;
 }
 
-#nwjtqwguud .gt_first_summary_row {
+#qbespmoplh .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19907,7 +19907,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-top-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_grand_summary_row {
+#qbespmoplh .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -19917,7 +19917,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-right: 5px;
 }
 
-#nwjtqwguud .gt_first_grand_summary_row {
+#qbespmoplh .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -19927,11 +19927,11 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-top-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_striped {
+#qbespmoplh .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nwjtqwguud .gt_table_body {
+#qbespmoplh .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -19940,7 +19940,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-bottom-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_footnotes {
+#qbespmoplh .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -19954,13 +19954,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_footnote {
+#qbespmoplh .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nwjtqwguud .gt_sourcenotes {
+#qbespmoplh .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -19974,41 +19974,41 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#nwjtqwguud .gt_sourcenote {
+#qbespmoplh .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nwjtqwguud .gt_left {
+#qbespmoplh .gt_left {
   text-align: left;
 }
 
-#nwjtqwguud .gt_center {
+#qbespmoplh .gt_center {
   text-align: center;
 }
 
-#nwjtqwguud .gt_right {
+#qbespmoplh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nwjtqwguud .gt_font_normal {
+#qbespmoplh .gt_font_normal {
   font-weight: normal;
 }
 
-#nwjtqwguud .gt_font_bold {
+#qbespmoplh .gt_font_bold {
   font-weight: bold;
 }
 
-#nwjtqwguud .gt_font_italic {
+#qbespmoplh .gt_font_italic {
   font-style: italic;
 }
 
-#nwjtqwguud .gt_super {
+#qbespmoplh .gt_super {
   font-size: 65%;
 }
 
-#nwjtqwguud .gt_footnote_marks {
+#qbespmoplh .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -20037,12 +20037,12 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
 ```
 
 ```{=html}
-<div id="pzwesdgttg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mqbbbepnwu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#pzwesdgttg .gt_table {
+#mqbbbepnwu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -20067,7 +20067,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-left-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_heading {
+#mqbbbepnwu .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -20079,7 +20079,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_title {
+#mqbbbepnwu .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -20089,7 +20089,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-bottom-width: 0;
 }
 
-#pzwesdgttg .gt_subtitle {
+#mqbbbepnwu .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -20099,13 +20099,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-top-width: 0;
 }
 
-#pzwesdgttg .gt_bottom_border {
+#mqbbbepnwu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_col_headings {
+#mqbbbepnwu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -20120,7 +20120,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_col_heading {
+#mqbbbepnwu .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -20140,7 +20140,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   overflow-x: hidden;
 }
 
-#pzwesdgttg .gt_column_spanner_outer {
+#mqbbbepnwu .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -20152,15 +20152,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-right: 4px;
 }
 
-#pzwesdgttg .gt_column_spanner_outer:first-child {
+#mqbbbepnwu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#pzwesdgttg .gt_column_spanner_outer:last-child {
+#mqbbbepnwu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#pzwesdgttg .gt_column_spanner {
+#mqbbbepnwu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -20172,7 +20172,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   width: 100%;
 }
 
-#pzwesdgttg .gt_group_heading {
+#mqbbbepnwu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -20194,7 +20194,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   vertical-align: middle;
 }
 
-#pzwesdgttg .gt_empty_group_heading {
+#mqbbbepnwu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -20209,15 +20209,15 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   vertical-align: middle;
 }
 
-#pzwesdgttg .gt_from_md > :first-child {
+#mqbbbepnwu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#pzwesdgttg .gt_from_md > :last-child {
+#mqbbbepnwu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#pzwesdgttg .gt_row {
+#mqbbbepnwu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -20236,7 +20236,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   overflow-x: hidden;
 }
 
-#pzwesdgttg .gt_stub {
+#mqbbbepnwu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -20248,7 +20248,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-left: 12px;
 }
 
-#pzwesdgttg .gt_summary_row {
+#mqbbbepnwu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -20258,7 +20258,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-right: 5px;
 }
 
-#pzwesdgttg .gt_first_summary_row {
+#mqbbbepnwu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -20268,7 +20268,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-top-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_grand_summary_row {
+#mqbbbepnwu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -20278,7 +20278,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   padding-right: 5px;
 }
 
-#pzwesdgttg .gt_first_grand_summary_row {
+#mqbbbepnwu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -20288,11 +20288,11 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-top-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_striped {
+#mqbbbepnwu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#pzwesdgttg .gt_table_body {
+#mqbbbepnwu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -20301,7 +20301,7 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-bottom-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_footnotes {
+#mqbbbepnwu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -20315,13 +20315,13 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_footnote {
+#mqbbbepnwu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#pzwesdgttg .gt_sourcenotes {
+#mqbbbepnwu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -20335,41 +20335,41 @@ dplyr::mutate_all(df, dplyr::funs(stringr::str_replace_all(., " ", "_")))
   border-right-color: #D3D3D3;
 }
 
-#pzwesdgttg .gt_sourcenote {
+#mqbbbepnwu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#pzwesdgttg .gt_left {
+#mqbbbepnwu .gt_left {
   text-align: left;
 }
 
-#pzwesdgttg .gt_center {
+#mqbbbepnwu .gt_center {
   text-align: center;
 }
 
-#pzwesdgttg .gt_right {
+#mqbbbepnwu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#pzwesdgttg .gt_font_normal {
+#mqbbbepnwu .gt_font_normal {
   font-weight: normal;
 }
 
-#pzwesdgttg .gt_font_bold {
+#mqbbbepnwu .gt_font_bold {
   font-weight: bold;
 }
 
-#pzwesdgttg .gt_font_italic {
+#mqbbbepnwu .gt_font_italic {
   font-style: italic;
 }
 
-#pzwesdgttg .gt_super {
+#mqbbbepnwu .gt_super {
   font-size: 65%;
 }
 
-#pzwesdgttg .gt_footnote_marks {
+#mqbbbepnwu .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;

@@ -13,12 +13,12 @@ Appending data is a common practice to combine multiple dataframes into a single
 ### Add a dataframe to bottom of a dataframe
 
 ```{=html}
-<div id="iwleuiylcw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gspsniwtka" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#iwleuiylcw .gt_table {
+#gspsniwtka .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -43,7 +43,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-left-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_heading {
+#gspsniwtka .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -55,7 +55,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_title {
+#gspsniwtka .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -65,7 +65,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-bottom-width: 0;
 }
 
-#iwleuiylcw .gt_subtitle {
+#gspsniwtka .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -75,13 +75,13 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-top-width: 0;
 }
 
-#iwleuiylcw .gt_bottom_border {
+#gspsniwtka .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_col_headings {
+#gspsniwtka .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -96,7 +96,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_col_heading {
+#gspsniwtka .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -116,7 +116,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   overflow-x: hidden;
 }
 
-#iwleuiylcw .gt_column_spanner_outer {
+#gspsniwtka .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -128,15 +128,15 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-right: 4px;
 }
 
-#iwleuiylcw .gt_column_spanner_outer:first-child {
+#gspsniwtka .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#iwleuiylcw .gt_column_spanner_outer:last-child {
+#gspsniwtka .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#iwleuiylcw .gt_column_spanner {
+#gspsniwtka .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -148,7 +148,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   width: 100%;
 }
 
-#iwleuiylcw .gt_group_heading {
+#gspsniwtka .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -170,7 +170,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   vertical-align: middle;
 }
 
-#iwleuiylcw .gt_empty_group_heading {
+#gspsniwtka .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -185,15 +185,15 @@ Appending data is a common practice to combine multiple dataframes into a single
   vertical-align: middle;
 }
 
-#iwleuiylcw .gt_from_md > :first-child {
+#gspsniwtka .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#iwleuiylcw .gt_from_md > :last-child {
+#gspsniwtka .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#iwleuiylcw .gt_row {
+#gspsniwtka .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -212,7 +212,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   overflow-x: hidden;
 }
 
-#iwleuiylcw .gt_stub {
+#gspsniwtka .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -224,7 +224,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-left: 12px;
 }
 
-#iwleuiylcw .gt_summary_row {
+#gspsniwtka .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -234,7 +234,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-right: 5px;
 }
 
-#iwleuiylcw .gt_first_summary_row {
+#gspsniwtka .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -244,7 +244,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-top-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_grand_summary_row {
+#gspsniwtka .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -254,7 +254,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-right: 5px;
 }
 
-#iwleuiylcw .gt_first_grand_summary_row {
+#gspsniwtka .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -264,11 +264,11 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-top-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_striped {
+#gspsniwtka .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#iwleuiylcw .gt_table_body {
+#gspsniwtka .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -277,7 +277,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-bottom-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_footnotes {
+#gspsniwtka .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -291,13 +291,13 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_footnote {
+#gspsniwtka .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#iwleuiylcw .gt_sourcenotes {
+#gspsniwtka .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -311,41 +311,41 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#iwleuiylcw .gt_sourcenote {
+#gspsniwtka .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#iwleuiylcw .gt_left {
+#gspsniwtka .gt_left {
   text-align: left;
 }
 
-#iwleuiylcw .gt_center {
+#gspsniwtka .gt_center {
   text-align: center;
 }
 
-#iwleuiylcw .gt_right {
+#gspsniwtka .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#iwleuiylcw .gt_font_normal {
+#gspsniwtka .gt_font_normal {
   font-weight: normal;
 }
 
-#iwleuiylcw .gt_font_bold {
+#gspsniwtka .gt_font_bold {
   font-weight: bold;
 }
 
-#iwleuiylcw .gt_font_italic {
+#gspsniwtka .gt_font_italic {
   font-style: italic;
 }
 
-#iwleuiylcw .gt_super {
+#gspsniwtka .gt_super {
   font-size: 65%;
 }
 
-#iwleuiylcw .gt_footnote_marks {
+#gspsniwtka .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -374,12 +374,12 @@ Appending data is a common practice to combine multiple dataframes into a single
 ```
 
 ```{=html}
-<div id="oaoojglyti" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ckakqihdiy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#oaoojglyti .gt_table {
+#ckakqihdiy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -404,7 +404,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-left-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_heading {
+#ckakqihdiy .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -416,7 +416,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_title {
+#ckakqihdiy .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -426,7 +426,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-bottom-width: 0;
 }
 
-#oaoojglyti .gt_subtitle {
+#ckakqihdiy .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -436,13 +436,13 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-top-width: 0;
 }
 
-#oaoojglyti .gt_bottom_border {
+#ckakqihdiy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_col_headings {
+#ckakqihdiy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -457,7 +457,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_col_heading {
+#ckakqihdiy .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -477,7 +477,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   overflow-x: hidden;
 }
 
-#oaoojglyti .gt_column_spanner_outer {
+#ckakqihdiy .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -489,15 +489,15 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-right: 4px;
 }
 
-#oaoojglyti .gt_column_spanner_outer:first-child {
+#ckakqihdiy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#oaoojglyti .gt_column_spanner_outer:last-child {
+#ckakqihdiy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#oaoojglyti .gt_column_spanner {
+#ckakqihdiy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -509,7 +509,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   width: 100%;
 }
 
-#oaoojglyti .gt_group_heading {
+#ckakqihdiy .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -531,7 +531,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   vertical-align: middle;
 }
 
-#oaoojglyti .gt_empty_group_heading {
+#ckakqihdiy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -546,15 +546,15 @@ Appending data is a common practice to combine multiple dataframes into a single
   vertical-align: middle;
 }
 
-#oaoojglyti .gt_from_md > :first-child {
+#ckakqihdiy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#oaoojglyti .gt_from_md > :last-child {
+#ckakqihdiy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#oaoojglyti .gt_row {
+#ckakqihdiy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -573,7 +573,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   overflow-x: hidden;
 }
 
-#oaoojglyti .gt_stub {
+#ckakqihdiy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -585,7 +585,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-left: 12px;
 }
 
-#oaoojglyti .gt_summary_row {
+#ckakqihdiy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -595,7 +595,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-right: 5px;
 }
 
-#oaoojglyti .gt_first_summary_row {
+#ckakqihdiy .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -605,7 +605,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-top-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_grand_summary_row {
+#ckakqihdiy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -615,7 +615,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   padding-right: 5px;
 }
 
-#oaoojglyti .gt_first_grand_summary_row {
+#ckakqihdiy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -625,11 +625,11 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-top-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_striped {
+#ckakqihdiy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#oaoojglyti .gt_table_body {
+#ckakqihdiy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -638,7 +638,7 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-bottom-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_footnotes {
+#ckakqihdiy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -652,13 +652,13 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_footnote {
+#ckakqihdiy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#oaoojglyti .gt_sourcenotes {
+#ckakqihdiy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -672,41 +672,41 @@ Appending data is a common practice to combine multiple dataframes into a single
   border-right-color: #D3D3D3;
 }
 
-#oaoojglyti .gt_sourcenote {
+#ckakqihdiy .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#oaoojglyti .gt_left {
+#ckakqihdiy .gt_left {
   text-align: left;
 }
 
-#oaoojglyti .gt_center {
+#ckakqihdiy .gt_center {
   text-align: center;
 }
 
-#oaoojglyti .gt_right {
+#ckakqihdiy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#oaoojglyti .gt_font_normal {
+#ckakqihdiy .gt_font_normal {
   font-weight: normal;
 }
 
-#oaoojglyti .gt_font_bold {
+#ckakqihdiy .gt_font_bold {
   font-weight: bold;
 }
 
-#oaoojglyti .gt_font_italic {
+#ckakqihdiy .gt_font_italic {
   font-style: italic;
 }
 
-#oaoojglyti .gt_super {
+#ckakqihdiy .gt_super {
   font-size: 65%;
 }
 
-#oaoojglyti .gt_footnote_marks {
+#ckakqihdiy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -770,12 +770,12 @@ rbind(df1, df2)
 ### Add a dataframe to right of a dataframe
 
 ```{=html}
-<div id="eqotxbirup" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mwsxyafdnr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#eqotxbirup .gt_table {
+#mwsxyafdnr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -800,7 +800,7 @@ rbind(df1, df2)
   border-left-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_heading {
+#mwsxyafdnr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -812,7 +812,7 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_title {
+#mwsxyafdnr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -822,7 +822,7 @@ rbind(df1, df2)
   border-bottom-width: 0;
 }
 
-#eqotxbirup .gt_subtitle {
+#mwsxyafdnr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -832,13 +832,13 @@ rbind(df1, df2)
   border-top-width: 0;
 }
 
-#eqotxbirup .gt_bottom_border {
+#mwsxyafdnr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_col_headings {
+#mwsxyafdnr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -853,7 +853,7 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_col_heading {
+#mwsxyafdnr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -873,7 +873,7 @@ rbind(df1, df2)
   overflow-x: hidden;
 }
 
-#eqotxbirup .gt_column_spanner_outer {
+#mwsxyafdnr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -885,15 +885,15 @@ rbind(df1, df2)
   padding-right: 4px;
 }
 
-#eqotxbirup .gt_column_spanner_outer:first-child {
+#mwsxyafdnr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#eqotxbirup .gt_column_spanner_outer:last-child {
+#mwsxyafdnr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#eqotxbirup .gt_column_spanner {
+#mwsxyafdnr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -905,7 +905,7 @@ rbind(df1, df2)
   width: 100%;
 }
 
-#eqotxbirup .gt_group_heading {
+#mwsxyafdnr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -927,7 +927,7 @@ rbind(df1, df2)
   vertical-align: middle;
 }
 
-#eqotxbirup .gt_empty_group_heading {
+#mwsxyafdnr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -942,15 +942,15 @@ rbind(df1, df2)
   vertical-align: middle;
 }
 
-#eqotxbirup .gt_from_md > :first-child {
+#mwsxyafdnr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#eqotxbirup .gt_from_md > :last-child {
+#mwsxyafdnr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#eqotxbirup .gt_row {
+#mwsxyafdnr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -969,7 +969,7 @@ rbind(df1, df2)
   overflow-x: hidden;
 }
 
-#eqotxbirup .gt_stub {
+#mwsxyafdnr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -981,7 +981,7 @@ rbind(df1, df2)
   padding-left: 12px;
 }
 
-#eqotxbirup .gt_summary_row {
+#mwsxyafdnr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -991,7 +991,7 @@ rbind(df1, df2)
   padding-right: 5px;
 }
 
-#eqotxbirup .gt_first_summary_row {
+#mwsxyafdnr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1001,7 +1001,7 @@ rbind(df1, df2)
   border-top-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_grand_summary_row {
+#mwsxyafdnr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1011,7 +1011,7 @@ rbind(df1, df2)
   padding-right: 5px;
 }
 
-#eqotxbirup .gt_first_grand_summary_row {
+#mwsxyafdnr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1021,11 +1021,11 @@ rbind(df1, df2)
   border-top-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_striped {
+#mwsxyafdnr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#eqotxbirup .gt_table_body {
+#mwsxyafdnr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1034,7 +1034,7 @@ rbind(df1, df2)
   border-bottom-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_footnotes {
+#mwsxyafdnr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1048,13 +1048,13 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_footnote {
+#mwsxyafdnr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#eqotxbirup .gt_sourcenotes {
+#mwsxyafdnr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1068,41 +1068,41 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#eqotxbirup .gt_sourcenote {
+#mwsxyafdnr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#eqotxbirup .gt_left {
+#mwsxyafdnr .gt_left {
   text-align: left;
 }
 
-#eqotxbirup .gt_center {
+#mwsxyafdnr .gt_center {
   text-align: center;
 }
 
-#eqotxbirup .gt_right {
+#mwsxyafdnr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#eqotxbirup .gt_font_normal {
+#mwsxyafdnr .gt_font_normal {
   font-weight: normal;
 }
 
-#eqotxbirup .gt_font_bold {
+#mwsxyafdnr .gt_font_bold {
   font-weight: bold;
 }
 
-#eqotxbirup .gt_font_italic {
+#mwsxyafdnr .gt_font_italic {
   font-style: italic;
 }
 
-#eqotxbirup .gt_super {
+#mwsxyafdnr .gt_super {
   font-size: 65%;
 }
 
-#eqotxbirup .gt_footnote_marks {
+#mwsxyafdnr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1131,12 +1131,12 @@ rbind(df1, df2)
 ```
 
 ```{=html}
-<div id="nfitfkvvqm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mexqedeqvv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#nfitfkvvqm .gt_table {
+#mexqedeqvv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1161,7 +1161,7 @@ rbind(df1, df2)
   border-left-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_heading {
+#mexqedeqvv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1173,7 +1173,7 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_title {
+#mexqedeqvv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1183,7 +1183,7 @@ rbind(df1, df2)
   border-bottom-width: 0;
 }
 
-#nfitfkvvqm .gt_subtitle {
+#mexqedeqvv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1193,13 +1193,13 @@ rbind(df1, df2)
   border-top-width: 0;
 }
 
-#nfitfkvvqm .gt_bottom_border {
+#mexqedeqvv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_col_headings {
+#mexqedeqvv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1214,7 +1214,7 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_col_heading {
+#mexqedeqvv .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1234,7 +1234,7 @@ rbind(df1, df2)
   overflow-x: hidden;
 }
 
-#nfitfkvvqm .gt_column_spanner_outer {
+#mexqedeqvv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1246,15 +1246,15 @@ rbind(df1, df2)
   padding-right: 4px;
 }
 
-#nfitfkvvqm .gt_column_spanner_outer:first-child {
+#mexqedeqvv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nfitfkvvqm .gt_column_spanner_outer:last-child {
+#mexqedeqvv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nfitfkvvqm .gt_column_spanner {
+#mexqedeqvv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1266,7 +1266,7 @@ rbind(df1, df2)
   width: 100%;
 }
 
-#nfitfkvvqm .gt_group_heading {
+#mexqedeqvv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1288,7 +1288,7 @@ rbind(df1, df2)
   vertical-align: middle;
 }
 
-#nfitfkvvqm .gt_empty_group_heading {
+#mexqedeqvv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1303,15 +1303,15 @@ rbind(df1, df2)
   vertical-align: middle;
 }
 
-#nfitfkvvqm .gt_from_md > :first-child {
+#mexqedeqvv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#nfitfkvvqm .gt_from_md > :last-child {
+#mexqedeqvv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#nfitfkvvqm .gt_row {
+#mexqedeqvv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1330,7 +1330,7 @@ rbind(df1, df2)
   overflow-x: hidden;
 }
 
-#nfitfkvvqm .gt_stub {
+#mexqedeqvv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1342,7 +1342,7 @@ rbind(df1, df2)
   padding-left: 12px;
 }
 
-#nfitfkvvqm .gt_summary_row {
+#mexqedeqvv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1352,7 +1352,7 @@ rbind(df1, df2)
   padding-right: 5px;
 }
 
-#nfitfkvvqm .gt_first_summary_row {
+#mexqedeqvv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1362,7 +1362,7 @@ rbind(df1, df2)
   border-top-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_grand_summary_row {
+#mexqedeqvv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1372,7 +1372,7 @@ rbind(df1, df2)
   padding-right: 5px;
 }
 
-#nfitfkvvqm .gt_first_grand_summary_row {
+#mexqedeqvv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1382,11 +1382,11 @@ rbind(df1, df2)
   border-top-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_striped {
+#mexqedeqvv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nfitfkvvqm .gt_table_body {
+#mexqedeqvv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1395,7 +1395,7 @@ rbind(df1, df2)
   border-bottom-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_footnotes {
+#mexqedeqvv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1409,13 +1409,13 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_footnote {
+#mexqedeqvv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nfitfkvvqm .gt_sourcenotes {
+#mexqedeqvv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1429,41 +1429,41 @@ rbind(df1, df2)
   border-right-color: #D3D3D3;
 }
 
-#nfitfkvvqm .gt_sourcenote {
+#mexqedeqvv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nfitfkvvqm .gt_left {
+#mexqedeqvv .gt_left {
   text-align: left;
 }
 
-#nfitfkvvqm .gt_center {
+#mexqedeqvv .gt_center {
   text-align: center;
 }
 
-#nfitfkvvqm .gt_right {
+#mexqedeqvv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nfitfkvvqm .gt_font_normal {
+#mexqedeqvv .gt_font_normal {
   font-weight: normal;
 }
 
-#nfitfkvvqm .gt_font_bold {
+#mexqedeqvv .gt_font_bold {
   font-weight: bold;
 }
 
-#nfitfkvvqm .gt_font_italic {
+#mexqedeqvv .gt_font_italic {
   font-style: italic;
 }
 
-#nfitfkvvqm .gt_super {
+#mexqedeqvv .gt_super {
   font-size: 65%;
 }
 
-#nfitfkvvqm .gt_footnote_marks {
+#mexqedeqvv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1530,12 +1530,12 @@ Joining data is a common practice to combine multiple dataframes into a single d
 ### Join with same joining column names
 
 ```{=html}
-<div id="ewlxrkitlq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ysimutyxdw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ewlxrkitlq .gt_table {
+#ysimutyxdw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1560,7 +1560,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-left-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_heading {
+#ysimutyxdw .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1572,7 +1572,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_title {
+#ysimutyxdw .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1582,7 +1582,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-bottom-width: 0;
 }
 
-#ewlxrkitlq .gt_subtitle {
+#ysimutyxdw .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1592,13 +1592,13 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-top-width: 0;
 }
 
-#ewlxrkitlq .gt_bottom_border {
+#ysimutyxdw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_col_headings {
+#ysimutyxdw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1613,7 +1613,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_col_heading {
+#ysimutyxdw .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1633,7 +1633,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   overflow-x: hidden;
 }
 
-#ewlxrkitlq .gt_column_spanner_outer {
+#ysimutyxdw .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1645,15 +1645,15 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-right: 4px;
 }
 
-#ewlxrkitlq .gt_column_spanner_outer:first-child {
+#ysimutyxdw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ewlxrkitlq .gt_column_spanner_outer:last-child {
+#ysimutyxdw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ewlxrkitlq .gt_column_spanner {
+#ysimutyxdw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1665,7 +1665,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   width: 100%;
 }
 
-#ewlxrkitlq .gt_group_heading {
+#ysimutyxdw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1687,7 +1687,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   vertical-align: middle;
 }
 
-#ewlxrkitlq .gt_empty_group_heading {
+#ysimutyxdw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1702,15 +1702,15 @@ Joining data is a common practice to combine multiple dataframes into a single d
   vertical-align: middle;
 }
 
-#ewlxrkitlq .gt_from_md > :first-child {
+#ysimutyxdw .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ewlxrkitlq .gt_from_md > :last-child {
+#ysimutyxdw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ewlxrkitlq .gt_row {
+#ysimutyxdw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1729,7 +1729,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   overflow-x: hidden;
 }
 
-#ewlxrkitlq .gt_stub {
+#ysimutyxdw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1741,7 +1741,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-left: 12px;
 }
 
-#ewlxrkitlq .gt_summary_row {
+#ysimutyxdw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1751,7 +1751,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-right: 5px;
 }
 
-#ewlxrkitlq .gt_first_summary_row {
+#ysimutyxdw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1761,7 +1761,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-top-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_grand_summary_row {
+#ysimutyxdw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1771,7 +1771,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-right: 5px;
 }
 
-#ewlxrkitlq .gt_first_grand_summary_row {
+#ysimutyxdw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1781,11 +1781,11 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-top-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_striped {
+#ysimutyxdw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ewlxrkitlq .gt_table_body {
+#ysimutyxdw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1794,7 +1794,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-bottom-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_footnotes {
+#ysimutyxdw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1808,13 +1808,13 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_footnote {
+#ysimutyxdw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ewlxrkitlq .gt_sourcenotes {
+#ysimutyxdw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1828,41 +1828,41 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#ewlxrkitlq .gt_sourcenote {
+#ysimutyxdw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ewlxrkitlq .gt_left {
+#ysimutyxdw .gt_left {
   text-align: left;
 }
 
-#ewlxrkitlq .gt_center {
+#ysimutyxdw .gt_center {
   text-align: center;
 }
 
-#ewlxrkitlq .gt_right {
+#ysimutyxdw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ewlxrkitlq .gt_font_normal {
+#ysimutyxdw .gt_font_normal {
   font-weight: normal;
 }
 
-#ewlxrkitlq .gt_font_bold {
+#ysimutyxdw .gt_font_bold {
   font-weight: bold;
 }
 
-#ewlxrkitlq .gt_font_italic {
+#ysimutyxdw .gt_font_italic {
   font-style: italic;
 }
 
-#ewlxrkitlq .gt_super {
+#ysimutyxdw .gt_super {
   font-size: 65%;
 }
 
-#ewlxrkitlq .gt_footnote_marks {
+#ysimutyxdw .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1891,12 +1891,12 @@ Joining data is a common practice to combine multiple dataframes into a single d
 ```
 
 ```{=html}
-<div id="odbdzpoyem" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="faxtxihksd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#odbdzpoyem .gt_table {
+#faxtxihksd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1921,7 +1921,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-left-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_heading {
+#faxtxihksd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1933,7 +1933,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_title {
+#faxtxihksd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1943,7 +1943,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-bottom-width: 0;
 }
 
-#odbdzpoyem .gt_subtitle {
+#faxtxihksd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1953,13 +1953,13 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-top-width: 0;
 }
 
-#odbdzpoyem .gt_bottom_border {
+#faxtxihksd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_col_headings {
+#faxtxihksd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1974,7 +1974,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_col_heading {
+#faxtxihksd .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1994,7 +1994,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   overflow-x: hidden;
 }
 
-#odbdzpoyem .gt_column_spanner_outer {
+#faxtxihksd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2006,15 +2006,15 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-right: 4px;
 }
 
-#odbdzpoyem .gt_column_spanner_outer:first-child {
+#faxtxihksd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#odbdzpoyem .gt_column_spanner_outer:last-child {
+#faxtxihksd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#odbdzpoyem .gt_column_spanner {
+#faxtxihksd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2026,7 +2026,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   width: 100%;
 }
 
-#odbdzpoyem .gt_group_heading {
+#faxtxihksd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2048,7 +2048,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   vertical-align: middle;
 }
 
-#odbdzpoyem .gt_empty_group_heading {
+#faxtxihksd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2063,15 +2063,15 @@ Joining data is a common practice to combine multiple dataframes into a single d
   vertical-align: middle;
 }
 
-#odbdzpoyem .gt_from_md > :first-child {
+#faxtxihksd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#odbdzpoyem .gt_from_md > :last-child {
+#faxtxihksd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#odbdzpoyem .gt_row {
+#faxtxihksd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2090,7 +2090,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   overflow-x: hidden;
 }
 
-#odbdzpoyem .gt_stub {
+#faxtxihksd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2102,7 +2102,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-left: 12px;
 }
 
-#odbdzpoyem .gt_summary_row {
+#faxtxihksd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2112,7 +2112,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-right: 5px;
 }
 
-#odbdzpoyem .gt_first_summary_row {
+#faxtxihksd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2122,7 +2122,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-top-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_grand_summary_row {
+#faxtxihksd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2132,7 +2132,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   padding-right: 5px;
 }
 
-#odbdzpoyem .gt_first_grand_summary_row {
+#faxtxihksd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2142,11 +2142,11 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-top-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_striped {
+#faxtxihksd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#odbdzpoyem .gt_table_body {
+#faxtxihksd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2155,7 +2155,7 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-bottom-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_footnotes {
+#faxtxihksd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2169,13 +2169,13 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_footnote {
+#faxtxihksd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#odbdzpoyem .gt_sourcenotes {
+#faxtxihksd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2189,41 +2189,41 @@ Joining data is a common practice to combine multiple dataframes into a single d
   border-right-color: #D3D3D3;
 }
 
-#odbdzpoyem .gt_sourcenote {
+#faxtxihksd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#odbdzpoyem .gt_left {
+#faxtxihksd .gt_left {
   text-align: left;
 }
 
-#odbdzpoyem .gt_center {
+#faxtxihksd .gt_center {
   text-align: center;
 }
 
-#odbdzpoyem .gt_right {
+#faxtxihksd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#odbdzpoyem .gt_font_normal {
+#faxtxihksd .gt_font_normal {
   font-weight: normal;
 }
 
-#odbdzpoyem .gt_font_bold {
+#faxtxihksd .gt_font_bold {
   font-weight: bold;
 }
 
-#odbdzpoyem .gt_font_italic {
+#faxtxihksd .gt_font_italic {
   font-style: italic;
 }
 
-#odbdzpoyem .gt_super {
+#faxtxihksd .gt_super {
   font-size: 65%;
 }
 
-#odbdzpoyem .gt_footnote_marks {
+#faxtxihksd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2287,12 +2287,12 @@ dplyr::left_join(df1, df2, by = "user_id")
 ### Join with different joining names
 
 ```{=html}
-<div id="kacmclvkez" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zofgcilflr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kacmclvkez .gt_table {
+#zofgcilflr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2317,7 +2317,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_heading {
+#zofgcilflr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2329,7 +2329,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_title {
+#zofgcilflr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2339,7 +2339,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#kacmclvkez .gt_subtitle {
+#zofgcilflr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2349,13 +2349,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#kacmclvkez .gt_bottom_border {
+#zofgcilflr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_col_headings {
+#zofgcilflr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2370,7 +2370,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_col_heading {
+#zofgcilflr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2390,7 +2390,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#kacmclvkez .gt_column_spanner_outer {
+#zofgcilflr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2402,15 +2402,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#kacmclvkez .gt_column_spanner_outer:first-child {
+#zofgcilflr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kacmclvkez .gt_column_spanner_outer:last-child {
+#zofgcilflr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kacmclvkez .gt_column_spanner {
+#zofgcilflr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2422,7 +2422,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#kacmclvkez .gt_group_heading {
+#zofgcilflr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2444,7 +2444,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#kacmclvkez .gt_empty_group_heading {
+#zofgcilflr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2459,15 +2459,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#kacmclvkez .gt_from_md > :first-child {
+#zofgcilflr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kacmclvkez .gt_from_md > :last-child {
+#zofgcilflr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kacmclvkez .gt_row {
+#zofgcilflr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2486,7 +2486,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#kacmclvkez .gt_stub {
+#zofgcilflr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2498,7 +2498,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#kacmclvkez .gt_summary_row {
+#zofgcilflr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2508,7 +2508,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#kacmclvkez .gt_first_summary_row {
+#zofgcilflr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2518,7 +2518,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_grand_summary_row {
+#zofgcilflr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2528,7 +2528,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#kacmclvkez .gt_first_grand_summary_row {
+#zofgcilflr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2538,11 +2538,11 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_striped {
+#zofgcilflr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kacmclvkez .gt_table_body {
+#zofgcilflr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2551,7 +2551,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_footnotes {
+#zofgcilflr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2565,13 +2565,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_footnote {
+#zofgcilflr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kacmclvkez .gt_sourcenotes {
+#zofgcilflr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2585,41 +2585,41 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#kacmclvkez .gt_sourcenote {
+#zofgcilflr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kacmclvkez .gt_left {
+#zofgcilflr .gt_left {
   text-align: left;
 }
 
-#kacmclvkez .gt_center {
+#zofgcilflr .gt_center {
   text-align: center;
 }
 
-#kacmclvkez .gt_right {
+#zofgcilflr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kacmclvkez .gt_font_normal {
+#zofgcilflr .gt_font_normal {
   font-weight: normal;
 }
 
-#kacmclvkez .gt_font_bold {
+#zofgcilflr .gt_font_bold {
   font-weight: bold;
 }
 
-#kacmclvkez .gt_font_italic {
+#zofgcilflr .gt_font_italic {
   font-style: italic;
 }
 
-#kacmclvkez .gt_super {
+#zofgcilflr .gt_super {
   font-size: 65%;
 }
 
-#kacmclvkez .gt_footnote_marks {
+#zofgcilflr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2648,12 +2648,12 @@ dplyr::left_join(df1, df2, by = "user_id")
 ```
 
 ```{=html}
-<div id="neyinagwoa" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zqoglcifus" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#neyinagwoa .gt_table {
+#zqoglcifus .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2678,7 +2678,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_heading {
+#zqoglcifus .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2690,7 +2690,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_title {
+#zqoglcifus .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2700,7 +2700,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#neyinagwoa .gt_subtitle {
+#zqoglcifus .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2710,13 +2710,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#neyinagwoa .gt_bottom_border {
+#zqoglcifus .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_col_headings {
+#zqoglcifus .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2731,7 +2731,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_col_heading {
+#zqoglcifus .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2751,7 +2751,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#neyinagwoa .gt_column_spanner_outer {
+#zqoglcifus .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2763,15 +2763,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#neyinagwoa .gt_column_spanner_outer:first-child {
+#zqoglcifus .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#neyinagwoa .gt_column_spanner_outer:last-child {
+#zqoglcifus .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#neyinagwoa .gt_column_spanner {
+#zqoglcifus .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2783,7 +2783,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#neyinagwoa .gt_group_heading {
+#zqoglcifus .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2805,7 +2805,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#neyinagwoa .gt_empty_group_heading {
+#zqoglcifus .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2820,15 +2820,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#neyinagwoa .gt_from_md > :first-child {
+#zqoglcifus .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#neyinagwoa .gt_from_md > :last-child {
+#zqoglcifus .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#neyinagwoa .gt_row {
+#zqoglcifus .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2847,7 +2847,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#neyinagwoa .gt_stub {
+#zqoglcifus .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2859,7 +2859,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#neyinagwoa .gt_summary_row {
+#zqoglcifus .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2869,7 +2869,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#neyinagwoa .gt_first_summary_row {
+#zqoglcifus .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2879,7 +2879,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_grand_summary_row {
+#zqoglcifus .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2889,7 +2889,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#neyinagwoa .gt_first_grand_summary_row {
+#zqoglcifus .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2899,11 +2899,11 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_striped {
+#zqoglcifus .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#neyinagwoa .gt_table_body {
+#zqoglcifus .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2912,7 +2912,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_footnotes {
+#zqoglcifus .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2926,13 +2926,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_footnote {
+#zqoglcifus .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#neyinagwoa .gt_sourcenotes {
+#zqoglcifus .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2946,41 +2946,41 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#neyinagwoa .gt_sourcenote {
+#zqoglcifus .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#neyinagwoa .gt_left {
+#zqoglcifus .gt_left {
   text-align: left;
 }
 
-#neyinagwoa .gt_center {
+#zqoglcifus .gt_center {
   text-align: center;
 }
 
-#neyinagwoa .gt_right {
+#zqoglcifus .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#neyinagwoa .gt_font_normal {
+#zqoglcifus .gt_font_normal {
   font-weight: normal;
 }
 
-#neyinagwoa .gt_font_bold {
+#zqoglcifus .gt_font_bold {
   font-weight: bold;
 }
 
-#neyinagwoa .gt_font_italic {
+#zqoglcifus .gt_font_italic {
   font-style: italic;
 }
 
-#neyinagwoa .gt_super {
+#zqoglcifus .gt_super {
   font-size: 65%;
 }
 
-#neyinagwoa .gt_footnote_marks {
+#zqoglcifus .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3044,12 +3044,12 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
 ### Join with subset of columns from one dataframe
 
 ```{=html}
-<div id="bwpgkgnden" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kgywkxdokr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bwpgkgnden .gt_table {
+#kgywkxdokr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3074,7 +3074,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-left-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_heading {
+#kgywkxdokr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3086,7 +3086,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_title {
+#kgywkxdokr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3096,7 +3096,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-bottom-width: 0;
 }
 
-#bwpgkgnden .gt_subtitle {
+#kgywkxdokr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3106,13 +3106,13 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-top-width: 0;
 }
 
-#bwpgkgnden .gt_bottom_border {
+#kgywkxdokr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_col_headings {
+#kgywkxdokr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3127,7 +3127,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_col_heading {
+#kgywkxdokr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3147,7 +3147,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   overflow-x: hidden;
 }
 
-#bwpgkgnden .gt_column_spanner_outer {
+#kgywkxdokr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3159,15 +3159,15 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-right: 4px;
 }
 
-#bwpgkgnden .gt_column_spanner_outer:first-child {
+#kgywkxdokr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bwpgkgnden .gt_column_spanner_outer:last-child {
+#kgywkxdokr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bwpgkgnden .gt_column_spanner {
+#kgywkxdokr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3179,7 +3179,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   width: 100%;
 }
 
-#bwpgkgnden .gt_group_heading {
+#kgywkxdokr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3201,7 +3201,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   vertical-align: middle;
 }
 
-#bwpgkgnden .gt_empty_group_heading {
+#kgywkxdokr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3216,15 +3216,15 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   vertical-align: middle;
 }
 
-#bwpgkgnden .gt_from_md > :first-child {
+#kgywkxdokr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bwpgkgnden .gt_from_md > :last-child {
+#kgywkxdokr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bwpgkgnden .gt_row {
+#kgywkxdokr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3243,7 +3243,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   overflow-x: hidden;
 }
 
-#bwpgkgnden .gt_stub {
+#kgywkxdokr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3255,7 +3255,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-left: 12px;
 }
 
-#bwpgkgnden .gt_summary_row {
+#kgywkxdokr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3265,7 +3265,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-right: 5px;
 }
 
-#bwpgkgnden .gt_first_summary_row {
+#kgywkxdokr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3275,7 +3275,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-top-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_grand_summary_row {
+#kgywkxdokr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3285,7 +3285,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-right: 5px;
 }
 
-#bwpgkgnden .gt_first_grand_summary_row {
+#kgywkxdokr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3295,11 +3295,11 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-top-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_striped {
+#kgywkxdokr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bwpgkgnden .gt_table_body {
+#kgywkxdokr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3308,7 +3308,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-bottom-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_footnotes {
+#kgywkxdokr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3322,13 +3322,13 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_footnote {
+#kgywkxdokr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bwpgkgnden .gt_sourcenotes {
+#kgywkxdokr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3342,41 +3342,41 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#bwpgkgnden .gt_sourcenote {
+#kgywkxdokr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bwpgkgnden .gt_left {
+#kgywkxdokr .gt_left {
   text-align: left;
 }
 
-#bwpgkgnden .gt_center {
+#kgywkxdokr .gt_center {
   text-align: center;
 }
 
-#bwpgkgnden .gt_right {
+#kgywkxdokr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bwpgkgnden .gt_font_normal {
+#kgywkxdokr .gt_font_normal {
   font-weight: normal;
 }
 
-#bwpgkgnden .gt_font_bold {
+#kgywkxdokr .gt_font_bold {
   font-weight: bold;
 }
 
-#bwpgkgnden .gt_font_italic {
+#kgywkxdokr .gt_font_italic {
   font-style: italic;
 }
 
-#bwpgkgnden .gt_super {
+#kgywkxdokr .gt_super {
   font-size: 65%;
 }
 
-#bwpgkgnden .gt_footnote_marks {
+#kgywkxdokr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3405,12 +3405,12 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
 ```
 
 ```{=html}
-<div id="eebmrfjnth" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xaxqqcquyl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#eebmrfjnth .gt_table {
+#xaxqqcquyl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3435,7 +3435,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-left-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_heading {
+#xaxqqcquyl .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3447,7 +3447,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_title {
+#xaxqqcquyl .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3457,7 +3457,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-bottom-width: 0;
 }
 
-#eebmrfjnth .gt_subtitle {
+#xaxqqcquyl .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3467,13 +3467,13 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-top-width: 0;
 }
 
-#eebmrfjnth .gt_bottom_border {
+#xaxqqcquyl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_col_headings {
+#xaxqqcquyl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3488,7 +3488,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_col_heading {
+#xaxqqcquyl .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3508,7 +3508,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   overflow-x: hidden;
 }
 
-#eebmrfjnth .gt_column_spanner_outer {
+#xaxqqcquyl .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3520,15 +3520,15 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-right: 4px;
 }
 
-#eebmrfjnth .gt_column_spanner_outer:first-child {
+#xaxqqcquyl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#eebmrfjnth .gt_column_spanner_outer:last-child {
+#xaxqqcquyl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#eebmrfjnth .gt_column_spanner {
+#xaxqqcquyl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3540,7 +3540,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   width: 100%;
 }
 
-#eebmrfjnth .gt_group_heading {
+#xaxqqcquyl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3562,7 +3562,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   vertical-align: middle;
 }
 
-#eebmrfjnth .gt_empty_group_heading {
+#xaxqqcquyl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3577,15 +3577,15 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   vertical-align: middle;
 }
 
-#eebmrfjnth .gt_from_md > :first-child {
+#xaxqqcquyl .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#eebmrfjnth .gt_from_md > :last-child {
+#xaxqqcquyl .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#eebmrfjnth .gt_row {
+#xaxqqcquyl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3604,7 +3604,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   overflow-x: hidden;
 }
 
-#eebmrfjnth .gt_stub {
+#xaxqqcquyl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3616,7 +3616,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-left: 12px;
 }
 
-#eebmrfjnth .gt_summary_row {
+#xaxqqcquyl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3626,7 +3626,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-right: 5px;
 }
 
-#eebmrfjnth .gt_first_summary_row {
+#xaxqqcquyl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3636,7 +3636,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-top-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_grand_summary_row {
+#xaxqqcquyl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3646,7 +3646,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   padding-right: 5px;
 }
 
-#eebmrfjnth .gt_first_grand_summary_row {
+#xaxqqcquyl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3656,11 +3656,11 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-top-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_striped {
+#xaxqqcquyl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#eebmrfjnth .gt_table_body {
+#xaxqqcquyl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3669,7 +3669,7 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-bottom-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_footnotes {
+#xaxqqcquyl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3683,13 +3683,13 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_footnote {
+#xaxqqcquyl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#eebmrfjnth .gt_sourcenotes {
+#xaxqqcquyl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3703,41 +3703,41 @@ dplyr::left_join(df1, df2, by = c("user_id" = "userid"))
   border-right-color: #D3D3D3;
 }
 
-#eebmrfjnth .gt_sourcenote {
+#xaxqqcquyl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#eebmrfjnth .gt_left {
+#xaxqqcquyl .gt_left {
   text-align: left;
 }
 
-#eebmrfjnth .gt_center {
+#xaxqqcquyl .gt_center {
   text-align: center;
 }
 
-#eebmrfjnth .gt_right {
+#xaxqqcquyl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#eebmrfjnth .gt_font_normal {
+#xaxqqcquyl .gt_font_normal {
   font-weight: normal;
 }
 
-#eebmrfjnth .gt_font_bold {
+#xaxqqcquyl .gt_font_bold {
   font-weight: bold;
 }
 
-#eebmrfjnth .gt_font_italic {
+#xaxqqcquyl .gt_font_italic {
   font-style: italic;
 }
 
-#eebmrfjnth .gt_super {
+#xaxqqcquyl .gt_super {
   font-size: 65%;
 }
 
-#eebmrfjnth .gt_footnote_marks {
+#xaxqqcquyl .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3801,12 +3801,12 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
 ### Join with subset of columns from two dataframes
 
 ```{=html}
-<div id="dfalpmrvhh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="mxnsldtimw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#dfalpmrvhh .gt_table {
+#mxnsldtimw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3831,7 +3831,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-left-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_heading {
+#mxnsldtimw .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3843,7 +3843,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_title {
+#mxnsldtimw .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3853,7 +3853,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-bottom-width: 0;
 }
 
-#dfalpmrvhh .gt_subtitle {
+#mxnsldtimw .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3863,13 +3863,13 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-top-width: 0;
 }
 
-#dfalpmrvhh .gt_bottom_border {
+#mxnsldtimw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_col_headings {
+#mxnsldtimw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3884,7 +3884,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_col_heading {
+#mxnsldtimw .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3904,7 +3904,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   overflow-x: hidden;
 }
 
-#dfalpmrvhh .gt_column_spanner_outer {
+#mxnsldtimw .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3916,15 +3916,15 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-right: 4px;
 }
 
-#dfalpmrvhh .gt_column_spanner_outer:first-child {
+#mxnsldtimw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dfalpmrvhh .gt_column_spanner_outer:last-child {
+#mxnsldtimw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dfalpmrvhh .gt_column_spanner {
+#mxnsldtimw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3936,7 +3936,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   width: 100%;
 }
 
-#dfalpmrvhh .gt_group_heading {
+#mxnsldtimw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3958,7 +3958,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   vertical-align: middle;
 }
 
-#dfalpmrvhh .gt_empty_group_heading {
+#mxnsldtimw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3973,15 +3973,15 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   vertical-align: middle;
 }
 
-#dfalpmrvhh .gt_from_md > :first-child {
+#mxnsldtimw .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#dfalpmrvhh .gt_from_md > :last-child {
+#mxnsldtimw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#dfalpmrvhh .gt_row {
+#mxnsldtimw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4000,7 +4000,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   overflow-x: hidden;
 }
 
-#dfalpmrvhh .gt_stub {
+#mxnsldtimw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4012,7 +4012,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-left: 12px;
 }
 
-#dfalpmrvhh .gt_summary_row {
+#mxnsldtimw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4022,7 +4022,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-right: 5px;
 }
 
-#dfalpmrvhh .gt_first_summary_row {
+#mxnsldtimw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4032,7 +4032,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-top-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_grand_summary_row {
+#mxnsldtimw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4042,7 +4042,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-right: 5px;
 }
 
-#dfalpmrvhh .gt_first_grand_summary_row {
+#mxnsldtimw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4052,11 +4052,11 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-top-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_striped {
+#mxnsldtimw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dfalpmrvhh .gt_table_body {
+#mxnsldtimw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4065,7 +4065,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-bottom-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_footnotes {
+#mxnsldtimw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4079,13 +4079,13 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_footnote {
+#mxnsldtimw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#dfalpmrvhh .gt_sourcenotes {
+#mxnsldtimw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4099,41 +4099,41 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#dfalpmrvhh .gt_sourcenote {
+#mxnsldtimw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#dfalpmrvhh .gt_left {
+#mxnsldtimw .gt_left {
   text-align: left;
 }
 
-#dfalpmrvhh .gt_center {
+#mxnsldtimw .gt_center {
   text-align: center;
 }
 
-#dfalpmrvhh .gt_right {
+#mxnsldtimw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dfalpmrvhh .gt_font_normal {
+#mxnsldtimw .gt_font_normal {
   font-weight: normal;
 }
 
-#dfalpmrvhh .gt_font_bold {
+#mxnsldtimw .gt_font_bold {
   font-weight: bold;
 }
 
-#dfalpmrvhh .gt_font_italic {
+#mxnsldtimw .gt_font_italic {
   font-style: italic;
 }
 
-#dfalpmrvhh .gt_super {
+#mxnsldtimw .gt_super {
   font-size: 65%;
 }
 
-#dfalpmrvhh .gt_footnote_marks {
+#mxnsldtimw .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4162,12 +4162,12 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
 ```
 
 ```{=html}
-<div id="bhlofkcrmq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="nshagaynlp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bhlofkcrmq .gt_table {
+#nshagaynlp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4192,7 +4192,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-left-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_heading {
+#nshagaynlp .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4204,7 +4204,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_title {
+#nshagaynlp .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4214,7 +4214,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-bottom-width: 0;
 }
 
-#bhlofkcrmq .gt_subtitle {
+#nshagaynlp .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4224,13 +4224,13 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-top-width: 0;
 }
 
-#bhlofkcrmq .gt_bottom_border {
+#nshagaynlp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_col_headings {
+#nshagaynlp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4245,7 +4245,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_col_heading {
+#nshagaynlp .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4265,7 +4265,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   overflow-x: hidden;
 }
 
-#bhlofkcrmq .gt_column_spanner_outer {
+#nshagaynlp .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4277,15 +4277,15 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-right: 4px;
 }
 
-#bhlofkcrmq .gt_column_spanner_outer:first-child {
+#nshagaynlp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bhlofkcrmq .gt_column_spanner_outer:last-child {
+#nshagaynlp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bhlofkcrmq .gt_column_spanner {
+#nshagaynlp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4297,7 +4297,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   width: 100%;
 }
 
-#bhlofkcrmq .gt_group_heading {
+#nshagaynlp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4319,7 +4319,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   vertical-align: middle;
 }
 
-#bhlofkcrmq .gt_empty_group_heading {
+#nshagaynlp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4334,15 +4334,15 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   vertical-align: middle;
 }
 
-#bhlofkcrmq .gt_from_md > :first-child {
+#nshagaynlp .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bhlofkcrmq .gt_from_md > :last-child {
+#nshagaynlp .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bhlofkcrmq .gt_row {
+#nshagaynlp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4361,7 +4361,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   overflow-x: hidden;
 }
 
-#bhlofkcrmq .gt_stub {
+#nshagaynlp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4373,7 +4373,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-left: 12px;
 }
 
-#bhlofkcrmq .gt_summary_row {
+#nshagaynlp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4383,7 +4383,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-right: 5px;
 }
 
-#bhlofkcrmq .gt_first_summary_row {
+#nshagaynlp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4393,7 +4393,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-top-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_grand_summary_row {
+#nshagaynlp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4403,7 +4403,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   padding-right: 5px;
 }
 
-#bhlofkcrmq .gt_first_grand_summary_row {
+#nshagaynlp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4413,11 +4413,11 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-top-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_striped {
+#nshagaynlp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bhlofkcrmq .gt_table_body {
+#nshagaynlp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4426,7 +4426,7 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-bottom-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_footnotes {
+#nshagaynlp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4440,13 +4440,13 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_footnote {
+#nshagaynlp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bhlofkcrmq .gt_sourcenotes {
+#nshagaynlp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4460,41 +4460,41 @@ dplyr::left_join(df1, dplyr::select(df2, user_id, product_purchased, purchase_am
   border-right-color: #D3D3D3;
 }
 
-#bhlofkcrmq .gt_sourcenote {
+#nshagaynlp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bhlofkcrmq .gt_left {
+#nshagaynlp .gt_left {
   text-align: left;
 }
 
-#bhlofkcrmq .gt_center {
+#nshagaynlp .gt_center {
   text-align: center;
 }
 
-#bhlofkcrmq .gt_right {
+#nshagaynlp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bhlofkcrmq .gt_font_normal {
+#nshagaynlp .gt_font_normal {
   font-weight: normal;
 }
 
-#bhlofkcrmq .gt_font_bold {
+#nshagaynlp .gt_font_bold {
   font-weight: bold;
 }
 
-#bhlofkcrmq .gt_font_italic {
+#nshagaynlp .gt_font_italic {
   font-style: italic;
 }
 
-#bhlofkcrmq .gt_super {
+#nshagaynlp .gt_super {
   font-size: 65%;
 }
 
-#bhlofkcrmq .gt_footnote_marks {
+#nshagaynlp .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4558,12 +4558,12 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
 ### Join matching rows in both dataframes
 
 ```{=html}
-<div id="juajlgmkdz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ohhwpkzrvg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#juajlgmkdz .gt_table {
+#ohhwpkzrvg .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4588,7 +4588,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-left-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_heading {
+#ohhwpkzrvg .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4600,7 +4600,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_title {
+#ohhwpkzrvg .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4610,7 +4610,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-bottom-width: 0;
 }
 
-#juajlgmkdz .gt_subtitle {
+#ohhwpkzrvg .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4620,13 +4620,13 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-top-width: 0;
 }
 
-#juajlgmkdz .gt_bottom_border {
+#ohhwpkzrvg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_col_headings {
+#ohhwpkzrvg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4641,7 +4641,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_col_heading {
+#ohhwpkzrvg .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4661,7 +4661,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   overflow-x: hidden;
 }
 
-#juajlgmkdz .gt_column_spanner_outer {
+#ohhwpkzrvg .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4673,15 +4673,15 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-right: 4px;
 }
 
-#juajlgmkdz .gt_column_spanner_outer:first-child {
+#ohhwpkzrvg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#juajlgmkdz .gt_column_spanner_outer:last-child {
+#ohhwpkzrvg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#juajlgmkdz .gt_column_spanner {
+#ohhwpkzrvg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4693,7 +4693,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   width: 100%;
 }
 
-#juajlgmkdz .gt_group_heading {
+#ohhwpkzrvg .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4715,7 +4715,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   vertical-align: middle;
 }
 
-#juajlgmkdz .gt_empty_group_heading {
+#ohhwpkzrvg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4730,15 +4730,15 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   vertical-align: middle;
 }
 
-#juajlgmkdz .gt_from_md > :first-child {
+#ohhwpkzrvg .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#juajlgmkdz .gt_from_md > :last-child {
+#ohhwpkzrvg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#juajlgmkdz .gt_row {
+#ohhwpkzrvg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4757,7 +4757,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   overflow-x: hidden;
 }
 
-#juajlgmkdz .gt_stub {
+#ohhwpkzrvg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4769,7 +4769,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-left: 12px;
 }
 
-#juajlgmkdz .gt_summary_row {
+#ohhwpkzrvg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4779,7 +4779,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-right: 5px;
 }
 
-#juajlgmkdz .gt_first_summary_row {
+#ohhwpkzrvg .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4789,7 +4789,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-top-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_grand_summary_row {
+#ohhwpkzrvg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4799,7 +4799,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-right: 5px;
 }
 
-#juajlgmkdz .gt_first_grand_summary_row {
+#ohhwpkzrvg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4809,11 +4809,11 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-top-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_striped {
+#ohhwpkzrvg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#juajlgmkdz .gt_table_body {
+#ohhwpkzrvg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4822,7 +4822,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-bottom-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_footnotes {
+#ohhwpkzrvg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4836,13 +4836,13 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_footnote {
+#ohhwpkzrvg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#juajlgmkdz .gt_sourcenotes {
+#ohhwpkzrvg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4856,41 +4856,41 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#juajlgmkdz .gt_sourcenote {
+#ohhwpkzrvg .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#juajlgmkdz .gt_left {
+#ohhwpkzrvg .gt_left {
   text-align: left;
 }
 
-#juajlgmkdz .gt_center {
+#ohhwpkzrvg .gt_center {
   text-align: center;
 }
 
-#juajlgmkdz .gt_right {
+#ohhwpkzrvg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#juajlgmkdz .gt_font_normal {
+#ohhwpkzrvg .gt_font_normal {
   font-weight: normal;
 }
 
-#juajlgmkdz .gt_font_bold {
+#ohhwpkzrvg .gt_font_bold {
   font-weight: bold;
 }
 
-#juajlgmkdz .gt_font_italic {
+#ohhwpkzrvg .gt_font_italic {
   font-style: italic;
 }
 
-#juajlgmkdz .gt_super {
+#ohhwpkzrvg .gt_super {
   font-size: 65%;
 }
 
-#juajlgmkdz .gt_footnote_marks {
+#ohhwpkzrvg .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4919,12 +4919,12 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
 ```
 
 ```{=html}
-<div id="rqjgqqaxmc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wmmnxnlagf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#rqjgqqaxmc .gt_table {
+#wmmnxnlagf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4949,7 +4949,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-left-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_heading {
+#wmmnxnlagf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4961,7 +4961,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_title {
+#wmmnxnlagf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4971,7 +4971,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-bottom-width: 0;
 }
 
-#rqjgqqaxmc .gt_subtitle {
+#wmmnxnlagf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4981,13 +4981,13 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-top-width: 0;
 }
 
-#rqjgqqaxmc .gt_bottom_border {
+#wmmnxnlagf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_col_headings {
+#wmmnxnlagf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5002,7 +5002,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_col_heading {
+#wmmnxnlagf .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5022,7 +5022,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   overflow-x: hidden;
 }
 
-#rqjgqqaxmc .gt_column_spanner_outer {
+#wmmnxnlagf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5034,15 +5034,15 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-right: 4px;
 }
 
-#rqjgqqaxmc .gt_column_spanner_outer:first-child {
+#wmmnxnlagf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#rqjgqqaxmc .gt_column_spanner_outer:last-child {
+#wmmnxnlagf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#rqjgqqaxmc .gt_column_spanner {
+#wmmnxnlagf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5054,7 +5054,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   width: 100%;
 }
 
-#rqjgqqaxmc .gt_group_heading {
+#wmmnxnlagf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5076,7 +5076,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   vertical-align: middle;
 }
 
-#rqjgqqaxmc .gt_empty_group_heading {
+#wmmnxnlagf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5091,15 +5091,15 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   vertical-align: middle;
 }
 
-#rqjgqqaxmc .gt_from_md > :first-child {
+#wmmnxnlagf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#rqjgqqaxmc .gt_from_md > :last-child {
+#wmmnxnlagf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#rqjgqqaxmc .gt_row {
+#wmmnxnlagf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5118,7 +5118,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   overflow-x: hidden;
 }
 
-#rqjgqqaxmc .gt_stub {
+#wmmnxnlagf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5130,7 +5130,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-left: 12px;
 }
 
-#rqjgqqaxmc .gt_summary_row {
+#wmmnxnlagf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5140,7 +5140,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-right: 5px;
 }
 
-#rqjgqqaxmc .gt_first_summary_row {
+#wmmnxnlagf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5150,7 +5150,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-top-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_grand_summary_row {
+#wmmnxnlagf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5160,7 +5160,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   padding-right: 5px;
 }
 
-#rqjgqqaxmc .gt_first_grand_summary_row {
+#wmmnxnlagf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5170,11 +5170,11 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-top-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_striped {
+#wmmnxnlagf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#rqjgqqaxmc .gt_table_body {
+#wmmnxnlagf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5183,7 +5183,7 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-bottom-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_footnotes {
+#wmmnxnlagf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5197,13 +5197,13 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_footnote {
+#wmmnxnlagf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#rqjgqqaxmc .gt_sourcenotes {
+#wmmnxnlagf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5217,41 +5217,41 @@ dplyr::left_join(dplyr::select(df1, user_id, first_name, last_name), dplyr::sele
   border-right-color: #D3D3D3;
 }
 
-#rqjgqqaxmc .gt_sourcenote {
+#wmmnxnlagf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#rqjgqqaxmc .gt_left {
+#wmmnxnlagf .gt_left {
   text-align: left;
 }
 
-#rqjgqqaxmc .gt_center {
+#wmmnxnlagf .gt_center {
   text-align: center;
 }
 
-#rqjgqqaxmc .gt_right {
+#wmmnxnlagf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#rqjgqqaxmc .gt_font_normal {
+#wmmnxnlagf .gt_font_normal {
   font-weight: normal;
 }
 
-#rqjgqqaxmc .gt_font_bold {
+#wmmnxnlagf .gt_font_bold {
   font-weight: bold;
 }
 
-#rqjgqqaxmc .gt_font_italic {
+#wmmnxnlagf .gt_font_italic {
   font-style: italic;
 }
 
-#rqjgqqaxmc .gt_super {
+#wmmnxnlagf .gt_super {
   font-size: 65%;
 }
 
-#rqjgqqaxmc .gt_footnote_marks {
+#wmmnxnlagf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5315,12 +5315,12 @@ dplyr::inner_join(df1, df2, by = "user_id")
 ### Join matching rows from the second dataframe to the first dataframe
 
 ```{=html}
-<div id="bdnpvrpwwd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xmsuzkzark" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bdnpvrpwwd .gt_table {
+#xmsuzkzark .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5345,7 +5345,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_heading {
+#xmsuzkzark .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5357,7 +5357,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_title {
+#xmsuzkzark .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5367,7 +5367,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#bdnpvrpwwd .gt_subtitle {
+#xmsuzkzark .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5377,13 +5377,13 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#bdnpvrpwwd .gt_bottom_border {
+#xmsuzkzark .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_col_headings {
+#xmsuzkzark .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5398,7 +5398,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_col_heading {
+#xmsuzkzark .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5418,7 +5418,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#bdnpvrpwwd .gt_column_spanner_outer {
+#xmsuzkzark .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5430,15 +5430,15 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#bdnpvrpwwd .gt_column_spanner_outer:first-child {
+#xmsuzkzark .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bdnpvrpwwd .gt_column_spanner_outer:last-child {
+#xmsuzkzark .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bdnpvrpwwd .gt_column_spanner {
+#xmsuzkzark .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5450,7 +5450,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#bdnpvrpwwd .gt_group_heading {
+#xmsuzkzark .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5472,7 +5472,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#bdnpvrpwwd .gt_empty_group_heading {
+#xmsuzkzark .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5487,15 +5487,15 @@ dplyr::inner_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#bdnpvrpwwd .gt_from_md > :first-child {
+#xmsuzkzark .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bdnpvrpwwd .gt_from_md > :last-child {
+#xmsuzkzark .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bdnpvrpwwd .gt_row {
+#xmsuzkzark .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5514,7 +5514,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#bdnpvrpwwd .gt_stub {
+#xmsuzkzark .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5526,7 +5526,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#bdnpvrpwwd .gt_summary_row {
+#xmsuzkzark .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5536,7 +5536,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#bdnpvrpwwd .gt_first_summary_row {
+#xmsuzkzark .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5546,7 +5546,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_grand_summary_row {
+#xmsuzkzark .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5556,7 +5556,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#bdnpvrpwwd .gt_first_grand_summary_row {
+#xmsuzkzark .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5566,11 +5566,11 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_striped {
+#xmsuzkzark .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bdnpvrpwwd .gt_table_body {
+#xmsuzkzark .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5579,7 +5579,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_footnotes {
+#xmsuzkzark .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5593,13 +5593,13 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_footnote {
+#xmsuzkzark .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bdnpvrpwwd .gt_sourcenotes {
+#xmsuzkzark .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5613,41 +5613,41 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bdnpvrpwwd .gt_sourcenote {
+#xmsuzkzark .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bdnpvrpwwd .gt_left {
+#xmsuzkzark .gt_left {
   text-align: left;
 }
 
-#bdnpvrpwwd .gt_center {
+#xmsuzkzark .gt_center {
   text-align: center;
 }
 
-#bdnpvrpwwd .gt_right {
+#xmsuzkzark .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bdnpvrpwwd .gt_font_normal {
+#xmsuzkzark .gt_font_normal {
   font-weight: normal;
 }
 
-#bdnpvrpwwd .gt_font_bold {
+#xmsuzkzark .gt_font_bold {
   font-weight: bold;
 }
 
-#bdnpvrpwwd .gt_font_italic {
+#xmsuzkzark .gt_font_italic {
   font-style: italic;
 }
 
-#bdnpvrpwwd .gt_super {
+#xmsuzkzark .gt_super {
   font-size: 65%;
 }
 
-#bdnpvrpwwd .gt_footnote_marks {
+#xmsuzkzark .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5676,12 +5676,12 @@ dplyr::inner_join(df1, df2, by = "user_id")
 ```
 
 ```{=html}
-<div id="syhptwveyy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="aegdziynxr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#syhptwveyy .gt_table {
+#aegdziynxr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5706,7 +5706,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_heading {
+#aegdziynxr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5718,7 +5718,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_title {
+#aegdziynxr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5728,7 +5728,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#syhptwveyy .gt_subtitle {
+#aegdziynxr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5738,13 +5738,13 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#syhptwveyy .gt_bottom_border {
+#aegdziynxr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_col_headings {
+#aegdziynxr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5759,7 +5759,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_col_heading {
+#aegdziynxr .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5779,7 +5779,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#syhptwveyy .gt_column_spanner_outer {
+#aegdziynxr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5791,15 +5791,15 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#syhptwveyy .gt_column_spanner_outer:first-child {
+#aegdziynxr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#syhptwveyy .gt_column_spanner_outer:last-child {
+#aegdziynxr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#syhptwveyy .gt_column_spanner {
+#aegdziynxr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5811,7 +5811,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#syhptwveyy .gt_group_heading {
+#aegdziynxr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5833,7 +5833,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#syhptwveyy .gt_empty_group_heading {
+#aegdziynxr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5848,15 +5848,15 @@ dplyr::inner_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#syhptwveyy .gt_from_md > :first-child {
+#aegdziynxr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#syhptwveyy .gt_from_md > :last-child {
+#aegdziynxr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#syhptwveyy .gt_row {
+#aegdziynxr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5875,7 +5875,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#syhptwveyy .gt_stub {
+#aegdziynxr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5887,7 +5887,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#syhptwveyy .gt_summary_row {
+#aegdziynxr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5897,7 +5897,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#syhptwveyy .gt_first_summary_row {
+#aegdziynxr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5907,7 +5907,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_grand_summary_row {
+#aegdziynxr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5917,7 +5917,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#syhptwveyy .gt_first_grand_summary_row {
+#aegdziynxr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5927,11 +5927,11 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_striped {
+#aegdziynxr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#syhptwveyy .gt_table_body {
+#aegdziynxr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5940,7 +5940,7 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_footnotes {
+#aegdziynxr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5954,13 +5954,13 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_footnote {
+#aegdziynxr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#syhptwveyy .gt_sourcenotes {
+#aegdziynxr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5974,41 +5974,41 @@ dplyr::inner_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#syhptwveyy .gt_sourcenote {
+#aegdziynxr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#syhptwveyy .gt_left {
+#aegdziynxr .gt_left {
   text-align: left;
 }
 
-#syhptwveyy .gt_center {
+#aegdziynxr .gt_center {
   text-align: center;
 }
 
-#syhptwveyy .gt_right {
+#aegdziynxr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#syhptwveyy .gt_font_normal {
+#aegdziynxr .gt_font_normal {
   font-weight: normal;
 }
 
-#syhptwveyy .gt_font_bold {
+#aegdziynxr .gt_font_bold {
   font-weight: bold;
 }
 
-#syhptwveyy .gt_font_italic {
+#aegdziynxr .gt_font_italic {
   font-style: italic;
 }
 
-#syhptwveyy .gt_super {
+#aegdziynxr .gt_super {
   font-size: 65%;
 }
 
-#syhptwveyy .gt_footnote_marks {
+#aegdziynxr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6072,12 +6072,12 @@ dplyr::left_join(df1, df2, by = "user_id")
 ### Join matching rows from the first dataframe to the first dataframe
 
 ```{=html}
-<div id="gsrkdhxmlf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wufsdtrdzp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#gsrkdhxmlf .gt_table {
+#wufsdtrdzp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6102,7 +6102,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_heading {
+#wufsdtrdzp .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6114,7 +6114,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_title {
+#wufsdtrdzp .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6124,7 +6124,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#gsrkdhxmlf .gt_subtitle {
+#wufsdtrdzp .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6134,13 +6134,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#gsrkdhxmlf .gt_bottom_border {
+#wufsdtrdzp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_col_headings {
+#wufsdtrdzp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6155,7 +6155,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_col_heading {
+#wufsdtrdzp .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6175,7 +6175,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#gsrkdhxmlf .gt_column_spanner_outer {
+#wufsdtrdzp .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6187,15 +6187,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#gsrkdhxmlf .gt_column_spanner_outer:first-child {
+#wufsdtrdzp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gsrkdhxmlf .gt_column_spanner_outer:last-child {
+#wufsdtrdzp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gsrkdhxmlf .gt_column_spanner {
+#wufsdtrdzp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6207,7 +6207,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#gsrkdhxmlf .gt_group_heading {
+#wufsdtrdzp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6229,7 +6229,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#gsrkdhxmlf .gt_empty_group_heading {
+#wufsdtrdzp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6244,15 +6244,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#gsrkdhxmlf .gt_from_md > :first-child {
+#wufsdtrdzp .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gsrkdhxmlf .gt_from_md > :last-child {
+#wufsdtrdzp .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gsrkdhxmlf .gt_row {
+#wufsdtrdzp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6271,7 +6271,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#gsrkdhxmlf .gt_stub {
+#wufsdtrdzp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6283,7 +6283,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#gsrkdhxmlf .gt_summary_row {
+#wufsdtrdzp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6293,7 +6293,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#gsrkdhxmlf .gt_first_summary_row {
+#wufsdtrdzp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6303,7 +6303,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_grand_summary_row {
+#wufsdtrdzp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6313,7 +6313,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#gsrkdhxmlf .gt_first_grand_summary_row {
+#wufsdtrdzp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6323,11 +6323,11 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_striped {
+#wufsdtrdzp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gsrkdhxmlf .gt_table_body {
+#wufsdtrdzp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6336,7 +6336,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_footnotes {
+#wufsdtrdzp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6350,13 +6350,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_footnote {
+#wufsdtrdzp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#gsrkdhxmlf .gt_sourcenotes {
+#wufsdtrdzp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6370,41 +6370,41 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#gsrkdhxmlf .gt_sourcenote {
+#wufsdtrdzp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#gsrkdhxmlf .gt_left {
+#wufsdtrdzp .gt_left {
   text-align: left;
 }
 
-#gsrkdhxmlf .gt_center {
+#wufsdtrdzp .gt_center {
   text-align: center;
 }
 
-#gsrkdhxmlf .gt_right {
+#wufsdtrdzp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gsrkdhxmlf .gt_font_normal {
+#wufsdtrdzp .gt_font_normal {
   font-weight: normal;
 }
 
-#gsrkdhxmlf .gt_font_bold {
+#wufsdtrdzp .gt_font_bold {
   font-weight: bold;
 }
 
-#gsrkdhxmlf .gt_font_italic {
+#wufsdtrdzp .gt_font_italic {
   font-style: italic;
 }
 
-#gsrkdhxmlf .gt_super {
+#wufsdtrdzp .gt_super {
   font-size: 65%;
 }
 
-#gsrkdhxmlf .gt_footnote_marks {
+#wufsdtrdzp .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6433,12 +6433,12 @@ dplyr::left_join(df1, df2, by = "user_id")
 ```
 
 ```{=html}
-<div id="miocjtlblm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lrfhrtousu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#miocjtlblm .gt_table {
+#lrfhrtousu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6463,7 +6463,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_heading {
+#lrfhrtousu .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6475,7 +6475,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_title {
+#lrfhrtousu .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6485,7 +6485,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#miocjtlblm .gt_subtitle {
+#lrfhrtousu .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6495,13 +6495,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#miocjtlblm .gt_bottom_border {
+#lrfhrtousu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_col_headings {
+#lrfhrtousu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6516,7 +6516,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_col_heading {
+#lrfhrtousu .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6536,7 +6536,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#miocjtlblm .gt_column_spanner_outer {
+#lrfhrtousu .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6548,15 +6548,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#miocjtlblm .gt_column_spanner_outer:first-child {
+#lrfhrtousu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#miocjtlblm .gt_column_spanner_outer:last-child {
+#lrfhrtousu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#miocjtlblm .gt_column_spanner {
+#lrfhrtousu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6568,7 +6568,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#miocjtlblm .gt_group_heading {
+#lrfhrtousu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6590,7 +6590,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#miocjtlblm .gt_empty_group_heading {
+#lrfhrtousu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6605,15 +6605,15 @@ dplyr::left_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#miocjtlblm .gt_from_md > :first-child {
+#lrfhrtousu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#miocjtlblm .gt_from_md > :last-child {
+#lrfhrtousu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#miocjtlblm .gt_row {
+#lrfhrtousu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6632,7 +6632,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#miocjtlblm .gt_stub {
+#lrfhrtousu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6644,7 +6644,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#miocjtlblm .gt_summary_row {
+#lrfhrtousu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6654,7 +6654,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#miocjtlblm .gt_first_summary_row {
+#lrfhrtousu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6664,7 +6664,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_grand_summary_row {
+#lrfhrtousu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6674,7 +6674,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#miocjtlblm .gt_first_grand_summary_row {
+#lrfhrtousu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6684,11 +6684,11 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_striped {
+#lrfhrtousu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#miocjtlblm .gt_table_body {
+#lrfhrtousu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6697,7 +6697,7 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_footnotes {
+#lrfhrtousu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6711,13 +6711,13 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_footnote {
+#lrfhrtousu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#miocjtlblm .gt_sourcenotes {
+#lrfhrtousu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6731,41 +6731,41 @@ dplyr::left_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#miocjtlblm .gt_sourcenote {
+#lrfhrtousu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#miocjtlblm .gt_left {
+#lrfhrtousu .gt_left {
   text-align: left;
 }
 
-#miocjtlblm .gt_center {
+#lrfhrtousu .gt_center {
   text-align: center;
 }
 
-#miocjtlblm .gt_right {
+#lrfhrtousu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#miocjtlblm .gt_font_normal {
+#lrfhrtousu .gt_font_normal {
   font-weight: normal;
 }
 
-#miocjtlblm .gt_font_bold {
+#lrfhrtousu .gt_font_bold {
   font-weight: bold;
 }
 
-#miocjtlblm .gt_font_italic {
+#lrfhrtousu .gt_font_italic {
   font-style: italic;
 }
 
-#miocjtlblm .gt_super {
+#lrfhrtousu .gt_super {
   font-size: 65%;
 }
 
-#miocjtlblm .gt_footnote_marks {
+#lrfhrtousu .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6828,12 +6828,12 @@ dplyr::right_join(df1, df2, by = "user_id")
 ### Join all rows regardless of matching
 
 ```{=html}
-<div id="fvcztjrxlx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xhipzgypog" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#fvcztjrxlx .gt_table {
+#xhipzgypog .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6858,7 +6858,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_heading {
+#xhipzgypog .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6870,7 +6870,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_title {
+#xhipzgypog .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6880,7 +6880,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#fvcztjrxlx .gt_subtitle {
+#xhipzgypog .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6890,13 +6890,13 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#fvcztjrxlx .gt_bottom_border {
+#xhipzgypog .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_col_headings {
+#xhipzgypog .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6911,7 +6911,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_col_heading {
+#xhipzgypog .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6931,7 +6931,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#fvcztjrxlx .gt_column_spanner_outer {
+#xhipzgypog .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6943,15 +6943,15 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#fvcztjrxlx .gt_column_spanner_outer:first-child {
+#xhipzgypog .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fvcztjrxlx .gt_column_spanner_outer:last-child {
+#xhipzgypog .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fvcztjrxlx .gt_column_spanner {
+#xhipzgypog .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6963,7 +6963,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#fvcztjrxlx .gt_group_heading {
+#xhipzgypog .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6985,7 +6985,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#fvcztjrxlx .gt_empty_group_heading {
+#xhipzgypog .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7000,15 +7000,15 @@ dplyr::right_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#fvcztjrxlx .gt_from_md > :first-child {
+#xhipzgypog .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fvcztjrxlx .gt_from_md > :last-child {
+#xhipzgypog .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fvcztjrxlx .gt_row {
+#xhipzgypog .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7027,7 +7027,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#fvcztjrxlx .gt_stub {
+#xhipzgypog .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7039,7 +7039,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#fvcztjrxlx .gt_summary_row {
+#xhipzgypog .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7049,7 +7049,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#fvcztjrxlx .gt_first_summary_row {
+#xhipzgypog .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7059,7 +7059,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_grand_summary_row {
+#xhipzgypog .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7069,7 +7069,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#fvcztjrxlx .gt_first_grand_summary_row {
+#xhipzgypog .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7079,11 +7079,11 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_striped {
+#xhipzgypog .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fvcztjrxlx .gt_table_body {
+#xhipzgypog .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7092,7 +7092,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_footnotes {
+#xhipzgypog .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7106,13 +7106,13 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_footnote {
+#xhipzgypog .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#fvcztjrxlx .gt_sourcenotes {
+#xhipzgypog .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7126,41 +7126,41 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#fvcztjrxlx .gt_sourcenote {
+#xhipzgypog .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#fvcztjrxlx .gt_left {
+#xhipzgypog .gt_left {
   text-align: left;
 }
 
-#fvcztjrxlx .gt_center {
+#xhipzgypog .gt_center {
   text-align: center;
 }
 
-#fvcztjrxlx .gt_right {
+#xhipzgypog .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fvcztjrxlx .gt_font_normal {
+#xhipzgypog .gt_font_normal {
   font-weight: normal;
 }
 
-#fvcztjrxlx .gt_font_bold {
+#xhipzgypog .gt_font_bold {
   font-weight: bold;
 }
 
-#fvcztjrxlx .gt_font_italic {
+#xhipzgypog .gt_font_italic {
   font-style: italic;
 }
 
-#fvcztjrxlx .gt_super {
+#xhipzgypog .gt_super {
   font-size: 65%;
 }
 
-#fvcztjrxlx .gt_footnote_marks {
+#xhipzgypog .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7189,12 +7189,12 @@ dplyr::right_join(df1, df2, by = "user_id")
 ```
 
 ```{=html}
-<div id="txispamwup" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gbqxvamytv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#txispamwup .gt_table {
+#gbqxvamytv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7219,7 +7219,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#txispamwup .gt_heading {
+#gbqxvamytv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7231,7 +7231,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#txispamwup .gt_title {
+#gbqxvamytv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7241,7 +7241,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#txispamwup .gt_subtitle {
+#gbqxvamytv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7251,13 +7251,13 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#txispamwup .gt_bottom_border {
+#gbqxvamytv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#txispamwup .gt_col_headings {
+#gbqxvamytv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7272,7 +7272,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#txispamwup .gt_col_heading {
+#gbqxvamytv .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7292,7 +7292,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#txispamwup .gt_column_spanner_outer {
+#gbqxvamytv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7304,15 +7304,15 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#txispamwup .gt_column_spanner_outer:first-child {
+#gbqxvamytv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#txispamwup .gt_column_spanner_outer:last-child {
+#gbqxvamytv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#txispamwup .gt_column_spanner {
+#gbqxvamytv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7324,7 +7324,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#txispamwup .gt_group_heading {
+#gbqxvamytv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7346,7 +7346,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#txispamwup .gt_empty_group_heading {
+#gbqxvamytv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7361,15 +7361,15 @@ dplyr::right_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#txispamwup .gt_from_md > :first-child {
+#gbqxvamytv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#txispamwup .gt_from_md > :last-child {
+#gbqxvamytv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#txispamwup .gt_row {
+#gbqxvamytv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7388,7 +7388,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#txispamwup .gt_stub {
+#gbqxvamytv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7400,7 +7400,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#txispamwup .gt_summary_row {
+#gbqxvamytv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7410,7 +7410,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#txispamwup .gt_first_summary_row {
+#gbqxvamytv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7420,7 +7420,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#txispamwup .gt_grand_summary_row {
+#gbqxvamytv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7430,7 +7430,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#txispamwup .gt_first_grand_summary_row {
+#gbqxvamytv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7440,11 +7440,11 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#txispamwup .gt_striped {
+#gbqxvamytv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#txispamwup .gt_table_body {
+#gbqxvamytv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7453,7 +7453,7 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#txispamwup .gt_footnotes {
+#gbqxvamytv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7467,13 +7467,13 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#txispamwup .gt_footnote {
+#gbqxvamytv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#txispamwup .gt_sourcenotes {
+#gbqxvamytv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7487,41 +7487,41 @@ dplyr::right_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#txispamwup .gt_sourcenote {
+#gbqxvamytv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#txispamwup .gt_left {
+#gbqxvamytv .gt_left {
   text-align: left;
 }
 
-#txispamwup .gt_center {
+#gbqxvamytv .gt_center {
   text-align: center;
 }
 
-#txispamwup .gt_right {
+#gbqxvamytv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#txispamwup .gt_font_normal {
+#gbqxvamytv .gt_font_normal {
   font-weight: normal;
 }
 
-#txispamwup .gt_font_bold {
+#gbqxvamytv .gt_font_bold {
   font-weight: bold;
 }
 
-#txispamwup .gt_font_italic {
+#gbqxvamytv .gt_font_italic {
   font-style: italic;
 }
 
-#txispamwup .gt_super {
+#gbqxvamytv .gt_super {
   font-size: 65%;
 }
 
-#txispamwup .gt_footnote_marks {
+#gbqxvamytv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7585,12 +7585,12 @@ dplyr::full_join(df1, df2, by = "user_id")
 ### Filter dataframe where matching rows between dataframes
 
 ```{=html}
-<div id="lbuqsiidvx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ukxscrdxph" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lbuqsiidvx .gt_table {
+#ukxscrdxph .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7615,7 +7615,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_heading {
+#ukxscrdxph .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7627,7 +7627,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_title {
+#ukxscrdxph .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7637,7 +7637,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#lbuqsiidvx .gt_subtitle {
+#ukxscrdxph .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7647,13 +7647,13 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#lbuqsiidvx .gt_bottom_border {
+#ukxscrdxph .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_col_headings {
+#ukxscrdxph .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7668,7 +7668,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_col_heading {
+#ukxscrdxph .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -7688,7 +7688,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#lbuqsiidvx .gt_column_spanner_outer {
+#ukxscrdxph .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -7700,15 +7700,15 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#lbuqsiidvx .gt_column_spanner_outer:first-child {
+#ukxscrdxph .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lbuqsiidvx .gt_column_spanner_outer:last-child {
+#ukxscrdxph .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lbuqsiidvx .gt_column_spanner {
+#ukxscrdxph .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7720,7 +7720,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#lbuqsiidvx .gt_group_heading {
+#ukxscrdxph .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7742,7 +7742,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#lbuqsiidvx .gt_empty_group_heading {
+#ukxscrdxph .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7757,15 +7757,15 @@ dplyr::full_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#lbuqsiidvx .gt_from_md > :first-child {
+#ukxscrdxph .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#lbuqsiidvx .gt_from_md > :last-child {
+#ukxscrdxph .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#lbuqsiidvx .gt_row {
+#ukxscrdxph .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7784,7 +7784,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#lbuqsiidvx .gt_stub {
+#ukxscrdxph .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7796,7 +7796,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#lbuqsiidvx .gt_summary_row {
+#ukxscrdxph .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7806,7 +7806,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#lbuqsiidvx .gt_first_summary_row {
+#ukxscrdxph .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7816,7 +7816,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_grand_summary_row {
+#ukxscrdxph .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7826,7 +7826,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#lbuqsiidvx .gt_first_grand_summary_row {
+#ukxscrdxph .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7836,11 +7836,11 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_striped {
+#ukxscrdxph .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lbuqsiidvx .gt_table_body {
+#ukxscrdxph .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7849,7 +7849,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_footnotes {
+#ukxscrdxph .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7863,13 +7863,13 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_footnote {
+#ukxscrdxph .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lbuqsiidvx .gt_sourcenotes {
+#ukxscrdxph .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7883,41 +7883,41 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#lbuqsiidvx .gt_sourcenote {
+#ukxscrdxph .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lbuqsiidvx .gt_left {
+#ukxscrdxph .gt_left {
   text-align: left;
 }
 
-#lbuqsiidvx .gt_center {
+#ukxscrdxph .gt_center {
   text-align: center;
 }
 
-#lbuqsiidvx .gt_right {
+#ukxscrdxph .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lbuqsiidvx .gt_font_normal {
+#ukxscrdxph .gt_font_normal {
   font-weight: normal;
 }
 
-#lbuqsiidvx .gt_font_bold {
+#ukxscrdxph .gt_font_bold {
   font-weight: bold;
 }
 
-#lbuqsiidvx .gt_font_italic {
+#ukxscrdxph .gt_font_italic {
   font-style: italic;
 }
 
-#lbuqsiidvx .gt_super {
+#ukxscrdxph .gt_super {
   font-size: 65%;
 }
 
-#lbuqsiidvx .gt_footnote_marks {
+#ukxscrdxph .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7946,12 +7946,12 @@ dplyr::full_join(df1, df2, by = "user_id")
 ```
 
 ```{=html}
-<div id="rfgninqhbl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="udqqojjiad" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#rfgninqhbl .gt_table {
+#udqqojjiad .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7976,7 +7976,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_heading {
+#udqqojjiad .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7988,7 +7988,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_title {
+#udqqojjiad .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7998,7 +7998,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#rfgninqhbl .gt_subtitle {
+#udqqojjiad .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8008,13 +8008,13 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#rfgninqhbl .gt_bottom_border {
+#udqqojjiad .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_col_headings {
+#udqqojjiad .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8029,7 +8029,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_col_heading {
+#udqqojjiad .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8049,7 +8049,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#rfgninqhbl .gt_column_spanner_outer {
+#udqqojjiad .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8061,15 +8061,15 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#rfgninqhbl .gt_column_spanner_outer:first-child {
+#udqqojjiad .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#rfgninqhbl .gt_column_spanner_outer:last-child {
+#udqqojjiad .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#rfgninqhbl .gt_column_spanner {
+#udqqojjiad .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8081,7 +8081,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#rfgninqhbl .gt_group_heading {
+#udqqojjiad .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8103,7 +8103,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#rfgninqhbl .gt_empty_group_heading {
+#udqqojjiad .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8118,15 +8118,15 @@ dplyr::full_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#rfgninqhbl .gt_from_md > :first-child {
+#udqqojjiad .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#rfgninqhbl .gt_from_md > :last-child {
+#udqqojjiad .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#rfgninqhbl .gt_row {
+#udqqojjiad .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8145,7 +8145,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#rfgninqhbl .gt_stub {
+#udqqojjiad .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8157,7 +8157,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#rfgninqhbl .gt_summary_row {
+#udqqojjiad .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8167,7 +8167,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#rfgninqhbl .gt_first_summary_row {
+#udqqojjiad .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8177,7 +8177,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_grand_summary_row {
+#udqqojjiad .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8187,7 +8187,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#rfgninqhbl .gt_first_grand_summary_row {
+#udqqojjiad .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8197,11 +8197,11 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_striped {
+#udqqojjiad .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#rfgninqhbl .gt_table_body {
+#udqqojjiad .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8210,7 +8210,7 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_footnotes {
+#udqqojjiad .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8224,13 +8224,13 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_footnote {
+#udqqojjiad .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#rfgninqhbl .gt_sourcenotes {
+#udqqojjiad .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8244,41 +8244,41 @@ dplyr::full_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#rfgninqhbl .gt_sourcenote {
+#udqqojjiad .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#rfgninqhbl .gt_left {
+#udqqojjiad .gt_left {
   text-align: left;
 }
 
-#rfgninqhbl .gt_center {
+#udqqojjiad .gt_center {
   text-align: center;
 }
 
-#rfgninqhbl .gt_right {
+#udqqojjiad .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#rfgninqhbl .gt_font_normal {
+#udqqojjiad .gt_font_normal {
   font-weight: normal;
 }
 
-#rfgninqhbl .gt_font_bold {
+#udqqojjiad .gt_font_bold {
   font-weight: bold;
 }
 
-#rfgninqhbl .gt_font_italic {
+#udqqojjiad .gt_font_italic {
   font-style: italic;
 }
 
-#rfgninqhbl .gt_super {
+#udqqojjiad .gt_super {
   font-size: 65%;
 }
 
-#rfgninqhbl .gt_footnote_marks {
+#udqqojjiad .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8342,12 +8342,12 @@ dplyr::semi_join(df1, df2, by = "user_id")
 ### Filter dataframe where non-matching rows between dataframes
 
 ```{=html}
-<div id="btztjfkcxx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="uofrabyelr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#btztjfkcxx .gt_table {
+#uofrabyelr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -8372,7 +8372,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_heading {
+#uofrabyelr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -8384,7 +8384,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_title {
+#uofrabyelr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -8394,7 +8394,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#btztjfkcxx .gt_subtitle {
+#uofrabyelr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8404,13 +8404,13 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#btztjfkcxx .gt_bottom_border {
+#uofrabyelr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_col_headings {
+#uofrabyelr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8425,7 +8425,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_col_heading {
+#uofrabyelr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -8445,7 +8445,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#btztjfkcxx .gt_column_spanner_outer {
+#uofrabyelr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -8457,15 +8457,15 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#btztjfkcxx .gt_column_spanner_outer:first-child {
+#uofrabyelr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#btztjfkcxx .gt_column_spanner_outer:last-child {
+#uofrabyelr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#btztjfkcxx .gt_column_spanner {
+#uofrabyelr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8477,7 +8477,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#btztjfkcxx .gt_group_heading {
+#uofrabyelr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8499,7 +8499,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#btztjfkcxx .gt_empty_group_heading {
+#uofrabyelr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8514,15 +8514,15 @@ dplyr::semi_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#btztjfkcxx .gt_from_md > :first-child {
+#uofrabyelr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#btztjfkcxx .gt_from_md > :last-child {
+#uofrabyelr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#btztjfkcxx .gt_row {
+#uofrabyelr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8541,7 +8541,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#btztjfkcxx .gt_stub {
+#uofrabyelr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8553,7 +8553,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#btztjfkcxx .gt_summary_row {
+#uofrabyelr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8563,7 +8563,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#btztjfkcxx .gt_first_summary_row {
+#uofrabyelr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8573,7 +8573,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_grand_summary_row {
+#uofrabyelr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8583,7 +8583,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#btztjfkcxx .gt_first_grand_summary_row {
+#uofrabyelr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8593,11 +8593,11 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_striped {
+#uofrabyelr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#btztjfkcxx .gt_table_body {
+#uofrabyelr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8606,7 +8606,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_footnotes {
+#uofrabyelr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8620,13 +8620,13 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_footnote {
+#uofrabyelr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#btztjfkcxx .gt_sourcenotes {
+#uofrabyelr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8640,41 +8640,41 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#btztjfkcxx .gt_sourcenote {
+#uofrabyelr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#btztjfkcxx .gt_left {
+#uofrabyelr .gt_left {
   text-align: left;
 }
 
-#btztjfkcxx .gt_center {
+#uofrabyelr .gt_center {
   text-align: center;
 }
 
-#btztjfkcxx .gt_right {
+#uofrabyelr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#btztjfkcxx .gt_font_normal {
+#uofrabyelr .gt_font_normal {
   font-weight: normal;
 }
 
-#btztjfkcxx .gt_font_bold {
+#uofrabyelr .gt_font_bold {
   font-weight: bold;
 }
 
-#btztjfkcxx .gt_font_italic {
+#uofrabyelr .gt_font_italic {
   font-style: italic;
 }
 
-#btztjfkcxx .gt_super {
+#uofrabyelr .gt_super {
   font-size: 65%;
 }
 
-#btztjfkcxx .gt_footnote_marks {
+#uofrabyelr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -8703,12 +8703,12 @@ dplyr::semi_join(df1, df2, by = "user_id")
 ```
 
 ```{=html}
-<div id="bundirpgku" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="cagurraytv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bundirpgku .gt_table {
+#cagurraytv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -8733,7 +8733,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-left-color: #D3D3D3;
 }
 
-#bundirpgku .gt_heading {
+#cagurraytv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -8745,7 +8745,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bundirpgku .gt_title {
+#cagurraytv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -8755,7 +8755,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-bottom-width: 0;
 }
 
-#bundirpgku .gt_subtitle {
+#cagurraytv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -8765,13 +8765,13 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-top-width: 0;
 }
 
-#bundirpgku .gt_bottom_border {
+#cagurraytv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bundirpgku .gt_col_headings {
+#cagurraytv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8786,7 +8786,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bundirpgku .gt_col_heading {
+#cagurraytv .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8806,7 +8806,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#bundirpgku .gt_column_spanner_outer {
+#cagurraytv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -8818,15 +8818,15 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-right: 4px;
 }
 
-#bundirpgku .gt_column_spanner_outer:first-child {
+#cagurraytv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bundirpgku .gt_column_spanner_outer:last-child {
+#cagurraytv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bundirpgku .gt_column_spanner {
+#cagurraytv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -8838,7 +8838,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   width: 100%;
 }
 
-#bundirpgku .gt_group_heading {
+#cagurraytv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8860,7 +8860,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#bundirpgku .gt_empty_group_heading {
+#cagurraytv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -8875,15 +8875,15 @@ dplyr::semi_join(df1, df2, by = "user_id")
   vertical-align: middle;
 }
 
-#bundirpgku .gt_from_md > :first-child {
+#cagurraytv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bundirpgku .gt_from_md > :last-child {
+#cagurraytv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bundirpgku .gt_row {
+#cagurraytv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8902,7 +8902,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   overflow-x: hidden;
 }
 
-#bundirpgku .gt_stub {
+#cagurraytv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -8914,7 +8914,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-left: 12px;
 }
 
-#bundirpgku .gt_summary_row {
+#cagurraytv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8924,7 +8924,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#bundirpgku .gt_first_summary_row {
+#cagurraytv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8934,7 +8934,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#bundirpgku .gt_grand_summary_row {
+#cagurraytv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -8944,7 +8944,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   padding-right: 5px;
 }
 
-#bundirpgku .gt_first_grand_summary_row {
+#cagurraytv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -8954,11 +8954,11 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-top-color: #D3D3D3;
 }
 
-#bundirpgku .gt_striped {
+#cagurraytv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bundirpgku .gt_table_body {
+#cagurraytv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -8967,7 +8967,7 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-bottom-color: #D3D3D3;
 }
 
-#bundirpgku .gt_footnotes {
+#cagurraytv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -8981,13 +8981,13 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bundirpgku .gt_footnote {
+#cagurraytv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bundirpgku .gt_sourcenotes {
+#cagurraytv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -9001,41 +9001,41 @@ dplyr::semi_join(df1, df2, by = "user_id")
   border-right-color: #D3D3D3;
 }
 
-#bundirpgku .gt_sourcenote {
+#cagurraytv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bundirpgku .gt_left {
+#cagurraytv .gt_left {
   text-align: left;
 }
 
-#bundirpgku .gt_center {
+#cagurraytv .gt_center {
   text-align: center;
 }
 
-#bundirpgku .gt_right {
+#cagurraytv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bundirpgku .gt_font_normal {
+#cagurraytv .gt_font_normal {
   font-weight: normal;
 }
 
-#bundirpgku .gt_font_bold {
+#cagurraytv .gt_font_bold {
   font-weight: bold;
 }
 
-#bundirpgku .gt_font_italic {
+#cagurraytv .gt_font_italic {
   font-style: italic;
 }
 
-#bundirpgku .gt_super {
+#cagurraytv .gt_super {
   font-size: 65%;
 }
 
-#bundirpgku .gt_footnote_marks {
+#cagurraytv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;

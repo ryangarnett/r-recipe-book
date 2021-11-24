@@ -1,0 +1,717 @@
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Load packages
+library(gt)
+library(readr)
+library(icons)
+library(fontawesome)
+library(purrr)
+library(stringr)
+library(tidyr)
+library(dplyr)
+library(janitor)
+```
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+# Functions, variables, and data
+pepper_on <- fontawesome::fa("pepper-hot", fill = "#A62014", height = "2em")
+pepper_off <- fontawesome::fa("pepper-hot", fill = "#9FC2B9", height = "2em")
+
+spicy0 <- paste0(pepper_off, pepper_off, pepper_off)
+spicy1 <- paste0(pepper_on, pepper_off, pepper_off)
+spicy2 <- paste0(pepper_on, pepper_on, pepper_off)
+spicy3 <- paste0(pepper_on, pepper_on, pepper_on)
+
+colour1 <- "#153331"
+colour2 <- "#1E6E6E"
+
+# Description function
+description_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(icon = dplyr::case_when(
+      difficulty == 0 ~ purrr::map(spicy0, gt::html),
+      difficulty == 1 ~ purrr::map(spicy1, gt::html),
+      difficulty == 2 ~ purrr::map(spicy2, gt::html),
+      difficulty == 3 ~ purrr::map(spicy3, gt::html)
+    )) %>%
+    dplyr::select(description, icon) %>%
+    gt::gt() %>%
+    gt::cols_width(description ~ gt::px(500),
+                   icon ~ gt::px(200)) %>%
+    gt::cols_align(align = "left",
+                   columns = description) %>%
+    gt::cols_align(align = "right",
+                   columns = icon) %>%
+    gt::cols_label(description = gt::md("**Description**"),
+                   icon = gt::md("")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour1)
+}
+
+ingredients_table <- function(id){
+  recipe_data %>%
+    dplyr::filter(id == {{id}}) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>"),
+                  data = stringr::str_replace_all(data, " ", "<br>")) %>%
+    dplyr::select(packages, data) %>%
+    gt::gt() %>%
+    gt::tab_header(title = "Ingredients") %>%
+    gt::cols_width(packages ~ gt::px(350),
+                   data ~ gt::px(350)) %>%
+    gt::cols_align(align = "center",
+                   columns = c(packages, data)) %>%
+    gt::cols_label(packages = gt::md("**Package**"),
+                   data = gt::md("**Data**")) %>%
+    gt::tab_options(heading.background.color = colour1,
+                    column_labels.background.color = colour2) %>%
+    gt::fmt_markdown(columns = tidyr::everything())
+}
+
+# Source data used to create the data recipes
+recipe_data <- readr::read_csv("~/Github/r-recipe-book/data/source_recipes.csv")
+```
+
+# Modifying Data
+When working with data it is common that values in columns need to be modified, or creating new columns of data. The following recipes outline how to change data with a column, and how to create data in a new column using different techniques.
+
+
+## Static Value
+Changing or creating data values in a column so that all rows have the same value; with examples for character, numeric, and date data types.
+
+### Change or create a single character column with a static character value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(100)
+ingredients_table(100)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = "text")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, country = "Canada")
+```
+
+
+### Change or create a single numeric column with a static numeric value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(101)
+ingredients_table(101)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, population = 100000)
+```
+
+
+### Change a single date column with a static date value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(102)
+ingredients_table(102)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name = "yyyy-mm-dd")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, date_added = "2021-11-19")
+```
+
+
+### Create a new date column with a static date value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(106)
+ingredients_table(106)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = as.Date("yyyy-mm-dd"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, date_added = as.Date("2021-11-19"))
+```
+
+
+### Change or create multiple character columns with a static character value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(103)
+ingredients_table(103)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1 = "text",
+                  column_name2 = "text")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, country = "Canada",
+              country_code = "CA")
+```
+
+
+### Change or create multiple numeric columns with a static numeric value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(104)
+ingredients_table(104)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1 = number,
+                  column_name2 = number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, population = 100000,
+              growth_rate = 1.75)
+```
+
+
+### Change multiple date columns with a static date value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(105)
+ingredients_table(105)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1 = "yyyy-mm-dd",
+                  column_name2 = "yyyy-mm-dd")
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, date_added = "2021-11-19",
+              date_changed = "2021-11-20")
+```
+
+
+### Create multiple new date columns with a static date value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(107)
+ingredients_table(107)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name1 = as.Date("yyyy-mm-dd"),
+                  new_column_name2 = as.Date("yyyy-mm-dd"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, date_added = as.Date("2021-11-19"),
+              date_changed = as.Date("2021-11-20"))
+```
+
+
+## Using Existing Column(s)
+Changing or creating data values in a column with values from an existing column of data; with examples for character, numeric, and date data types.
+
+### Create new character column from static text and a character column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(108)
+ingredients_table(108)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name, paste0("text", column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, label = paste0("My name is ", first_name))
+```
+
+
+### Create new character column from multiple character columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(109)
+ingredients_table(109)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name, paste0(column_name1, column_name2))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, username = paste0(first_name, last_name))
+```
+
+
+### Create new character column from multiple character columns and static text
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(110)
+ingredients_table(110)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name, paste0(column_name1, " ", column_name2))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, legal_name = paste0(first_name, " ", last_name))
+```
+
+
+### Create new numeric column from a numeric column and a mathematical operation
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(111)
+ingredients_table(111)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = column_name operator number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, cost_per_month = cost / 12)
+```
+
+
+### Create new numeric column from multiple numeric columns and mathematical operations
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(112)
+ingredients_table(112)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = column_name1 operator column_name2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, population_density = population / area_sq_km)
+```
+
+
+### Create new date column from a date column and a mathematical operation
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(114)
+ingredients_table(114)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = column_name operator number)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, closing_date = date_created + 7)
+```
+
+
+### Create new date column from multiple date columns and mathematical operations
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(115)
+ingredients_table(115)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = column_name1 operator column_name2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, duration = end_date - start_date)
+```
+
+
+### Create new date column from a date column and a function
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(116)
+ingredients_table(116)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = package::function(column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, year_created = lubridate::year(date_created))
+```
+
+
+## Conditionally from Existing Column
+Creating data values in a new column using conditional statements from a existing column of data.
+
+
+### Create new character column conditionally with default static value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(119)
+ingredients_table(119)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = package::function(
+  column_name operator number ~ "text",
+  TRUE ~ "text"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, result = dplyr::case_when(
+  score >= 50 ~ "pass",
+  TRUE ~ "fail"))
+```
+
+
+### Create new character column conditionally with character column as default value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(120)
+ingredients_table(120)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = package::function(
+  column_name operator number ~ "text",
+  TRUE ~ column_name))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(df, result = dplyr::case_when(
+  grade == "F" ~ "Fail",
+  TRUE ~ result))
+```
+
+
+### Create new character column conditionally from existing numeric column with default static value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(117)
+ingredients_table(117)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = package::function(
+  column_name operator number ~ "text",
+  column_name operator number ~ "text",
+  TRUE ~ "text"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(data, result = dplyr::case_when(
+  score < 50 ~ "fail",
+  score >= 50 ~ "pass",
+  TRUE ~ "error"))
+```
+
+
+### Create new character column conditionally from range of values in existing numeric column with default static value
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(118)
+ingredients_table(118)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = package::function(
+  package::function(column_name, low_range, high_range) ~ "text",
+  package::function(column_name, low_range, high_range) ~ "text",
+  package::function(column_name, low_range, high_range) ~ "text",
+  package::function(column_name, low_range, high_range) ~ "text",
+  TRUE ~ "text"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(data, grade = dplyr::case_when(
+  dplyr::between(score, 80, 100) ~ "A",
+  dplyr::between(score, 70, 79) ~ "B",
+  dplyr::between(score, 60, 69) ~ "C",
+  dplyr::between(score, 50, 59) ~ "D",
+  TRUE ~ "F"))
+```
+
+
+### Create new character column conditionally from specific values in a character column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(121)
+ingredients_table(121)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, new_column_name = package::function(
+  column_name %in% c("text1", "text2", "text3", "text4") ~ "new value1",
+  column_name == "text5" ~ "new value 2",
+  column_name == "text6" ~ "new value 3",
+  column_name %in% c("text7", "text8") ~ "new value4",
+  column_name %in% c("text9", "text10") ~ "new value5",
+  column_name %in% c("text11", "text12", "text13") ~ "new value6"))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::mutate(data, region = dplyr::case_when(
+  province_code %in% c("NL", "NS", "PE", "NB") ~ "Atlantic",
+  province_code == "QC" ~ "Quebec",
+  province_code == "ON" ~ "Ontario",
+  province_code %in% c("MB", "SK") ~ "Praries",
+  province_code %in% c("AB", "BC") ~ "Western",
+  province_code %in% c("NU", "NT", "YK") ~ "Northern"))
+```

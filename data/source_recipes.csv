@@ -117,9 +117,9 @@ id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
 116,Breakfast,Modifying Data,Using Existing Column(s),Create new date column from a date column and a function,Method to create a new date column by combining values from a date column and using a function,1,readr dplyr lubridate,sample.csv
 117,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally from existing numeric column with default static value,Method to create a new character column by using a conditional statement from an existing numeric column adding a static default value,1,readr dplyr,sample.csv
 118,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally from range of values in existing numeric column with default static value,Method to create a new character column by using a conditional statement from a range of values in an existing numeric column adding a static default value,2,readr dplyr,sample.csv
-119,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with default static value,,2,readr dplyr,sample.csv
-120,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with character column as default value,,2,readr dplyr,sample.csv
-,,,,,,,,
+119,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with default static value,Method to create a new character column by using a conditional statement adding a static default value,2,readr dplyr,sample.csv
+120,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with character column as default value,Method to create a new character column by using a conditional statement adding default values from a character column,2,readr dplyr,sample.csv
+121,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally from specific values in a character column,Method to create a new character column by using a conditional statement from specific values from a character column,1,readr dplyr,sample.csv
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
