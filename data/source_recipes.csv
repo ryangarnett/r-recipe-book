@@ -120,15 +120,10 @@ id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
 119,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with default static value,Method to create a new character column by using a conditional statement adding a static default value,2,readr dplyr,sample.csv
 120,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally with character column as default value,Method to create a new character column by using a conditional statement adding default values from a character column,2,readr dplyr,sample.csv
 121,Breakfast,Modifying Data,Conditionally from Existing Column,Create new character column conditionally from specific values in a character column,Method to create a new character column by using a conditional statement from specific values from a character column,1,readr dplyr,sample.csv
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,Create new numeric column conditionally from existing numeric column with default static value,,,,
-,,,,Create new numeric column conditionally from range of values in existing numeric column with default static value,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,Create new character column from single character condition with default static value,,,,
-,,,,Create new character column from multiple character conditions with default static value,,,,
-,,,,Create new character column from single character condition with character column as default value,,,,
-,,,,Create new character column from multiple character conditions with character column as default value,,,,
+122,Lunch,Aggregating Data,Single Column,Get the unique values within a column,Method to get all unique values within a single column of a dataframe,1,readr dplyr,sample.csv
+123,Lunch,Aggregating Data,Single Column,Get the unique values and their frequency within a column,Method to get all unique values and their frequency within a single column of a dataframe,1,readr dplyr,sample.csv
+124,Lunch,Aggregating Data,Single Column,Get the unique values and their frequency within a column while ordering from the smallest value,Method to get all unique values and ordering their frequency from smallest to largest within a single column of a dataframe,1,readr dplyr,sample.csv
+125,Lunch,Aggregating Data,Single Column,Get the unique values and their frequency within a column while ordering from the largest value,Method to get all unique values and ordering their frequency from largest to smallest within a single column of a dataframe,1,readr dplyr,sample.csv
+126,,,,,,,,
+127,,,,,,,,
+128,,,,,,,,

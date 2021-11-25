@@ -154,3 +154,12 @@ create-new-character-column-conditionally-with-character-column-as-default-value
 create-new-character-column-conditionally-from-existing-numeric-column-with-default-static-value
 create-new-character-column-conditionally-from-range-of-values-in-existing-numeric-column-with-default-static-value
 create-new-character-column-conditionally-from-specific-values-in-a-character-column
+aggregating-data
+single-column
+get-the-unique-values-within-a-column
+get-the-unique-values-and-their-frequency-within-a-column
+get-the-unique-values-and-their-frequency-within-a-column-while-ordering-from-the-smallest-value
+get-the-unique-values-and-their-frequency-within-a-column-while-ordering-from-the-largest-value
+multiple-columns
+descriptive-analysis
+summarizing-data
