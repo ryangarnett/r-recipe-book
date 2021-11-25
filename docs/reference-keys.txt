@@ -161,5 +161,3 @@ get-the-unique-values-and-their-frequency-within-a-column
 get-the-unique-values-and-their-frequency-within-a-column-while-ordering-from-the-smallest-value
 get-the-unique-values-and-their-frequency-within-a-column-while-ordering-from-the-largest-value
 multiple-columns
-descriptive-analysis
-summarizing-data

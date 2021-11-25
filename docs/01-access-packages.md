@@ -13,12 +13,12 @@ Packages can be installed within RStudio in either a code block or within the co
 ### Install a Single Package
 
 ```{=html}
-<div id="qnmbmsxxuu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ohlvqcmojv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qnmbmsxxuu .gt_table {
+#ohlvqcmojv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -43,7 +43,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-left-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_heading {
+#ohlvqcmojv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -55,7 +55,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_title {
+#ohlvqcmojv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -65,7 +65,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-bottom-width: 0;
 }
 
-#qnmbmsxxuu .gt_subtitle {
+#ohlvqcmojv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -75,13 +75,13 @@ Packages can be installed within RStudio in either a code block or within the co
   border-top-width: 0;
 }
 
-#qnmbmsxxuu .gt_bottom_border {
+#ohlvqcmojv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_col_headings {
+#ohlvqcmojv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -96,7 +96,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_col_heading {
+#ohlvqcmojv .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -116,7 +116,7 @@ Packages can be installed within RStudio in either a code block or within the co
   overflow-x: hidden;
 }
 
-#qnmbmsxxuu .gt_column_spanner_outer {
+#ohlvqcmojv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -128,15 +128,15 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-right: 4px;
 }
 
-#qnmbmsxxuu .gt_column_spanner_outer:first-child {
+#ohlvqcmojv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qnmbmsxxuu .gt_column_spanner_outer:last-child {
+#ohlvqcmojv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qnmbmsxxuu .gt_column_spanner {
+#ohlvqcmojv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -148,7 +148,7 @@ Packages can be installed within RStudio in either a code block or within the co
   width: 100%;
 }
 
-#qnmbmsxxuu .gt_group_heading {
+#ohlvqcmojv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -170,7 +170,7 @@ Packages can be installed within RStudio in either a code block or within the co
   vertical-align: middle;
 }
 
-#qnmbmsxxuu .gt_empty_group_heading {
+#ohlvqcmojv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -185,15 +185,15 @@ Packages can be installed within RStudio in either a code block or within the co
   vertical-align: middle;
 }
 
-#qnmbmsxxuu .gt_from_md > :first-child {
+#ohlvqcmojv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qnmbmsxxuu .gt_from_md > :last-child {
+#ohlvqcmojv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qnmbmsxxuu .gt_row {
+#ohlvqcmojv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -212,7 +212,7 @@ Packages can be installed within RStudio in either a code block or within the co
   overflow-x: hidden;
 }
 
-#qnmbmsxxuu .gt_stub {
+#ohlvqcmojv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -224,7 +224,7 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-left: 12px;
 }
 
-#qnmbmsxxuu .gt_summary_row {
+#ohlvqcmojv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -234,7 +234,7 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-right: 5px;
 }
 
-#qnmbmsxxuu .gt_first_summary_row {
+#ohlvqcmojv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -244,7 +244,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-top-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_grand_summary_row {
+#ohlvqcmojv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -254,7 +254,7 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-right: 5px;
 }
 
-#qnmbmsxxuu .gt_first_grand_summary_row {
+#ohlvqcmojv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -264,11 +264,11 @@ Packages can be installed within RStudio in either a code block or within the co
   border-top-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_striped {
+#ohlvqcmojv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qnmbmsxxuu .gt_table_body {
+#ohlvqcmojv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -277,7 +277,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-bottom-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_footnotes {
+#ohlvqcmojv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -291,13 +291,13 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_footnote {
+#ohlvqcmojv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qnmbmsxxuu .gt_sourcenotes {
+#ohlvqcmojv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -311,41 +311,41 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#qnmbmsxxuu .gt_sourcenote {
+#ohlvqcmojv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qnmbmsxxuu .gt_left {
+#ohlvqcmojv .gt_left {
   text-align: left;
 }
 
-#qnmbmsxxuu .gt_center {
+#ohlvqcmojv .gt_center {
   text-align: center;
 }
 
-#qnmbmsxxuu .gt_right {
+#ohlvqcmojv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qnmbmsxxuu .gt_font_normal {
+#ohlvqcmojv .gt_font_normal {
   font-weight: normal;
 }
 
-#qnmbmsxxuu .gt_font_bold {
+#ohlvqcmojv .gt_font_bold {
   font-weight: bold;
 }
 
-#qnmbmsxxuu .gt_font_italic {
+#ohlvqcmojv .gt_font_italic {
   font-style: italic;
 }
 
-#qnmbmsxxuu .gt_super {
+#ohlvqcmojv .gt_super {
   font-size: 65%;
 }
 
-#qnmbmsxxuu .gt_footnote_marks {
+#ohlvqcmojv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -374,12 +374,12 @@ Packages can be installed within RStudio in either a code block or within the co
 ```
 
 ```{=html}
-<div id="bzthelhoee" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jpgwryxzfh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bzthelhoee .gt_table {
+#jpgwryxzfh .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -404,7 +404,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-left-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_heading {
+#jpgwryxzfh .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -416,7 +416,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_title {
+#jpgwryxzfh .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -426,7 +426,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-bottom-width: 0;
 }
 
-#bzthelhoee .gt_subtitle {
+#jpgwryxzfh .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -436,13 +436,13 @@ Packages can be installed within RStudio in either a code block or within the co
   border-top-width: 0;
 }
 
-#bzthelhoee .gt_bottom_border {
+#jpgwryxzfh .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_col_headings {
+#jpgwryxzfh .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -457,7 +457,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_col_heading {
+#jpgwryxzfh .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -477,7 +477,7 @@ Packages can be installed within RStudio in either a code block or within the co
   overflow-x: hidden;
 }
 
-#bzthelhoee .gt_column_spanner_outer {
+#jpgwryxzfh .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -489,15 +489,15 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-right: 4px;
 }
 
-#bzthelhoee .gt_column_spanner_outer:first-child {
+#jpgwryxzfh .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bzthelhoee .gt_column_spanner_outer:last-child {
+#jpgwryxzfh .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bzthelhoee .gt_column_spanner {
+#jpgwryxzfh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -509,7 +509,7 @@ Packages can be installed within RStudio in either a code block or within the co
   width: 100%;
 }
 
-#bzthelhoee .gt_group_heading {
+#jpgwryxzfh .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -531,7 +531,7 @@ Packages can be installed within RStudio in either a code block or within the co
   vertical-align: middle;
 }
 
-#bzthelhoee .gt_empty_group_heading {
+#jpgwryxzfh .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -546,15 +546,15 @@ Packages can be installed within RStudio in either a code block or within the co
   vertical-align: middle;
 }
 
-#bzthelhoee .gt_from_md > :first-child {
+#jpgwryxzfh .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bzthelhoee .gt_from_md > :last-child {
+#jpgwryxzfh .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bzthelhoee .gt_row {
+#jpgwryxzfh .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -573,7 +573,7 @@ Packages can be installed within RStudio in either a code block or within the co
   overflow-x: hidden;
 }
 
-#bzthelhoee .gt_stub {
+#jpgwryxzfh .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -585,7 +585,7 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-left: 12px;
 }
 
-#bzthelhoee .gt_summary_row {
+#jpgwryxzfh .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -595,7 +595,7 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-right: 5px;
 }
 
-#bzthelhoee .gt_first_summary_row {
+#jpgwryxzfh .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -605,7 +605,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-top-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_grand_summary_row {
+#jpgwryxzfh .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -615,7 +615,7 @@ Packages can be installed within RStudio in either a code block or within the co
   padding-right: 5px;
 }
 
-#bzthelhoee .gt_first_grand_summary_row {
+#jpgwryxzfh .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -625,11 +625,11 @@ Packages can be installed within RStudio in either a code block or within the co
   border-top-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_striped {
+#jpgwryxzfh .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bzthelhoee .gt_table_body {
+#jpgwryxzfh .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -638,7 +638,7 @@ Packages can be installed within RStudio in either a code block or within the co
   border-bottom-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_footnotes {
+#jpgwryxzfh .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -652,13 +652,13 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_footnote {
+#jpgwryxzfh .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bzthelhoee .gt_sourcenotes {
+#jpgwryxzfh .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -672,41 +672,41 @@ Packages can be installed within RStudio in either a code block or within the co
   border-right-color: #D3D3D3;
 }
 
-#bzthelhoee .gt_sourcenote {
+#jpgwryxzfh .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bzthelhoee .gt_left {
+#jpgwryxzfh .gt_left {
   text-align: left;
 }
 
-#bzthelhoee .gt_center {
+#jpgwryxzfh .gt_center {
   text-align: center;
 }
 
-#bzthelhoee .gt_right {
+#jpgwryxzfh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bzthelhoee .gt_font_normal {
+#jpgwryxzfh .gt_font_normal {
   font-weight: normal;
 }
 
-#bzthelhoee .gt_font_bold {
+#jpgwryxzfh .gt_font_bold {
   font-weight: bold;
 }
 
-#bzthelhoee .gt_font_italic {
+#jpgwryxzfh .gt_font_italic {
   font-style: italic;
 }
 
-#bzthelhoee .gt_super {
+#jpgwryxzfh .gt_super {
   font-size: 65%;
 }
 
-#bzthelhoee .gt_footnote_marks {
+#jpgwryxzfh .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -759,12 +759,12 @@ install.packages("readr")
 ### Install Multiple Packages
 
 ```{=html}
-<div id="wnygsvpdjg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="tlahxvihro" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wnygsvpdjg .gt_table {
+#tlahxvihro .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -789,7 +789,7 @@ install.packages("readr")
   border-left-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_heading {
+#tlahxvihro .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -801,7 +801,7 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_title {
+#tlahxvihro .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -811,7 +811,7 @@ install.packages("readr")
   border-bottom-width: 0;
 }
 
-#wnygsvpdjg .gt_subtitle {
+#tlahxvihro .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -821,13 +821,13 @@ install.packages("readr")
   border-top-width: 0;
 }
 
-#wnygsvpdjg .gt_bottom_border {
+#tlahxvihro .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_col_headings {
+#tlahxvihro .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -842,7 +842,7 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_col_heading {
+#tlahxvihro .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -862,7 +862,7 @@ install.packages("readr")
   overflow-x: hidden;
 }
 
-#wnygsvpdjg .gt_column_spanner_outer {
+#tlahxvihro .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -874,15 +874,15 @@ install.packages("readr")
   padding-right: 4px;
 }
 
-#wnygsvpdjg .gt_column_spanner_outer:first-child {
+#tlahxvihro .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wnygsvpdjg .gt_column_spanner_outer:last-child {
+#tlahxvihro .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wnygsvpdjg .gt_column_spanner {
+#tlahxvihro .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -894,7 +894,7 @@ install.packages("readr")
   width: 100%;
 }
 
-#wnygsvpdjg .gt_group_heading {
+#tlahxvihro .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -916,7 +916,7 @@ install.packages("readr")
   vertical-align: middle;
 }
 
-#wnygsvpdjg .gt_empty_group_heading {
+#tlahxvihro .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -931,15 +931,15 @@ install.packages("readr")
   vertical-align: middle;
 }
 
-#wnygsvpdjg .gt_from_md > :first-child {
+#tlahxvihro .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wnygsvpdjg .gt_from_md > :last-child {
+#tlahxvihro .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wnygsvpdjg .gt_row {
+#tlahxvihro .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -958,7 +958,7 @@ install.packages("readr")
   overflow-x: hidden;
 }
 
-#wnygsvpdjg .gt_stub {
+#tlahxvihro .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -970,7 +970,7 @@ install.packages("readr")
   padding-left: 12px;
 }
 
-#wnygsvpdjg .gt_summary_row {
+#tlahxvihro .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -980,7 +980,7 @@ install.packages("readr")
   padding-right: 5px;
 }
 
-#wnygsvpdjg .gt_first_summary_row {
+#tlahxvihro .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -990,7 +990,7 @@ install.packages("readr")
   border-top-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_grand_summary_row {
+#tlahxvihro .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1000,7 +1000,7 @@ install.packages("readr")
   padding-right: 5px;
 }
 
-#wnygsvpdjg .gt_first_grand_summary_row {
+#tlahxvihro .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1010,11 +1010,11 @@ install.packages("readr")
   border-top-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_striped {
+#tlahxvihro .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wnygsvpdjg .gt_table_body {
+#tlahxvihro .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1023,7 +1023,7 @@ install.packages("readr")
   border-bottom-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_footnotes {
+#tlahxvihro .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1037,13 +1037,13 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_footnote {
+#tlahxvihro .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wnygsvpdjg .gt_sourcenotes {
+#tlahxvihro .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1057,41 +1057,41 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#wnygsvpdjg .gt_sourcenote {
+#tlahxvihro .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wnygsvpdjg .gt_left {
+#tlahxvihro .gt_left {
   text-align: left;
 }
 
-#wnygsvpdjg .gt_center {
+#tlahxvihro .gt_center {
   text-align: center;
 }
 
-#wnygsvpdjg .gt_right {
+#tlahxvihro .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wnygsvpdjg .gt_font_normal {
+#tlahxvihro .gt_font_normal {
   font-weight: normal;
 }
 
-#wnygsvpdjg .gt_font_bold {
+#tlahxvihro .gt_font_bold {
   font-weight: bold;
 }
 
-#wnygsvpdjg .gt_font_italic {
+#tlahxvihro .gt_font_italic {
   font-style: italic;
 }
 
-#wnygsvpdjg .gt_super {
+#tlahxvihro .gt_super {
   font-size: 65%;
 }
 
-#wnygsvpdjg .gt_footnote_marks {
+#tlahxvihro .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1120,12 +1120,12 @@ install.packages("readr")
 ```
 
 ```{=html}
-<div id="qpbwyzgmtm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xefdwviwdg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qpbwyzgmtm .gt_table {
+#xefdwviwdg .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1150,7 +1150,7 @@ install.packages("readr")
   border-left-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_heading {
+#xefdwviwdg .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1162,7 +1162,7 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_title {
+#xefdwviwdg .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1172,7 +1172,7 @@ install.packages("readr")
   border-bottom-width: 0;
 }
 
-#qpbwyzgmtm .gt_subtitle {
+#xefdwviwdg .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1182,13 +1182,13 @@ install.packages("readr")
   border-top-width: 0;
 }
 
-#qpbwyzgmtm .gt_bottom_border {
+#xefdwviwdg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_col_headings {
+#xefdwviwdg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1203,7 +1203,7 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_col_heading {
+#xefdwviwdg .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1223,7 +1223,7 @@ install.packages("readr")
   overflow-x: hidden;
 }
 
-#qpbwyzgmtm .gt_column_spanner_outer {
+#xefdwviwdg .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1235,15 +1235,15 @@ install.packages("readr")
   padding-right: 4px;
 }
 
-#qpbwyzgmtm .gt_column_spanner_outer:first-child {
+#xefdwviwdg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qpbwyzgmtm .gt_column_spanner_outer:last-child {
+#xefdwviwdg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qpbwyzgmtm .gt_column_spanner {
+#xefdwviwdg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1255,7 +1255,7 @@ install.packages("readr")
   width: 100%;
 }
 
-#qpbwyzgmtm .gt_group_heading {
+#xefdwviwdg .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1277,7 +1277,7 @@ install.packages("readr")
   vertical-align: middle;
 }
 
-#qpbwyzgmtm .gt_empty_group_heading {
+#xefdwviwdg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1292,15 +1292,15 @@ install.packages("readr")
   vertical-align: middle;
 }
 
-#qpbwyzgmtm .gt_from_md > :first-child {
+#xefdwviwdg .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qpbwyzgmtm .gt_from_md > :last-child {
+#xefdwviwdg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qpbwyzgmtm .gt_row {
+#xefdwviwdg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1319,7 +1319,7 @@ install.packages("readr")
   overflow-x: hidden;
 }
 
-#qpbwyzgmtm .gt_stub {
+#xefdwviwdg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1331,7 +1331,7 @@ install.packages("readr")
   padding-left: 12px;
 }
 
-#qpbwyzgmtm .gt_summary_row {
+#xefdwviwdg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1341,7 +1341,7 @@ install.packages("readr")
   padding-right: 5px;
 }
 
-#qpbwyzgmtm .gt_first_summary_row {
+#xefdwviwdg .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1351,7 +1351,7 @@ install.packages("readr")
   border-top-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_grand_summary_row {
+#xefdwviwdg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1361,7 +1361,7 @@ install.packages("readr")
   padding-right: 5px;
 }
 
-#qpbwyzgmtm .gt_first_grand_summary_row {
+#xefdwviwdg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1371,11 +1371,11 @@ install.packages("readr")
   border-top-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_striped {
+#xefdwviwdg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qpbwyzgmtm .gt_table_body {
+#xefdwviwdg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1384,7 +1384,7 @@ install.packages("readr")
   border-bottom-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_footnotes {
+#xefdwviwdg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1398,13 +1398,13 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_footnote {
+#xefdwviwdg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qpbwyzgmtm .gt_sourcenotes {
+#xefdwviwdg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1418,41 +1418,41 @@ install.packages("readr")
   border-right-color: #D3D3D3;
 }
 
-#qpbwyzgmtm .gt_sourcenote {
+#xefdwviwdg .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qpbwyzgmtm .gt_left {
+#xefdwviwdg .gt_left {
   text-align: left;
 }
 
-#qpbwyzgmtm .gt_center {
+#xefdwviwdg .gt_center {
   text-align: center;
 }
 
-#qpbwyzgmtm .gt_right {
+#xefdwviwdg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qpbwyzgmtm .gt_font_normal {
+#xefdwviwdg .gt_font_normal {
   font-weight: normal;
 }
 
-#qpbwyzgmtm .gt_font_bold {
+#xefdwviwdg .gt_font_bold {
   font-weight: bold;
 }
 
-#qpbwyzgmtm .gt_font_italic {
+#xefdwviwdg .gt_font_italic {
   font-style: italic;
 }
 
-#qpbwyzgmtm .gt_super {
+#xefdwviwdg .gt_super {
   font-size: 65%;
 }
 
-#qpbwyzgmtm .gt_footnote_marks {
+#xefdwviwdg .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1507,12 +1507,12 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
 ### Load a Single Package
 
 ```{=html}
-<div id="gwmdgmnxcm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lbozvgwkuu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#gwmdgmnxcm .gt_table {
+#lbozvgwkuu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1537,7 +1537,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-left-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_heading {
+#lbozvgwkuu .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1549,7 +1549,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_title {
+#lbozvgwkuu .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1559,7 +1559,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-bottom-width: 0;
 }
 
-#gwmdgmnxcm .gt_subtitle {
+#lbozvgwkuu .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1569,13 +1569,13 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-top-width: 0;
 }
 
-#gwmdgmnxcm .gt_bottom_border {
+#lbozvgwkuu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_col_headings {
+#lbozvgwkuu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1590,7 +1590,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_col_heading {
+#lbozvgwkuu .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1610,7 +1610,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   overflow-x: hidden;
 }
 
-#gwmdgmnxcm .gt_column_spanner_outer {
+#lbozvgwkuu .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1622,15 +1622,15 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-right: 4px;
 }
 
-#gwmdgmnxcm .gt_column_spanner_outer:first-child {
+#lbozvgwkuu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gwmdgmnxcm .gt_column_spanner_outer:last-child {
+#lbozvgwkuu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gwmdgmnxcm .gt_column_spanner {
+#lbozvgwkuu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1642,7 +1642,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   width: 100%;
 }
 
-#gwmdgmnxcm .gt_group_heading {
+#lbozvgwkuu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1664,7 +1664,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   vertical-align: middle;
 }
 
-#gwmdgmnxcm .gt_empty_group_heading {
+#lbozvgwkuu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1679,15 +1679,15 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   vertical-align: middle;
 }
 
-#gwmdgmnxcm .gt_from_md > :first-child {
+#lbozvgwkuu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gwmdgmnxcm .gt_from_md > :last-child {
+#lbozvgwkuu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gwmdgmnxcm .gt_row {
+#lbozvgwkuu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1706,7 +1706,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   overflow-x: hidden;
 }
 
-#gwmdgmnxcm .gt_stub {
+#lbozvgwkuu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1718,7 +1718,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-left: 12px;
 }
 
-#gwmdgmnxcm .gt_summary_row {
+#lbozvgwkuu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1728,7 +1728,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-right: 5px;
 }
 
-#gwmdgmnxcm .gt_first_summary_row {
+#lbozvgwkuu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1738,7 +1738,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-top-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_grand_summary_row {
+#lbozvgwkuu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1748,7 +1748,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-right: 5px;
 }
 
-#gwmdgmnxcm .gt_first_grand_summary_row {
+#lbozvgwkuu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1758,11 +1758,11 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-top-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_striped {
+#lbozvgwkuu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gwmdgmnxcm .gt_table_body {
+#lbozvgwkuu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1771,7 +1771,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-bottom-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_footnotes {
+#lbozvgwkuu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1785,13 +1785,13 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_footnote {
+#lbozvgwkuu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#gwmdgmnxcm .gt_sourcenotes {
+#lbozvgwkuu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1805,41 +1805,41 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#gwmdgmnxcm .gt_sourcenote {
+#lbozvgwkuu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#gwmdgmnxcm .gt_left {
+#lbozvgwkuu .gt_left {
   text-align: left;
 }
 
-#gwmdgmnxcm .gt_center {
+#lbozvgwkuu .gt_center {
   text-align: center;
 }
 
-#gwmdgmnxcm .gt_right {
+#lbozvgwkuu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gwmdgmnxcm .gt_font_normal {
+#lbozvgwkuu .gt_font_normal {
   font-weight: normal;
 }
 
-#gwmdgmnxcm .gt_font_bold {
+#lbozvgwkuu .gt_font_bold {
   font-weight: bold;
 }
 
-#gwmdgmnxcm .gt_font_italic {
+#lbozvgwkuu .gt_font_italic {
   font-style: italic;
 }
 
-#gwmdgmnxcm .gt_super {
+#lbozvgwkuu .gt_super {
   font-size: 65%;
 }
 
-#gwmdgmnxcm .gt_footnote_marks {
+#lbozvgwkuu .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1868,12 +1868,12 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
 ```
 
 ```{=html}
-<div id="obrwllnrxp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="okbgydqbzm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#obrwllnrxp .gt_table {
+#okbgydqbzm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1898,7 +1898,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-left-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_heading {
+#okbgydqbzm .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1910,7 +1910,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_title {
+#okbgydqbzm .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1920,7 +1920,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-bottom-width: 0;
 }
 
-#obrwllnrxp .gt_subtitle {
+#okbgydqbzm .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1930,13 +1930,13 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-top-width: 0;
 }
 
-#obrwllnrxp .gt_bottom_border {
+#okbgydqbzm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_col_headings {
+#okbgydqbzm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1951,7 +1951,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_col_heading {
+#okbgydqbzm .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1971,7 +1971,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   overflow-x: hidden;
 }
 
-#obrwllnrxp .gt_column_spanner_outer {
+#okbgydqbzm .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1983,15 +1983,15 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-right: 4px;
 }
 
-#obrwllnrxp .gt_column_spanner_outer:first-child {
+#okbgydqbzm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#obrwllnrxp .gt_column_spanner_outer:last-child {
+#okbgydqbzm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#obrwllnrxp .gt_column_spanner {
+#okbgydqbzm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2003,7 +2003,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   width: 100%;
 }
 
-#obrwllnrxp .gt_group_heading {
+#okbgydqbzm .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2025,7 +2025,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   vertical-align: middle;
 }
 
-#obrwllnrxp .gt_empty_group_heading {
+#okbgydqbzm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2040,15 +2040,15 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   vertical-align: middle;
 }
 
-#obrwllnrxp .gt_from_md > :first-child {
+#okbgydqbzm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#obrwllnrxp .gt_from_md > :last-child {
+#okbgydqbzm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#obrwllnrxp .gt_row {
+#okbgydqbzm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2067,7 +2067,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   overflow-x: hidden;
 }
 
-#obrwllnrxp .gt_stub {
+#okbgydqbzm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2079,7 +2079,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-left: 12px;
 }
 
-#obrwllnrxp .gt_summary_row {
+#okbgydqbzm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2089,7 +2089,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-right: 5px;
 }
 
-#obrwllnrxp .gt_first_summary_row {
+#okbgydqbzm .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2099,7 +2099,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-top-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_grand_summary_row {
+#okbgydqbzm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2109,7 +2109,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   padding-right: 5px;
 }
 
-#obrwllnrxp .gt_first_grand_summary_row {
+#okbgydqbzm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2119,11 +2119,11 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-top-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_striped {
+#okbgydqbzm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#obrwllnrxp .gt_table_body {
+#okbgydqbzm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2132,7 +2132,7 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-bottom-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_footnotes {
+#okbgydqbzm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2146,13 +2146,13 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_footnote {
+#okbgydqbzm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#obrwllnrxp .gt_sourcenotes {
+#okbgydqbzm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2166,41 +2166,41 @@ Once a package has been installed into RStudio it must be loaded into the RStudi
   border-right-color: #D3D3D3;
 }
 
-#obrwllnrxp .gt_sourcenote {
+#okbgydqbzm .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#obrwllnrxp .gt_left {
+#okbgydqbzm .gt_left {
   text-align: left;
 }
 
-#obrwllnrxp .gt_center {
+#okbgydqbzm .gt_center {
   text-align: center;
 }
 
-#obrwllnrxp .gt_right {
+#okbgydqbzm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#obrwllnrxp .gt_font_normal {
+#okbgydqbzm .gt_font_normal {
   font-weight: normal;
 }
 
-#obrwllnrxp .gt_font_bold {
+#okbgydqbzm .gt_font_bold {
   font-weight: bold;
 }
 
-#obrwllnrxp .gt_font_italic {
+#okbgydqbzm .gt_font_italic {
   font-style: italic;
 }
 
-#obrwllnrxp .gt_super {
+#okbgydqbzm .gt_super {
   font-size: 65%;
 }
 
-#obrwllnrxp .gt_footnote_marks {
+#okbgydqbzm .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2252,12 +2252,12 @@ library(readr)
 ### Load Multiple Packages
 
 ```{=html}
-<div id="hhkampaabf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="pnndbxbpln" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#hhkampaabf .gt_table {
+#pnndbxbpln .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2282,7 +2282,7 @@ library(readr)
   border-left-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_heading {
+#pnndbxbpln .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2294,7 +2294,7 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_title {
+#pnndbxbpln .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2304,7 +2304,7 @@ library(readr)
   border-bottom-width: 0;
 }
 
-#hhkampaabf .gt_subtitle {
+#pnndbxbpln .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2314,13 +2314,13 @@ library(readr)
   border-top-width: 0;
 }
 
-#hhkampaabf .gt_bottom_border {
+#pnndbxbpln .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_col_headings {
+#pnndbxbpln .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2335,7 +2335,7 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_col_heading {
+#pnndbxbpln .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2355,7 +2355,7 @@ library(readr)
   overflow-x: hidden;
 }
 
-#hhkampaabf .gt_column_spanner_outer {
+#pnndbxbpln .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2367,15 +2367,15 @@ library(readr)
   padding-right: 4px;
 }
 
-#hhkampaabf .gt_column_spanner_outer:first-child {
+#pnndbxbpln .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#hhkampaabf .gt_column_spanner_outer:last-child {
+#pnndbxbpln .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#hhkampaabf .gt_column_spanner {
+#pnndbxbpln .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2387,7 +2387,7 @@ library(readr)
   width: 100%;
 }
 
-#hhkampaabf .gt_group_heading {
+#pnndbxbpln .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2409,7 +2409,7 @@ library(readr)
   vertical-align: middle;
 }
 
-#hhkampaabf .gt_empty_group_heading {
+#pnndbxbpln .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2424,15 +2424,15 @@ library(readr)
   vertical-align: middle;
 }
 
-#hhkampaabf .gt_from_md > :first-child {
+#pnndbxbpln .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#hhkampaabf .gt_from_md > :last-child {
+#pnndbxbpln .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#hhkampaabf .gt_row {
+#pnndbxbpln .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2451,7 +2451,7 @@ library(readr)
   overflow-x: hidden;
 }
 
-#hhkampaabf .gt_stub {
+#pnndbxbpln .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2463,7 +2463,7 @@ library(readr)
   padding-left: 12px;
 }
 
-#hhkampaabf .gt_summary_row {
+#pnndbxbpln .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2473,7 +2473,7 @@ library(readr)
   padding-right: 5px;
 }
 
-#hhkampaabf .gt_first_summary_row {
+#pnndbxbpln .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2483,7 +2483,7 @@ library(readr)
   border-top-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_grand_summary_row {
+#pnndbxbpln .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2493,7 +2493,7 @@ library(readr)
   padding-right: 5px;
 }
 
-#hhkampaabf .gt_first_grand_summary_row {
+#pnndbxbpln .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2503,11 +2503,11 @@ library(readr)
   border-top-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_striped {
+#pnndbxbpln .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#hhkampaabf .gt_table_body {
+#pnndbxbpln .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2516,7 +2516,7 @@ library(readr)
   border-bottom-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_footnotes {
+#pnndbxbpln .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2530,13 +2530,13 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_footnote {
+#pnndbxbpln .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#hhkampaabf .gt_sourcenotes {
+#pnndbxbpln .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2550,41 +2550,41 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#hhkampaabf .gt_sourcenote {
+#pnndbxbpln .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#hhkampaabf .gt_left {
+#pnndbxbpln .gt_left {
   text-align: left;
 }
 
-#hhkampaabf .gt_center {
+#pnndbxbpln .gt_center {
   text-align: center;
 }
 
-#hhkampaabf .gt_right {
+#pnndbxbpln .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#hhkampaabf .gt_font_normal {
+#pnndbxbpln .gt_font_normal {
   font-weight: normal;
 }
 
-#hhkampaabf .gt_font_bold {
+#pnndbxbpln .gt_font_bold {
   font-weight: bold;
 }
 
-#hhkampaabf .gt_font_italic {
+#pnndbxbpln .gt_font_italic {
   font-style: italic;
 }
 
-#hhkampaabf .gt_super {
+#pnndbxbpln .gt_super {
   font-size: 65%;
 }
 
-#hhkampaabf .gt_footnote_marks {
+#pnndbxbpln .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2613,12 +2613,12 @@ library(readr)
 ```
 
 ```{=html}
-<div id="ybxdtroofz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dnhfviwvtx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ybxdtroofz .gt_table {
+#dnhfviwvtx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2643,7 +2643,7 @@ library(readr)
   border-left-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_heading {
+#dnhfviwvtx .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2655,7 +2655,7 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_title {
+#dnhfviwvtx .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2665,7 +2665,7 @@ library(readr)
   border-bottom-width: 0;
 }
 
-#ybxdtroofz .gt_subtitle {
+#dnhfviwvtx .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2675,13 +2675,13 @@ library(readr)
   border-top-width: 0;
 }
 
-#ybxdtroofz .gt_bottom_border {
+#dnhfviwvtx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_col_headings {
+#dnhfviwvtx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2696,7 +2696,7 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_col_heading {
+#dnhfviwvtx .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2716,7 +2716,7 @@ library(readr)
   overflow-x: hidden;
 }
 
-#ybxdtroofz .gt_column_spanner_outer {
+#dnhfviwvtx .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2728,15 +2728,15 @@ library(readr)
   padding-right: 4px;
 }
 
-#ybxdtroofz .gt_column_spanner_outer:first-child {
+#dnhfviwvtx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ybxdtroofz .gt_column_spanner_outer:last-child {
+#dnhfviwvtx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ybxdtroofz .gt_column_spanner {
+#dnhfviwvtx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2748,7 +2748,7 @@ library(readr)
   width: 100%;
 }
 
-#ybxdtroofz .gt_group_heading {
+#dnhfviwvtx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2770,7 +2770,7 @@ library(readr)
   vertical-align: middle;
 }
 
-#ybxdtroofz .gt_empty_group_heading {
+#dnhfviwvtx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2785,15 +2785,15 @@ library(readr)
   vertical-align: middle;
 }
 
-#ybxdtroofz .gt_from_md > :first-child {
+#dnhfviwvtx .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ybxdtroofz .gt_from_md > :last-child {
+#dnhfviwvtx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ybxdtroofz .gt_row {
+#dnhfviwvtx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2812,7 +2812,7 @@ library(readr)
   overflow-x: hidden;
 }
 
-#ybxdtroofz .gt_stub {
+#dnhfviwvtx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2824,7 +2824,7 @@ library(readr)
   padding-left: 12px;
 }
 
-#ybxdtroofz .gt_summary_row {
+#dnhfviwvtx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2834,7 +2834,7 @@ library(readr)
   padding-right: 5px;
 }
 
-#ybxdtroofz .gt_first_summary_row {
+#dnhfviwvtx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2844,7 +2844,7 @@ library(readr)
   border-top-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_grand_summary_row {
+#dnhfviwvtx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2854,7 +2854,7 @@ library(readr)
   padding-right: 5px;
 }
 
-#ybxdtroofz .gt_first_grand_summary_row {
+#dnhfviwvtx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2864,11 +2864,11 @@ library(readr)
   border-top-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_striped {
+#dnhfviwvtx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ybxdtroofz .gt_table_body {
+#dnhfviwvtx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2877,7 +2877,7 @@ library(readr)
   border-bottom-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_footnotes {
+#dnhfviwvtx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2891,13 +2891,13 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_footnote {
+#dnhfviwvtx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ybxdtroofz .gt_sourcenotes {
+#dnhfviwvtx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2911,41 +2911,41 @@ library(readr)
   border-right-color: #D3D3D3;
 }
 
-#ybxdtroofz .gt_sourcenote {
+#dnhfviwvtx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ybxdtroofz .gt_left {
+#dnhfviwvtx .gt_left {
   text-align: left;
 }
 
-#ybxdtroofz .gt_center {
+#dnhfviwvtx .gt_center {
   text-align: center;
 }
 
-#ybxdtroofz .gt_right {
+#dnhfviwvtx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ybxdtroofz .gt_font_normal {
+#dnhfviwvtx .gt_font_normal {
   font-weight: normal;
 }
 
-#ybxdtroofz .gt_font_bold {
+#dnhfviwvtx .gt_font_bold {
   font-weight: bold;
 }
 
-#ybxdtroofz .gt_font_italic {
+#dnhfviwvtx .gt_font_italic {
   font-style: italic;
 }
 
-#ybxdtroofz .gt_super {
+#dnhfviwvtx .gt_super {
   font-size: 65%;
 }
 
-#ybxdtroofz .gt_footnote_marks {
+#dnhfviwvtx .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;

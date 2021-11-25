@@ -65,7 +65,8 @@ description_table <- function(id){
 ingredients_table <- function(id){
   recipe_data %>%
     dplyr::filter(id == {{id}}) %>%
-    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>")) %>%
+    dplyr::mutate(packages = stringr::str_replace_all(packages, " ", "<br>"),
+                  data = stringr::str_replace_all(data, " ", "<br>")) %>%
     dplyr::select(packages, data) %>%
     gt::gt() %>%
     gt::tab_header(title = "Ingredients") %>%
@@ -81,7 +82,7 @@ ingredients_table <- function(id){
 }
 
 # Source data used to create the data recipes
-recipe_data <- readr::read_csv("/home/ryangarnett/Github/recipe_book/data/source_recipes.csv")
+recipe_data <- readr::read_csv("~/Github/r-recipe-book/data/source_recipes.csv")
 ```
 
 # Intro
