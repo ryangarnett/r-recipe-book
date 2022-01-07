@@ -15,12 +15,12 @@ A variable is the storage of a single object. Variables can be created from prov
 ### Create a character variable
 
 ```{=html}
-<div id="locjoonqyf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qmqdjxnqkr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#locjoonqyf .gt_table {
+#qmqdjxnqkr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -45,7 +45,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-left-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_heading {
+#qmqdjxnqkr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -57,7 +57,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_title {
+#qmqdjxnqkr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -67,7 +67,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-bottom-width: 0;
 }
 
-#locjoonqyf .gt_subtitle {
+#qmqdjxnqkr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -77,13 +77,13 @@ A variable is the storage of a single object. Variables can be created from prov
   border-top-width: 0;
 }
 
-#locjoonqyf .gt_bottom_border {
+#qmqdjxnqkr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_col_headings {
+#qmqdjxnqkr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -98,7 +98,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_col_heading {
+#qmqdjxnqkr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -118,7 +118,7 @@ A variable is the storage of a single object. Variables can be created from prov
   overflow-x: hidden;
 }
 
-#locjoonqyf .gt_column_spanner_outer {
+#qmqdjxnqkr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -130,15 +130,15 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-right: 4px;
 }
 
-#locjoonqyf .gt_column_spanner_outer:first-child {
+#qmqdjxnqkr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#locjoonqyf .gt_column_spanner_outer:last-child {
+#qmqdjxnqkr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#locjoonqyf .gt_column_spanner {
+#qmqdjxnqkr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -150,7 +150,7 @@ A variable is the storage of a single object. Variables can be created from prov
   width: 100%;
 }
 
-#locjoonqyf .gt_group_heading {
+#qmqdjxnqkr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -172,7 +172,7 @@ A variable is the storage of a single object. Variables can be created from prov
   vertical-align: middle;
 }
 
-#locjoonqyf .gt_empty_group_heading {
+#qmqdjxnqkr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -187,15 +187,15 @@ A variable is the storage of a single object. Variables can be created from prov
   vertical-align: middle;
 }
 
-#locjoonqyf .gt_from_md > :first-child {
+#qmqdjxnqkr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#locjoonqyf .gt_from_md > :last-child {
+#qmqdjxnqkr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#locjoonqyf .gt_row {
+#qmqdjxnqkr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -214,7 +214,7 @@ A variable is the storage of a single object. Variables can be created from prov
   overflow-x: hidden;
 }
 
-#locjoonqyf .gt_stub {
+#qmqdjxnqkr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -226,7 +226,7 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-left: 12px;
 }
 
-#locjoonqyf .gt_summary_row {
+#qmqdjxnqkr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -236,7 +236,7 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-right: 5px;
 }
 
-#locjoonqyf .gt_first_summary_row {
+#qmqdjxnqkr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -246,7 +246,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-top-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_grand_summary_row {
+#qmqdjxnqkr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -256,7 +256,7 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-right: 5px;
 }
 
-#locjoonqyf .gt_first_grand_summary_row {
+#qmqdjxnqkr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -266,11 +266,11 @@ A variable is the storage of a single object. Variables can be created from prov
   border-top-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_striped {
+#qmqdjxnqkr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#locjoonqyf .gt_table_body {
+#qmqdjxnqkr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -279,7 +279,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-bottom-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_footnotes {
+#qmqdjxnqkr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -293,13 +293,13 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_footnote {
+#qmqdjxnqkr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#locjoonqyf .gt_sourcenotes {
+#qmqdjxnqkr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -313,41 +313,41 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#locjoonqyf .gt_sourcenote {
+#qmqdjxnqkr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#locjoonqyf .gt_left {
+#qmqdjxnqkr .gt_left {
   text-align: left;
 }
 
-#locjoonqyf .gt_center {
+#qmqdjxnqkr .gt_center {
   text-align: center;
 }
 
-#locjoonqyf .gt_right {
+#qmqdjxnqkr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#locjoonqyf .gt_font_normal {
+#qmqdjxnqkr .gt_font_normal {
   font-weight: normal;
 }
 
-#locjoonqyf .gt_font_bold {
+#qmqdjxnqkr .gt_font_bold {
   font-weight: bold;
 }
 
-#locjoonqyf .gt_font_italic {
+#qmqdjxnqkr .gt_font_italic {
   font-style: italic;
 }
 
-#locjoonqyf .gt_super {
+#qmqdjxnqkr .gt_super {
   font-size: 65%;
 }
 
-#locjoonqyf .gt_footnote_marks {
+#qmqdjxnqkr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -376,12 +376,12 @@ A variable is the storage of a single object. Variables can be created from prov
 ```
 
 ```{=html}
-<div id="baeqvgmwwk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ecsayvurij" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#baeqvgmwwk .gt_table {
+#ecsayvurij .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -406,7 +406,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-left-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_heading {
+#ecsayvurij .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -418,7 +418,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_title {
+#ecsayvurij .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -428,7 +428,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-bottom-width: 0;
 }
 
-#baeqvgmwwk .gt_subtitle {
+#ecsayvurij .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -438,13 +438,13 @@ A variable is the storage of a single object. Variables can be created from prov
   border-top-width: 0;
 }
 
-#baeqvgmwwk .gt_bottom_border {
+#ecsayvurij .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_col_headings {
+#ecsayvurij .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -459,7 +459,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_col_heading {
+#ecsayvurij .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -479,7 +479,7 @@ A variable is the storage of a single object. Variables can be created from prov
   overflow-x: hidden;
 }
 
-#baeqvgmwwk .gt_column_spanner_outer {
+#ecsayvurij .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -491,15 +491,15 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-right: 4px;
 }
 
-#baeqvgmwwk .gt_column_spanner_outer:first-child {
+#ecsayvurij .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#baeqvgmwwk .gt_column_spanner_outer:last-child {
+#ecsayvurij .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#baeqvgmwwk .gt_column_spanner {
+#ecsayvurij .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -511,7 +511,7 @@ A variable is the storage of a single object. Variables can be created from prov
   width: 100%;
 }
 
-#baeqvgmwwk .gt_group_heading {
+#ecsayvurij .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -533,7 +533,7 @@ A variable is the storage of a single object. Variables can be created from prov
   vertical-align: middle;
 }
 
-#baeqvgmwwk .gt_empty_group_heading {
+#ecsayvurij .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -548,15 +548,15 @@ A variable is the storage of a single object. Variables can be created from prov
   vertical-align: middle;
 }
 
-#baeqvgmwwk .gt_from_md > :first-child {
+#ecsayvurij .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#baeqvgmwwk .gt_from_md > :last-child {
+#ecsayvurij .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#baeqvgmwwk .gt_row {
+#ecsayvurij .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -575,7 +575,7 @@ A variable is the storage of a single object. Variables can be created from prov
   overflow-x: hidden;
 }
 
-#baeqvgmwwk .gt_stub {
+#ecsayvurij .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -587,7 +587,7 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-left: 12px;
 }
 
-#baeqvgmwwk .gt_summary_row {
+#ecsayvurij .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -597,7 +597,7 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-right: 5px;
 }
 
-#baeqvgmwwk .gt_first_summary_row {
+#ecsayvurij .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -607,7 +607,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-top-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_grand_summary_row {
+#ecsayvurij .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -617,7 +617,7 @@ A variable is the storage of a single object. Variables can be created from prov
   padding-right: 5px;
 }
 
-#baeqvgmwwk .gt_first_grand_summary_row {
+#ecsayvurij .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -627,11 +627,11 @@ A variable is the storage of a single object. Variables can be created from prov
   border-top-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_striped {
+#ecsayvurij .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#baeqvgmwwk .gt_table_body {
+#ecsayvurij .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -640,7 +640,7 @@ A variable is the storage of a single object. Variables can be created from prov
   border-bottom-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_footnotes {
+#ecsayvurij .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -654,13 +654,13 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_footnote {
+#ecsayvurij .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#baeqvgmwwk .gt_sourcenotes {
+#ecsayvurij .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -674,41 +674,41 @@ A variable is the storage of a single object. Variables can be created from prov
   border-right-color: #D3D3D3;
 }
 
-#baeqvgmwwk .gt_sourcenote {
+#ecsayvurij .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#baeqvgmwwk .gt_left {
+#ecsayvurij .gt_left {
   text-align: left;
 }
 
-#baeqvgmwwk .gt_center {
+#ecsayvurij .gt_center {
   text-align: center;
 }
 
-#baeqvgmwwk .gt_right {
+#ecsayvurij .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#baeqvgmwwk .gt_font_normal {
+#ecsayvurij .gt_font_normal {
   font-weight: normal;
 }
 
-#baeqvgmwwk .gt_font_bold {
+#ecsayvurij .gt_font_bold {
   font-weight: bold;
 }
 
-#baeqvgmwwk .gt_font_italic {
+#ecsayvurij .gt_font_italic {
   font-style: italic;
 }
 
-#baeqvgmwwk .gt_super {
+#ecsayvurij .gt_super {
   font-size: 65%;
 }
 
-#baeqvgmwwk .gt_footnote_marks {
+#ecsayvurij .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -761,12 +761,12 @@ character_variable <- "Halifax"
 ### Create a numeric variable
 
 ```{=html}
-<div id="wnviuwofvm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qwphqnzdim" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wnviuwofvm .gt_table {
+#qwphqnzdim .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -791,7 +791,7 @@ character_variable <- "Halifax"
   border-left-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_heading {
+#qwphqnzdim .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -803,7 +803,7 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_title {
+#qwphqnzdim .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -813,7 +813,7 @@ character_variable <- "Halifax"
   border-bottom-width: 0;
 }
 
-#wnviuwofvm .gt_subtitle {
+#qwphqnzdim .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -823,13 +823,13 @@ character_variable <- "Halifax"
   border-top-width: 0;
 }
 
-#wnviuwofvm .gt_bottom_border {
+#qwphqnzdim .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_col_headings {
+#qwphqnzdim .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -844,7 +844,7 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_col_heading {
+#qwphqnzdim .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -864,7 +864,7 @@ character_variable <- "Halifax"
   overflow-x: hidden;
 }
 
-#wnviuwofvm .gt_column_spanner_outer {
+#qwphqnzdim .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -876,15 +876,15 @@ character_variable <- "Halifax"
   padding-right: 4px;
 }
 
-#wnviuwofvm .gt_column_spanner_outer:first-child {
+#qwphqnzdim .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wnviuwofvm .gt_column_spanner_outer:last-child {
+#qwphqnzdim .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wnviuwofvm .gt_column_spanner {
+#qwphqnzdim .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -896,7 +896,7 @@ character_variable <- "Halifax"
   width: 100%;
 }
 
-#wnviuwofvm .gt_group_heading {
+#qwphqnzdim .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -918,7 +918,7 @@ character_variable <- "Halifax"
   vertical-align: middle;
 }
 
-#wnviuwofvm .gt_empty_group_heading {
+#qwphqnzdim .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -933,15 +933,15 @@ character_variable <- "Halifax"
   vertical-align: middle;
 }
 
-#wnviuwofvm .gt_from_md > :first-child {
+#qwphqnzdim .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wnviuwofvm .gt_from_md > :last-child {
+#qwphqnzdim .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wnviuwofvm .gt_row {
+#qwphqnzdim .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -960,7 +960,7 @@ character_variable <- "Halifax"
   overflow-x: hidden;
 }
 
-#wnviuwofvm .gt_stub {
+#qwphqnzdim .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -972,7 +972,7 @@ character_variable <- "Halifax"
   padding-left: 12px;
 }
 
-#wnviuwofvm .gt_summary_row {
+#qwphqnzdim .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -982,7 +982,7 @@ character_variable <- "Halifax"
   padding-right: 5px;
 }
 
-#wnviuwofvm .gt_first_summary_row {
+#qwphqnzdim .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -992,7 +992,7 @@ character_variable <- "Halifax"
   border-top-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_grand_summary_row {
+#qwphqnzdim .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1002,7 +1002,7 @@ character_variable <- "Halifax"
   padding-right: 5px;
 }
 
-#wnviuwofvm .gt_first_grand_summary_row {
+#qwphqnzdim .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1012,11 +1012,11 @@ character_variable <- "Halifax"
   border-top-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_striped {
+#qwphqnzdim .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wnviuwofvm .gt_table_body {
+#qwphqnzdim .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1025,7 +1025,7 @@ character_variable <- "Halifax"
   border-bottom-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_footnotes {
+#qwphqnzdim .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1039,13 +1039,13 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_footnote {
+#qwphqnzdim .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wnviuwofvm .gt_sourcenotes {
+#qwphqnzdim .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1059,41 +1059,41 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wnviuwofvm .gt_sourcenote {
+#qwphqnzdim .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wnviuwofvm .gt_left {
+#qwphqnzdim .gt_left {
   text-align: left;
 }
 
-#wnviuwofvm .gt_center {
+#qwphqnzdim .gt_center {
   text-align: center;
 }
 
-#wnviuwofvm .gt_right {
+#qwphqnzdim .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wnviuwofvm .gt_font_normal {
+#qwphqnzdim .gt_font_normal {
   font-weight: normal;
 }
 
-#wnviuwofvm .gt_font_bold {
+#qwphqnzdim .gt_font_bold {
   font-weight: bold;
 }
 
-#wnviuwofvm .gt_font_italic {
+#qwphqnzdim .gt_font_italic {
   font-style: italic;
 }
 
-#wnviuwofvm .gt_super {
+#qwphqnzdim .gt_super {
   font-size: 65%;
 }
 
-#wnviuwofvm .gt_footnote_marks {
+#qwphqnzdim .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1122,12 +1122,12 @@ character_variable <- "Halifax"
 ```
 
 ```{=html}
-<div id="wfnsjumsvw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="shjmhufvik" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wfnsjumsvw .gt_table {
+#shjmhufvik .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1152,7 +1152,7 @@ character_variable <- "Halifax"
   border-left-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_heading {
+#shjmhufvik .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1164,7 +1164,7 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_title {
+#shjmhufvik .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1174,7 +1174,7 @@ character_variable <- "Halifax"
   border-bottom-width: 0;
 }
 
-#wfnsjumsvw .gt_subtitle {
+#shjmhufvik .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1184,13 +1184,13 @@ character_variable <- "Halifax"
   border-top-width: 0;
 }
 
-#wfnsjumsvw .gt_bottom_border {
+#shjmhufvik .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_col_headings {
+#shjmhufvik .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1205,7 +1205,7 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_col_heading {
+#shjmhufvik .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1225,7 +1225,7 @@ character_variable <- "Halifax"
   overflow-x: hidden;
 }
 
-#wfnsjumsvw .gt_column_spanner_outer {
+#shjmhufvik .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1237,15 +1237,15 @@ character_variable <- "Halifax"
   padding-right: 4px;
 }
 
-#wfnsjumsvw .gt_column_spanner_outer:first-child {
+#shjmhufvik .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wfnsjumsvw .gt_column_spanner_outer:last-child {
+#shjmhufvik .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wfnsjumsvw .gt_column_spanner {
+#shjmhufvik .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1257,7 +1257,7 @@ character_variable <- "Halifax"
   width: 100%;
 }
 
-#wfnsjumsvw .gt_group_heading {
+#shjmhufvik .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1279,7 +1279,7 @@ character_variable <- "Halifax"
   vertical-align: middle;
 }
 
-#wfnsjumsvw .gt_empty_group_heading {
+#shjmhufvik .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1294,15 +1294,15 @@ character_variable <- "Halifax"
   vertical-align: middle;
 }
 
-#wfnsjumsvw .gt_from_md > :first-child {
+#shjmhufvik .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wfnsjumsvw .gt_from_md > :last-child {
+#shjmhufvik .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wfnsjumsvw .gt_row {
+#shjmhufvik .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1321,7 +1321,7 @@ character_variable <- "Halifax"
   overflow-x: hidden;
 }
 
-#wfnsjumsvw .gt_stub {
+#shjmhufvik .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1333,7 +1333,7 @@ character_variable <- "Halifax"
   padding-left: 12px;
 }
 
-#wfnsjumsvw .gt_summary_row {
+#shjmhufvik .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1343,7 +1343,7 @@ character_variable <- "Halifax"
   padding-right: 5px;
 }
 
-#wfnsjumsvw .gt_first_summary_row {
+#shjmhufvik .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1353,7 +1353,7 @@ character_variable <- "Halifax"
   border-top-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_grand_summary_row {
+#shjmhufvik .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1363,7 +1363,7 @@ character_variable <- "Halifax"
   padding-right: 5px;
 }
 
-#wfnsjumsvw .gt_first_grand_summary_row {
+#shjmhufvik .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1373,11 +1373,11 @@ character_variable <- "Halifax"
   border-top-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_striped {
+#shjmhufvik .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wfnsjumsvw .gt_table_body {
+#shjmhufvik .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1386,7 +1386,7 @@ character_variable <- "Halifax"
   border-bottom-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_footnotes {
+#shjmhufvik .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1400,13 +1400,13 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_footnote {
+#shjmhufvik .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wfnsjumsvw .gt_sourcenotes {
+#shjmhufvik .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1420,41 +1420,41 @@ character_variable <- "Halifax"
   border-right-color: #D3D3D3;
 }
 
-#wfnsjumsvw .gt_sourcenote {
+#shjmhufvik .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wfnsjumsvw .gt_left {
+#shjmhufvik .gt_left {
   text-align: left;
 }
 
-#wfnsjumsvw .gt_center {
+#shjmhufvik .gt_center {
   text-align: center;
 }
 
-#wfnsjumsvw .gt_right {
+#shjmhufvik .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wfnsjumsvw .gt_font_normal {
+#shjmhufvik .gt_font_normal {
   font-weight: normal;
 }
 
-#wfnsjumsvw .gt_font_bold {
+#shjmhufvik .gt_font_bold {
   font-weight: bold;
 }
 
-#wfnsjumsvw .gt_font_italic {
+#shjmhufvik .gt_font_italic {
   font-style: italic;
 }
 
-#wfnsjumsvw .gt_super {
+#shjmhufvik .gt_super {
   font-size: 65%;
 }
 
-#wfnsjumsvw .gt_footnote_marks {
+#shjmhufvik .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1506,12 +1506,12 @@ number_variable <- 10
 ### Create a variable from an equation
 
 ```{=html}
-<div id="emmdefnbbx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bmjmolprne" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#emmdefnbbx .gt_table {
+#bmjmolprne .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1536,7 +1536,7 @@ number_variable <- 10
   border-left-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_heading {
+#bmjmolprne .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1548,7 +1548,7 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_title {
+#bmjmolprne .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1558,7 +1558,7 @@ number_variable <- 10
   border-bottom-width: 0;
 }
 
-#emmdefnbbx .gt_subtitle {
+#bmjmolprne .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1568,13 +1568,13 @@ number_variable <- 10
   border-top-width: 0;
 }
 
-#emmdefnbbx .gt_bottom_border {
+#bmjmolprne .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_col_headings {
+#bmjmolprne .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1589,7 +1589,7 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_col_heading {
+#bmjmolprne .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1609,7 +1609,7 @@ number_variable <- 10
   overflow-x: hidden;
 }
 
-#emmdefnbbx .gt_column_spanner_outer {
+#bmjmolprne .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1621,15 +1621,15 @@ number_variable <- 10
   padding-right: 4px;
 }
 
-#emmdefnbbx .gt_column_spanner_outer:first-child {
+#bmjmolprne .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#emmdefnbbx .gt_column_spanner_outer:last-child {
+#bmjmolprne .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#emmdefnbbx .gt_column_spanner {
+#bmjmolprne .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1641,7 +1641,7 @@ number_variable <- 10
   width: 100%;
 }
 
-#emmdefnbbx .gt_group_heading {
+#bmjmolprne .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1663,7 +1663,7 @@ number_variable <- 10
   vertical-align: middle;
 }
 
-#emmdefnbbx .gt_empty_group_heading {
+#bmjmolprne .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1678,15 +1678,15 @@ number_variable <- 10
   vertical-align: middle;
 }
 
-#emmdefnbbx .gt_from_md > :first-child {
+#bmjmolprne .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#emmdefnbbx .gt_from_md > :last-child {
+#bmjmolprne .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#emmdefnbbx .gt_row {
+#bmjmolprne .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1705,7 +1705,7 @@ number_variable <- 10
   overflow-x: hidden;
 }
 
-#emmdefnbbx .gt_stub {
+#bmjmolprne .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1717,7 +1717,7 @@ number_variable <- 10
   padding-left: 12px;
 }
 
-#emmdefnbbx .gt_summary_row {
+#bmjmolprne .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1727,7 +1727,7 @@ number_variable <- 10
   padding-right: 5px;
 }
 
-#emmdefnbbx .gt_first_summary_row {
+#bmjmolprne .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1737,7 +1737,7 @@ number_variable <- 10
   border-top-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_grand_summary_row {
+#bmjmolprne .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1747,7 +1747,7 @@ number_variable <- 10
   padding-right: 5px;
 }
 
-#emmdefnbbx .gt_first_grand_summary_row {
+#bmjmolprne .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1757,11 +1757,11 @@ number_variable <- 10
   border-top-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_striped {
+#bmjmolprne .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#emmdefnbbx .gt_table_body {
+#bmjmolprne .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1770,7 +1770,7 @@ number_variable <- 10
   border-bottom-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_footnotes {
+#bmjmolprne .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1784,13 +1784,13 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_footnote {
+#bmjmolprne .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#emmdefnbbx .gt_sourcenotes {
+#bmjmolprne .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1804,41 +1804,41 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#emmdefnbbx .gt_sourcenote {
+#bmjmolprne .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#emmdefnbbx .gt_left {
+#bmjmolprne .gt_left {
   text-align: left;
 }
 
-#emmdefnbbx .gt_center {
+#bmjmolprne .gt_center {
   text-align: center;
 }
 
-#emmdefnbbx .gt_right {
+#bmjmolprne .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#emmdefnbbx .gt_font_normal {
+#bmjmolprne .gt_font_normal {
   font-weight: normal;
 }
 
-#emmdefnbbx .gt_font_bold {
+#bmjmolprne .gt_font_bold {
   font-weight: bold;
 }
 
-#emmdefnbbx .gt_font_italic {
+#bmjmolprne .gt_font_italic {
   font-style: italic;
 }
 
-#emmdefnbbx .gt_super {
+#bmjmolprne .gt_super {
   font-size: 65%;
 }
 
-#emmdefnbbx .gt_footnote_marks {
+#bmjmolprne .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1867,12 +1867,12 @@ number_variable <- 10
 ```
 
 ```{=html}
-<div id="hicexvddab" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ljuupjunju" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#hicexvddab .gt_table {
+#ljuupjunju .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1897,7 +1897,7 @@ number_variable <- 10
   border-left-color: #D3D3D3;
 }
 
-#hicexvddab .gt_heading {
+#ljuupjunju .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1909,7 +1909,7 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#hicexvddab .gt_title {
+#ljuupjunju .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1919,7 +1919,7 @@ number_variable <- 10
   border-bottom-width: 0;
 }
 
-#hicexvddab .gt_subtitle {
+#ljuupjunju .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1929,13 +1929,13 @@ number_variable <- 10
   border-top-width: 0;
 }
 
-#hicexvddab .gt_bottom_border {
+#ljuupjunju .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#hicexvddab .gt_col_headings {
+#ljuupjunju .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1950,7 +1950,7 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#hicexvddab .gt_col_heading {
+#ljuupjunju .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1970,7 +1970,7 @@ number_variable <- 10
   overflow-x: hidden;
 }
 
-#hicexvddab .gt_column_spanner_outer {
+#ljuupjunju .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1982,15 +1982,15 @@ number_variable <- 10
   padding-right: 4px;
 }
 
-#hicexvddab .gt_column_spanner_outer:first-child {
+#ljuupjunju .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#hicexvddab .gt_column_spanner_outer:last-child {
+#ljuupjunju .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#hicexvddab .gt_column_spanner {
+#ljuupjunju .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2002,7 +2002,7 @@ number_variable <- 10
   width: 100%;
 }
 
-#hicexvddab .gt_group_heading {
+#ljuupjunju .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2024,7 +2024,7 @@ number_variable <- 10
   vertical-align: middle;
 }
 
-#hicexvddab .gt_empty_group_heading {
+#ljuupjunju .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2039,15 +2039,15 @@ number_variable <- 10
   vertical-align: middle;
 }
 
-#hicexvddab .gt_from_md > :first-child {
+#ljuupjunju .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#hicexvddab .gt_from_md > :last-child {
+#ljuupjunju .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#hicexvddab .gt_row {
+#ljuupjunju .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2066,7 +2066,7 @@ number_variable <- 10
   overflow-x: hidden;
 }
 
-#hicexvddab .gt_stub {
+#ljuupjunju .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2078,7 +2078,7 @@ number_variable <- 10
   padding-left: 12px;
 }
 
-#hicexvddab .gt_summary_row {
+#ljuupjunju .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2088,7 +2088,7 @@ number_variable <- 10
   padding-right: 5px;
 }
 
-#hicexvddab .gt_first_summary_row {
+#ljuupjunju .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2098,7 +2098,7 @@ number_variable <- 10
   border-top-color: #D3D3D3;
 }
 
-#hicexvddab .gt_grand_summary_row {
+#ljuupjunju .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2108,7 +2108,7 @@ number_variable <- 10
   padding-right: 5px;
 }
 
-#hicexvddab .gt_first_grand_summary_row {
+#ljuupjunju .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2118,11 +2118,11 @@ number_variable <- 10
   border-top-color: #D3D3D3;
 }
 
-#hicexvddab .gt_striped {
+#ljuupjunju .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#hicexvddab .gt_table_body {
+#ljuupjunju .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2131,7 +2131,7 @@ number_variable <- 10
   border-bottom-color: #D3D3D3;
 }
 
-#hicexvddab .gt_footnotes {
+#ljuupjunju .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2145,13 +2145,13 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#hicexvddab .gt_footnote {
+#ljuupjunju .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#hicexvddab .gt_sourcenotes {
+#ljuupjunju .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2165,41 +2165,41 @@ number_variable <- 10
   border-right-color: #D3D3D3;
 }
 
-#hicexvddab .gt_sourcenote {
+#ljuupjunju .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#hicexvddab .gt_left {
+#ljuupjunju .gt_left {
   text-align: left;
 }
 
-#hicexvddab .gt_center {
+#ljuupjunju .gt_center {
   text-align: center;
 }
 
-#hicexvddab .gt_right {
+#ljuupjunju .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#hicexvddab .gt_font_normal {
+#ljuupjunju .gt_font_normal {
   font-weight: normal;
 }
 
-#hicexvddab .gt_font_bold {
+#ljuupjunju .gt_font_bold {
   font-weight: bold;
 }
 
-#hicexvddab .gt_font_italic {
+#ljuupjunju .gt_font_italic {
   font-style: italic;
 }
 
-#hicexvddab .gt_super {
+#ljuupjunju .gt_super {
   font-size: 65%;
 }
 
-#hicexvddab .gt_footnote_marks {
+#ljuupjunju .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2251,12 +2251,12 @@ total_variable <- 10 + 10
 ### Create a variable from combining variables
 
 ```{=html}
-<div id="yeosyondjj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dtxeibzwgf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#yeosyondjj .gt_table {
+#dtxeibzwgf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2281,7 +2281,7 @@ total_variable <- 10 + 10
   border-left-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_heading {
+#dtxeibzwgf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2293,7 +2293,7 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_title {
+#dtxeibzwgf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2303,7 +2303,7 @@ total_variable <- 10 + 10
   border-bottom-width: 0;
 }
 
-#yeosyondjj .gt_subtitle {
+#dtxeibzwgf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2313,13 +2313,13 @@ total_variable <- 10 + 10
   border-top-width: 0;
 }
 
-#yeosyondjj .gt_bottom_border {
+#dtxeibzwgf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_col_headings {
+#dtxeibzwgf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2334,7 +2334,7 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_col_heading {
+#dtxeibzwgf .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2354,7 +2354,7 @@ total_variable <- 10 + 10
   overflow-x: hidden;
 }
 
-#yeosyondjj .gt_column_spanner_outer {
+#dtxeibzwgf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2366,15 +2366,15 @@ total_variable <- 10 + 10
   padding-right: 4px;
 }
 
-#yeosyondjj .gt_column_spanner_outer:first-child {
+#dtxeibzwgf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yeosyondjj .gt_column_spanner_outer:last-child {
+#dtxeibzwgf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yeosyondjj .gt_column_spanner {
+#dtxeibzwgf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2386,7 +2386,7 @@ total_variable <- 10 + 10
   width: 100%;
 }
 
-#yeosyondjj .gt_group_heading {
+#dtxeibzwgf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2408,7 +2408,7 @@ total_variable <- 10 + 10
   vertical-align: middle;
 }
 
-#yeosyondjj .gt_empty_group_heading {
+#dtxeibzwgf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2423,15 +2423,15 @@ total_variable <- 10 + 10
   vertical-align: middle;
 }
 
-#yeosyondjj .gt_from_md > :first-child {
+#dtxeibzwgf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#yeosyondjj .gt_from_md > :last-child {
+#dtxeibzwgf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#yeosyondjj .gt_row {
+#dtxeibzwgf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2450,7 +2450,7 @@ total_variable <- 10 + 10
   overflow-x: hidden;
 }
 
-#yeosyondjj .gt_stub {
+#dtxeibzwgf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2462,7 +2462,7 @@ total_variable <- 10 + 10
   padding-left: 12px;
 }
 
-#yeosyondjj .gt_summary_row {
+#dtxeibzwgf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2472,7 +2472,7 @@ total_variable <- 10 + 10
   padding-right: 5px;
 }
 
-#yeosyondjj .gt_first_summary_row {
+#dtxeibzwgf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2482,7 +2482,7 @@ total_variable <- 10 + 10
   border-top-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_grand_summary_row {
+#dtxeibzwgf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2492,7 +2492,7 @@ total_variable <- 10 + 10
   padding-right: 5px;
 }
 
-#yeosyondjj .gt_first_grand_summary_row {
+#dtxeibzwgf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2502,11 +2502,11 @@ total_variable <- 10 + 10
   border-top-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_striped {
+#dtxeibzwgf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yeosyondjj .gt_table_body {
+#dtxeibzwgf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2515,7 +2515,7 @@ total_variable <- 10 + 10
   border-bottom-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_footnotes {
+#dtxeibzwgf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2529,13 +2529,13 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_footnote {
+#dtxeibzwgf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#yeosyondjj .gt_sourcenotes {
+#dtxeibzwgf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2549,41 +2549,41 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#yeosyondjj .gt_sourcenote {
+#dtxeibzwgf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#yeosyondjj .gt_left {
+#dtxeibzwgf .gt_left {
   text-align: left;
 }
 
-#yeosyondjj .gt_center {
+#dtxeibzwgf .gt_center {
   text-align: center;
 }
 
-#yeosyondjj .gt_right {
+#dtxeibzwgf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yeosyondjj .gt_font_normal {
+#dtxeibzwgf .gt_font_normal {
   font-weight: normal;
 }
 
-#yeosyondjj .gt_font_bold {
+#dtxeibzwgf .gt_font_bold {
   font-weight: bold;
 }
 
-#yeosyondjj .gt_font_italic {
+#dtxeibzwgf .gt_font_italic {
   font-style: italic;
 }
 
-#yeosyondjj .gt_super {
+#dtxeibzwgf .gt_super {
   font-size: 65%;
 }
 
-#yeosyondjj .gt_footnote_marks {
+#dtxeibzwgf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2612,12 +2612,12 @@ total_variable <- 10 + 10
 ```
 
 ```{=html}
-<div id="schuqzrvkx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="icaqlgrxuc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#schuqzrvkx .gt_table {
+#icaqlgrxuc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2642,7 +2642,7 @@ total_variable <- 10 + 10
   border-left-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_heading {
+#icaqlgrxuc .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2654,7 +2654,7 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_title {
+#icaqlgrxuc .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2664,7 +2664,7 @@ total_variable <- 10 + 10
   border-bottom-width: 0;
 }
 
-#schuqzrvkx .gt_subtitle {
+#icaqlgrxuc .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2674,13 +2674,13 @@ total_variable <- 10 + 10
   border-top-width: 0;
 }
 
-#schuqzrvkx .gt_bottom_border {
+#icaqlgrxuc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_col_headings {
+#icaqlgrxuc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2695,7 +2695,7 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_col_heading {
+#icaqlgrxuc .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2715,7 +2715,7 @@ total_variable <- 10 + 10
   overflow-x: hidden;
 }
 
-#schuqzrvkx .gt_column_spanner_outer {
+#icaqlgrxuc .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2727,15 +2727,15 @@ total_variable <- 10 + 10
   padding-right: 4px;
 }
 
-#schuqzrvkx .gt_column_spanner_outer:first-child {
+#icaqlgrxuc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#schuqzrvkx .gt_column_spanner_outer:last-child {
+#icaqlgrxuc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#schuqzrvkx .gt_column_spanner {
+#icaqlgrxuc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2747,7 +2747,7 @@ total_variable <- 10 + 10
   width: 100%;
 }
 
-#schuqzrvkx .gt_group_heading {
+#icaqlgrxuc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2769,7 +2769,7 @@ total_variable <- 10 + 10
   vertical-align: middle;
 }
 
-#schuqzrvkx .gt_empty_group_heading {
+#icaqlgrxuc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2784,15 +2784,15 @@ total_variable <- 10 + 10
   vertical-align: middle;
 }
 
-#schuqzrvkx .gt_from_md > :first-child {
+#icaqlgrxuc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#schuqzrvkx .gt_from_md > :last-child {
+#icaqlgrxuc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#schuqzrvkx .gt_row {
+#icaqlgrxuc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2811,7 +2811,7 @@ total_variable <- 10 + 10
   overflow-x: hidden;
 }
 
-#schuqzrvkx .gt_stub {
+#icaqlgrxuc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2823,7 +2823,7 @@ total_variable <- 10 + 10
   padding-left: 12px;
 }
 
-#schuqzrvkx .gt_summary_row {
+#icaqlgrxuc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2833,7 +2833,7 @@ total_variable <- 10 + 10
   padding-right: 5px;
 }
 
-#schuqzrvkx .gt_first_summary_row {
+#icaqlgrxuc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2843,7 +2843,7 @@ total_variable <- 10 + 10
   border-top-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_grand_summary_row {
+#icaqlgrxuc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2853,7 +2853,7 @@ total_variable <- 10 + 10
   padding-right: 5px;
 }
 
-#schuqzrvkx .gt_first_grand_summary_row {
+#icaqlgrxuc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2863,11 +2863,11 @@ total_variable <- 10 + 10
   border-top-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_striped {
+#icaqlgrxuc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#schuqzrvkx .gt_table_body {
+#icaqlgrxuc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2876,7 +2876,7 @@ total_variable <- 10 + 10
   border-bottom-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_footnotes {
+#icaqlgrxuc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2890,13 +2890,13 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_footnote {
+#icaqlgrxuc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#schuqzrvkx .gt_sourcenotes {
+#icaqlgrxuc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2910,41 +2910,41 @@ total_variable <- 10 + 10
   border-right-color: #D3D3D3;
 }
 
-#schuqzrvkx .gt_sourcenote {
+#icaqlgrxuc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#schuqzrvkx .gt_left {
+#icaqlgrxuc .gt_left {
   text-align: left;
 }
 
-#schuqzrvkx .gt_center {
+#icaqlgrxuc .gt_center {
   text-align: center;
 }
 
-#schuqzrvkx .gt_right {
+#icaqlgrxuc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#schuqzrvkx .gt_font_normal {
+#icaqlgrxuc .gt_font_normal {
   font-weight: normal;
 }
 
-#schuqzrvkx .gt_font_bold {
+#icaqlgrxuc .gt_font_bold {
   font-weight: bold;
 }
 
-#schuqzrvkx .gt_font_italic {
+#icaqlgrxuc .gt_font_italic {
   font-style: italic;
 }
 
-#schuqzrvkx .gt_super {
+#icaqlgrxuc .gt_super {
   font-size: 65%;
 }
 
-#schuqzrvkx .gt_footnote_marks {
+#icaqlgrxuc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3006,12 +3006,12 @@ combined_variable <- first_number_variable + second_number_variable
 ### Create a variable from a function
 
 ```{=html}
-<div id="yuwpewdwuv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="oysqituayi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#yuwpewdwuv .gt_table {
+#oysqituayi .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3036,7 +3036,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-left-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_heading {
+#oysqituayi .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3048,7 +3048,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_title {
+#oysqituayi .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3058,7 +3058,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-bottom-width: 0;
 }
 
-#yuwpewdwuv .gt_subtitle {
+#oysqituayi .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3068,13 +3068,13 @@ combined_variable <- first_number_variable + second_number_variable
   border-top-width: 0;
 }
 
-#yuwpewdwuv .gt_bottom_border {
+#oysqituayi .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_col_headings {
+#oysqituayi .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3089,7 +3089,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_col_heading {
+#oysqituayi .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3109,7 +3109,7 @@ combined_variable <- first_number_variable + second_number_variable
   overflow-x: hidden;
 }
 
-#yuwpewdwuv .gt_column_spanner_outer {
+#oysqituayi .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3121,15 +3121,15 @@ combined_variable <- first_number_variable + second_number_variable
   padding-right: 4px;
 }
 
-#yuwpewdwuv .gt_column_spanner_outer:first-child {
+#oysqituayi .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yuwpewdwuv .gt_column_spanner_outer:last-child {
+#oysqituayi .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yuwpewdwuv .gt_column_spanner {
+#oysqituayi .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3141,7 +3141,7 @@ combined_variable <- first_number_variable + second_number_variable
   width: 100%;
 }
 
-#yuwpewdwuv .gt_group_heading {
+#oysqituayi .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3163,7 +3163,7 @@ combined_variable <- first_number_variable + second_number_variable
   vertical-align: middle;
 }
 
-#yuwpewdwuv .gt_empty_group_heading {
+#oysqituayi .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3178,15 +3178,15 @@ combined_variable <- first_number_variable + second_number_variable
   vertical-align: middle;
 }
 
-#yuwpewdwuv .gt_from_md > :first-child {
+#oysqituayi .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#yuwpewdwuv .gt_from_md > :last-child {
+#oysqituayi .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#yuwpewdwuv .gt_row {
+#oysqituayi .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3205,7 +3205,7 @@ combined_variable <- first_number_variable + second_number_variable
   overflow-x: hidden;
 }
 
-#yuwpewdwuv .gt_stub {
+#oysqituayi .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3217,7 +3217,7 @@ combined_variable <- first_number_variable + second_number_variable
   padding-left: 12px;
 }
 
-#yuwpewdwuv .gt_summary_row {
+#oysqituayi .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3227,7 +3227,7 @@ combined_variable <- first_number_variable + second_number_variable
   padding-right: 5px;
 }
 
-#yuwpewdwuv .gt_first_summary_row {
+#oysqituayi .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3237,7 +3237,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-top-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_grand_summary_row {
+#oysqituayi .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3247,7 +3247,7 @@ combined_variable <- first_number_variable + second_number_variable
   padding-right: 5px;
 }
 
-#yuwpewdwuv .gt_first_grand_summary_row {
+#oysqituayi .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3257,11 +3257,11 @@ combined_variable <- first_number_variable + second_number_variable
   border-top-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_striped {
+#oysqituayi .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yuwpewdwuv .gt_table_body {
+#oysqituayi .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3270,7 +3270,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-bottom-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_footnotes {
+#oysqituayi .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3284,13 +3284,13 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_footnote {
+#oysqituayi .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#yuwpewdwuv .gt_sourcenotes {
+#oysqituayi .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3304,41 +3304,41 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#yuwpewdwuv .gt_sourcenote {
+#oysqituayi .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#yuwpewdwuv .gt_left {
+#oysqituayi .gt_left {
   text-align: left;
 }
 
-#yuwpewdwuv .gt_center {
+#oysqituayi .gt_center {
   text-align: center;
 }
 
-#yuwpewdwuv .gt_right {
+#oysqituayi .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yuwpewdwuv .gt_font_normal {
+#oysqituayi .gt_font_normal {
   font-weight: normal;
 }
 
-#yuwpewdwuv .gt_font_bold {
+#oysqituayi .gt_font_bold {
   font-weight: bold;
 }
 
-#yuwpewdwuv .gt_font_italic {
+#oysqituayi .gt_font_italic {
   font-style: italic;
 }
 
-#yuwpewdwuv .gt_super {
+#oysqituayi .gt_super {
   font-size: 65%;
 }
 
-#yuwpewdwuv .gt_footnote_marks {
+#oysqituayi .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3367,12 +3367,12 @@ combined_variable <- first_number_variable + second_number_variable
 ```
 
 ```{=html}
-<div id="khsmqlrgqf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="laryqjqbte" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#khsmqlrgqf .gt_table {
+#laryqjqbte .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3397,7 +3397,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-left-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_heading {
+#laryqjqbte .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3409,7 +3409,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_title {
+#laryqjqbte .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3419,7 +3419,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-bottom-width: 0;
 }
 
-#khsmqlrgqf .gt_subtitle {
+#laryqjqbte .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3429,13 +3429,13 @@ combined_variable <- first_number_variable + second_number_variable
   border-top-width: 0;
 }
 
-#khsmqlrgqf .gt_bottom_border {
+#laryqjqbte .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_col_headings {
+#laryqjqbte .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3450,7 +3450,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_col_heading {
+#laryqjqbte .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3470,7 +3470,7 @@ combined_variable <- first_number_variable + second_number_variable
   overflow-x: hidden;
 }
 
-#khsmqlrgqf .gt_column_spanner_outer {
+#laryqjqbte .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3482,15 +3482,15 @@ combined_variable <- first_number_variable + second_number_variable
   padding-right: 4px;
 }
 
-#khsmqlrgqf .gt_column_spanner_outer:first-child {
+#laryqjqbte .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#khsmqlrgqf .gt_column_spanner_outer:last-child {
+#laryqjqbte .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#khsmqlrgqf .gt_column_spanner {
+#laryqjqbte .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3502,7 +3502,7 @@ combined_variable <- first_number_variable + second_number_variable
   width: 100%;
 }
 
-#khsmqlrgqf .gt_group_heading {
+#laryqjqbte .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3524,7 +3524,7 @@ combined_variable <- first_number_variable + second_number_variable
   vertical-align: middle;
 }
 
-#khsmqlrgqf .gt_empty_group_heading {
+#laryqjqbte .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3539,15 +3539,15 @@ combined_variable <- first_number_variable + second_number_variable
   vertical-align: middle;
 }
 
-#khsmqlrgqf .gt_from_md > :first-child {
+#laryqjqbte .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#khsmqlrgqf .gt_from_md > :last-child {
+#laryqjqbte .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#khsmqlrgqf .gt_row {
+#laryqjqbte .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3566,7 +3566,7 @@ combined_variable <- first_number_variable + second_number_variable
   overflow-x: hidden;
 }
 
-#khsmqlrgqf .gt_stub {
+#laryqjqbte .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3578,7 +3578,7 @@ combined_variable <- first_number_variable + second_number_variable
   padding-left: 12px;
 }
 
-#khsmqlrgqf .gt_summary_row {
+#laryqjqbte .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3588,7 +3588,7 @@ combined_variable <- first_number_variable + second_number_variable
   padding-right: 5px;
 }
 
-#khsmqlrgqf .gt_first_summary_row {
+#laryqjqbte .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3598,7 +3598,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-top-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_grand_summary_row {
+#laryqjqbte .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3608,7 +3608,7 @@ combined_variable <- first_number_variable + second_number_variable
   padding-right: 5px;
 }
 
-#khsmqlrgqf .gt_first_grand_summary_row {
+#laryqjqbte .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3618,11 +3618,11 @@ combined_variable <- first_number_variable + second_number_variable
   border-top-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_striped {
+#laryqjqbte .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#khsmqlrgqf .gt_table_body {
+#laryqjqbte .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3631,7 +3631,7 @@ combined_variable <- first_number_variable + second_number_variable
   border-bottom-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_footnotes {
+#laryqjqbte .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3645,13 +3645,13 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_footnote {
+#laryqjqbte .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#khsmqlrgqf .gt_sourcenotes {
+#laryqjqbte .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3665,41 +3665,41 @@ combined_variable <- first_number_variable + second_number_variable
   border-right-color: #D3D3D3;
 }
 
-#khsmqlrgqf .gt_sourcenote {
+#laryqjqbte .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#khsmqlrgqf .gt_left {
+#laryqjqbte .gt_left {
   text-align: left;
 }
 
-#khsmqlrgqf .gt_center {
+#laryqjqbte .gt_center {
   text-align: center;
 }
 
-#khsmqlrgqf .gt_right {
+#laryqjqbte .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#khsmqlrgqf .gt_font_normal {
+#laryqjqbte .gt_font_normal {
   font-weight: normal;
 }
 
-#khsmqlrgqf .gt_font_bold {
+#laryqjqbte .gt_font_bold {
   font-weight: bold;
 }
 
-#khsmqlrgqf .gt_font_italic {
+#laryqjqbte .gt_font_italic {
   font-style: italic;
 }
 
-#khsmqlrgqf .gt_super {
+#laryqjqbte .gt_super {
   font-size: 65%;
 }
 
-#khsmqlrgqf .gt_footnote_marks {
+#laryqjqbte .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3757,12 +3757,12 @@ A vector is a simple data structure that stores a sequence of values. A requirem
 ### Create a character vector
 
 ```{=html}
-<div id="ogwjcroibx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="athiylfdqt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ogwjcroibx .gt_table {
+#athiylfdqt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3787,7 +3787,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-left-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_heading {
+#athiylfdqt .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3799,7 +3799,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_title {
+#athiylfdqt .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3809,7 +3809,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-width: 0;
 }
 
-#ogwjcroibx .gt_subtitle {
+#athiylfdqt .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3819,13 +3819,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-width: 0;
 }
 
-#ogwjcroibx .gt_bottom_border {
+#athiylfdqt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_col_headings {
+#athiylfdqt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3840,7 +3840,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_col_heading {
+#athiylfdqt .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3860,7 +3860,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#ogwjcroibx .gt_column_spanner_outer {
+#athiylfdqt .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3872,15 +3872,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 4px;
 }
 
-#ogwjcroibx .gt_column_spanner_outer:first-child {
+#athiylfdqt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ogwjcroibx .gt_column_spanner_outer:last-child {
+#athiylfdqt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ogwjcroibx .gt_column_spanner {
+#athiylfdqt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3892,7 +3892,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   width: 100%;
 }
 
-#ogwjcroibx .gt_group_heading {
+#athiylfdqt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3914,7 +3914,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#ogwjcroibx .gt_empty_group_heading {
+#athiylfdqt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3929,15 +3929,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#ogwjcroibx .gt_from_md > :first-child {
+#athiylfdqt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ogwjcroibx .gt_from_md > :last-child {
+#athiylfdqt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ogwjcroibx .gt_row {
+#athiylfdqt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3956,7 +3956,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#ogwjcroibx .gt_stub {
+#athiylfdqt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3968,7 +3968,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-left: 12px;
 }
 
-#ogwjcroibx .gt_summary_row {
+#athiylfdqt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3978,7 +3978,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#ogwjcroibx .gt_first_summary_row {
+#athiylfdqt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3988,7 +3988,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_grand_summary_row {
+#athiylfdqt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3998,7 +3998,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#ogwjcroibx .gt_first_grand_summary_row {
+#athiylfdqt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4008,11 +4008,11 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_striped {
+#athiylfdqt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ogwjcroibx .gt_table_body {
+#athiylfdqt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4021,7 +4021,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_footnotes {
+#athiylfdqt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4035,13 +4035,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_footnote {
+#athiylfdqt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ogwjcroibx .gt_sourcenotes {
+#athiylfdqt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4055,41 +4055,41 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#ogwjcroibx .gt_sourcenote {
+#athiylfdqt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ogwjcroibx .gt_left {
+#athiylfdqt .gt_left {
   text-align: left;
 }
 
-#ogwjcroibx .gt_center {
+#athiylfdqt .gt_center {
   text-align: center;
 }
 
-#ogwjcroibx .gt_right {
+#athiylfdqt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ogwjcroibx .gt_font_normal {
+#athiylfdqt .gt_font_normal {
   font-weight: normal;
 }
 
-#ogwjcroibx .gt_font_bold {
+#athiylfdqt .gt_font_bold {
   font-weight: bold;
 }
 
-#ogwjcroibx .gt_font_italic {
+#athiylfdqt .gt_font_italic {
   font-style: italic;
 }
 
-#ogwjcroibx .gt_super {
+#athiylfdqt .gt_super {
   font-size: 65%;
 }
 
-#ogwjcroibx .gt_footnote_marks {
+#athiylfdqt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4118,12 +4118,12 @@ A vector is a simple data structure that stores a sequence of values. A requirem
 ```
 
 ```{=html}
-<div id="nbsentavvw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="aztyusgdte" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#nbsentavvw .gt_table {
+#aztyusgdte .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4148,7 +4148,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-left-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_heading {
+#aztyusgdte .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4160,7 +4160,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_title {
+#aztyusgdte .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4170,7 +4170,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-width: 0;
 }
 
-#nbsentavvw .gt_subtitle {
+#aztyusgdte .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4180,13 +4180,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-width: 0;
 }
 
-#nbsentavvw .gt_bottom_border {
+#aztyusgdte .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_col_headings {
+#aztyusgdte .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4201,7 +4201,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_col_heading {
+#aztyusgdte .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4221,7 +4221,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#nbsentavvw .gt_column_spanner_outer {
+#aztyusgdte .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4233,15 +4233,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 4px;
 }
 
-#nbsentavvw .gt_column_spanner_outer:first-child {
+#aztyusgdte .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nbsentavvw .gt_column_spanner_outer:last-child {
+#aztyusgdte .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nbsentavvw .gt_column_spanner {
+#aztyusgdte .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4253,7 +4253,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   width: 100%;
 }
 
-#nbsentavvw .gt_group_heading {
+#aztyusgdte .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4275,7 +4275,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#nbsentavvw .gt_empty_group_heading {
+#aztyusgdte .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4290,15 +4290,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#nbsentavvw .gt_from_md > :first-child {
+#aztyusgdte .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#nbsentavvw .gt_from_md > :last-child {
+#aztyusgdte .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#nbsentavvw .gt_row {
+#aztyusgdte .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4317,7 +4317,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#nbsentavvw .gt_stub {
+#aztyusgdte .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4329,7 +4329,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-left: 12px;
 }
 
-#nbsentavvw .gt_summary_row {
+#aztyusgdte .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4339,7 +4339,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#nbsentavvw .gt_first_summary_row {
+#aztyusgdte .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4349,7 +4349,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_grand_summary_row {
+#aztyusgdte .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4359,7 +4359,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#nbsentavvw .gt_first_grand_summary_row {
+#aztyusgdte .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4369,11 +4369,11 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_striped {
+#aztyusgdte .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nbsentavvw .gt_table_body {
+#aztyusgdte .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4382,7 +4382,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_footnotes {
+#aztyusgdte .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4396,13 +4396,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_footnote {
+#aztyusgdte .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nbsentavvw .gt_sourcenotes {
+#aztyusgdte .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4416,41 +4416,41 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#nbsentavvw .gt_sourcenote {
+#aztyusgdte .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nbsentavvw .gt_left {
+#aztyusgdte .gt_left {
   text-align: left;
 }
 
-#nbsentavvw .gt_center {
+#aztyusgdte .gt_center {
   text-align: center;
 }
 
-#nbsentavvw .gt_right {
+#aztyusgdte .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nbsentavvw .gt_font_normal {
+#aztyusgdte .gt_font_normal {
   font-weight: normal;
 }
 
-#nbsentavvw .gt_font_bold {
+#aztyusgdte .gt_font_bold {
   font-weight: bold;
 }
 
-#nbsentavvw .gt_font_italic {
+#aztyusgdte .gt_font_italic {
   font-style: italic;
 }
 
-#nbsentavvw .gt_super {
+#aztyusgdte .gt_super {
   font-size: 65%;
 }
 
-#nbsentavvw .gt_footnote_marks {
+#aztyusgdte .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4503,12 +4503,12 @@ character_vector <- c("one", "two", "three")
 ### Create a numeric vector
 
 ```{=html}
-<div id="qmuglxwgwr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dnubskrovh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qmuglxwgwr .gt_table {
+#dnubskrovh .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4533,7 +4533,7 @@ character_vector <- c("one", "two", "three")
   border-left-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_heading {
+#dnubskrovh .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4545,7 +4545,7 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_title {
+#dnubskrovh .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4555,7 +4555,7 @@ character_vector <- c("one", "two", "three")
   border-bottom-width: 0;
 }
 
-#qmuglxwgwr .gt_subtitle {
+#dnubskrovh .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4565,13 +4565,13 @@ character_vector <- c("one", "two", "three")
   border-top-width: 0;
 }
 
-#qmuglxwgwr .gt_bottom_border {
+#dnubskrovh .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_col_headings {
+#dnubskrovh .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4586,7 +4586,7 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_col_heading {
+#dnubskrovh .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4606,7 +4606,7 @@ character_vector <- c("one", "two", "three")
   overflow-x: hidden;
 }
 
-#qmuglxwgwr .gt_column_spanner_outer {
+#dnubskrovh .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -4618,15 +4618,15 @@ character_vector <- c("one", "two", "three")
   padding-right: 4px;
 }
 
-#qmuglxwgwr .gt_column_spanner_outer:first-child {
+#dnubskrovh .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qmuglxwgwr .gt_column_spanner_outer:last-child {
+#dnubskrovh .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qmuglxwgwr .gt_column_spanner {
+#dnubskrovh .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4638,7 +4638,7 @@ character_vector <- c("one", "two", "three")
   width: 100%;
 }
 
-#qmuglxwgwr .gt_group_heading {
+#dnubskrovh .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4660,7 +4660,7 @@ character_vector <- c("one", "two", "three")
   vertical-align: middle;
 }
 
-#qmuglxwgwr .gt_empty_group_heading {
+#dnubskrovh .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4675,15 +4675,15 @@ character_vector <- c("one", "two", "three")
   vertical-align: middle;
 }
 
-#qmuglxwgwr .gt_from_md > :first-child {
+#dnubskrovh .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qmuglxwgwr .gt_from_md > :last-child {
+#dnubskrovh .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qmuglxwgwr .gt_row {
+#dnubskrovh .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4702,7 +4702,7 @@ character_vector <- c("one", "two", "three")
   overflow-x: hidden;
 }
 
-#qmuglxwgwr .gt_stub {
+#dnubskrovh .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4714,7 +4714,7 @@ character_vector <- c("one", "two", "three")
   padding-left: 12px;
 }
 
-#qmuglxwgwr .gt_summary_row {
+#dnubskrovh .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4724,7 +4724,7 @@ character_vector <- c("one", "two", "three")
   padding-right: 5px;
 }
 
-#qmuglxwgwr .gt_first_summary_row {
+#dnubskrovh .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4734,7 +4734,7 @@ character_vector <- c("one", "two", "three")
   border-top-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_grand_summary_row {
+#dnubskrovh .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4744,7 +4744,7 @@ character_vector <- c("one", "two", "three")
   padding-right: 5px;
 }
 
-#qmuglxwgwr .gt_first_grand_summary_row {
+#dnubskrovh .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4754,11 +4754,11 @@ character_vector <- c("one", "two", "three")
   border-top-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_striped {
+#dnubskrovh .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qmuglxwgwr .gt_table_body {
+#dnubskrovh .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4767,7 +4767,7 @@ character_vector <- c("one", "two", "three")
   border-bottom-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_footnotes {
+#dnubskrovh .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4781,13 +4781,13 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_footnote {
+#dnubskrovh .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qmuglxwgwr .gt_sourcenotes {
+#dnubskrovh .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4801,41 +4801,41 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#qmuglxwgwr .gt_sourcenote {
+#dnubskrovh .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qmuglxwgwr .gt_left {
+#dnubskrovh .gt_left {
   text-align: left;
 }
 
-#qmuglxwgwr .gt_center {
+#dnubskrovh .gt_center {
   text-align: center;
 }
 
-#qmuglxwgwr .gt_right {
+#dnubskrovh .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qmuglxwgwr .gt_font_normal {
+#dnubskrovh .gt_font_normal {
   font-weight: normal;
 }
 
-#qmuglxwgwr .gt_font_bold {
+#dnubskrovh .gt_font_bold {
   font-weight: bold;
 }
 
-#qmuglxwgwr .gt_font_italic {
+#dnubskrovh .gt_font_italic {
   font-style: italic;
 }
 
-#qmuglxwgwr .gt_super {
+#dnubskrovh .gt_super {
   font-size: 65%;
 }
 
-#qmuglxwgwr .gt_footnote_marks {
+#dnubskrovh .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -4864,12 +4864,12 @@ character_vector <- c("one", "two", "three")
 ```
 
 ```{=html}
-<div id="kmmmwkosgx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="gdbfmborzj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kmmmwkosgx .gt_table {
+#gdbfmborzj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4894,7 +4894,7 @@ character_vector <- c("one", "two", "three")
   border-left-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_heading {
+#gdbfmborzj .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4906,7 +4906,7 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_title {
+#gdbfmborzj .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -4916,7 +4916,7 @@ character_vector <- c("one", "two", "three")
   border-bottom-width: 0;
 }
 
-#kmmmwkosgx .gt_subtitle {
+#gdbfmborzj .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -4926,13 +4926,13 @@ character_vector <- c("one", "two", "three")
   border-top-width: 0;
 }
 
-#kmmmwkosgx .gt_bottom_border {
+#gdbfmborzj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_col_headings {
+#gdbfmborzj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4947,7 +4947,7 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_col_heading {
+#gdbfmborzj .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4967,7 +4967,7 @@ character_vector <- c("one", "two", "three")
   overflow-x: hidden;
 }
 
-#kmmmwkosgx .gt_column_spanner_outer {
+#gdbfmborzj .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -4979,15 +4979,15 @@ character_vector <- c("one", "two", "three")
   padding-right: 4px;
 }
 
-#kmmmwkosgx .gt_column_spanner_outer:first-child {
+#gdbfmborzj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kmmmwkosgx .gt_column_spanner_outer:last-child {
+#gdbfmborzj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kmmmwkosgx .gt_column_spanner {
+#gdbfmborzj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4999,7 +4999,7 @@ character_vector <- c("one", "two", "three")
   width: 100%;
 }
 
-#kmmmwkosgx .gt_group_heading {
+#gdbfmborzj .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5021,7 +5021,7 @@ character_vector <- c("one", "two", "three")
   vertical-align: middle;
 }
 
-#kmmmwkosgx .gt_empty_group_heading {
+#gdbfmborzj .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5036,15 +5036,15 @@ character_vector <- c("one", "two", "three")
   vertical-align: middle;
 }
 
-#kmmmwkosgx .gt_from_md > :first-child {
+#gdbfmborzj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kmmmwkosgx .gt_from_md > :last-child {
+#gdbfmborzj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kmmmwkosgx .gt_row {
+#gdbfmborzj .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5063,7 +5063,7 @@ character_vector <- c("one", "two", "three")
   overflow-x: hidden;
 }
 
-#kmmmwkosgx .gt_stub {
+#gdbfmborzj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5075,7 +5075,7 @@ character_vector <- c("one", "two", "three")
   padding-left: 12px;
 }
 
-#kmmmwkosgx .gt_summary_row {
+#gdbfmborzj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5085,7 +5085,7 @@ character_vector <- c("one", "two", "three")
   padding-right: 5px;
 }
 
-#kmmmwkosgx .gt_first_summary_row {
+#gdbfmborzj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5095,7 +5095,7 @@ character_vector <- c("one", "two", "three")
   border-top-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_grand_summary_row {
+#gdbfmborzj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5105,7 +5105,7 @@ character_vector <- c("one", "two", "three")
   padding-right: 5px;
 }
 
-#kmmmwkosgx .gt_first_grand_summary_row {
+#gdbfmborzj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5115,11 +5115,11 @@ character_vector <- c("one", "two", "three")
   border-top-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_striped {
+#gdbfmborzj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kmmmwkosgx .gt_table_body {
+#gdbfmborzj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5128,7 +5128,7 @@ character_vector <- c("one", "two", "three")
   border-bottom-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_footnotes {
+#gdbfmborzj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5142,13 +5142,13 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_footnote {
+#gdbfmborzj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kmmmwkosgx .gt_sourcenotes {
+#gdbfmborzj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5162,41 +5162,41 @@ character_vector <- c("one", "two", "three")
   border-right-color: #D3D3D3;
 }
 
-#kmmmwkosgx .gt_sourcenote {
+#gdbfmborzj .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kmmmwkosgx .gt_left {
+#gdbfmborzj .gt_left {
   text-align: left;
 }
 
-#kmmmwkosgx .gt_center {
+#gdbfmborzj .gt_center {
   text-align: center;
 }
 
-#kmmmwkosgx .gt_right {
+#gdbfmborzj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kmmmwkosgx .gt_font_normal {
+#gdbfmborzj .gt_font_normal {
   font-weight: normal;
 }
 
-#kmmmwkosgx .gt_font_bold {
+#gdbfmborzj .gt_font_bold {
   font-weight: bold;
 }
 
-#kmmmwkosgx .gt_font_italic {
+#gdbfmborzj .gt_font_italic {
   font-style: italic;
 }
 
-#kmmmwkosgx .gt_super {
+#gdbfmborzj .gt_super {
   font-size: 65%;
 }
 
-#kmmmwkosgx .gt_footnote_marks {
+#gdbfmborzj .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5252,12 +5252,12 @@ A vector is a simple data structure that stores a sequence of values. A requirem
 ### Create dataframe with multiple character columns
 
 ```{=html}
-<div id="smdrliwbqf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="vqunzskrmg" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#smdrliwbqf .gt_table {
+#vqunzskrmg .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5282,7 +5282,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-left-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_heading {
+#vqunzskrmg .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5294,7 +5294,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_title {
+#vqunzskrmg .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5304,7 +5304,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-width: 0;
 }
 
-#smdrliwbqf .gt_subtitle {
+#vqunzskrmg .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5314,13 +5314,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-width: 0;
 }
 
-#smdrliwbqf .gt_bottom_border {
+#vqunzskrmg .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_col_headings {
+#vqunzskrmg .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5335,7 +5335,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_col_heading {
+#vqunzskrmg .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5355,7 +5355,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#smdrliwbqf .gt_column_spanner_outer {
+#vqunzskrmg .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -5367,15 +5367,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 4px;
 }
 
-#smdrliwbqf .gt_column_spanner_outer:first-child {
+#vqunzskrmg .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#smdrliwbqf .gt_column_spanner_outer:last-child {
+#vqunzskrmg .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#smdrliwbqf .gt_column_spanner {
+#vqunzskrmg .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5387,7 +5387,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   width: 100%;
 }
 
-#smdrliwbqf .gt_group_heading {
+#vqunzskrmg .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5409,7 +5409,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#smdrliwbqf .gt_empty_group_heading {
+#vqunzskrmg .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5424,15 +5424,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#smdrliwbqf .gt_from_md > :first-child {
+#vqunzskrmg .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#smdrliwbqf .gt_from_md > :last-child {
+#vqunzskrmg .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#smdrliwbqf .gt_row {
+#vqunzskrmg .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5451,7 +5451,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#smdrliwbqf .gt_stub {
+#vqunzskrmg .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5463,7 +5463,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-left: 12px;
 }
 
-#smdrliwbqf .gt_summary_row {
+#vqunzskrmg .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5473,7 +5473,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#smdrliwbqf .gt_first_summary_row {
+#vqunzskrmg .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5483,7 +5483,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_grand_summary_row {
+#vqunzskrmg .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5493,7 +5493,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#smdrliwbqf .gt_first_grand_summary_row {
+#vqunzskrmg .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5503,11 +5503,11 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_striped {
+#vqunzskrmg .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#smdrliwbqf .gt_table_body {
+#vqunzskrmg .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5516,7 +5516,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_footnotes {
+#vqunzskrmg .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5530,13 +5530,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_footnote {
+#vqunzskrmg .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#smdrliwbqf .gt_sourcenotes {
+#vqunzskrmg .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5550,41 +5550,41 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#smdrliwbqf .gt_sourcenote {
+#vqunzskrmg .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#smdrliwbqf .gt_left {
+#vqunzskrmg .gt_left {
   text-align: left;
 }
 
-#smdrliwbqf .gt_center {
+#vqunzskrmg .gt_center {
   text-align: center;
 }
 
-#smdrliwbqf .gt_right {
+#vqunzskrmg .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#smdrliwbqf .gt_font_normal {
+#vqunzskrmg .gt_font_normal {
   font-weight: normal;
 }
 
-#smdrliwbqf .gt_font_bold {
+#vqunzskrmg .gt_font_bold {
   font-weight: bold;
 }
 
-#smdrliwbqf .gt_font_italic {
+#vqunzskrmg .gt_font_italic {
   font-style: italic;
 }
 
-#smdrliwbqf .gt_super {
+#vqunzskrmg .gt_super {
   font-size: 65%;
 }
 
-#smdrliwbqf .gt_footnote_marks {
+#vqunzskrmg .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5613,12 +5613,12 @@ A vector is a simple data structure that stores a sequence of values. A requirem
 ```
 
 ```{=html}
-<div id="zlpmbvbxyz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dttizaiytx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zlpmbvbxyz .gt_table {
+#dttizaiytx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5643,7 +5643,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-left-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_heading {
+#dttizaiytx .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5655,7 +5655,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_title {
+#dttizaiytx .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -5665,7 +5665,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-width: 0;
 }
 
-#zlpmbvbxyz .gt_subtitle {
+#dttizaiytx .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -5675,13 +5675,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-width: 0;
 }
 
-#zlpmbvbxyz .gt_bottom_border {
+#dttizaiytx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_col_headings {
+#dttizaiytx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5696,7 +5696,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_col_heading {
+#dttizaiytx .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5716,7 +5716,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#zlpmbvbxyz .gt_column_spanner_outer {
+#dttizaiytx .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -5728,15 +5728,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 4px;
 }
 
-#zlpmbvbxyz .gt_column_spanner_outer:first-child {
+#dttizaiytx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zlpmbvbxyz .gt_column_spanner_outer:last-child {
+#dttizaiytx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zlpmbvbxyz .gt_column_spanner {
+#dttizaiytx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5748,7 +5748,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   width: 100%;
 }
 
-#zlpmbvbxyz .gt_group_heading {
+#dttizaiytx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5770,7 +5770,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#zlpmbvbxyz .gt_empty_group_heading {
+#dttizaiytx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5785,15 +5785,15 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   vertical-align: middle;
 }
 
-#zlpmbvbxyz .gt_from_md > :first-child {
+#dttizaiytx .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zlpmbvbxyz .gt_from_md > :last-child {
+#dttizaiytx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zlpmbvbxyz .gt_row {
+#dttizaiytx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5812,7 +5812,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   overflow-x: hidden;
 }
 
-#zlpmbvbxyz .gt_stub {
+#dttizaiytx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5824,7 +5824,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-left: 12px;
 }
 
-#zlpmbvbxyz .gt_summary_row {
+#dttizaiytx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5834,7 +5834,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#zlpmbvbxyz .gt_first_summary_row {
+#dttizaiytx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5844,7 +5844,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_grand_summary_row {
+#dttizaiytx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5854,7 +5854,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   padding-right: 5px;
 }
 
-#zlpmbvbxyz .gt_first_grand_summary_row {
+#dttizaiytx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5864,11 +5864,11 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-top-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_striped {
+#dttizaiytx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zlpmbvbxyz .gt_table_body {
+#dttizaiytx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5877,7 +5877,7 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-bottom-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_footnotes {
+#dttizaiytx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5891,13 +5891,13 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_footnote {
+#dttizaiytx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zlpmbvbxyz .gt_sourcenotes {
+#dttizaiytx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5911,41 +5911,41 @@ A vector is a simple data structure that stores a sequence of values. A requirem
   border-right-color: #D3D3D3;
 }
 
-#zlpmbvbxyz .gt_sourcenote {
+#dttizaiytx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zlpmbvbxyz .gt_left {
+#dttizaiytx .gt_left {
   text-align: left;
 }
 
-#zlpmbvbxyz .gt_center {
+#dttizaiytx .gt_center {
   text-align: center;
 }
 
-#zlpmbvbxyz .gt_right {
+#dttizaiytx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zlpmbvbxyz .gt_font_normal {
+#dttizaiytx .gt_font_normal {
   font-weight: normal;
 }
 
-#zlpmbvbxyz .gt_font_bold {
+#dttizaiytx .gt_font_bold {
   font-weight: bold;
 }
 
-#zlpmbvbxyz .gt_font_italic {
+#dttizaiytx .gt_font_italic {
   font-style: italic;
 }
 
-#zlpmbvbxyz .gt_super {
+#dttizaiytx .gt_super {
   font-size: 65%;
 }
 
-#zlpmbvbxyz .gt_footnote_marks {
+#dttizaiytx .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -5998,12 +5998,12 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
 ### Create dataframe with multiple numeric columns
 
 ```{=html}
-<div id="zxiesqnowv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dznnoejoad" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zxiesqnowv .gt_table {
+#dznnoejoad .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6028,7 +6028,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-left-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_heading {
+#dznnoejoad .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6040,7 +6040,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_title {
+#dznnoejoad .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6050,7 +6050,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-bottom-width: 0;
 }
 
-#zxiesqnowv .gt_subtitle {
+#dznnoejoad .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6060,13 +6060,13 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-top-width: 0;
 }
 
-#zxiesqnowv .gt_bottom_border {
+#dznnoejoad .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_col_headings {
+#dznnoejoad .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6081,7 +6081,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_col_heading {
+#dznnoejoad .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6101,7 +6101,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   overflow-x: hidden;
 }
 
-#zxiesqnowv .gt_column_spanner_outer {
+#dznnoejoad .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6113,15 +6113,15 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-right: 4px;
 }
 
-#zxiesqnowv .gt_column_spanner_outer:first-child {
+#dznnoejoad .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zxiesqnowv .gt_column_spanner_outer:last-child {
+#dznnoejoad .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zxiesqnowv .gt_column_spanner {
+#dznnoejoad .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6133,7 +6133,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   width: 100%;
 }
 
-#zxiesqnowv .gt_group_heading {
+#dznnoejoad .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6155,7 +6155,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   vertical-align: middle;
 }
 
-#zxiesqnowv .gt_empty_group_heading {
+#dznnoejoad .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6170,15 +6170,15 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   vertical-align: middle;
 }
 
-#zxiesqnowv .gt_from_md > :first-child {
+#dznnoejoad .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zxiesqnowv .gt_from_md > :last-child {
+#dznnoejoad .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zxiesqnowv .gt_row {
+#dznnoejoad .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6197,7 +6197,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   overflow-x: hidden;
 }
 
-#zxiesqnowv .gt_stub {
+#dznnoejoad .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6209,7 +6209,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-left: 12px;
 }
 
-#zxiesqnowv .gt_summary_row {
+#dznnoejoad .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6219,7 +6219,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-right: 5px;
 }
 
-#zxiesqnowv .gt_first_summary_row {
+#dznnoejoad .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6229,7 +6229,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-top-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_grand_summary_row {
+#dznnoejoad .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6239,7 +6239,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-right: 5px;
 }
 
-#zxiesqnowv .gt_first_grand_summary_row {
+#dznnoejoad .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6249,11 +6249,11 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-top-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_striped {
+#dznnoejoad .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zxiesqnowv .gt_table_body {
+#dznnoejoad .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6262,7 +6262,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-bottom-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_footnotes {
+#dznnoejoad .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6276,13 +6276,13 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_footnote {
+#dznnoejoad .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zxiesqnowv .gt_sourcenotes {
+#dznnoejoad .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6296,41 +6296,41 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#zxiesqnowv .gt_sourcenote {
+#dznnoejoad .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zxiesqnowv .gt_left {
+#dznnoejoad .gt_left {
   text-align: left;
 }
 
-#zxiesqnowv .gt_center {
+#dznnoejoad .gt_center {
   text-align: center;
 }
 
-#zxiesqnowv .gt_right {
+#dznnoejoad .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zxiesqnowv .gt_font_normal {
+#dznnoejoad .gt_font_normal {
   font-weight: normal;
 }
 
-#zxiesqnowv .gt_font_bold {
+#dznnoejoad .gt_font_bold {
   font-weight: bold;
 }
 
-#zxiesqnowv .gt_font_italic {
+#dznnoejoad .gt_font_italic {
   font-style: italic;
 }
 
-#zxiesqnowv .gt_super {
+#dznnoejoad .gt_super {
   font-size: 65%;
 }
 
-#zxiesqnowv .gt_footnote_marks {
+#dznnoejoad .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6359,12 +6359,12 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
 ```
 
 ```{=html}
-<div id="ikrptsforl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="yizzfkxqag" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ikrptsforl .gt_table {
+#yizzfkxqag .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6389,7 +6389,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-left-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_heading {
+#yizzfkxqag .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6401,7 +6401,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_title {
+#yizzfkxqag .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6411,7 +6411,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-bottom-width: 0;
 }
 
-#ikrptsforl .gt_subtitle {
+#yizzfkxqag .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6421,13 +6421,13 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-top-width: 0;
 }
 
-#ikrptsforl .gt_bottom_border {
+#yizzfkxqag .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_col_headings {
+#yizzfkxqag .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6442,7 +6442,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_col_heading {
+#yizzfkxqag .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6462,7 +6462,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   overflow-x: hidden;
 }
 
-#ikrptsforl .gt_column_spanner_outer {
+#yizzfkxqag .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -6474,15 +6474,15 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-right: 4px;
 }
 
-#ikrptsforl .gt_column_spanner_outer:first-child {
+#yizzfkxqag .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ikrptsforl .gt_column_spanner_outer:last-child {
+#yizzfkxqag .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ikrptsforl .gt_column_spanner {
+#yizzfkxqag .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6494,7 +6494,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   width: 100%;
 }
 
-#ikrptsforl .gt_group_heading {
+#yizzfkxqag .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6516,7 +6516,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   vertical-align: middle;
 }
 
-#ikrptsforl .gt_empty_group_heading {
+#yizzfkxqag .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6531,15 +6531,15 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   vertical-align: middle;
 }
 
-#ikrptsforl .gt_from_md > :first-child {
+#yizzfkxqag .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ikrptsforl .gt_from_md > :last-child {
+#yizzfkxqag .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ikrptsforl .gt_row {
+#yizzfkxqag .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6558,7 +6558,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   overflow-x: hidden;
 }
 
-#ikrptsforl .gt_stub {
+#yizzfkxqag .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6570,7 +6570,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-left: 12px;
 }
 
-#ikrptsforl .gt_summary_row {
+#yizzfkxqag .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6580,7 +6580,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-right: 5px;
 }
 
-#ikrptsforl .gt_first_summary_row {
+#yizzfkxqag .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6590,7 +6590,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-top-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_grand_summary_row {
+#yizzfkxqag .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6600,7 +6600,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   padding-right: 5px;
 }
 
-#ikrptsforl .gt_first_grand_summary_row {
+#yizzfkxqag .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6610,11 +6610,11 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-top-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_striped {
+#yizzfkxqag .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ikrptsforl .gt_table_body {
+#yizzfkxqag .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6623,7 +6623,7 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-bottom-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_footnotes {
+#yizzfkxqag .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6637,13 +6637,13 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_footnote {
+#yizzfkxqag .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ikrptsforl .gt_sourcenotes {
+#yizzfkxqag .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6657,41 +6657,41 @@ atlantic_provinces <- data.frame(province = c("NL", "NS", "PE", "NB"), capital =
   border-right-color: #D3D3D3;
 }
 
-#ikrptsforl .gt_sourcenote {
+#yizzfkxqag .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ikrptsforl .gt_left {
+#yizzfkxqag .gt_left {
   text-align: left;
 }
 
-#ikrptsforl .gt_center {
+#yizzfkxqag .gt_center {
   text-align: center;
 }
 
-#ikrptsforl .gt_right {
+#yizzfkxqag .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ikrptsforl .gt_font_normal {
+#yizzfkxqag .gt_font_normal {
   font-weight: normal;
 }
 
-#ikrptsforl .gt_font_bold {
+#yizzfkxqag .gt_font_bold {
   font-weight: bold;
 }
 
-#ikrptsforl .gt_font_italic {
+#yizzfkxqag .gt_font_italic {
   font-style: italic;
 }
 
-#ikrptsforl .gt_super {
+#yizzfkxqag .gt_super {
   font-size: 65%;
 }
 
-#ikrptsforl .gt_footnote_marks {
+#yizzfkxqag .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -6744,12 +6744,12 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
 ### Create dataframe with multiple character and numeric columns
 
 ```{=html}
-<div id="lfksqghkwx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="lqcvsblnwu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#lfksqghkwx .gt_table {
+#lqcvsblnwu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6774,7 +6774,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-left-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_heading {
+#lqcvsblnwu .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6786,7 +6786,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_title {
+#lqcvsblnwu .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -6796,7 +6796,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-bottom-width: 0;
 }
 
-#lfksqghkwx .gt_subtitle {
+#lqcvsblnwu .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -6806,13 +6806,13 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-top-width: 0;
 }
 
-#lfksqghkwx .gt_bottom_border {
+#lqcvsblnwu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_col_headings {
+#lqcvsblnwu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6827,7 +6827,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_col_heading {
+#lqcvsblnwu .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6847,7 +6847,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   overflow-x: hidden;
 }
 
-#lfksqghkwx .gt_column_spanner_outer {
+#lqcvsblnwu .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -6859,15 +6859,15 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-right: 4px;
 }
 
-#lfksqghkwx .gt_column_spanner_outer:first-child {
+#lqcvsblnwu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lfksqghkwx .gt_column_spanner_outer:last-child {
+#lqcvsblnwu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lfksqghkwx .gt_column_spanner {
+#lqcvsblnwu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6879,7 +6879,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   width: 100%;
 }
 
-#lfksqghkwx .gt_group_heading {
+#lqcvsblnwu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6901,7 +6901,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   vertical-align: middle;
 }
 
-#lfksqghkwx .gt_empty_group_heading {
+#lqcvsblnwu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6916,15 +6916,15 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   vertical-align: middle;
 }
 
-#lfksqghkwx .gt_from_md > :first-child {
+#lqcvsblnwu .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#lfksqghkwx .gt_from_md > :last-child {
+#lqcvsblnwu .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#lfksqghkwx .gt_row {
+#lqcvsblnwu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6943,7 +6943,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   overflow-x: hidden;
 }
 
-#lfksqghkwx .gt_stub {
+#lqcvsblnwu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6955,7 +6955,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-left: 12px;
 }
 
-#lfksqghkwx .gt_summary_row {
+#lqcvsblnwu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6965,7 +6965,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-right: 5px;
 }
 
-#lfksqghkwx .gt_first_summary_row {
+#lqcvsblnwu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6975,7 +6975,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-top-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_grand_summary_row {
+#lqcvsblnwu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6985,7 +6985,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-right: 5px;
 }
 
-#lfksqghkwx .gt_first_grand_summary_row {
+#lqcvsblnwu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6995,11 +6995,11 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-top-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_striped {
+#lqcvsblnwu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lfksqghkwx .gt_table_body {
+#lqcvsblnwu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7008,7 +7008,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-bottom-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_footnotes {
+#lqcvsblnwu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7022,13 +7022,13 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_footnote {
+#lqcvsblnwu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lfksqghkwx .gt_sourcenotes {
+#lqcvsblnwu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7042,41 +7042,41 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#lfksqghkwx .gt_sourcenote {
+#lqcvsblnwu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lfksqghkwx .gt_left {
+#lqcvsblnwu .gt_left {
   text-align: left;
 }
 
-#lfksqghkwx .gt_center {
+#lqcvsblnwu .gt_center {
   text-align: center;
 }
 
-#lfksqghkwx .gt_right {
+#lqcvsblnwu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lfksqghkwx .gt_font_normal {
+#lqcvsblnwu .gt_font_normal {
   font-weight: normal;
 }
 
-#lfksqghkwx .gt_font_bold {
+#lqcvsblnwu .gt_font_bold {
   font-weight: bold;
 }
 
-#lfksqghkwx .gt_font_italic {
+#lqcvsblnwu .gt_font_italic {
   font-style: italic;
 }
 
-#lfksqghkwx .gt_super {
+#lqcvsblnwu .gt_super {
   font-size: 65%;
 }
 
-#lfksqghkwx .gt_footnote_marks {
+#lqcvsblnwu .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -7105,12 +7105,12 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
 ```
 
 ```{=html}
-<div id="pnoettkhdp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="pkoggamwvy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#pnoettkhdp .gt_table {
+#pkoggamwvy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7135,7 +7135,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-left-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_heading {
+#pkoggamwvy .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7147,7 +7147,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_title {
+#pkoggamwvy .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -7157,7 +7157,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-bottom-width: 0;
 }
 
-#pnoettkhdp .gt_subtitle {
+#pkoggamwvy .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -7167,13 +7167,13 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-top-width: 0;
 }
 
-#pnoettkhdp .gt_bottom_border {
+#pkoggamwvy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_col_headings {
+#pkoggamwvy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7188,7 +7188,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_col_heading {
+#pkoggamwvy .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7208,7 +7208,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   overflow-x: hidden;
 }
 
-#pnoettkhdp .gt_column_spanner_outer {
+#pkoggamwvy .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -7220,15 +7220,15 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-right: 4px;
 }
 
-#pnoettkhdp .gt_column_spanner_outer:first-child {
+#pkoggamwvy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#pnoettkhdp .gt_column_spanner_outer:last-child {
+#pkoggamwvy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#pnoettkhdp .gt_column_spanner {
+#pkoggamwvy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7240,7 +7240,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   width: 100%;
 }
 
-#pnoettkhdp .gt_group_heading {
+#pkoggamwvy .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7262,7 +7262,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   vertical-align: middle;
 }
 
-#pnoettkhdp .gt_empty_group_heading {
+#pkoggamwvy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7277,15 +7277,15 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   vertical-align: middle;
 }
 
-#pnoettkhdp .gt_from_md > :first-child {
+#pkoggamwvy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#pnoettkhdp .gt_from_md > :last-child {
+#pkoggamwvy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#pnoettkhdp .gt_row {
+#pkoggamwvy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7304,7 +7304,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   overflow-x: hidden;
 }
 
-#pnoettkhdp .gt_stub {
+#pkoggamwvy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7316,7 +7316,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-left: 12px;
 }
 
-#pnoettkhdp .gt_summary_row {
+#pkoggamwvy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7326,7 +7326,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-right: 5px;
 }
 
-#pnoettkhdp .gt_first_summary_row {
+#pkoggamwvy .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7336,7 +7336,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-top-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_grand_summary_row {
+#pkoggamwvy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7346,7 +7346,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   padding-right: 5px;
 }
 
-#pnoettkhdp .gt_first_grand_summary_row {
+#pkoggamwvy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7356,11 +7356,11 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-top-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_striped {
+#pkoggamwvy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#pnoettkhdp .gt_table_body {
+#pkoggamwvy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7369,7 +7369,7 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-bottom-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_footnotes {
+#pkoggamwvy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7383,13 +7383,13 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_footnote {
+#pkoggamwvy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#pnoettkhdp .gt_sourcenotes {
+#pkoggamwvy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7403,41 +7403,41 @@ weather_station_temperatures <- data.frame(station_id = c(100, 101, 102, 103), t
   border-right-color: #D3D3D3;
 }
 
-#pnoettkhdp .gt_sourcenote {
+#pkoggamwvy .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#pnoettkhdp .gt_left {
+#pkoggamwvy .gt_left {
   text-align: left;
 }
 
-#pnoettkhdp .gt_center {
+#pkoggamwvy .gt_center {
   text-align: center;
 }
 
-#pnoettkhdp .gt_right {
+#pkoggamwvy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#pnoettkhdp .gt_font_normal {
+#pkoggamwvy .gt_font_normal {
   font-weight: normal;
 }
 
-#pnoettkhdp .gt_font_bold {
+#pkoggamwvy .gt_font_bold {
   font-weight: bold;
 }
 
-#pnoettkhdp .gt_font_italic {
+#pkoggamwvy .gt_font_italic {
   font-style: italic;
 }
 
-#pnoettkhdp .gt_super {
+#pkoggamwvy .gt_super {
   font-size: 65%;
 }
 
-#pnoettkhdp .gt_footnote_marks {
+#pkoggamwvy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;

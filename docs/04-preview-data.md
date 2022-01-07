@@ -13,12 +13,12 @@ Prior to performing data analysis it is good to understand the elements, data ty
 ### Preview the structure of a dataframe
 
 ```{=html}
-<div id="ujxgogzwvh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wxmiyvuvpo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ujxgogzwvh .gt_table {
+#wxmiyvuvpo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -43,7 +43,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-left-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_heading {
+#wxmiyvuvpo .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -55,7 +55,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_title {
+#wxmiyvuvpo .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -65,7 +65,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-bottom-width: 0;
 }
 
-#ujxgogzwvh .gt_subtitle {
+#wxmiyvuvpo .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -75,13 +75,13 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-top-width: 0;
 }
 
-#ujxgogzwvh .gt_bottom_border {
+#wxmiyvuvpo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_col_headings {
+#wxmiyvuvpo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -96,7 +96,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_col_heading {
+#wxmiyvuvpo .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -116,7 +116,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   overflow-x: hidden;
 }
 
-#ujxgogzwvh .gt_column_spanner_outer {
+#wxmiyvuvpo .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -128,15 +128,15 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-right: 4px;
 }
 
-#ujxgogzwvh .gt_column_spanner_outer:first-child {
+#wxmiyvuvpo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ujxgogzwvh .gt_column_spanner_outer:last-child {
+#wxmiyvuvpo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ujxgogzwvh .gt_column_spanner {
+#wxmiyvuvpo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -148,7 +148,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   width: 100%;
 }
 
-#ujxgogzwvh .gt_group_heading {
+#wxmiyvuvpo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -170,7 +170,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   vertical-align: middle;
 }
 
-#ujxgogzwvh .gt_empty_group_heading {
+#wxmiyvuvpo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -185,15 +185,15 @@ Prior to performing data analysis it is good to understand the elements, data ty
   vertical-align: middle;
 }
 
-#ujxgogzwvh .gt_from_md > :first-child {
+#wxmiyvuvpo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ujxgogzwvh .gt_from_md > :last-child {
+#wxmiyvuvpo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ujxgogzwvh .gt_row {
+#wxmiyvuvpo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -212,7 +212,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   overflow-x: hidden;
 }
 
-#ujxgogzwvh .gt_stub {
+#wxmiyvuvpo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -224,7 +224,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-left: 12px;
 }
 
-#ujxgogzwvh .gt_summary_row {
+#wxmiyvuvpo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -234,7 +234,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-right: 5px;
 }
 
-#ujxgogzwvh .gt_first_summary_row {
+#wxmiyvuvpo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -244,7 +244,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-top-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_grand_summary_row {
+#wxmiyvuvpo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -254,7 +254,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-right: 5px;
 }
 
-#ujxgogzwvh .gt_first_grand_summary_row {
+#wxmiyvuvpo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -264,11 +264,11 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-top-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_striped {
+#wxmiyvuvpo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ujxgogzwvh .gt_table_body {
+#wxmiyvuvpo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -277,7 +277,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-bottom-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_footnotes {
+#wxmiyvuvpo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -291,13 +291,13 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_footnote {
+#wxmiyvuvpo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ujxgogzwvh .gt_sourcenotes {
+#wxmiyvuvpo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -311,41 +311,41 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#ujxgogzwvh .gt_sourcenote {
+#wxmiyvuvpo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ujxgogzwvh .gt_left {
+#wxmiyvuvpo .gt_left {
   text-align: left;
 }
 
-#ujxgogzwvh .gt_center {
+#wxmiyvuvpo .gt_center {
   text-align: center;
 }
 
-#ujxgogzwvh .gt_right {
+#wxmiyvuvpo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ujxgogzwvh .gt_font_normal {
+#wxmiyvuvpo .gt_font_normal {
   font-weight: normal;
 }
 
-#ujxgogzwvh .gt_font_bold {
+#wxmiyvuvpo .gt_font_bold {
   font-weight: bold;
 }
 
-#ujxgogzwvh .gt_font_italic {
+#wxmiyvuvpo .gt_font_italic {
   font-style: italic;
 }
 
-#ujxgogzwvh .gt_super {
+#wxmiyvuvpo .gt_super {
   font-size: 65%;
 }
 
-#ujxgogzwvh .gt_footnote_marks {
+#wxmiyvuvpo .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -374,12 +374,12 @@ Prior to performing data analysis it is good to understand the elements, data ty
 ```
 
 ```{=html}
-<div id="iwuizucmqf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dnnrvgdtdd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#iwuizucmqf .gt_table {
+#dnnrvgdtdd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -404,7 +404,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-left-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_heading {
+#dnnrvgdtdd .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -416,7 +416,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_title {
+#dnnrvgdtdd .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -426,7 +426,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-bottom-width: 0;
 }
 
-#iwuizucmqf .gt_subtitle {
+#dnnrvgdtdd .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -436,13 +436,13 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-top-width: 0;
 }
 
-#iwuizucmqf .gt_bottom_border {
+#dnnrvgdtdd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_col_headings {
+#dnnrvgdtdd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -457,7 +457,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_col_heading {
+#dnnrvgdtdd .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -477,7 +477,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   overflow-x: hidden;
 }
 
-#iwuizucmqf .gt_column_spanner_outer {
+#dnnrvgdtdd .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -489,15 +489,15 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-right: 4px;
 }
 
-#iwuizucmqf .gt_column_spanner_outer:first-child {
+#dnnrvgdtdd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#iwuizucmqf .gt_column_spanner_outer:last-child {
+#dnnrvgdtdd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#iwuizucmqf .gt_column_spanner {
+#dnnrvgdtdd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -509,7 +509,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   width: 100%;
 }
 
-#iwuizucmqf .gt_group_heading {
+#dnnrvgdtdd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -531,7 +531,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   vertical-align: middle;
 }
 
-#iwuizucmqf .gt_empty_group_heading {
+#dnnrvgdtdd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -546,15 +546,15 @@ Prior to performing data analysis it is good to understand the elements, data ty
   vertical-align: middle;
 }
 
-#iwuizucmqf .gt_from_md > :first-child {
+#dnnrvgdtdd .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#iwuizucmqf .gt_from_md > :last-child {
+#dnnrvgdtdd .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#iwuizucmqf .gt_row {
+#dnnrvgdtdd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -573,7 +573,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   overflow-x: hidden;
 }
 
-#iwuizucmqf .gt_stub {
+#dnnrvgdtdd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -585,7 +585,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-left: 12px;
 }
 
-#iwuizucmqf .gt_summary_row {
+#dnnrvgdtdd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -595,7 +595,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-right: 5px;
 }
 
-#iwuizucmqf .gt_first_summary_row {
+#dnnrvgdtdd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -605,7 +605,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-top-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_grand_summary_row {
+#dnnrvgdtdd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -615,7 +615,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   padding-right: 5px;
 }
 
-#iwuizucmqf .gt_first_grand_summary_row {
+#dnnrvgdtdd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -625,11 +625,11 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-top-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_striped {
+#dnnrvgdtdd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#iwuizucmqf .gt_table_body {
+#dnnrvgdtdd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -638,7 +638,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-bottom-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_footnotes {
+#dnnrvgdtdd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -652,13 +652,13 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_footnote {
+#dnnrvgdtdd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#iwuizucmqf .gt_sourcenotes {
+#dnnrvgdtdd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -672,41 +672,41 @@ Prior to performing data analysis it is good to understand the elements, data ty
   border-right-color: #D3D3D3;
 }
 
-#iwuizucmqf .gt_sourcenote {
+#dnnrvgdtdd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#iwuizucmqf .gt_left {
+#dnnrvgdtdd .gt_left {
   text-align: left;
 }
 
-#iwuizucmqf .gt_center {
+#dnnrvgdtdd .gt_center {
   text-align: center;
 }
 
-#iwuizucmqf .gt_right {
+#dnnrvgdtdd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#iwuizucmqf .gt_font_normal {
+#dnnrvgdtdd .gt_font_normal {
   font-weight: normal;
 }
 
-#iwuizucmqf .gt_font_bold {
+#dnnrvgdtdd .gt_font_bold {
   font-weight: bold;
 }
 
-#iwuizucmqf .gt_font_italic {
+#dnnrvgdtdd .gt_font_italic {
   font-style: italic;
 }
 
-#iwuizucmqf .gt_super {
+#dnnrvgdtdd .gt_super {
   font-size: 65%;
 }
 
-#iwuizucmqf .gt_footnote_marks {
+#dnnrvgdtdd .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -746,7 +746,7 @@ Prior to performing data analysis it is good to understand the elements, data ty
 **Preparation**
 
 ```r
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -773,12 +773,12 @@ Manually reviewing data is a common practice to understand the data in a datafra
 ### Subset of rows to preview in a dataframe
 
 ```{=html}
-<div id="ayparqxyig" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qsdogtnapf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ayparqxyig .gt_table {
+#qsdogtnapf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -803,7 +803,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-left-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_heading {
+#qsdogtnapf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -815,7 +815,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_title {
+#qsdogtnapf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -825,7 +825,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-bottom-width: 0;
 }
 
-#ayparqxyig .gt_subtitle {
+#qsdogtnapf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -835,13 +835,13 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-top-width: 0;
 }
 
-#ayparqxyig .gt_bottom_border {
+#qsdogtnapf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_col_headings {
+#qsdogtnapf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -856,7 +856,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_col_heading {
+#qsdogtnapf .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -876,7 +876,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   overflow-x: hidden;
 }
 
-#ayparqxyig .gt_column_spanner_outer {
+#qsdogtnapf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -888,15 +888,15 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-right: 4px;
 }
 
-#ayparqxyig .gt_column_spanner_outer:first-child {
+#qsdogtnapf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ayparqxyig .gt_column_spanner_outer:last-child {
+#qsdogtnapf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ayparqxyig .gt_column_spanner {
+#qsdogtnapf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -908,7 +908,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   width: 100%;
 }
 
-#ayparqxyig .gt_group_heading {
+#qsdogtnapf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -930,7 +930,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   vertical-align: middle;
 }
 
-#ayparqxyig .gt_empty_group_heading {
+#qsdogtnapf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -945,15 +945,15 @@ Manually reviewing data is a common practice to understand the data in a datafra
   vertical-align: middle;
 }
 
-#ayparqxyig .gt_from_md > :first-child {
+#qsdogtnapf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ayparqxyig .gt_from_md > :last-child {
+#qsdogtnapf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ayparqxyig .gt_row {
+#qsdogtnapf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -972,7 +972,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   overflow-x: hidden;
 }
 
-#ayparqxyig .gt_stub {
+#qsdogtnapf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -984,7 +984,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-left: 12px;
 }
 
-#ayparqxyig .gt_summary_row {
+#qsdogtnapf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -994,7 +994,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-right: 5px;
 }
 
-#ayparqxyig .gt_first_summary_row {
+#qsdogtnapf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1004,7 +1004,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-top-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_grand_summary_row {
+#qsdogtnapf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1014,7 +1014,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-right: 5px;
 }
 
-#ayparqxyig .gt_first_grand_summary_row {
+#qsdogtnapf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1024,11 +1024,11 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-top-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_striped {
+#qsdogtnapf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ayparqxyig .gt_table_body {
+#qsdogtnapf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1037,7 +1037,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-bottom-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_footnotes {
+#qsdogtnapf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1051,13 +1051,13 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_footnote {
+#qsdogtnapf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ayparqxyig .gt_sourcenotes {
+#qsdogtnapf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1071,41 +1071,41 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#ayparqxyig .gt_sourcenote {
+#qsdogtnapf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ayparqxyig .gt_left {
+#qsdogtnapf .gt_left {
   text-align: left;
 }
 
-#ayparqxyig .gt_center {
+#qsdogtnapf .gt_center {
   text-align: center;
 }
 
-#ayparqxyig .gt_right {
+#qsdogtnapf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ayparqxyig .gt_font_normal {
+#qsdogtnapf .gt_font_normal {
   font-weight: normal;
 }
 
-#ayparqxyig .gt_font_bold {
+#qsdogtnapf .gt_font_bold {
   font-weight: bold;
 }
 
-#ayparqxyig .gt_font_italic {
+#qsdogtnapf .gt_font_italic {
   font-style: italic;
 }
 
-#ayparqxyig .gt_super {
+#qsdogtnapf .gt_super {
   font-size: 65%;
 }
 
-#ayparqxyig .gt_footnote_marks {
+#qsdogtnapf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1134,12 +1134,12 @@ Manually reviewing data is a common practice to understand the data in a datafra
 ```
 
 ```{=html}
-<div id="wddytaspwj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ephfdutmej" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wddytaspwj .gt_table {
+#ephfdutmej .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1164,7 +1164,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-left-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_heading {
+#ephfdutmej .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1176,7 +1176,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_title {
+#ephfdutmej .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1186,7 +1186,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-bottom-width: 0;
 }
 
-#wddytaspwj .gt_subtitle {
+#ephfdutmej .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1196,13 +1196,13 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-top-width: 0;
 }
 
-#wddytaspwj .gt_bottom_border {
+#ephfdutmej .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_col_headings {
+#ephfdutmej .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1217,7 +1217,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_col_heading {
+#ephfdutmej .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1237,7 +1237,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   overflow-x: hidden;
 }
 
-#wddytaspwj .gt_column_spanner_outer {
+#ephfdutmej .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1249,15 +1249,15 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-right: 4px;
 }
 
-#wddytaspwj .gt_column_spanner_outer:first-child {
+#ephfdutmej .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wddytaspwj .gt_column_spanner_outer:last-child {
+#ephfdutmej .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wddytaspwj .gt_column_spanner {
+#ephfdutmej .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1269,7 +1269,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   width: 100%;
 }
 
-#wddytaspwj .gt_group_heading {
+#ephfdutmej .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1291,7 +1291,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   vertical-align: middle;
 }
 
-#wddytaspwj .gt_empty_group_heading {
+#ephfdutmej .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1306,15 +1306,15 @@ Manually reviewing data is a common practice to understand the data in a datafra
   vertical-align: middle;
 }
 
-#wddytaspwj .gt_from_md > :first-child {
+#ephfdutmej .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wddytaspwj .gt_from_md > :last-child {
+#ephfdutmej .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wddytaspwj .gt_row {
+#ephfdutmej .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1333,7 +1333,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   overflow-x: hidden;
 }
 
-#wddytaspwj .gt_stub {
+#ephfdutmej .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1345,7 +1345,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-left: 12px;
 }
 
-#wddytaspwj .gt_summary_row {
+#ephfdutmej .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1355,7 +1355,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-right: 5px;
 }
 
-#wddytaspwj .gt_first_summary_row {
+#ephfdutmej .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1365,7 +1365,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-top-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_grand_summary_row {
+#ephfdutmej .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1375,7 +1375,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   padding-right: 5px;
 }
 
-#wddytaspwj .gt_first_grand_summary_row {
+#ephfdutmej .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1385,11 +1385,11 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-top-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_striped {
+#ephfdutmej .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wddytaspwj .gt_table_body {
+#ephfdutmej .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1398,7 +1398,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-bottom-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_footnotes {
+#ephfdutmej .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1412,13 +1412,13 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_footnote {
+#ephfdutmej .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wddytaspwj .gt_sourcenotes {
+#ephfdutmej .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1432,41 +1432,41 @@ Manually reviewing data is a common practice to understand the data in a datafra
   border-right-color: #D3D3D3;
 }
 
-#wddytaspwj .gt_sourcenote {
+#ephfdutmej .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wddytaspwj .gt_left {
+#ephfdutmej .gt_left {
   text-align: left;
 }
 
-#wddytaspwj .gt_center {
+#ephfdutmej .gt_center {
   text-align: center;
 }
 
-#wddytaspwj .gt_right {
+#ephfdutmej .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wddytaspwj .gt_font_normal {
+#ephfdutmej .gt_font_normal {
   font-weight: normal;
 }
 
-#wddytaspwj .gt_font_bold {
+#ephfdutmej .gt_font_bold {
   font-weight: bold;
 }
 
-#wddytaspwj .gt_font_italic {
+#ephfdutmej .gt_font_italic {
   font-style: italic;
 }
 
-#wddytaspwj .gt_super {
+#ephfdutmej .gt_super {
   font-size: 65%;
 }
 
-#wddytaspwj .gt_footnote_marks {
+#ephfdutmej .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1506,7 +1506,7 @@ Manually reviewing data is a common practice to understand the data in a datafra
 **Preparation**
 
 ```r
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -1528,12 +1528,12 @@ head(df)
 ### Specify a set number of rows to preview in a dataframe
 
 ```{=html}
-<div id="ugacegvdyz" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="inltqqhwnn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ugacegvdyz .gt_table {
+#inltqqhwnn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1558,7 +1558,7 @@ head(df)
   border-left-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_heading {
+#inltqqhwnn .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1570,7 +1570,7 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_title {
+#inltqqhwnn .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1580,7 +1580,7 @@ head(df)
   border-bottom-width: 0;
 }
 
-#ugacegvdyz .gt_subtitle {
+#inltqqhwnn .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1590,13 +1590,13 @@ head(df)
   border-top-width: 0;
 }
 
-#ugacegvdyz .gt_bottom_border {
+#inltqqhwnn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_col_headings {
+#inltqqhwnn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1611,7 +1611,7 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_col_heading {
+#inltqqhwnn .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1631,7 +1631,7 @@ head(df)
   overflow-x: hidden;
 }
 
-#ugacegvdyz .gt_column_spanner_outer {
+#inltqqhwnn .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1643,15 +1643,15 @@ head(df)
   padding-right: 4px;
 }
 
-#ugacegvdyz .gt_column_spanner_outer:first-child {
+#inltqqhwnn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ugacegvdyz .gt_column_spanner_outer:last-child {
+#inltqqhwnn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ugacegvdyz .gt_column_spanner {
+#inltqqhwnn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1663,7 +1663,7 @@ head(df)
   width: 100%;
 }
 
-#ugacegvdyz .gt_group_heading {
+#inltqqhwnn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1685,7 +1685,7 @@ head(df)
   vertical-align: middle;
 }
 
-#ugacegvdyz .gt_empty_group_heading {
+#inltqqhwnn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1700,15 +1700,15 @@ head(df)
   vertical-align: middle;
 }
 
-#ugacegvdyz .gt_from_md > :first-child {
+#inltqqhwnn .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ugacegvdyz .gt_from_md > :last-child {
+#inltqqhwnn .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ugacegvdyz .gt_row {
+#inltqqhwnn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1727,7 +1727,7 @@ head(df)
   overflow-x: hidden;
 }
 
-#ugacegvdyz .gt_stub {
+#inltqqhwnn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1739,7 +1739,7 @@ head(df)
   padding-left: 12px;
 }
 
-#ugacegvdyz .gt_summary_row {
+#inltqqhwnn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1749,7 +1749,7 @@ head(df)
   padding-right: 5px;
 }
 
-#ugacegvdyz .gt_first_summary_row {
+#inltqqhwnn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1759,7 +1759,7 @@ head(df)
   border-top-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_grand_summary_row {
+#inltqqhwnn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1769,7 +1769,7 @@ head(df)
   padding-right: 5px;
 }
 
-#ugacegvdyz .gt_first_grand_summary_row {
+#inltqqhwnn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1779,11 +1779,11 @@ head(df)
   border-top-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_striped {
+#inltqqhwnn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ugacegvdyz .gt_table_body {
+#inltqqhwnn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1792,7 +1792,7 @@ head(df)
   border-bottom-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_footnotes {
+#inltqqhwnn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1806,13 +1806,13 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_footnote {
+#inltqqhwnn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ugacegvdyz .gt_sourcenotes {
+#inltqqhwnn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1826,41 +1826,41 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#ugacegvdyz .gt_sourcenote {
+#inltqqhwnn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ugacegvdyz .gt_left {
+#inltqqhwnn .gt_left {
   text-align: left;
 }
 
-#ugacegvdyz .gt_center {
+#inltqqhwnn .gt_center {
   text-align: center;
 }
 
-#ugacegvdyz .gt_right {
+#inltqqhwnn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ugacegvdyz .gt_font_normal {
+#inltqqhwnn .gt_font_normal {
   font-weight: normal;
 }
 
-#ugacegvdyz .gt_font_bold {
+#inltqqhwnn .gt_font_bold {
   font-weight: bold;
 }
 
-#ugacegvdyz .gt_font_italic {
+#inltqqhwnn .gt_font_italic {
   font-style: italic;
 }
 
-#ugacegvdyz .gt_super {
+#inltqqhwnn .gt_super {
   font-size: 65%;
 }
 
-#ugacegvdyz .gt_footnote_marks {
+#inltqqhwnn .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1889,12 +1889,12 @@ head(df)
 ```
 
 ```{=html}
-<div id="bzlbljbhyx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ujlbhxungj" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#bzlbljbhyx .gt_table {
+#ujlbhxungj .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1919,7 +1919,7 @@ head(df)
   border-left-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_heading {
+#ujlbhxungj .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1931,7 +1931,7 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_title {
+#ujlbhxungj .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1941,7 +1941,7 @@ head(df)
   border-bottom-width: 0;
 }
 
-#bzlbljbhyx .gt_subtitle {
+#ujlbhxungj .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1951,13 +1951,13 @@ head(df)
   border-top-width: 0;
 }
 
-#bzlbljbhyx .gt_bottom_border {
+#ujlbhxungj .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_col_headings {
+#ujlbhxungj .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1972,7 +1972,7 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_col_heading {
+#ujlbhxungj .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1992,7 +1992,7 @@ head(df)
   overflow-x: hidden;
 }
 
-#bzlbljbhyx .gt_column_spanner_outer {
+#ujlbhxungj .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2004,15 +2004,15 @@ head(df)
   padding-right: 4px;
 }
 
-#bzlbljbhyx .gt_column_spanner_outer:first-child {
+#ujlbhxungj .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bzlbljbhyx .gt_column_spanner_outer:last-child {
+#ujlbhxungj .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bzlbljbhyx .gt_column_spanner {
+#ujlbhxungj .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2024,7 +2024,7 @@ head(df)
   width: 100%;
 }
 
-#bzlbljbhyx .gt_group_heading {
+#ujlbhxungj .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2046,7 +2046,7 @@ head(df)
   vertical-align: middle;
 }
 
-#bzlbljbhyx .gt_empty_group_heading {
+#ujlbhxungj .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2061,15 +2061,15 @@ head(df)
   vertical-align: middle;
 }
 
-#bzlbljbhyx .gt_from_md > :first-child {
+#ujlbhxungj .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#bzlbljbhyx .gt_from_md > :last-child {
+#ujlbhxungj .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#bzlbljbhyx .gt_row {
+#ujlbhxungj .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2088,7 +2088,7 @@ head(df)
   overflow-x: hidden;
 }
 
-#bzlbljbhyx .gt_stub {
+#ujlbhxungj .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2100,7 +2100,7 @@ head(df)
   padding-left: 12px;
 }
 
-#bzlbljbhyx .gt_summary_row {
+#ujlbhxungj .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2110,7 +2110,7 @@ head(df)
   padding-right: 5px;
 }
 
-#bzlbljbhyx .gt_first_summary_row {
+#ujlbhxungj .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2120,7 +2120,7 @@ head(df)
   border-top-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_grand_summary_row {
+#ujlbhxungj .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2130,7 +2130,7 @@ head(df)
   padding-right: 5px;
 }
 
-#bzlbljbhyx .gt_first_grand_summary_row {
+#ujlbhxungj .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2140,11 +2140,11 @@ head(df)
   border-top-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_striped {
+#ujlbhxungj .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bzlbljbhyx .gt_table_body {
+#ujlbhxungj .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2153,7 +2153,7 @@ head(df)
   border-bottom-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_footnotes {
+#ujlbhxungj .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2167,13 +2167,13 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_footnote {
+#ujlbhxungj .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bzlbljbhyx .gt_sourcenotes {
+#ujlbhxungj .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2187,41 +2187,41 @@ head(df)
   border-right-color: #D3D3D3;
 }
 
-#bzlbljbhyx .gt_sourcenote {
+#ujlbhxungj .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bzlbljbhyx .gt_left {
+#ujlbhxungj .gt_left {
   text-align: left;
 }
 
-#bzlbljbhyx .gt_center {
+#ujlbhxungj .gt_center {
   text-align: center;
 }
 
-#bzlbljbhyx .gt_right {
+#ujlbhxungj .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bzlbljbhyx .gt_font_normal {
+#ujlbhxungj .gt_font_normal {
   font-weight: normal;
 }
 
-#bzlbljbhyx .gt_font_bold {
+#ujlbhxungj .gt_font_bold {
   font-weight: bold;
 }
 
-#bzlbljbhyx .gt_font_italic {
+#ujlbhxungj .gt_font_italic {
   font-style: italic;
 }
 
-#bzlbljbhyx .gt_super {
+#ujlbhxungj .gt_super {
   font-size: 65%;
 }
 
-#bzlbljbhyx .gt_footnote_marks {
+#ujlbhxungj .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2261,7 +2261,7 @@ head(df)
 **Preparation**
 
 ```r
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -2283,12 +2283,12 @@ head(df, 100)
 ### Preview all rows of a dataframe
 
 ```{=html}
-<div id="jkrlconhrk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="baovdzrujy" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jkrlconhrk .gt_table {
+#baovdzrujy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2313,7 +2313,7 @@ head(df, 100)
   border-left-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_heading {
+#baovdzrujy .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2325,7 +2325,7 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_title {
+#baovdzrujy .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2335,7 +2335,7 @@ head(df, 100)
   border-bottom-width: 0;
 }
 
-#jkrlconhrk .gt_subtitle {
+#baovdzrujy .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2345,13 +2345,13 @@ head(df, 100)
   border-top-width: 0;
 }
 
-#jkrlconhrk .gt_bottom_border {
+#baovdzrujy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_col_headings {
+#baovdzrujy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2366,7 +2366,7 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_col_heading {
+#baovdzrujy .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2386,7 +2386,7 @@ head(df, 100)
   overflow-x: hidden;
 }
 
-#jkrlconhrk .gt_column_spanner_outer {
+#baovdzrujy .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2398,15 +2398,15 @@ head(df, 100)
   padding-right: 4px;
 }
 
-#jkrlconhrk .gt_column_spanner_outer:first-child {
+#baovdzrujy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jkrlconhrk .gt_column_spanner_outer:last-child {
+#baovdzrujy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jkrlconhrk .gt_column_spanner {
+#baovdzrujy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2418,7 +2418,7 @@ head(df, 100)
   width: 100%;
 }
 
-#jkrlconhrk .gt_group_heading {
+#baovdzrujy .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2440,7 +2440,7 @@ head(df, 100)
   vertical-align: middle;
 }
 
-#jkrlconhrk .gt_empty_group_heading {
+#baovdzrujy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2455,15 +2455,15 @@ head(df, 100)
   vertical-align: middle;
 }
 
-#jkrlconhrk .gt_from_md > :first-child {
+#baovdzrujy .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jkrlconhrk .gt_from_md > :last-child {
+#baovdzrujy .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jkrlconhrk .gt_row {
+#baovdzrujy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2482,7 +2482,7 @@ head(df, 100)
   overflow-x: hidden;
 }
 
-#jkrlconhrk .gt_stub {
+#baovdzrujy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2494,7 +2494,7 @@ head(df, 100)
   padding-left: 12px;
 }
 
-#jkrlconhrk .gt_summary_row {
+#baovdzrujy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2504,7 +2504,7 @@ head(df, 100)
   padding-right: 5px;
 }
 
-#jkrlconhrk .gt_first_summary_row {
+#baovdzrujy .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2514,7 +2514,7 @@ head(df, 100)
   border-top-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_grand_summary_row {
+#baovdzrujy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2524,7 +2524,7 @@ head(df, 100)
   padding-right: 5px;
 }
 
-#jkrlconhrk .gt_first_grand_summary_row {
+#baovdzrujy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2534,11 +2534,11 @@ head(df, 100)
   border-top-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_striped {
+#baovdzrujy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jkrlconhrk .gt_table_body {
+#baovdzrujy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2547,7 +2547,7 @@ head(df, 100)
   border-bottom-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_footnotes {
+#baovdzrujy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2561,13 +2561,13 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_footnote {
+#baovdzrujy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jkrlconhrk .gt_sourcenotes {
+#baovdzrujy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2581,41 +2581,41 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#jkrlconhrk .gt_sourcenote {
+#baovdzrujy .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jkrlconhrk .gt_left {
+#baovdzrujy .gt_left {
   text-align: left;
 }
 
-#jkrlconhrk .gt_center {
+#baovdzrujy .gt_center {
   text-align: center;
 }
 
-#jkrlconhrk .gt_right {
+#baovdzrujy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jkrlconhrk .gt_font_normal {
+#baovdzrujy .gt_font_normal {
   font-weight: normal;
 }
 
-#jkrlconhrk .gt_font_bold {
+#baovdzrujy .gt_font_bold {
   font-weight: bold;
 }
 
-#jkrlconhrk .gt_font_italic {
+#baovdzrujy .gt_font_italic {
   font-style: italic;
 }
 
-#jkrlconhrk .gt_super {
+#baovdzrujy .gt_super {
   font-size: 65%;
 }
 
-#jkrlconhrk .gt_footnote_marks {
+#baovdzrujy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2644,12 +2644,12 @@ head(df, 100)
 ```
 
 ```{=html}
-<div id="eidzbqqeyi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="dznttvdpmw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#eidzbqqeyi .gt_table {
+#dznttvdpmw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2674,7 +2674,7 @@ head(df, 100)
   border-left-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_heading {
+#dznttvdpmw .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2686,7 +2686,7 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_title {
+#dznttvdpmw .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2696,7 +2696,7 @@ head(df, 100)
   border-bottom-width: 0;
 }
 
-#eidzbqqeyi .gt_subtitle {
+#dznttvdpmw .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2706,13 +2706,13 @@ head(df, 100)
   border-top-width: 0;
 }
 
-#eidzbqqeyi .gt_bottom_border {
+#dznttvdpmw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_col_headings {
+#dznttvdpmw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2727,7 +2727,7 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_col_heading {
+#dznttvdpmw .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2747,7 +2747,7 @@ head(df, 100)
   overflow-x: hidden;
 }
 
-#eidzbqqeyi .gt_column_spanner_outer {
+#dznttvdpmw .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2759,15 +2759,15 @@ head(df, 100)
   padding-right: 4px;
 }
 
-#eidzbqqeyi .gt_column_spanner_outer:first-child {
+#dznttvdpmw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#eidzbqqeyi .gt_column_spanner_outer:last-child {
+#dznttvdpmw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#eidzbqqeyi .gt_column_spanner {
+#dznttvdpmw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2779,7 +2779,7 @@ head(df, 100)
   width: 100%;
 }
 
-#eidzbqqeyi .gt_group_heading {
+#dznttvdpmw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2801,7 +2801,7 @@ head(df, 100)
   vertical-align: middle;
 }
 
-#eidzbqqeyi .gt_empty_group_heading {
+#dznttvdpmw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2816,15 +2816,15 @@ head(df, 100)
   vertical-align: middle;
 }
 
-#eidzbqqeyi .gt_from_md > :first-child {
+#dznttvdpmw .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#eidzbqqeyi .gt_from_md > :last-child {
+#dznttvdpmw .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#eidzbqqeyi .gt_row {
+#dznttvdpmw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2843,7 +2843,7 @@ head(df, 100)
   overflow-x: hidden;
 }
 
-#eidzbqqeyi .gt_stub {
+#dznttvdpmw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2855,7 +2855,7 @@ head(df, 100)
   padding-left: 12px;
 }
 
-#eidzbqqeyi .gt_summary_row {
+#dznttvdpmw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2865,7 +2865,7 @@ head(df, 100)
   padding-right: 5px;
 }
 
-#eidzbqqeyi .gt_first_summary_row {
+#dznttvdpmw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2875,7 +2875,7 @@ head(df, 100)
   border-top-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_grand_summary_row {
+#dznttvdpmw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2885,7 +2885,7 @@ head(df, 100)
   padding-right: 5px;
 }
 
-#eidzbqqeyi .gt_first_grand_summary_row {
+#dznttvdpmw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2895,11 +2895,11 @@ head(df, 100)
   border-top-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_striped {
+#dznttvdpmw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#eidzbqqeyi .gt_table_body {
+#dznttvdpmw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2908,7 +2908,7 @@ head(df, 100)
   border-bottom-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_footnotes {
+#dznttvdpmw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2922,13 +2922,13 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_footnote {
+#dznttvdpmw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#eidzbqqeyi .gt_sourcenotes {
+#dznttvdpmw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2942,41 +2942,41 @@ head(df, 100)
   border-right-color: #D3D3D3;
 }
 
-#eidzbqqeyi .gt_sourcenote {
+#dznttvdpmw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#eidzbqqeyi .gt_left {
+#dznttvdpmw .gt_left {
   text-align: left;
 }
 
-#eidzbqqeyi .gt_center {
+#dznttvdpmw .gt_center {
   text-align: center;
 }
 
-#eidzbqqeyi .gt_right {
+#dznttvdpmw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#eidzbqqeyi .gt_font_normal {
+#dznttvdpmw .gt_font_normal {
   font-weight: normal;
 }
 
-#eidzbqqeyi .gt_font_bold {
+#dznttvdpmw .gt_font_bold {
   font-weight: bold;
 }
 
-#eidzbqqeyi .gt_font_italic {
+#dznttvdpmw .gt_font_italic {
   font-style: italic;
 }
 
-#eidzbqqeyi .gt_super {
+#dznttvdpmw .gt_super {
   font-size: 65%;
 }
 
-#eidzbqqeyi .gt_footnote_marks {
+#dznttvdpmw .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3016,7 +3016,7 @@ head(df, 100)
 **Preparation**
 
 ```r
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -3038,12 +3038,12 @@ df
 ### Preview all rows of a dataframe within a viewer
 
 ```{=html}
-<div id="sbbavbzigx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="etwwymlrzt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#sbbavbzigx .gt_table {
+#etwwymlrzt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3068,7 +3068,7 @@ df
   border-left-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_heading {
+#etwwymlrzt .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3080,7 +3080,7 @@ df
   border-right-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_title {
+#etwwymlrzt .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3090,7 +3090,7 @@ df
   border-bottom-width: 0;
 }
 
-#sbbavbzigx .gt_subtitle {
+#etwwymlrzt .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3100,13 +3100,13 @@ df
   border-top-width: 0;
 }
 
-#sbbavbzigx .gt_bottom_border {
+#etwwymlrzt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_col_headings {
+#etwwymlrzt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3121,7 +3121,7 @@ df
   border-right-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_col_heading {
+#etwwymlrzt .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3141,7 +3141,7 @@ df
   overflow-x: hidden;
 }
 
-#sbbavbzigx .gt_column_spanner_outer {
+#etwwymlrzt .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -3153,15 +3153,15 @@ df
   padding-right: 4px;
 }
 
-#sbbavbzigx .gt_column_spanner_outer:first-child {
+#etwwymlrzt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#sbbavbzigx .gt_column_spanner_outer:last-child {
+#etwwymlrzt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#sbbavbzigx .gt_column_spanner {
+#etwwymlrzt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3173,7 +3173,7 @@ df
   width: 100%;
 }
 
-#sbbavbzigx .gt_group_heading {
+#etwwymlrzt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3195,7 +3195,7 @@ df
   vertical-align: middle;
 }
 
-#sbbavbzigx .gt_empty_group_heading {
+#etwwymlrzt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3210,15 +3210,15 @@ df
   vertical-align: middle;
 }
 
-#sbbavbzigx .gt_from_md > :first-child {
+#etwwymlrzt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#sbbavbzigx .gt_from_md > :last-child {
+#etwwymlrzt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#sbbavbzigx .gt_row {
+#etwwymlrzt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3237,7 +3237,7 @@ df
   overflow-x: hidden;
 }
 
-#sbbavbzigx .gt_stub {
+#etwwymlrzt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3249,7 +3249,7 @@ df
   padding-left: 12px;
 }
 
-#sbbavbzigx .gt_summary_row {
+#etwwymlrzt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3259,7 +3259,7 @@ df
   padding-right: 5px;
 }
 
-#sbbavbzigx .gt_first_summary_row {
+#etwwymlrzt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3269,7 +3269,7 @@ df
   border-top-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_grand_summary_row {
+#etwwymlrzt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3279,7 +3279,7 @@ df
   padding-right: 5px;
 }
 
-#sbbavbzigx .gt_first_grand_summary_row {
+#etwwymlrzt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3289,11 +3289,11 @@ df
   border-top-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_striped {
+#etwwymlrzt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#sbbavbzigx .gt_table_body {
+#etwwymlrzt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3302,7 +3302,7 @@ df
   border-bottom-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_footnotes {
+#etwwymlrzt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3316,13 +3316,13 @@ df
   border-right-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_footnote {
+#etwwymlrzt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#sbbavbzigx .gt_sourcenotes {
+#etwwymlrzt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3336,41 +3336,41 @@ df
   border-right-color: #D3D3D3;
 }
 
-#sbbavbzigx .gt_sourcenote {
+#etwwymlrzt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#sbbavbzigx .gt_left {
+#etwwymlrzt .gt_left {
   text-align: left;
 }
 
-#sbbavbzigx .gt_center {
+#etwwymlrzt .gt_center {
   text-align: center;
 }
 
-#sbbavbzigx .gt_right {
+#etwwymlrzt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#sbbavbzigx .gt_font_normal {
+#etwwymlrzt .gt_font_normal {
   font-weight: normal;
 }
 
-#sbbavbzigx .gt_font_bold {
+#etwwymlrzt .gt_font_bold {
   font-weight: bold;
 }
 
-#sbbavbzigx .gt_font_italic {
+#etwwymlrzt .gt_font_italic {
   font-style: italic;
 }
 
-#sbbavbzigx .gt_super {
+#etwwymlrzt .gt_super {
   font-size: 65%;
 }
 
-#sbbavbzigx .gt_footnote_marks {
+#etwwymlrzt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3399,12 +3399,12 @@ df
 ```
 
 ```{=html}
-<div id="cmidkxiewf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fwycwkfzlf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cmidkxiewf .gt_table {
+#fwycwkfzlf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3429,7 +3429,7 @@ df
   border-left-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_heading {
+#fwycwkfzlf .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3441,7 +3441,7 @@ df
   border-right-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_title {
+#fwycwkfzlf .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -3451,7 +3451,7 @@ df
   border-bottom-width: 0;
 }
 
-#cmidkxiewf .gt_subtitle {
+#fwycwkfzlf .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -3461,13 +3461,13 @@ df
   border-top-width: 0;
 }
 
-#cmidkxiewf .gt_bottom_border {
+#fwycwkfzlf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_col_headings {
+#fwycwkfzlf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3482,7 +3482,7 @@ df
   border-right-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_col_heading {
+#fwycwkfzlf .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3502,7 +3502,7 @@ df
   overflow-x: hidden;
 }
 
-#cmidkxiewf .gt_column_spanner_outer {
+#fwycwkfzlf .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -3514,15 +3514,15 @@ df
   padding-right: 4px;
 }
 
-#cmidkxiewf .gt_column_spanner_outer:first-child {
+#fwycwkfzlf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cmidkxiewf .gt_column_spanner_outer:last-child {
+#fwycwkfzlf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cmidkxiewf .gt_column_spanner {
+#fwycwkfzlf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3534,7 +3534,7 @@ df
   width: 100%;
 }
 
-#cmidkxiewf .gt_group_heading {
+#fwycwkfzlf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3556,7 +3556,7 @@ df
   vertical-align: middle;
 }
 
-#cmidkxiewf .gt_empty_group_heading {
+#fwycwkfzlf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3571,15 +3571,15 @@ df
   vertical-align: middle;
 }
 
-#cmidkxiewf .gt_from_md > :first-child {
+#fwycwkfzlf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cmidkxiewf .gt_from_md > :last-child {
+#fwycwkfzlf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cmidkxiewf .gt_row {
+#fwycwkfzlf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3598,7 +3598,7 @@ df
   overflow-x: hidden;
 }
 
-#cmidkxiewf .gt_stub {
+#fwycwkfzlf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3610,7 +3610,7 @@ df
   padding-left: 12px;
 }
 
-#cmidkxiewf .gt_summary_row {
+#fwycwkfzlf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3620,7 +3620,7 @@ df
   padding-right: 5px;
 }
 
-#cmidkxiewf .gt_first_summary_row {
+#fwycwkfzlf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3630,7 +3630,7 @@ df
   border-top-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_grand_summary_row {
+#fwycwkfzlf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3640,7 +3640,7 @@ df
   padding-right: 5px;
 }
 
-#cmidkxiewf .gt_first_grand_summary_row {
+#fwycwkfzlf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3650,11 +3650,11 @@ df
   border-top-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_striped {
+#fwycwkfzlf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cmidkxiewf .gt_table_body {
+#fwycwkfzlf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3663,7 +3663,7 @@ df
   border-bottom-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_footnotes {
+#fwycwkfzlf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3677,13 +3677,13 @@ df
   border-right-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_footnote {
+#fwycwkfzlf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#cmidkxiewf .gt_sourcenotes {
+#fwycwkfzlf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3697,41 +3697,41 @@ df
   border-right-color: #D3D3D3;
 }
 
-#cmidkxiewf .gt_sourcenote {
+#fwycwkfzlf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#cmidkxiewf .gt_left {
+#fwycwkfzlf .gt_left {
   text-align: left;
 }
 
-#cmidkxiewf .gt_center {
+#fwycwkfzlf .gt_center {
   text-align: center;
 }
 
-#cmidkxiewf .gt_right {
+#fwycwkfzlf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cmidkxiewf .gt_font_normal {
+#fwycwkfzlf .gt_font_normal {
   font-weight: normal;
 }
 
-#cmidkxiewf .gt_font_bold {
+#fwycwkfzlf .gt_font_bold {
   font-weight: bold;
 }
 
-#cmidkxiewf .gt_font_italic {
+#fwycwkfzlf .gt_font_italic {
   font-style: italic;
 }
 
-#cmidkxiewf .gt_super {
+#fwycwkfzlf .gt_super {
   font-size: 65%;
 }
 
-#cmidkxiewf .gt_footnote_marks {
+#fwycwkfzlf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3771,7 +3771,7 @@ df
 **Preparation**
 
 ```r
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>

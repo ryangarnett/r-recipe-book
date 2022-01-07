@@ -96,7 +96,7 @@ package::function("file_path/file_name.csv")
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("/data/sample.csv")
+readr::read_csv("/data/sample_dwelling_characteristics.csv")
 ```
 
 
@@ -117,7 +117,7 @@ package::function("file_path/file_name.csv")
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("C:/data/sample.csv")
+readr::read_csv("C:/data/sample_dwelling_characteristics.csv")
 ```
 
 
@@ -138,7 +138,7 @@ package::function("~/file_path/file_name.csv")
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("~/data/sample.csv")
+readr::read_csv("~/data/sample_dwelling_characteristics.csv")
 ```
 
 
@@ -159,7 +159,7 @@ package::function("url/file_name.csv")
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("https://raw.githubusercontent/ryangarnett/repo/master/sample.csv")
+readr::read_csv("https://raw.githubusercontent.com/ryangarnett/r-recipe-book/main/data/sample_dwelling_characteristics.csv")
 ```
 
 
@@ -180,7 +180,7 @@ package::function("file_path/file_name.csv", skip = number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("C:/data/sample.csv", skip = 2)
+readr::read_csv("C:/data/sample_dwelling_characteristics.csv", skip = 2)
 ```
 
 
@@ -201,7 +201,7 @@ package::function("file_path/file_name.csv", skip = TRUE)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("C:/data/sample.csv", skip = TRUE)
+readr::read_csv("C:/data/sample_dwelling_characteristics.csv", skip = TRUE)
 ```
 
 
@@ -222,7 +222,7 @@ package::function("file_path/file_name.csv", n_max = number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-readr::read_csv("file_path/file_name.csv", n_max = 1000)
+readr::read_csv("C:/data/sample_dwelling_characteristics.csv", n_max = 1000)
 ```
 
 
@@ -246,10 +246,10 @@ package::function("file_path/file_name.csv", col_types = object_name)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-selected_columns <- readr::cols_only(name = col_character(),
-                              age = col_double())
+selected_columns <- readr::cols_only(year_built = col_double(),
+                              style = col_character())
 
-readr::read_csv("file_path/file_name.csv", col_types = selected_columns)
+readr::read_csv("C:/data/sample_dwelling_characteristics.csv", col_types = selected_columns)
 ```
 
 

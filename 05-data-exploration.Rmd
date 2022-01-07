@@ -92,7 +92,7 @@ ingredients_table(33)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -106,7 +106,7 @@ package::function(data, column_name)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::select(df, column1)
+dplyr::select(df, assessment_account_number)
 ```
 
 
@@ -120,7 +120,7 @@ ingredients_table(34)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -134,7 +134,7 @@ package::function(data, column_name1, column_name2, column_name3, column_name4)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::select(df, column1, column2, column3, column4)
+dplyr::select(df, assessment_account_number, civic_city_name, sale_price, sale_date)
 ```
 
 
@@ -148,7 +148,7 @@ ingredients_table(35)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -162,7 +162,7 @@ package::function(data, number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::select(df, 1)
+dplyr::select(df, 2)
 ```
 
 
@@ -176,7 +176,7 @@ ingredients_table(36)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -190,7 +190,7 @@ package::function(data, number, number, number, number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::select(df, 1, 2, 5, 8)
+dplyr::select(df, 2, 8, 9, 10)
 ```
 
 
@@ -204,7 +204,7 @@ ingredients_table(37)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -232,7 +232,7 @@ ingredients_table(38)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -246,7 +246,7 @@ package::function(data, number, number, number, number:number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::select(df, 1, 3, 5, 7:9)
+dplyr::select(df, 2, 6, 11, 8:10)
 ```
 
 
@@ -260,7 +260,7 @@ ingredients_table(39)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -292,7 +292,7 @@ ingredients_table(40)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -306,7 +306,7 @@ package::function(data, column_name == "text")
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::select(df, country == "Canada")
+dplyr::select(df, civic_city_name == "DARTMOUTH")
 ```
 
 
@@ -320,7 +320,7 @@ ingredients_table(41)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -334,7 +334,7 @@ package::function(data, column_name == number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 == 5)
+dplyr::filter(df, parcels_in_sale == 1)
 ```
 
 
@@ -348,7 +348,7 @@ ingredients_table(42)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -362,7 +362,7 @@ package::function(data, column_name %in% c("text", "text", "text"))
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 %in% c("NS", "NB", "PE"))
+dplyr::filter(df, civic_city_name %in% c("DARTMOUTH", "COLE HARBOUR", "PORTERS LAKE"))
 ```
 
 
@@ -376,7 +376,7 @@ ingredients_table(43)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -390,7 +390,7 @@ package::function(data, column_name %in% c(number, number, number))
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 %in% c(5, 10, 15))
+dplyr::filter(df, parcels_in_sale %in% c(2, 3, 5))
 ```
 
 
@@ -404,7 +404,7 @@ ingredients_table(44)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -418,7 +418,7 @@ package::function(data, package::function(column, low value, high value))
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, dplyr::between(column1, 5, 10))
+dplyr::filter(df, dplyr::between(sale_price, 50000, 100000))
 ```
 
 
@@ -432,21 +432,21 @@ ingredients_table(45)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
 
 **Sample Instructions**
 ```{r eval=FALSE, include=TRUE}
-package::function(data, > number)
+package::function(data, column > number)
 ```
 
 </br>
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 > 5)
+dplyr::filter(df, sale_price > 250000)
 ```
 
 
@@ -460,21 +460,21 @@ ingredients_table(46)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
 
 **Sample Instructions**
 ```{r eval=FALSE, include=TRUE}
-package::function(data, > number)
+package::function(data, column < number)
 ```
 
 </br>
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 < 5)
+dplyr::filter(df, sale_price < 50000)
 ```
 
 
@@ -488,7 +488,7 @@ ingredients_table(47)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -502,35 +502,7 @@ package::function(data, column1 == "text", column2 == number)
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 == "Canada", column2 == 10)
-```
-
-
-### Filter multiple columns
-```{r echo = FALSE, message = FALSE, warning = FALSE}
-description_table(48)
-ingredients_table(48)
-```
-
-</br>
-
-**Preparation**
-```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
-```
-
-</br>
-
-**Sample Instructions**
-```{r eval=FALSE, include=TRUE}
-package::function(data, column1 == "text" || column2 == number)
-```
-
-</br>
-
-**Actual Instructions**
-```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, column1 == "Canada" || column2 == 10)
+dplyr::filter(df, civic_city_name == "DARTMOUTH", parcels_in_sale == 2)
 ```
 
 
@@ -544,7 +516,7 @@ ingredients_table(49)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -558,7 +530,7 @@ package::function(data, !column_name %in% c("text1", "text2", "text3"))
 
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
-dplyr::filter(df, !column1 %in% c("NS", "NB", "PE"))
+dplyr::filter(df, !civic_city_name %in% c("DARTMOUTH", "COLE HARBOUR", "PORTERS LAKE"))
 ```
 
 
@@ -573,7 +545,7 @@ ingredients_table(50)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_sales_history.csv")
 ```
 
 </br>
@@ -581,8 +553,8 @@ df <- readr::read_csv("C:/data/sample.csv")
 **Sample Instructions**
 ```{r eval=FALSE, include=TRUE}
 data %>%
-  package::function(column_name1, column_name2, column_name3) %>%
-  package::function(column_name1 %in% c("text1", "text2", "text3"))
+  package::function(column_name1 %in% c("text1", "text2", "text3")) %>%
+  package::function(column_name1, column_name2, column_name3)
 ```
 
 </br>
@@ -590,6 +562,6 @@ data %>%
 **Actual Instructions**
 ```{r eval=FALSE, include=TRUE}
 df %>%
-  dplyr::select(column1, column2, column3) %>%
-  dplyr::filter(column1 %in% c("NS", "NB", "PE"))
+  dplyr::filter(civic_city_name %in% c("DARTMOUTH", "COLE HARBOUR", "PORTERS LAKE")) %>%
+  dplyr::select(assessment_account_number, sale_price, sale_date)
 ```

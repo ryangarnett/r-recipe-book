@@ -1,7 +1,7 @@
 --- 
 title: "Data Analytics with R: A Recipe Book"
 author: "Ryan Garnett"
-date: "2021-11-24"
+date: "2022-01-07"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
@@ -54,12 +54,12 @@ An example design of a R data analytics recipe card.
 <h3> Select data by multiple column names </h3>
 
 ```{=html}
-<div id="xgnvqsvlka" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="niyybvnrhs" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#xgnvqsvlka .gt_table {
+#niyybvnrhs .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -84,7 +84,7 @@ An example design of a R data analytics recipe card.
   border-left-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_heading {
+#niyybvnrhs .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -96,7 +96,7 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_title {
+#niyybvnrhs .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -106,7 +106,7 @@ An example design of a R data analytics recipe card.
   border-bottom-width: 0;
 }
 
-#xgnvqsvlka .gt_subtitle {
+#niyybvnrhs .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -116,13 +116,13 @@ An example design of a R data analytics recipe card.
   border-top-width: 0;
 }
 
-#xgnvqsvlka .gt_bottom_border {
+#niyybvnrhs .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_col_headings {
+#niyybvnrhs .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -137,7 +137,7 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_col_heading {
+#niyybvnrhs .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -157,7 +157,7 @@ An example design of a R data analytics recipe card.
   overflow-x: hidden;
 }
 
-#xgnvqsvlka .gt_column_spanner_outer {
+#niyybvnrhs .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -169,15 +169,15 @@ An example design of a R data analytics recipe card.
   padding-right: 4px;
 }
 
-#xgnvqsvlka .gt_column_spanner_outer:first-child {
+#niyybvnrhs .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xgnvqsvlka .gt_column_spanner_outer:last-child {
+#niyybvnrhs .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xgnvqsvlka .gt_column_spanner {
+#niyybvnrhs .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -189,7 +189,7 @@ An example design of a R data analytics recipe card.
   width: 100%;
 }
 
-#xgnvqsvlka .gt_group_heading {
+#niyybvnrhs .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -211,7 +211,7 @@ An example design of a R data analytics recipe card.
   vertical-align: middle;
 }
 
-#xgnvqsvlka .gt_empty_group_heading {
+#niyybvnrhs .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -226,15 +226,15 @@ An example design of a R data analytics recipe card.
   vertical-align: middle;
 }
 
-#xgnvqsvlka .gt_from_md > :first-child {
+#niyybvnrhs .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xgnvqsvlka .gt_from_md > :last-child {
+#niyybvnrhs .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xgnvqsvlka .gt_row {
+#niyybvnrhs .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -253,7 +253,7 @@ An example design of a R data analytics recipe card.
   overflow-x: hidden;
 }
 
-#xgnvqsvlka .gt_stub {
+#niyybvnrhs .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -265,7 +265,7 @@ An example design of a R data analytics recipe card.
   padding-left: 12px;
 }
 
-#xgnvqsvlka .gt_summary_row {
+#niyybvnrhs .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -275,7 +275,7 @@ An example design of a R data analytics recipe card.
   padding-right: 5px;
 }
 
-#xgnvqsvlka .gt_first_summary_row {
+#niyybvnrhs .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -285,7 +285,7 @@ An example design of a R data analytics recipe card.
   border-top-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_grand_summary_row {
+#niyybvnrhs .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -295,7 +295,7 @@ An example design of a R data analytics recipe card.
   padding-right: 5px;
 }
 
-#xgnvqsvlka .gt_first_grand_summary_row {
+#niyybvnrhs .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -305,11 +305,11 @@ An example design of a R data analytics recipe card.
   border-top-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_striped {
+#niyybvnrhs .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xgnvqsvlka .gt_table_body {
+#niyybvnrhs .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -318,7 +318,7 @@ An example design of a R data analytics recipe card.
   border-bottom-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_footnotes {
+#niyybvnrhs .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -332,13 +332,13 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_footnote {
+#niyybvnrhs .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xgnvqsvlka .gt_sourcenotes {
+#niyybvnrhs .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -352,41 +352,41 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#xgnvqsvlka .gt_sourcenote {
+#niyybvnrhs .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xgnvqsvlka .gt_left {
+#niyybvnrhs .gt_left {
   text-align: left;
 }
 
-#xgnvqsvlka .gt_center {
+#niyybvnrhs .gt_center {
   text-align: center;
 }
 
-#xgnvqsvlka .gt_right {
+#niyybvnrhs .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xgnvqsvlka .gt_font_normal {
+#niyybvnrhs .gt_font_normal {
   font-weight: normal;
 }
 
-#xgnvqsvlka .gt_font_bold {
+#niyybvnrhs .gt_font_bold {
   font-weight: bold;
 }
 
-#xgnvqsvlka .gt_font_italic {
+#niyybvnrhs .gt_font_italic {
   font-style: italic;
 }
 
-#xgnvqsvlka .gt_super {
+#niyybvnrhs .gt_super {
   font-size: 65%;
 }
 
-#xgnvqsvlka .gt_footnote_marks {
+#niyybvnrhs .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -415,12 +415,12 @@ An example design of a R data analytics recipe card.
 ```
 
 ```{=html}
-<div id="uzribpxbwe" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="ospaowiziv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#uzribpxbwe .gt_table {
+#ospaowiziv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -445,7 +445,7 @@ An example design of a R data analytics recipe card.
   border-left-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_heading {
+#ospaowiziv .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -457,7 +457,7 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_title {
+#ospaowiziv .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -467,7 +467,7 @@ An example design of a R data analytics recipe card.
   border-bottom-width: 0;
 }
 
-#uzribpxbwe .gt_subtitle {
+#ospaowiziv .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -477,13 +477,13 @@ An example design of a R data analytics recipe card.
   border-top-width: 0;
 }
 
-#uzribpxbwe .gt_bottom_border {
+#ospaowiziv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_col_headings {
+#ospaowiziv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -498,7 +498,7 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_col_heading {
+#ospaowiziv .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -518,7 +518,7 @@ An example design of a R data analytics recipe card.
   overflow-x: hidden;
 }
 
-#uzribpxbwe .gt_column_spanner_outer {
+#ospaowiziv .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -530,15 +530,15 @@ An example design of a R data analytics recipe card.
   padding-right: 4px;
 }
 
-#uzribpxbwe .gt_column_spanner_outer:first-child {
+#ospaowiziv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#uzribpxbwe .gt_column_spanner_outer:last-child {
+#ospaowiziv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#uzribpxbwe .gt_column_spanner {
+#ospaowiziv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -550,7 +550,7 @@ An example design of a R data analytics recipe card.
   width: 100%;
 }
 
-#uzribpxbwe .gt_group_heading {
+#ospaowiziv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -572,7 +572,7 @@ An example design of a R data analytics recipe card.
   vertical-align: middle;
 }
 
-#uzribpxbwe .gt_empty_group_heading {
+#ospaowiziv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -587,15 +587,15 @@ An example design of a R data analytics recipe card.
   vertical-align: middle;
 }
 
-#uzribpxbwe .gt_from_md > :first-child {
+#ospaowiziv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#uzribpxbwe .gt_from_md > :last-child {
+#ospaowiziv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#uzribpxbwe .gt_row {
+#ospaowiziv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -614,7 +614,7 @@ An example design of a R data analytics recipe card.
   overflow-x: hidden;
 }
 
-#uzribpxbwe .gt_stub {
+#ospaowiziv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -626,7 +626,7 @@ An example design of a R data analytics recipe card.
   padding-left: 12px;
 }
 
-#uzribpxbwe .gt_summary_row {
+#ospaowiziv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -636,7 +636,7 @@ An example design of a R data analytics recipe card.
   padding-right: 5px;
 }
 
-#uzribpxbwe .gt_first_summary_row {
+#ospaowiziv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -646,7 +646,7 @@ An example design of a R data analytics recipe card.
   border-top-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_grand_summary_row {
+#ospaowiziv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -656,7 +656,7 @@ An example design of a R data analytics recipe card.
   padding-right: 5px;
 }
 
-#uzribpxbwe .gt_first_grand_summary_row {
+#ospaowiziv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -666,11 +666,11 @@ An example design of a R data analytics recipe card.
   border-top-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_striped {
+#ospaowiziv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#uzribpxbwe .gt_table_body {
+#ospaowiziv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -679,7 +679,7 @@ An example design of a R data analytics recipe card.
   border-bottom-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_footnotes {
+#ospaowiziv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -693,13 +693,13 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_footnote {
+#ospaowiziv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#uzribpxbwe .gt_sourcenotes {
+#ospaowiziv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -713,41 +713,41 @@ An example design of a R data analytics recipe card.
   border-right-color: #D3D3D3;
 }
 
-#uzribpxbwe .gt_sourcenote {
+#ospaowiziv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#uzribpxbwe .gt_left {
+#ospaowiziv .gt_left {
   text-align: left;
 }
 
-#uzribpxbwe .gt_center {
+#ospaowiziv .gt_center {
   text-align: center;
 }
 
-#uzribpxbwe .gt_right {
+#ospaowiziv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#uzribpxbwe .gt_font_normal {
+#ospaowiziv .gt_font_normal {
   font-weight: normal;
 }
 
-#uzribpxbwe .gt_font_bold {
+#ospaowiziv .gt_font_bold {
   font-weight: bold;
 }
 
-#uzribpxbwe .gt_font_italic {
+#ospaowiziv .gt_font_italic {
   font-style: italic;
 }
 
-#uzribpxbwe .gt_super {
+#ospaowiziv .gt_super {
   font-size: 65%;
 }
 
-#uzribpxbwe .gt_footnote_marks {
+#ospaowiziv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -846,7 +846,20 @@ I love spicy food; tacos, burritos, chili, curry, hot sauce, almost anything, an
 </br>
 
 ## Data Used within the Book
-TBD
+**dataZONE** property and municipal datasets from across Nova Scotia
+
+Four datasets related to Nova Scotia properties will be used throughout the book:
+
+1. residential dwelling characteristics
+2. assessed value and taxable assessed value history
+3. parcel land sizes
+4. parcel sales history
+
+</br>
+
+I have selected a sub sample for each of the four datasets to reduce the size of the data, which is available [here](https://github.com/ryangarnett/r-recipe-book/tree/main/data)
+
+The full datasets, including others, can be accessed from the [dataZONE data catalog](https://www.thedatazone.ca/browse)
 
 </br>
 </br>

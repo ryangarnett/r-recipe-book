@@ -88,7 +88,7 @@ ingredients_table(14)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -120,7 +120,7 @@ ingredients_table(15)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -147,7 +147,7 @@ ingredients_table(16)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -174,7 +174,7 @@ ingredients_table(17)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>
@@ -201,7 +201,7 @@ ingredients_table(17)
 
 **Preparation**
 ```{r eval=FALSE, include=TRUE}
-df <- readr::read_csv("C:/data/sample.csv")
+df <- readr::read_csv("C:/data/sample_parcel_land_sizes.csv")
 ```
 
 </br>

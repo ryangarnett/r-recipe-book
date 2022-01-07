@@ -13,12 +13,12 @@
 ### Get the unique values within a column
 
 ```{=html}
-<div id="cgqmqyfjgx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="njdwkccsmr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#cgqmqyfjgx .gt_table {
+#njdwkccsmr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -43,7 +43,7 @@
   border-left-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_heading {
+#njdwkccsmr .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -55,7 +55,7 @@
   border-right-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_title {
+#njdwkccsmr .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -65,7 +65,7 @@
   border-bottom-width: 0;
 }
 
-#cgqmqyfjgx .gt_subtitle {
+#njdwkccsmr .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -75,13 +75,13 @@
   border-top-width: 0;
 }
 
-#cgqmqyfjgx .gt_bottom_border {
+#njdwkccsmr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_col_headings {
+#njdwkccsmr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -96,7 +96,7 @@
   border-right-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_col_heading {
+#njdwkccsmr .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -116,7 +116,7 @@
   overflow-x: hidden;
 }
 
-#cgqmqyfjgx .gt_column_spanner_outer {
+#njdwkccsmr .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -128,15 +128,15 @@
   padding-right: 4px;
 }
 
-#cgqmqyfjgx .gt_column_spanner_outer:first-child {
+#njdwkccsmr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#cgqmqyfjgx .gt_column_spanner_outer:last-child {
+#njdwkccsmr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#cgqmqyfjgx .gt_column_spanner {
+#njdwkccsmr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -148,7 +148,7 @@
   width: 100%;
 }
 
-#cgqmqyfjgx .gt_group_heading {
+#njdwkccsmr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -170,7 +170,7 @@
   vertical-align: middle;
 }
 
-#cgqmqyfjgx .gt_empty_group_heading {
+#njdwkccsmr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -185,15 +185,15 @@
   vertical-align: middle;
 }
 
-#cgqmqyfjgx .gt_from_md > :first-child {
+#njdwkccsmr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#cgqmqyfjgx .gt_from_md > :last-child {
+#njdwkccsmr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#cgqmqyfjgx .gt_row {
+#njdwkccsmr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -212,7 +212,7 @@
   overflow-x: hidden;
 }
 
-#cgqmqyfjgx .gt_stub {
+#njdwkccsmr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -224,7 +224,7 @@
   padding-left: 12px;
 }
 
-#cgqmqyfjgx .gt_summary_row {
+#njdwkccsmr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -234,7 +234,7 @@
   padding-right: 5px;
 }
 
-#cgqmqyfjgx .gt_first_summary_row {
+#njdwkccsmr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -244,7 +244,7 @@
   border-top-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_grand_summary_row {
+#njdwkccsmr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -254,7 +254,7 @@
   padding-right: 5px;
 }
 
-#cgqmqyfjgx .gt_first_grand_summary_row {
+#njdwkccsmr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -264,11 +264,11 @@
   border-top-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_striped {
+#njdwkccsmr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#cgqmqyfjgx .gt_table_body {
+#njdwkccsmr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -277,7 +277,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_footnotes {
+#njdwkccsmr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -291,13 +291,13 @@
   border-right-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_footnote {
+#njdwkccsmr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#cgqmqyfjgx .gt_sourcenotes {
+#njdwkccsmr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -311,41 +311,41 @@
   border-right-color: #D3D3D3;
 }
 
-#cgqmqyfjgx .gt_sourcenote {
+#njdwkccsmr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#cgqmqyfjgx .gt_left {
+#njdwkccsmr .gt_left {
   text-align: left;
 }
 
-#cgqmqyfjgx .gt_center {
+#njdwkccsmr .gt_center {
   text-align: center;
 }
 
-#cgqmqyfjgx .gt_right {
+#njdwkccsmr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#cgqmqyfjgx .gt_font_normal {
+#njdwkccsmr .gt_font_normal {
   font-weight: normal;
 }
 
-#cgqmqyfjgx .gt_font_bold {
+#njdwkccsmr .gt_font_bold {
   font-weight: bold;
 }
 
-#cgqmqyfjgx .gt_font_italic {
+#njdwkccsmr .gt_font_italic {
   font-style: italic;
 }
 
-#cgqmqyfjgx .gt_super {
+#njdwkccsmr .gt_super {
   font-size: 65%;
 }
 
-#cgqmqyfjgx .gt_footnote_marks {
+#njdwkccsmr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -374,12 +374,12 @@
 ```
 
 ```{=html}
-<div id="ajbjlpcryc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="vyvjpjzalt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#ajbjlpcryc .gt_table {
+#vyvjpjzalt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -404,7 +404,7 @@
   border-left-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_heading {
+#vyvjpjzalt .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -416,7 +416,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_title {
+#vyvjpjzalt .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -426,7 +426,7 @@
   border-bottom-width: 0;
 }
 
-#ajbjlpcryc .gt_subtitle {
+#vyvjpjzalt .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -436,13 +436,13 @@
   border-top-width: 0;
 }
 
-#ajbjlpcryc .gt_bottom_border {
+#vyvjpjzalt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_col_headings {
+#vyvjpjzalt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -457,7 +457,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_col_heading {
+#vyvjpjzalt .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -477,7 +477,7 @@
   overflow-x: hidden;
 }
 
-#ajbjlpcryc .gt_column_spanner_outer {
+#vyvjpjzalt .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -489,15 +489,15 @@
   padding-right: 4px;
 }
 
-#ajbjlpcryc .gt_column_spanner_outer:first-child {
+#vyvjpjzalt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ajbjlpcryc .gt_column_spanner_outer:last-child {
+#vyvjpjzalt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ajbjlpcryc .gt_column_spanner {
+#vyvjpjzalt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -509,7 +509,7 @@
   width: 100%;
 }
 
-#ajbjlpcryc .gt_group_heading {
+#vyvjpjzalt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -531,7 +531,7 @@
   vertical-align: middle;
 }
 
-#ajbjlpcryc .gt_empty_group_heading {
+#vyvjpjzalt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -546,15 +546,15 @@
   vertical-align: middle;
 }
 
-#ajbjlpcryc .gt_from_md > :first-child {
+#vyvjpjzalt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#ajbjlpcryc .gt_from_md > :last-child {
+#vyvjpjzalt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#ajbjlpcryc .gt_row {
+#vyvjpjzalt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -573,7 +573,7 @@
   overflow-x: hidden;
 }
 
-#ajbjlpcryc .gt_stub {
+#vyvjpjzalt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -585,7 +585,7 @@
   padding-left: 12px;
 }
 
-#ajbjlpcryc .gt_summary_row {
+#vyvjpjzalt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -595,7 +595,7 @@
   padding-right: 5px;
 }
 
-#ajbjlpcryc .gt_first_summary_row {
+#vyvjpjzalt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -605,7 +605,7 @@
   border-top-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_grand_summary_row {
+#vyvjpjzalt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -615,7 +615,7 @@
   padding-right: 5px;
 }
 
-#ajbjlpcryc .gt_first_grand_summary_row {
+#vyvjpjzalt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -625,11 +625,11 @@
   border-top-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_striped {
+#vyvjpjzalt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ajbjlpcryc .gt_table_body {
+#vyvjpjzalt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -638,7 +638,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_footnotes {
+#vyvjpjzalt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -652,13 +652,13 @@
   border-right-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_footnote {
+#vyvjpjzalt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ajbjlpcryc .gt_sourcenotes {
+#vyvjpjzalt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -672,41 +672,41 @@
   border-right-color: #D3D3D3;
 }
 
-#ajbjlpcryc .gt_sourcenote {
+#vyvjpjzalt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ajbjlpcryc .gt_left {
+#vyvjpjzalt .gt_left {
   text-align: left;
 }
 
-#ajbjlpcryc .gt_center {
+#vyvjpjzalt .gt_center {
   text-align: center;
 }
 
-#ajbjlpcryc .gt_right {
+#vyvjpjzalt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ajbjlpcryc .gt_font_normal {
+#vyvjpjzalt .gt_font_normal {
   font-weight: normal;
 }
 
-#ajbjlpcryc .gt_font_bold {
+#vyvjpjzalt .gt_font_bold {
   font-weight: bold;
 }
 
-#ajbjlpcryc .gt_font_italic {
+#vyvjpjzalt .gt_font_italic {
   font-style: italic;
 }
 
-#ajbjlpcryc .gt_super {
+#vyvjpjzalt .gt_super {
   font-size: 65%;
 }
 
-#ajbjlpcryc .gt_footnote_marks {
+#vyvjpjzalt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -769,12 +769,12 @@ dplyr::distinct(df, species)
 ### Get the unique values and their frequency within a column
 
 ```{=html}
-<div id="zdkvdujqby" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wlhoyjtyqm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zdkvdujqby .gt_table {
+#wlhoyjtyqm .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -799,7 +799,7 @@ dplyr::distinct(df, species)
   border-left-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_heading {
+#wlhoyjtyqm .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -811,7 +811,7 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_title {
+#wlhoyjtyqm .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -821,7 +821,7 @@ dplyr::distinct(df, species)
   border-bottom-width: 0;
 }
 
-#zdkvdujqby .gt_subtitle {
+#wlhoyjtyqm .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -831,13 +831,13 @@ dplyr::distinct(df, species)
   border-top-width: 0;
 }
 
-#zdkvdujqby .gt_bottom_border {
+#wlhoyjtyqm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_col_headings {
+#wlhoyjtyqm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -852,7 +852,7 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_col_heading {
+#wlhoyjtyqm .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -872,7 +872,7 @@ dplyr::distinct(df, species)
   overflow-x: hidden;
 }
 
-#zdkvdujqby .gt_column_spanner_outer {
+#wlhoyjtyqm .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -884,15 +884,15 @@ dplyr::distinct(df, species)
   padding-right: 4px;
 }
 
-#zdkvdujqby .gt_column_spanner_outer:first-child {
+#wlhoyjtyqm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zdkvdujqby .gt_column_spanner_outer:last-child {
+#wlhoyjtyqm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zdkvdujqby .gt_column_spanner {
+#wlhoyjtyqm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -904,7 +904,7 @@ dplyr::distinct(df, species)
   width: 100%;
 }
 
-#zdkvdujqby .gt_group_heading {
+#wlhoyjtyqm .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -926,7 +926,7 @@ dplyr::distinct(df, species)
   vertical-align: middle;
 }
 
-#zdkvdujqby .gt_empty_group_heading {
+#wlhoyjtyqm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -941,15 +941,15 @@ dplyr::distinct(df, species)
   vertical-align: middle;
 }
 
-#zdkvdujqby .gt_from_md > :first-child {
+#wlhoyjtyqm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zdkvdujqby .gt_from_md > :last-child {
+#wlhoyjtyqm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zdkvdujqby .gt_row {
+#wlhoyjtyqm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -968,7 +968,7 @@ dplyr::distinct(df, species)
   overflow-x: hidden;
 }
 
-#zdkvdujqby .gt_stub {
+#wlhoyjtyqm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -980,7 +980,7 @@ dplyr::distinct(df, species)
   padding-left: 12px;
 }
 
-#zdkvdujqby .gt_summary_row {
+#wlhoyjtyqm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -990,7 +990,7 @@ dplyr::distinct(df, species)
   padding-right: 5px;
 }
 
-#zdkvdujqby .gt_first_summary_row {
+#wlhoyjtyqm .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1000,7 +1000,7 @@ dplyr::distinct(df, species)
   border-top-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_grand_summary_row {
+#wlhoyjtyqm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1010,7 +1010,7 @@ dplyr::distinct(df, species)
   padding-right: 5px;
 }
 
-#zdkvdujqby .gt_first_grand_summary_row {
+#wlhoyjtyqm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1020,11 +1020,11 @@ dplyr::distinct(df, species)
   border-top-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_striped {
+#wlhoyjtyqm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zdkvdujqby .gt_table_body {
+#wlhoyjtyqm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1033,7 +1033,7 @@ dplyr::distinct(df, species)
   border-bottom-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_footnotes {
+#wlhoyjtyqm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1047,13 +1047,13 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_footnote {
+#wlhoyjtyqm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zdkvdujqby .gt_sourcenotes {
+#wlhoyjtyqm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1067,41 +1067,41 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#zdkvdujqby .gt_sourcenote {
+#wlhoyjtyqm .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zdkvdujqby .gt_left {
+#wlhoyjtyqm .gt_left {
   text-align: left;
 }
 
-#zdkvdujqby .gt_center {
+#wlhoyjtyqm .gt_center {
   text-align: center;
 }
 
-#zdkvdujqby .gt_right {
+#wlhoyjtyqm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zdkvdujqby .gt_font_normal {
+#wlhoyjtyqm .gt_font_normal {
   font-weight: normal;
 }
 
-#zdkvdujqby .gt_font_bold {
+#wlhoyjtyqm .gt_font_bold {
   font-weight: bold;
 }
 
-#zdkvdujqby .gt_font_italic {
+#wlhoyjtyqm .gt_font_italic {
   font-style: italic;
 }
 
-#zdkvdujqby .gt_super {
+#wlhoyjtyqm .gt_super {
   font-size: 65%;
 }
 
-#zdkvdujqby .gt_footnote_marks {
+#wlhoyjtyqm .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1130,12 +1130,12 @@ dplyr::distinct(df, species)
 ```
 
 ```{=html}
-<div id="acdppgwilw" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qlwyksfsek" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#acdppgwilw .gt_table {
+#qlwyksfsek .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1160,7 +1160,7 @@ dplyr::distinct(df, species)
   border-left-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_heading {
+#qlwyksfsek .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1172,7 +1172,7 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_title {
+#qlwyksfsek .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1182,7 +1182,7 @@ dplyr::distinct(df, species)
   border-bottom-width: 0;
 }
 
-#acdppgwilw .gt_subtitle {
+#qlwyksfsek .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1192,13 +1192,13 @@ dplyr::distinct(df, species)
   border-top-width: 0;
 }
 
-#acdppgwilw .gt_bottom_border {
+#qlwyksfsek .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_col_headings {
+#qlwyksfsek .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1213,7 +1213,7 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_col_heading {
+#qlwyksfsek .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1233,7 +1233,7 @@ dplyr::distinct(df, species)
   overflow-x: hidden;
 }
 
-#acdppgwilw .gt_column_spanner_outer {
+#qlwyksfsek .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1245,15 +1245,15 @@ dplyr::distinct(df, species)
   padding-right: 4px;
 }
 
-#acdppgwilw .gt_column_spanner_outer:first-child {
+#qlwyksfsek .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#acdppgwilw .gt_column_spanner_outer:last-child {
+#qlwyksfsek .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#acdppgwilw .gt_column_spanner {
+#qlwyksfsek .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1265,7 +1265,7 @@ dplyr::distinct(df, species)
   width: 100%;
 }
 
-#acdppgwilw .gt_group_heading {
+#qlwyksfsek .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1287,7 +1287,7 @@ dplyr::distinct(df, species)
   vertical-align: middle;
 }
 
-#acdppgwilw .gt_empty_group_heading {
+#qlwyksfsek .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1302,15 +1302,15 @@ dplyr::distinct(df, species)
   vertical-align: middle;
 }
 
-#acdppgwilw .gt_from_md > :first-child {
+#qlwyksfsek .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#acdppgwilw .gt_from_md > :last-child {
+#qlwyksfsek .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#acdppgwilw .gt_row {
+#qlwyksfsek .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1329,7 +1329,7 @@ dplyr::distinct(df, species)
   overflow-x: hidden;
 }
 
-#acdppgwilw .gt_stub {
+#qlwyksfsek .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1341,7 +1341,7 @@ dplyr::distinct(df, species)
   padding-left: 12px;
 }
 
-#acdppgwilw .gt_summary_row {
+#qlwyksfsek .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1351,7 +1351,7 @@ dplyr::distinct(df, species)
   padding-right: 5px;
 }
 
-#acdppgwilw .gt_first_summary_row {
+#qlwyksfsek .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1361,7 +1361,7 @@ dplyr::distinct(df, species)
   border-top-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_grand_summary_row {
+#qlwyksfsek .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1371,7 +1371,7 @@ dplyr::distinct(df, species)
   padding-right: 5px;
 }
 
-#acdppgwilw .gt_first_grand_summary_row {
+#qlwyksfsek .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1381,11 +1381,11 @@ dplyr::distinct(df, species)
   border-top-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_striped {
+#qlwyksfsek .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#acdppgwilw .gt_table_body {
+#qlwyksfsek .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1394,7 +1394,7 @@ dplyr::distinct(df, species)
   border-bottom-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_footnotes {
+#qlwyksfsek .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1408,13 +1408,13 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_footnote {
+#qlwyksfsek .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#acdppgwilw .gt_sourcenotes {
+#qlwyksfsek .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1428,41 +1428,41 @@ dplyr::distinct(df, species)
   border-right-color: #D3D3D3;
 }
 
-#acdppgwilw .gt_sourcenote {
+#qlwyksfsek .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#acdppgwilw .gt_left {
+#qlwyksfsek .gt_left {
   text-align: left;
 }
 
-#acdppgwilw .gt_center {
+#qlwyksfsek .gt_center {
   text-align: center;
 }
 
-#acdppgwilw .gt_right {
+#qlwyksfsek .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#acdppgwilw .gt_font_normal {
+#qlwyksfsek .gt_font_normal {
   font-weight: normal;
 }
 
-#acdppgwilw .gt_font_bold {
+#qlwyksfsek .gt_font_bold {
   font-weight: bold;
 }
 
-#acdppgwilw .gt_font_italic {
+#qlwyksfsek .gt_font_italic {
   font-style: italic;
 }
 
-#acdppgwilw .gt_super {
+#qlwyksfsek .gt_super {
   font-size: 65%;
 }
 
-#acdppgwilw .gt_footnote_marks {
+#qlwyksfsek .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1529,12 +1529,12 @@ dplyr::group_by(df, species) %>%
 ### Get the unique values and their frequency within a column while ordering from the smallest value
 
 ```{=html}
-<div id="winvplvjrk" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jxbcywxhak" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#winvplvjrk .gt_table {
+#jxbcywxhak .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1559,7 +1559,7 @@ dplyr::group_by(df, species) %>%
   border-left-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_heading {
+#jxbcywxhak .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1571,7 +1571,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_title {
+#jxbcywxhak .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1581,7 +1581,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-width: 0;
 }
 
-#winvplvjrk .gt_subtitle {
+#jxbcywxhak .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1591,13 +1591,13 @@ dplyr::group_by(df, species) %>%
   border-top-width: 0;
 }
 
-#winvplvjrk .gt_bottom_border {
+#jxbcywxhak .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_col_headings {
+#jxbcywxhak .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1612,7 +1612,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_col_heading {
+#jxbcywxhak .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1632,7 +1632,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#winvplvjrk .gt_column_spanner_outer {
+#jxbcywxhak .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -1644,15 +1644,15 @@ dplyr::group_by(df, species) %>%
   padding-right: 4px;
 }
 
-#winvplvjrk .gt_column_spanner_outer:first-child {
+#jxbcywxhak .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#winvplvjrk .gt_column_spanner_outer:last-child {
+#jxbcywxhak .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#winvplvjrk .gt_column_spanner {
+#jxbcywxhak .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1664,7 +1664,7 @@ dplyr::group_by(df, species) %>%
   width: 100%;
 }
 
-#winvplvjrk .gt_group_heading {
+#jxbcywxhak .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1686,7 +1686,7 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#winvplvjrk .gt_empty_group_heading {
+#jxbcywxhak .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1701,15 +1701,15 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#winvplvjrk .gt_from_md > :first-child {
+#jxbcywxhak .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#winvplvjrk .gt_from_md > :last-child {
+#jxbcywxhak .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#winvplvjrk .gt_row {
+#jxbcywxhak .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1728,7 +1728,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#winvplvjrk .gt_stub {
+#jxbcywxhak .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1740,7 +1740,7 @@ dplyr::group_by(df, species) %>%
   padding-left: 12px;
 }
 
-#winvplvjrk .gt_summary_row {
+#jxbcywxhak .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1750,7 +1750,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#winvplvjrk .gt_first_summary_row {
+#jxbcywxhak .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1760,7 +1760,7 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_grand_summary_row {
+#jxbcywxhak .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1770,7 +1770,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#winvplvjrk .gt_first_grand_summary_row {
+#jxbcywxhak .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1780,11 +1780,11 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_striped {
+#jxbcywxhak .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#winvplvjrk .gt_table_body {
+#jxbcywxhak .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1793,7 +1793,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_footnotes {
+#jxbcywxhak .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1807,13 +1807,13 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_footnote {
+#jxbcywxhak .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#winvplvjrk .gt_sourcenotes {
+#jxbcywxhak .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1827,41 +1827,41 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#winvplvjrk .gt_sourcenote {
+#jxbcywxhak .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#winvplvjrk .gt_left {
+#jxbcywxhak .gt_left {
   text-align: left;
 }
 
-#winvplvjrk .gt_center {
+#jxbcywxhak .gt_center {
   text-align: center;
 }
 
-#winvplvjrk .gt_right {
+#jxbcywxhak .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#winvplvjrk .gt_font_normal {
+#jxbcywxhak .gt_font_normal {
   font-weight: normal;
 }
 
-#winvplvjrk .gt_font_bold {
+#jxbcywxhak .gt_font_bold {
   font-weight: bold;
 }
 
-#winvplvjrk .gt_font_italic {
+#jxbcywxhak .gt_font_italic {
   font-style: italic;
 }
 
-#winvplvjrk .gt_super {
+#jxbcywxhak .gt_super {
   font-size: 65%;
 }
 
-#winvplvjrk .gt_footnote_marks {
+#jxbcywxhak .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1890,12 +1890,12 @@ dplyr::group_by(df, species) %>%
 ```
 
 ```{=html}
-<div id="aqcjwvvcdh" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wdtzgosynn" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#aqcjwvvcdh .gt_table {
+#wdtzgosynn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1920,7 +1920,7 @@ dplyr::group_by(df, species) %>%
   border-left-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_heading {
+#wdtzgosynn .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1932,7 +1932,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_title {
+#wdtzgosynn .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -1942,7 +1942,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-width: 0;
 }
 
-#aqcjwvvcdh .gt_subtitle {
+#wdtzgosynn .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -1952,13 +1952,13 @@ dplyr::group_by(df, species) %>%
   border-top-width: 0;
 }
 
-#aqcjwvvcdh .gt_bottom_border {
+#wdtzgosynn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_col_headings {
+#wdtzgosynn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1973,7 +1973,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_col_heading {
+#wdtzgosynn .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -1993,7 +1993,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#aqcjwvvcdh .gt_column_spanner_outer {
+#wdtzgosynn .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2005,15 +2005,15 @@ dplyr::group_by(df, species) %>%
   padding-right: 4px;
 }
 
-#aqcjwvvcdh .gt_column_spanner_outer:first-child {
+#wdtzgosynn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#aqcjwvvcdh .gt_column_spanner_outer:last-child {
+#wdtzgosynn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#aqcjwvvcdh .gt_column_spanner {
+#wdtzgosynn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2025,7 +2025,7 @@ dplyr::group_by(df, species) %>%
   width: 100%;
 }
 
-#aqcjwvvcdh .gt_group_heading {
+#wdtzgosynn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2047,7 +2047,7 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#aqcjwvvcdh .gt_empty_group_heading {
+#wdtzgosynn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2062,15 +2062,15 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#aqcjwvvcdh .gt_from_md > :first-child {
+#wdtzgosynn .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#aqcjwvvcdh .gt_from_md > :last-child {
+#wdtzgosynn .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#aqcjwvvcdh .gt_row {
+#wdtzgosynn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2089,7 +2089,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#aqcjwvvcdh .gt_stub {
+#wdtzgosynn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2101,7 +2101,7 @@ dplyr::group_by(df, species) %>%
   padding-left: 12px;
 }
 
-#aqcjwvvcdh .gt_summary_row {
+#wdtzgosynn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2111,7 +2111,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#aqcjwvvcdh .gt_first_summary_row {
+#wdtzgosynn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2121,7 +2121,7 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_grand_summary_row {
+#wdtzgosynn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2131,7 +2131,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#aqcjwvvcdh .gt_first_grand_summary_row {
+#wdtzgosynn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2141,11 +2141,11 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_striped {
+#wdtzgosynn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#aqcjwvvcdh .gt_table_body {
+#wdtzgosynn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2154,7 +2154,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_footnotes {
+#wdtzgosynn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2168,13 +2168,13 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_footnote {
+#wdtzgosynn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#aqcjwvvcdh .gt_sourcenotes {
+#wdtzgosynn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2188,41 +2188,41 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#aqcjwvvcdh .gt_sourcenote {
+#wdtzgosynn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#aqcjwvvcdh .gt_left {
+#wdtzgosynn .gt_left {
   text-align: left;
 }
 
-#aqcjwvvcdh .gt_center {
+#wdtzgosynn .gt_center {
   text-align: center;
 }
 
-#aqcjwvvcdh .gt_right {
+#wdtzgosynn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#aqcjwvvcdh .gt_font_normal {
+#wdtzgosynn .gt_font_normal {
   font-weight: normal;
 }
 
-#aqcjwvvcdh .gt_font_bold {
+#wdtzgosynn .gt_font_bold {
   font-weight: bold;
 }
 
-#aqcjwvvcdh .gt_font_italic {
+#wdtzgosynn .gt_font_italic {
   font-style: italic;
 }
 
-#aqcjwvvcdh .gt_super {
+#wdtzgosynn .gt_super {
   font-size: 65%;
 }
 
-#aqcjwvvcdh .gt_footnote_marks {
+#wdtzgosynn .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2291,12 +2291,12 @@ dplyr::group_by(df, species) %>%
 ### Get the unique values and their frequency within a column while ordering from the largest value
 
 ```{=html}
-<div id="sqbfgidjou" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wwalclzyaq" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#sqbfgidjou .gt_table {
+#wwalclzyaq .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2321,7 +2321,7 @@ dplyr::group_by(df, species) %>%
   border-left-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_heading {
+#wwalclzyaq .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2333,7 +2333,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_title {
+#wwalclzyaq .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2343,7 +2343,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-width: 0;
 }
 
-#sqbfgidjou .gt_subtitle {
+#wwalclzyaq .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2353,13 +2353,13 @@ dplyr::group_by(df, species) %>%
   border-top-width: 0;
 }
 
-#sqbfgidjou .gt_bottom_border {
+#wwalclzyaq .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_col_headings {
+#wwalclzyaq .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2374,7 +2374,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_col_heading {
+#wwalclzyaq .gt_col_heading {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2394,7 +2394,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#sqbfgidjou .gt_column_spanner_outer {
+#wwalclzyaq .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #153331;
   font-size: 100%;
@@ -2406,15 +2406,15 @@ dplyr::group_by(df, species) %>%
   padding-right: 4px;
 }
 
-#sqbfgidjou .gt_column_spanner_outer:first-child {
+#wwalclzyaq .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#sqbfgidjou .gt_column_spanner_outer:last-child {
+#wwalclzyaq .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#sqbfgidjou .gt_column_spanner {
+#wwalclzyaq .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2426,7 +2426,7 @@ dplyr::group_by(df, species) %>%
   width: 100%;
 }
 
-#sqbfgidjou .gt_group_heading {
+#wwalclzyaq .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2448,7 +2448,7 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#sqbfgidjou .gt_empty_group_heading {
+#wwalclzyaq .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2463,15 +2463,15 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#sqbfgidjou .gt_from_md > :first-child {
+#wwalclzyaq .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#sqbfgidjou .gt_from_md > :last-child {
+#wwalclzyaq .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#sqbfgidjou .gt_row {
+#wwalclzyaq .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2490,7 +2490,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#sqbfgidjou .gt_stub {
+#wwalclzyaq .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2502,7 +2502,7 @@ dplyr::group_by(df, species) %>%
   padding-left: 12px;
 }
 
-#sqbfgidjou .gt_summary_row {
+#wwalclzyaq .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2512,7 +2512,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#sqbfgidjou .gt_first_summary_row {
+#wwalclzyaq .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2522,7 +2522,7 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_grand_summary_row {
+#wwalclzyaq .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2532,7 +2532,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#sqbfgidjou .gt_first_grand_summary_row {
+#wwalclzyaq .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2542,11 +2542,11 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_striped {
+#wwalclzyaq .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#sqbfgidjou .gt_table_body {
+#wwalclzyaq .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2555,7 +2555,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_footnotes {
+#wwalclzyaq .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2569,13 +2569,13 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_footnote {
+#wwalclzyaq .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#sqbfgidjou .gt_sourcenotes {
+#wwalclzyaq .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2589,41 +2589,41 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#sqbfgidjou .gt_sourcenote {
+#wwalclzyaq .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#sqbfgidjou .gt_left {
+#wwalclzyaq .gt_left {
   text-align: left;
 }
 
-#sqbfgidjou .gt_center {
+#wwalclzyaq .gt_center {
   text-align: center;
 }
 
-#sqbfgidjou .gt_right {
+#wwalclzyaq .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#sqbfgidjou .gt_font_normal {
+#wwalclzyaq .gt_font_normal {
   font-weight: normal;
 }
 
-#sqbfgidjou .gt_font_bold {
+#wwalclzyaq .gt_font_bold {
   font-weight: bold;
 }
 
-#sqbfgidjou .gt_font_italic {
+#wwalclzyaq .gt_font_italic {
   font-style: italic;
 }
 
-#sqbfgidjou .gt_super {
+#wwalclzyaq .gt_super {
   font-size: 65%;
 }
 
-#sqbfgidjou .gt_footnote_marks {
+#wwalclzyaq .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2652,12 +2652,12 @@ dplyr::group_by(df, species) %>%
 ```
 
 ```{=html}
-<div id="kpdzahmhtl" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jmnjpsdyad" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#kpdzahmhtl .gt_table {
+#jmnjpsdyad .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2682,7 +2682,7 @@ dplyr::group_by(df, species) %>%
   border-left-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_heading {
+#jmnjpsdyad .gt_heading {
   background-color: #153331;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2694,7 +2694,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_title {
+#jmnjpsdyad .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -2704,7 +2704,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-width: 0;
 }
 
-#kpdzahmhtl .gt_subtitle {
+#jmnjpsdyad .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -2714,13 +2714,13 @@ dplyr::group_by(df, species) %>%
   border-top-width: 0;
 }
 
-#kpdzahmhtl .gt_bottom_border {
+#jmnjpsdyad .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_col_headings {
+#jmnjpsdyad .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2735,7 +2735,7 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_col_heading {
+#jmnjpsdyad .gt_col_heading {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2755,7 +2755,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#kpdzahmhtl .gt_column_spanner_outer {
+#jmnjpsdyad .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #1E6E6E;
   font-size: 100%;
@@ -2767,15 +2767,15 @@ dplyr::group_by(df, species) %>%
   padding-right: 4px;
 }
 
-#kpdzahmhtl .gt_column_spanner_outer:first-child {
+#jmnjpsdyad .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kpdzahmhtl .gt_column_spanner_outer:last-child {
+#jmnjpsdyad .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kpdzahmhtl .gt_column_spanner {
+#jmnjpsdyad .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2787,7 +2787,7 @@ dplyr::group_by(df, species) %>%
   width: 100%;
 }
 
-#kpdzahmhtl .gt_group_heading {
+#jmnjpsdyad .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2809,7 +2809,7 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#kpdzahmhtl .gt_empty_group_heading {
+#jmnjpsdyad .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2824,15 +2824,15 @@ dplyr::group_by(df, species) %>%
   vertical-align: middle;
 }
 
-#kpdzahmhtl .gt_from_md > :first-child {
+#jmnjpsdyad .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kpdzahmhtl .gt_from_md > :last-child {
+#jmnjpsdyad .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kpdzahmhtl .gt_row {
+#jmnjpsdyad .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2851,7 +2851,7 @@ dplyr::group_by(df, species) %>%
   overflow-x: hidden;
 }
 
-#kpdzahmhtl .gt_stub {
+#jmnjpsdyad .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2863,7 +2863,7 @@ dplyr::group_by(df, species) %>%
   padding-left: 12px;
 }
 
-#kpdzahmhtl .gt_summary_row {
+#jmnjpsdyad .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2873,7 +2873,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#kpdzahmhtl .gt_first_summary_row {
+#jmnjpsdyad .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2883,7 +2883,7 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_grand_summary_row {
+#jmnjpsdyad .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2893,7 +2893,7 @@ dplyr::group_by(df, species) %>%
   padding-right: 5px;
 }
 
-#kpdzahmhtl .gt_first_grand_summary_row {
+#jmnjpsdyad .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2903,11 +2903,11 @@ dplyr::group_by(df, species) %>%
   border-top-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_striped {
+#jmnjpsdyad .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kpdzahmhtl .gt_table_body {
+#jmnjpsdyad .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2916,7 +2916,7 @@ dplyr::group_by(df, species) %>%
   border-bottom-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_footnotes {
+#jmnjpsdyad .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2930,13 +2930,13 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_footnote {
+#jmnjpsdyad .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#kpdzahmhtl .gt_sourcenotes {
+#jmnjpsdyad .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2950,41 +2950,41 @@ dplyr::group_by(df, species) %>%
   border-right-color: #D3D3D3;
 }
 
-#kpdzahmhtl .gt_sourcenote {
+#jmnjpsdyad .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#kpdzahmhtl .gt_left {
+#jmnjpsdyad .gt_left {
   text-align: left;
 }
 
-#kpdzahmhtl .gt_center {
+#jmnjpsdyad .gt_center {
   text-align: center;
 }
 
-#kpdzahmhtl .gt_right {
+#jmnjpsdyad .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kpdzahmhtl .gt_font_normal {
+#jmnjpsdyad .gt_font_normal {
   font-weight: normal;
 }
 
-#kpdzahmhtl .gt_font_bold {
+#jmnjpsdyad .gt_font_bold {
   font-weight: bold;
 }
 
-#kpdzahmhtl .gt_font_italic {
+#jmnjpsdyad .gt_font_italic {
   font-style: italic;
 }
 
-#kpdzahmhtl .gt_super {
+#jmnjpsdyad .gt_super {
   font-size: 65%;
 }
 
-#kpdzahmhtl .gt_footnote_marks {
+#jmnjpsdyad .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -3052,3 +3052,3040 @@ dplyr::group_by(df, species) %>%
 
 ## Multiple Columns
 
+
+### Get the unique values in multiple columns
+
+```{=html}
+<div id="vvbghwxibm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#vvbghwxibm .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#vvbghwxibm .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#vvbghwxibm .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#vvbghwxibm .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#vvbghwxibm .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#vvbghwxibm .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#vvbghwxibm .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#vvbghwxibm .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#vvbghwxibm .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#vvbghwxibm .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#vvbghwxibm .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#vvbghwxibm .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#vvbghwxibm .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#vvbghwxibm .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#vvbghwxibm .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#vvbghwxibm .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#vvbghwxibm .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#vvbghwxibm .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#vvbghwxibm .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#vvbghwxibm .gt_left {
+  text-align: left;
+}
+
+#vvbghwxibm .gt_center {
+  text-align: center;
+}
+
+#vvbghwxibm .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#vvbghwxibm .gt_font_normal {
+  font-weight: normal;
+}
+
+#vvbghwxibm .gt_font_bold {
+  font-weight: bold;
+}
+
+#vvbghwxibm .gt_font_italic {
+  font-style: italic;
+}
+
+#vvbghwxibm .gt_super {
+  font-size: 65%;
+}
+
+#vvbghwxibm .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:500px;"/>
+    <col style="width:200px;"/>
+  </colgroup>
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"><strong>Description</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1"></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Method to get all unique values in multiple columns of a dataframe</td>
+<td class="gt_row gt_right"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+```{=html}
+<div id="rjnpvbqriu" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#rjnpvbqriu .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#rjnpvbqriu .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#rjnpvbqriu .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#rjnpvbqriu .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#rjnpvbqriu .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#rjnpvbqriu .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#rjnpvbqriu .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#rjnpvbqriu .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#rjnpvbqriu .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#rjnpvbqriu .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#rjnpvbqriu .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#rjnpvbqriu .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#rjnpvbqriu .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#rjnpvbqriu .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rjnpvbqriu .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#rjnpvbqriu .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#rjnpvbqriu .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#rjnpvbqriu .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#rjnpvbqriu .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#rjnpvbqriu .gt_left {
+  text-align: left;
+}
+
+#rjnpvbqriu .gt_center {
+  text-align: center;
+}
+
+#rjnpvbqriu .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#rjnpvbqriu .gt_font_normal {
+  font-weight: normal;
+}
+
+#rjnpvbqriu .gt_font_bold {
+  font-weight: bold;
+}
+
+#rjnpvbqriu .gt_font_italic {
+  font-style: italic;
+}
+
+#rjnpvbqriu .gt_super {
+  font-size: 65%;
+}
+
+#rjnpvbqriu .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:350px;"/>
+    <col style="width:350px;"/>
+  </colgroup>
+  <thead class="gt_header">
+    <tr>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_bottom_border" style>Ingredients</th>
+    </tr>
+    
+  </thead>
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Package</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_center"><div class='gt_from_md'><p>readr<br>dplyr</p>
+</div></td>
+<td class="gt_row gt_center"><div class='gt_from_md'><p>sample.csv</p>
+</div></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+</br>
+
+**Preparation**
+
+```r
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+
+```r
+package::function(data, column_name1, column_name2)
+```
+
+</br>
+
+**Actual Instructions**
+
+```r
+dplyr::distinct(df, species, type)
+```
+
+
+### Get the unique values and their frequency in multiple columns
+
+```{=html}
+<div id="erbmrizxib" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#erbmrizxib .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#erbmrizxib .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#erbmrizxib .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#erbmrizxib .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#erbmrizxib .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#erbmrizxib .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#erbmrizxib .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#erbmrizxib .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#erbmrizxib .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#erbmrizxib .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#erbmrizxib .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#erbmrizxib .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#erbmrizxib .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#erbmrizxib .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#erbmrizxib .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#erbmrizxib .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#erbmrizxib .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#erbmrizxib .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#erbmrizxib .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#erbmrizxib .gt_left {
+  text-align: left;
+}
+
+#erbmrizxib .gt_center {
+  text-align: center;
+}
+
+#erbmrizxib .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#erbmrizxib .gt_font_normal {
+  font-weight: normal;
+}
+
+#erbmrizxib .gt_font_bold {
+  font-weight: bold;
+}
+
+#erbmrizxib .gt_font_italic {
+  font-style: italic;
+}
+
+#erbmrizxib .gt_super {
+  font-size: 65%;
+}
+
+#erbmrizxib .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:500px;"/>
+    <col style="width:200px;"/>
+  </colgroup>
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"><strong>Description</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1"></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Method to get all unique values and their frequency in multiple columns of a dataframe</td>
+<td class="gt_row gt_right"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+```{=html}
+<div id="gxiybnofph" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#gxiybnofph .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#gxiybnofph .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#gxiybnofph .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#gxiybnofph .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#gxiybnofph .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#gxiybnofph .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#gxiybnofph .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#gxiybnofph .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#gxiybnofph .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#gxiybnofph .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#gxiybnofph .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#gxiybnofph .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#gxiybnofph .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#gxiybnofph .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gxiybnofph .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gxiybnofph .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#gxiybnofph .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#gxiybnofph .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#gxiybnofph .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#gxiybnofph .gt_left {
+  text-align: left;
+}
+
+#gxiybnofph .gt_center {
+  text-align: center;
+}
+
+#gxiybnofph .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#gxiybnofph .gt_font_normal {
+  font-weight: normal;
+}
+
+#gxiybnofph .gt_font_bold {
+  font-weight: bold;
+}
+
+#gxiybnofph .gt_font_italic {
+  font-style: italic;
+}
+
+#gxiybnofph .gt_super {
+  font-size: 65%;
+}
+
+#gxiybnofph .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:350px;"/>
+    <col style="width:350px;"/>
+  </colgroup>
+  <thead class="gt_header">
+    <tr>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_bottom_border" style>Ingredients</th>
+    </tr>
+    
+  </thead>
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Package</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_center"><div class='gt_from_md'><p>readr<br>dplyr</p>
+</div></td>
+<td class="gt_row gt_center"><div class='gt_from_md'><p>sample.csv</p>
+</div></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+</br>
+
+**Preparation**
+
+```r
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+
+```r
+package::function(data, column_name1, column_name2) %>%
+  package::function() %>%
+  package::function()
+```
+
+</br>
+
+**Actual Instructions**
+
+```r
+dplyr::distinct(df, species, type) %>%
+  dplyr::tally() %>%
+  dplyr::ungroup()
+```
+
+
+### Get the unique values and their frequency in multiple columns while ordering the smallest value in a column
+
+```{=html}
+<div id="sgfyjhaavi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#sgfyjhaavi .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#sgfyjhaavi .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#sgfyjhaavi .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#sgfyjhaavi .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#sgfyjhaavi .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#sgfyjhaavi .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#sgfyjhaavi .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#sgfyjhaavi .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#sgfyjhaavi .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#sgfyjhaavi .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#sgfyjhaavi .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#sgfyjhaavi .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#sgfyjhaavi .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#sgfyjhaavi .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#sgfyjhaavi .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#sgfyjhaavi .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#sgfyjhaavi .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#sgfyjhaavi .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#sgfyjhaavi .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#sgfyjhaavi .gt_left {
+  text-align: left;
+}
+
+#sgfyjhaavi .gt_center {
+  text-align: center;
+}
+
+#sgfyjhaavi .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#sgfyjhaavi .gt_font_normal {
+  font-weight: normal;
+}
+
+#sgfyjhaavi .gt_font_bold {
+  font-weight: bold;
+}
+
+#sgfyjhaavi .gt_font_italic {
+  font-style: italic;
+}
+
+#sgfyjhaavi .gt_super {
+  font-size: 65%;
+}
+
+#sgfyjhaavi .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:500px;"/>
+    <col style="width:200px;"/>
+  </colgroup>
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"><strong>Description</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1"></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Method to get all unique values and ordering their frequency from smallest to largest within a multiple columns of a dataframe</td>
+<td class="gt_row gt_right"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+```{=html}
+<div id="etgjrdqqon" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#etgjrdqqon .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#etgjrdqqon .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#etgjrdqqon .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#etgjrdqqon .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#etgjrdqqon .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#etgjrdqqon .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#etgjrdqqon .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#etgjrdqqon .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#etgjrdqqon .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#etgjrdqqon .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#etgjrdqqon .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#etgjrdqqon .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#etgjrdqqon .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#etgjrdqqon .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#etgjrdqqon .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#etgjrdqqon .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#etgjrdqqon .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#etgjrdqqon .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#etgjrdqqon .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#etgjrdqqon .gt_left {
+  text-align: left;
+}
+
+#etgjrdqqon .gt_center {
+  text-align: center;
+}
+
+#etgjrdqqon .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#etgjrdqqon .gt_font_normal {
+  font-weight: normal;
+}
+
+#etgjrdqqon .gt_font_bold {
+  font-weight: bold;
+}
+
+#etgjrdqqon .gt_font_italic {
+  font-style: italic;
+}
+
+#etgjrdqqon .gt_super {
+  font-size: 65%;
+}
+
+#etgjrdqqon .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:350px;"/>
+    <col style="width:350px;"/>
+  </colgroup>
+  <thead class="gt_header">
+    <tr>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_bottom_border" style>Ingredients</th>
+    </tr>
+    
+  </thead>
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Package</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_center"><div class='gt_from_md'><p>readr<br>dplyr</p>
+</div></td>
+<td class="gt_row gt_center"><div class='gt_from_md'><p>sample.csv</p>
+</div></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+</br>
+
+**Preparation**
+
+```r
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+
+```r
+package::function(data, column_name1, column_name2) %>%
+  package::function() %>%
+  package::function()
+```
+
+</br>
+
+**Actual Instructions**
+
+```r
+dplyr::distinct(df, species, type) %>%
+  dplyr::tally() %>%
+  dplyr::ungroup() %>%
+  dplyr::arrange()
+```
+
+
+### Get the unique values and their frequency in multiple columns while ordering the largest value in a column
+
+```{=html}
+<div id="jrowhsoxlv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#jrowhsoxlv .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#jrowhsoxlv .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#jrowhsoxlv .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#jrowhsoxlv .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #153331;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#jrowhsoxlv .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#jrowhsoxlv .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#jrowhsoxlv .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#jrowhsoxlv .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#jrowhsoxlv .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#jrowhsoxlv .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#jrowhsoxlv .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#jrowhsoxlv .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#jrowhsoxlv .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#jrowhsoxlv .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#jrowhsoxlv .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#jrowhsoxlv .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#jrowhsoxlv .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#jrowhsoxlv .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#jrowhsoxlv .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#jrowhsoxlv .gt_left {
+  text-align: left;
+}
+
+#jrowhsoxlv .gt_center {
+  text-align: center;
+}
+
+#jrowhsoxlv .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#jrowhsoxlv .gt_font_normal {
+  font-weight: normal;
+}
+
+#jrowhsoxlv .gt_font_bold {
+  font-weight: bold;
+}
+
+#jrowhsoxlv .gt_font_italic {
+  font-style: italic;
+}
+
+#jrowhsoxlv .gt_super {
+  font-size: 65%;
+}
+
+#jrowhsoxlv .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:500px;"/>
+    <col style="width:200px;"/>
+  </colgroup>
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"><strong>Description</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1"></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Method to get all unique values and ordering their frequency from largest to smallest within a single column of a dataframe</td>
+<td class="gt_row gt_right"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#A62014;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:2em;width:2em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#9FC2B9;overflow:visible;position:relative;"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"/></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+```{=html}
+<div id="vpluhgsjaa" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>html {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#vpluhgsjaa .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_heading {
+  background-color: #153331;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#vpluhgsjaa .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#vpluhgsjaa .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#vpluhgsjaa .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #1E6E6E;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#vpluhgsjaa .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#vpluhgsjaa .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#vpluhgsjaa .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#vpluhgsjaa .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#vpluhgsjaa .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#vpluhgsjaa .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#vpluhgsjaa .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#vpluhgsjaa .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#vpluhgsjaa .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#vpluhgsjaa .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#vpluhgsjaa .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#vpluhgsjaa .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#vpluhgsjaa .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#vpluhgsjaa .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#vpluhgsjaa .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#vpluhgsjaa .gt_left {
+  text-align: left;
+}
+
+#vpluhgsjaa .gt_center {
+  text-align: center;
+}
+
+#vpluhgsjaa .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#vpluhgsjaa .gt_font_normal {
+  font-weight: normal;
+}
+
+#vpluhgsjaa .gt_font_bold {
+  font-weight: bold;
+}
+
+#vpluhgsjaa .gt_font_italic {
+  font-style: italic;
+}
+
+#vpluhgsjaa .gt_super {
+  font-size: 65%;
+}
+
+#vpluhgsjaa .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+<table class="gt_table" style="table-layout: fixed;; width: 0px">
+  <colgroup>
+    <col style="width:350px;"/>
+    <col style="width:350px;"/>
+  </colgroup>
+  <thead class="gt_header">
+    <tr>
+      <th colspan="2" class="gt_heading gt_title gt_font_normal gt_bottom_border" style>Ingredients</th>
+    </tr>
+    
+  </thead>
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Package</strong></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1"><strong>Data</strong></th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_center"><div class='gt_from_md'><p>readr<br>dplyr</p>
+</div></td>
+<td class="gt_row gt_center"><div class='gt_from_md'><p>sample.csv</p>
+</div></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+```
+
+</br>
+
+**Preparation**
+
+```r
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+
+```r
+package::function(data, column_name1, column_name2) %>%
+  package::function() %>%
+  package::function(function(n))
+```
+
+</br>
+
+**Actual Instructions**
+
+```r
+dplyr::distinct(df, species, type) %>%
+  dplyr::tally() %>%
+  dplyr::ungroup() %>%
+  dplyr::arrange(desc(n))
+```

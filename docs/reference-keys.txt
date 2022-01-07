@@ -67,7 +67,6 @@ filter-single-column-by-range-of-numeric-values
 filter-numeric-data-larger-than
 filter-numeric-data-smaller-than
 filter-multiple-columns
-filter-multiple-columns-1
 filter-when-multiple-character-values-not-in-a-column
 combining-commands
 select-specific-columns-and-filter-column-by-character-value
@@ -161,3 +160,18 @@ get-the-unique-values-and-their-frequency-within-a-column
 get-the-unique-values-and-their-frequency-within-a-column-while-ordering-from-the-smallest-value
 get-the-unique-values-and-their-frequency-within-a-column-while-ordering-from-the-largest-value
 multiple-columns
+get-the-unique-values-in-multiple-columns
+get-the-unique-values-and-their-frequency-in-multiple-columns
+get-the-unique-values-and-their-frequency-in-multiple-columns-while-ordering-the-smallest-value-in-a-column
+get-the-unique-values-and-their-frequency-in-multiple-columns-while-ordering-the-largest-value-in-a-column
+descriptive-analysis
+single-column-1
+find-minimum-value-in-a-numeric-column
+find-maximum-value-in-a-numeric-column
+calculate-mean-value-in-a-numeric-column
+calculate-median-value-in-a-numeric-column
+calculate-standard-deviation-in-a-numeric-column
+calculate-sum-of-a-numeric-column
+round-calculated-mean-value-in-a-numeric-column
+calculate-multiple-descriptive-statistics-of-a-numeric-column
+multiple-columns-1

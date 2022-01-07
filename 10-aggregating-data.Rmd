@@ -209,3 +209,128 @@ dplyr::group_by(df, species) %>%
 
 ## Multiple Columns
 
+
+### Get the unique values in multiple columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(126)
+ingredients_table(126)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1, column_name2)
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::distinct(df, species, type)
+```
+
+
+### Get the unique values and their frequency in multiple columns
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(127)
+ingredients_table(127)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1, column_name2) %>%
+  package::function() %>%
+  package::function()
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::distinct(df, species, type) %>%
+  dplyr::tally() %>%
+  dplyr::ungroup()
+```
+
+
+### Get the unique values and their frequency in multiple columns while ordering the smallest value in a column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(128)
+ingredients_table(128)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1, column_name2) %>%
+  package::function() %>%
+  package::function()
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::distinct(df, species, type) %>%
+  dplyr::tally() %>%
+  dplyr::ungroup() %>%
+  dplyr::arrange()
+```
+
+
+### Get the unique values and their frequency in multiple columns while ordering the largest value in a column
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+description_table(129)
+ingredients_table(129)
+```
+
+</br>
+
+**Preparation**
+```{r eval=FALSE, include=TRUE}
+df <- readr::read_csv("C:/data/sample.csv")
+```
+
+</br>
+
+**Sample Instructions**
+```{r eval=FALSE, include=TRUE}
+package::function(data, column_name1, column_name2) %>%
+  package::function() %>%
+  package::function(function(n))
+```
+
+</br>
+
+**Actual Instructions**
+```{r eval=FALSE, include=TRUE}
+dplyr::distinct(df, species, type) %>%
+  dplyr::tally() %>%
+  dplyr::ungroup() %>%
+  dplyr::arrange(desc(n))
+```

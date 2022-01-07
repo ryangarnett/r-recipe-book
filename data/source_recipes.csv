@@ -124,6 +124,18 @@ id,section,chapter,recipe_group,recipe,description,difficulty,packages,data
 123,Lunch,Aggregating Data,Single Column,Get the unique values and their frequency within a column,Method to get all unique values and their frequency within a single column of a dataframe,1,readr dplyr,sample.csv
 124,Lunch,Aggregating Data,Single Column,Get the unique values and their frequency within a column while ordering from the smallest value,Method to get all unique values and ordering their frequency from smallest to largest within a single column of a dataframe,1,readr dplyr,sample.csv
 125,Lunch,Aggregating Data,Single Column,Get the unique values and their frequency within a column while ordering from the largest value,Method to get all unique values and ordering their frequency from largest to smallest within a single column of a dataframe,1,readr dplyr,sample.csv
-126,,,,,,,,
-127,,,,,,,,
-128,,,,,,,,
+126,Lunch,Aggregating Data,Multiple Columns,Get the unique values in multiple columns,Method to get all unique values in multiple columns of a dataframe,1,readr dplyr,sample.csv
+127,Lunch,Aggregating Data,Multiple Columns,Get the unique values and their frequency in multiple columns,Method to get all unique values and their frequency in multiple columns of a dataframe,1,readr dplyr,sample.csv
+128,Lunch,Aggregating Data,Multiple Columns,Get the unique values and their frequency in multiple columns while ordering the smallest value in a column,Method to get all unique values and ordering their frequency from smallest to largest within a multiple columns of a dataframe,1,readr dplyr,sample.csv
+129,Lunch,Aggregating Data,Multiple Columns,Get the unique values and their frequency in multiple columns while ordering the largest value in a column,Method to get all unique values and ordering their frequency from largest to smallest within a single column of a dataframe,1,readr dplyr,sample.csv
+130,Lunch,Descriptive Analysis,Single Column,Find minimum value in a numeric column,Method to find the minimum value of a numeric column in a dataframe,1,readr dplyr,sample.csv
+131,Lunch,Descriptive Analysis,Single Column,Find maximum value in a numeric column,Method to find the maximum value of a numeric column in a dataframe,1,readr dplyr,sample.csv
+132,Lunch,Descriptive Analysis,Single Column,Calculate mean value in a numeric column,Method to calculate the mean value of a numeric column in a dataframe,1,readr dplyr,sample.csv
+133,Lunch,Descriptive Analysis,Single Column,Calculate median value in a numeric column,Method to calculate the median value of a numeric column in a dataframe,1,readr dplyr,sample.csv
+134,Lunch,Descriptive Analysis,Single Column,Calculate standard deviation in a numeric column,Method to calculate the standard deviation of a numeric column in a dataframe,1,readr dplyr,sample.csv
+135,Lunch,Descriptive Analysis,Single Column,Round calculated mean value in a numeric column,Method to calculate the mean value of a numeric column and round to one decimal place in a dataframe,1,readr dplyr,sample.csv
+136,Lunch,Descriptive Analysis,Single Column,Calculate multiple descriptive statistics of a numeric column,Method to calculate multiple descriptive statistics from a numeric column in a dataframe,1,readr dplyr,sample.csv
+137,Lunch,Descriptive Analysis,Single Column,Calculate sum of a numeric column,Method to calculate the total sum of a numeric column in a dataframe,1,readr dplyr,sample.csv
+138,,,,,,,,
+139,,,,,,,,
+140,,,,,,,,

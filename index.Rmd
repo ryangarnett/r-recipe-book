@@ -186,7 +186,20 @@ I love spicy food; tacos, burritos, chili, curry, hot sauce, almost anything, an
 </br>
 
 ## Data Used within the Book
-TBD
+**dataZONE** property and municipal datasets from across Nova Scotia
+
+Four datasets related to Nova Scotia properties will be used throughout the book:
+
+1. residential dwelling characteristics
+2. assessed value and taxable assessed value history
+3. parcel land sizes
+4. parcel sales history
+
+</br>
+
+I have selected a sub sample for each of the four datasets to reduce the size of the data, which is available [here](https://github.com/ryangarnett/r-recipe-book/tree/main/data)
+
+The full datasets, including others, can be accessed from the [dataZONE data catalog](https://www.thedatazone.ca/browse)
 
 </br>
 </br>
